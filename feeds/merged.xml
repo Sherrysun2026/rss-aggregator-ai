@@ -3,35 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Thu, 26 Mar 2026 23:00:30 +0000</lastBuildDate>
-    <item>
-      <title>There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos</title>
-      <link>https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/</link>
-      <description>[WIRED AI] With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.</description>
-      <pubDate>Wed, 25 Mar 2026 18:49:40 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage</title>
-      <link>https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/</link>
-      <description>[WIRED AI] In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.</description>
-      <pubDate>Wed, 25 Mar 2026 18:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Apple brings in age checks for UK iPhone users</title>
-      <link>https://www.bbc.com/news/articles/c20qwz9xzr9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Customers who do not confirm how old they are or are underage will have web content filters turned on automatically.</description>
-      <pubDate>Wed, 25 Mar 2026 17:41:20 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>OpenAI Enters Its Focus Era by Killing Sora</title>
-      <link>https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/</link>
-      <description>[WIRED AI] As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.</description>
-      <pubDate>Wed, 25 Mar 2026 14:57:45 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 23:47:07 +0000</lastBuildDate>
     <item>
       <title>Salesforce Agentforce: What you need to know</title>
       <link>https://martech.org/salesforce-agentforce-what-you-need-to-know/</link>
@@ -55,13 +27,6 @@ The post Salesforce Agentforce: What you need to know appeared first on MarTech.
       <source>Business Times</source>
     </item>
     <item>
-      <title>OpenAI closes Sora video-making app and cancels $1bn Disney deal</title>
-      <link>https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.</description>
-      <pubDate>Wed, 25 Mar 2026 04:48:56 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
       <title>Athena signals Zeta’s push into AI-driven marketing systems</title>
       <link>https://martech.org/athena-signals-zetas-push-into-ai-driven-marketing-systems/</link>
       <description>[MarTech] Zeta is betting that tighter integration of data and AI will reduce the gap between insight and action.
@@ -78,39 +43,18 @@ The post Why AI personalization comes with strict limits appeared first on MarTe
       <source>MarTech</source>
     </item>
     <item>
-      <title>OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks</title>
-      <link>https://www.channelnewsasia.com/business/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks-6019941</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 26 Mar 2026 22:26:17 +0000</pubDate>
-      <source>CNA Tech</source>
+      <title>David Sacks is no longer the White House AI and Crypto Czar</title>
+      <link>https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar</link>
+      <description>[The Verge AI] David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Don</description>
+      <pubDate>Thu, 26 Mar 2026 23:40:22 +0000</pubDate>
+      <source>The Verge AI</source>
     </item>
     <item>
-      <title>T-Rex files for leveraged SpaceX, Anthropic ETFs ahead of anticipated IPOs</title>
-      <link>https://www.channelnewsasia.com/business/t-rex-files-leveraged-spacex-anthropic-etfs-ahead-anticipated-ipos-6019936</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 26 Mar 2026 22:20:54 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Nasdaq confirms correction, Wall Street slumps on Middle East uncertainty</title>
-      <link>https://www.straitstimes.com/business/companies-markets/nasdaq-confirms-correction-wall-street-slumps-on-middle-east-uncertainty</link>
-      <description>[Straits Times] March 26 marked the biggest one-day decline for the Nasdaq and the S&amp;amp;P 500 since Jan 20.</description>
-      <pubDate>Thu, 26 Mar 2026 22:02:24 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Commentary: Gold is seen as a ‘safe haven’ in uncertain times. Why is it crashing amid a war?</title>
-      <link>https://www.channelnewsasia.com/commentary/gold-prices-safe-haven-iran-war-investing-6018181</link>
-      <description>[CNA Tech] Over the past few months of geopolitical chaos and market panic, gold has moved more like a roller coaster than a steady ship at anchor, says a finance professor.</description>
-      <pubDate>Thu, 26 Mar 2026 21:59:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Wikipedia cracks down on the use of AI in article writing</title>
-      <link>https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/</link>
-      <description>[TechCrunch AI] The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.</description>
-      <pubDate>Thu, 26 Mar 2026 21:50:10 +0000</pubDate>
-      <source>TechCrunch AI</source>
+      <title>Anthropic Supply-Chain-Risk Designation Halted by Judge</title>
+      <link>https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/</link>
+      <description>[WIRED AI] A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.</description>
+      <pubDate>Thu, 26 Mar 2026 23:33:05 +0000</pubDate>
+      <source>WIRED AI</source>
     </item>
     <item>
       <title>Google is making it easier to import another AI’s memory into Gemini</title>
@@ -118,13 +62,6 @@ The post Why AI personalization comes with strict limits appeared first on MarTe
       <description>[The Verge AI] After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new &quot;Import Memory&quot; and &quot;Import Chat History&quot; features on desktop that can help users quickly copy over everything their current AI already knows about them. To use the &quot;Impo</description>
       <pubDate>Thu, 26 Mar 2026 21:44:37 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Netflix raises subscription prices across all plans in US</title>
-      <link>https://www.channelnewsasia.com/business/netflix-raises-subscription-prices-across-all-plans-in-us-6019871</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 26 Mar 2026 21:35:12 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Apple will reportedly allow other AI chatbots to plug into Siri</title>
@@ -141,48 +78,6 @@ The post Why AI personalization comes with strict limits appeared first on MarTe
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>EU reaches deal to fine online platforms importing products deemed unsafe</title>
-      <link>https://www.channelnewsasia.com/business/eu-reaches-deal-fine-online-platforms-importing-products-deemed-unsafe-6019746</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 26 Mar 2026 20:10:27 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>More than half of S’pore firms are advancing AI at scale as adoption accelerates in region, survey shows</title>
-      <link>https://www.straitstimes.com/business/ai-adoption-southeast-asia-progress-challenges-edb-report</link>
-      <description>[Straits Times] Firms across South-east Asia are moving beyond artificial intelligence trials, with skills gaps emerging as a key hurdle.</description>
-      <pubDate>Thu, 26 Mar 2026 20:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Stressed US grid forcing data centers to get more flexible</title>
-      <link>https://www.channelnewsasia.com/business/stressed-us-grid-forcing-data-centers-get-more-flexible-6019686</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 26 Mar 2026 19:40:34 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s &amp;#8216;live&amp;#8217; AI search assistant can handle conversations in dozens more languages</title>
-      <link>https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion</link>
-      <description>[The Verge AI] Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday. Search Live rolled out</description>
-      <pubDate>Thu, 26 Mar 2026 18:47:51 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI abandons yet another side quest: ChatGPT’s erotic mode</title>
-      <link>https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/</link>
-      <description>[TechCrunch AI] It's only the latest of several side projects that the AI startup has ditched over the past week.</description>
-      <pubDate>Thu, 26 Mar 2026 18:34:02 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Data centers get ready — the Senate wants to see your power bills</title>
-      <link>https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/</link>
-      <description>[TechCrunch AI] Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.</description>
-      <pubDate>Thu, 26 Mar 2026 18:23:31 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Meet the Tech Reporters Using AI to Help Write and Edit Their Stories</title>
       <link>https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/</link>
       <description>[WIRED AI] Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?</description>
@@ -197,66 +92,12 @@ The post Why AI personalization comes with strict limits appeared first on MarTe
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Meta gets ready to launch two new Ray-Ban AI glasses</title>
-      <link>https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses</link>
-      <description>[The Verge AI] This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. </description>
-      <pubDate>Thu, 26 Mar 2026 16:30:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>The latest AI-powered martech news and releases</title>
       <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
       <description>[MarTech] As AI leaders scramble for viable business models, the moves from OpenAI and Meta look less strategic and more like panic under pressure.
 The post The latest AI-powered martech news and releases appeared first on MarTech.</description>
       <pubDate>Thu, 26 Mar 2026 16:21:22 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut</title>
-      <link>https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/</link>
-      <description>[TechCrunch AI] The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.</description>
-      <pubDate>Thu, 26 Mar 2026 15:25:13 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Wikipedia bans AI-generated articles</title>
-      <link>https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban</link>
-      <description>[The Verge AI] Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate &quot;several of Wikipedia's core content policies&quot; as the reason for the ban. The change applies to th</description>
-      <pubDate>Thu, 26 Mar 2026 15:02:52 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>浙大博士造出「机器人界的F1」：不卷脑子卷身体，要比博尔特跑得快</title>
-      <link>https://36kr.com/p/3739769424593154?f=rss</link>
-      <description>[36氪] &amp;nbsp;
-  最大的瓶颈不在算法，而在硬件的响应能力。
-  
-  &amp;nbsp;
-  撰文&amp;nbsp;|&amp;nbsp;巴芮
-  编辑 | 薇薇子
-  封面图源&amp;nbsp;|&amp;nbsp;受访者提供
-  镜识科技仿佛人形机器人行业里的&quot;反共识之王&quot;。
-  这家2024年5月成立的公司，在不到两年的时间里，做了一连串与行业主流截然相反的选择——
-  别人已经在追求让机器人变聪明，他们却专注于让机器人跑得快；
-  小人形受资本偏爱又出货快，但他们偏要做全尺寸；
-  明知选VLA（视觉-语言-动作模型）路线能更好融资，也更指向终局，但他们选遥操作；
-  别人挤着要送机器人进工厂和家庭，但他们却想把机器人</description>
-      <pubDate>Thu, 26 Mar 2026 14:33:08 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems</title>
-      <link>https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/</link>
-      <description>[TechCrunch AI] Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.</description>
-      <pubDate>Thu, 26 Mar 2026 13:41:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Cohere launches an open source voice model specifically for transcription</title>
-      <link>https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/</link>
-      <description>[TechCrunch AI] Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.</description>
-      <pubDate>Thu, 26 Mar 2026 13:30:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Data built modern marketing, but AI is rewriting the rules</title>
@@ -275,174 +116,10 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
       <source>MarTech</source>
     </item>
     <item>
-      <title>StoReel获3400万美元融资：用AI重构故事生产，打造工具社区与平台双轮驱动的内容生态｜涌现新项目</title>
-      <link>https://36kr.com/p/3739636054999040?f=rss</link>
-      <description>[36氪] 文｜王欣逸
-  编辑｜王毓婵
-  一句话介绍
-  StoReel是一家全球化AI原生娱乐内容平台，核心产品分别是AI剧集平台StoReel App以及AI剧集工具社区StoReel Canvas，致力于打造系列化剧集内容的创作、发行和变现体系。
-  公司由海外市场短剧赛道转化而来，自2024年底至2025年初开始系统性地探索AI在短剧生产和内容创作中的应用。
-  融资进展
-  近期，StoReel已获得3400万美元增长资金支持，本轮融资包括由Play Ventures领投，T-Accelerate Capital、Tirta Ventures和VRF等共同参与的900万美元Seed轮股权融资</description>
-      <pubDate>Thu, 26 Mar 2026 12:14:29 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议</title>
-      <link>https://36kr.com/p/3739460842078470?f=rss</link>
-      <description>[36氪] 大公司：
-  三星、SK等韩国企业实施车辆限行等节能措施，响应政府节能政策
-  据报道，以三星和SK为首的韩国各大企业集团已推出一系列节能措施，包括关闭办公区照明以及对驾车上班的员工实施车辆限行等，以响应韩国政府的节能政策。三星宣布从26日起在所有国内业务场所实施车辆限行制度，为期十天，该制度规定车牌尾号与日期尾号相同的车辆限制使用停车场，但电动车、氢燃料车、孕妇和残疾人车辆除外。（财联社）
-  北京人形机器人创新中心发布开源开放生态计划
-  3月26日，在2026中关村论坛年会上，北京人形机器人创新中心CTO唐剑宣布，公司启动���身智能开源开放生态建设计划，将携手合作伙伴全力打造行业第一的</description>
-      <pubDate>Thu, 26 Mar 2026 12:00:31 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Senators Demand to Know How Much Energy Data Centers Use</title>
-      <link>https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/</link>
-      <description>[WIRED AI] In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.</description>
-      <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>52天75次发布，A司这场“产品大爆炸”太猛烈了</title>
-      <link>https://www.tmtpost.com/7930397.html</link>
-      <description>[钛媒体] Anthropic正在用线束完成AI闭环，产品只会越来越快</description>
-      <pubDate>Thu, 26 Mar 2026 11:42:52 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>36氪官方Skill上线ClawHub，解锁OpenClaw新技能</title>
-      <link>https://36kr.com/p/3739662958854150?f=rss</link>
-      <description>[36氪] 36氪已正式入驻ClawHub平台，重磅推出三款官方Skill，专为OpenClaw用户打造，无需繁琐操作，一键安装即可让你的OpenClaw升级为新经济信息中枢，轻松抢占信息先机。
-  OpenClaw的强大，源于其可无限扩展的Skill生态——这些“技能包”就像给AI助手装上了专属外挂，让原本强大的智能体拥有更精准、更高效的专项能力。而ClawHub作为OpenClaw官方技能商店，汇聚了海量优质技能，是用户获取安全、可信扩展能力的核心阵地。此次36氪带来的三款官方Skill，依托36氪专业的内容生态与数据资源，精准匹配新经济参与者的核心信息需求，让每一位OpenClaw用户都能便捷获取高</description>
-      <pubDate>Thu, 26 Mar 2026 11:28:34 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>AI首次进入微信首页，Clawbot想在你的工作流里占座</title>
-      <link>https://36kr.com/p/3739641264177155?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;肖思佳
-  编辑&amp;nbsp;|&amp;nbsp;乔芊
-  2026年3月，或许可以被命名为“互联网龙虾月”。
-  年前由OpenClaw引发的热潮，在春节过后不仅没有降温，反而愈演愈烈。进入3月，多家互联网与科技公司，要么推出自有“龙虾”产品，要么开放接口加速接入。连一向谨慎克制的腾讯微信也首次下场，在首页推出插件Clawbot，作为各类“龙虾”产品的接入通道入口。
-  尽管目前Clawbot的技术能力，仍存在诸多不足——例如无法主动推送消息、Markdown显示效果不佳、电脑端缺乏插件入口等等，甚至有用户直言它“只是把OpenClaw搬进了微信，没有解决任何新的问题”</description>
-      <pubDate>Thu, 26 Mar 2026 10:41:30 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young</title>
-      <link>https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/</link>
-      <description>[WIRED AI] AI companion platforms like OhChat and SinfulX are offering adult creators digital twins, who are always at their peak and stay monetizing.</description>
-      <pubDate>Thu, 26 Mar 2026 10:30:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Singapore stocks falter in line with regional markets, STI down 0.3%</title>
-      <link>https://www.straitstimes.com/business/companies-markets/singapore-stocks-falter-on-march-26-sti-falls-0-3</link>
-      <description>[Straits Times] Across the broader market, gainers trailed losers 230 to 349.</description>
-      <pubDate>Thu, 26 Mar 2026 10:30:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>爽文开局、被告收尾：“一人剧组”的富贵险中求？</title>
-      <link>https://www.tmtpost.com/7930227.html</link>
-      <description>[钛媒体] 你靠AI当导演，AI让你当被告</description>
-      <pubDate>Thu, 26 Mar 2026 10:10:48 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>雷军退场，金山云终于靠AI赚钱了</title>
-      <link>https://www.tmtpost.com/7930196.html</link>
-      <description>[钛媒体] 不再靠“信仰”充值？</description>
-      <pubDate>Thu, 26 Mar 2026 10:08:15 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>23万大厂员工被AI替代，为何一半公司又把人请回？</title>
-      <link>https://www.tmtpost.com/7930199.html</link>
-      <description>[钛媒体] 这种“裁了又招”的现象，被行业称为“回旋镖”</description>
-      <pubDate>Thu, 26 Mar 2026 10:08:13 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial</title>
-      <link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.</description>
-      <pubDate>Thu, 26 Mar 2026 09:43:25 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Sora落幕，Seedance、可灵走上分岔路</title>
-      <link>https://www.tmtpost.com/7929891.html</link>
-      <description>[钛媒体] Sora的落幕，在撕碎AI视频赛道的技术神话的同时，也让行业真正回归商业与产业的本质</description>
-      <pubDate>Thu, 26 Mar 2026 09:42:35 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>英伟达23人梦之队，让AI用7天干翻了自己的GPU专家</title>
-      <link>https://www.tmtpost.com/7930177.html</link>
-      <description>[钛媒体] 7天连续运行，探索500+方向，生成10万行代码——让AI自己写代码、自己进化。</description>
-      <pubDate>Thu, 26 Mar 2026 09:41:32 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Keppel banking on energy transition, AI for future growth: CEO</title>
-      <link>https://www.straitstimes.com/business/companies-markets/keppel-is-banking-on-energy-transition-ai-for-future-growth-ceo</link>
-      <description>[Straits Times] The company said it will ride on future demand for clean energy and digital infrastructure.</description>
-      <pubDate>Thu, 26 Mar 2026 09:40:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?</title>
       <link>https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.</description>
       <pubDate>Thu, 26 Mar 2026 09:37:57 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>AI demand shielding China’s booming trade from Iran war shocks</title>
-      <link>https://www.straitstimes.com/business/economy/ai-demand-shielding-chinas-booming-trade-from-iran-war-shocks</link>
-      <description>[Straits Times] Strong global demand driven by investments in data centres, power equipment bolstering China's trade.</description>
-      <pubDate>Thu, 26 Mar 2026 07:34:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>S’pore factory output sees surprise fall in Feb; rising costs, disruption from Iran war darken outlook</title>
-      <link>https://www.straitstimes.com/business/economy/singapore-factory-output-surprises-with-0-1-drop-in-february-though-electronics-maintains-growth</link>
-      <description>[Straits Times] Electronics was the only sector that recorded output growth, thanks to AI-led demand.</description>
-      <pubDate>Thu, 26 Mar 2026 05:23:44 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>拓竹招人！SHEIN招人！10+好公司一起招人！｜人才留言板第二期</title>
-      <link>https://36kr.com/p/3738062628962563?f=rss</link>
-      <description>[36氪] 图源:36kr
-  每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、半导体等领域，帮你找到下一个职业爆发点。
-  &amp;nbsp;本期合作企业：国资背景 AI、上市科技龙头、全球独角兽、前沿硬科技新锐｜B 轮及以上占比超 60%
-  
-  &amp;nbsp;&amp;nbsp;
-  本期亮点速览
-  
-  图源:36kr
-  
-  &amp;nbsp; &amp;nbsp;
-  &amp;nbsp;精选岗位
-  | 中城交科技 · 天使轮 · 交通大模型
-  一句话卖点：
-  上海首家国资背景交通垂类大模型公司，千亿级数据资产，双引擎技术体系
-  地点：北京/上海
-  招聘职位：
-  后端研发工程师（</description>
-      <pubDate>Thu, 26 Mar 2026 03:00:00 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Parents should monitor children '24/7' on Roblox, says developer</title>
-      <link>https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe.</description>
-      <pubDate>Thu, 26 Mar 2026 00:31:33 +0000</pubDate>
       <source>BBC Technology</source>
     </item>
     <item>
@@ -453,18 +130,322 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
       <source>Business Times</source>
     </item>
     <item>
-      <title>Unitree plans 4.2 billion yuan Shanghai IPO, testing interest in humanoid robots</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/startups/unitree-plans-4-2-billion-yuan-shanghai-ipo-testing-interest-humanoid-robots</link>
-      <description>[Business Times] IPO is one of China’s biggest domestic tech listings in years</description>
-      <pubDate>Fri, 20 Mar 2026 11:27:08 +0000</pubDate>
+      <title>China’s AI boom is changing the game for equities investors</title>
+      <link>https://www.straitstimes.com/business/chinas-ai-boom-is-changing-the-game-for-equities-investors</link>
+      <description>[Straits Times] An analyst recommends the need for broad-based diversification across Asia to capture opportunities and manage risk.</description>
+      <pubDate>Fri, 27 Mar 2026 23:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>AI Research Is Getting Harder to Separate From Geopolitics</title>
+      <link>https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/</link>
+      <description>[WIRED AI] A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.</description>
+      <pubDate>Fri, 27 Mar 2026 21:46:39 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO</title>
+      <link>https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/</link>
+      <description>[TechCrunch AI] Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.</description>
+      <pubDate>Fri, 27 Mar 2026 21:44:45 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>BYD's annual profit drops for first time in four years as price war hurts margins</title>
+      <link>https://www.channelnewsasia.com/world/byd-energy-electric-vehicle-car-chuanfu-6022296</link>
+      <description>[CNA Tech] BYD's net profit fell 19 per cent to 32.6 billion yuan (US$4.72 billion), with chairman Wang Chuanfu saying competition has reached &quot;fever pitch&quot;.</description>
+      <pubDate>Fri, 27 Mar 2026 20:15:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO</title>
+      <link>https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/</link>
+      <description>[TechCrunch AI] SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.</description>
+      <pubDate>Fri, 27 Mar 2026 19:11:28 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>The latest in data centers, AI, and energy</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
+      <description>[The Verge AI] Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&amp;#160;</description>
+      <pubDate>Fri, 27 Mar 2026 18:35:53 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Apple hires ex-Google executive to head AI marketing amid push to improve Siri</title>
+      <link>https://www.channelnewsasia.com/business/apple-hires-ex-google-executive-head-ai-marketing-amid-push-improve-siri-6022091</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 27 Mar 2026 17:41:59 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>EU Commission web platform hit by cyber-attack on March 24</title>
+      <link>https://www.channelnewsasia.com/business/eu-commission-web-platform-hit-cyber-attack-march-24-6022056</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 27 Mar 2026 17:09:56 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>PS5 price hiked by £90 due to global 'pressures'</title>
+      <link>https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The changes will see the recommended retail price of the PS5 rise from £479.99 to £569.99 in the UK.</description>
+      <pubDate>Fri, 27 Mar 2026 16:07:08 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?</title>
+      <link>https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/</link>
+      <description>[TechCrunch AI] When an 82-year-old Kentucky woman was&amp;#160;offered $26 million&amp;#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&amp;#160;2,000 acres&amp;#160;nearby anyway, but as AI infrastructure stretches further into the real world,&amp;#160;the</description>
+      <pubDate>Fri, 27 Mar 2026 15:40:19 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Apple Still Plans to Sell iPhones When It Turns 100</title>
+      <link>https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/</link>
+      <description>[WIRED AI] As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.</description>
+      <pubDate>Fri, 27 Mar 2026 15:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Utility Entergy says revised Meta data-center deal to deliver higher customer savings</title>
+      <link>https://www.channelnewsasia.com/business/utility-entergy-says-revised-meta-data-center-deal-deliver-higher-customer-savings-6021736</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 27 Mar 2026 14:29:08 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>A股上市3年后又拟赴港IPO，拆解12倍牛股源杰科技的资本阳谋</title>
+      <link>https://www.tmtpost.com/7932589.html</link>
+      <description>[钛媒体] 495倍市盈率的千元股能站稳？</description>
+      <pubDate>Fri, 27 Mar 2026 13:49:53 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Sony to hike PlayStation 5 prices again as memory chip costs surge</title>
+      <link>https://www.channelnewsasia.com/business/sony-hike-playstation-5-prices-again-memory-chip-costs-surge-6021646</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 27 Mar 2026 13:42:02 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>OpenAI shuts down Sora while Meta gets shut out in court</title>
+      <link>https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/</link>
+      <description>[TechCrunch AI] When an 82-year-old Kentucky woman was&amp;#160;offered $26 million&amp;#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&amp;#160;2,000 acres&amp;#160;nearby anyway, but as AI infrastructure stretches further into the real world,&amp;#160;the</description>
+      <pubDate>Fri, 27 Mar 2026 13:30:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Two fund managers tapped for new $1.5b Anchor Fund tranche to boost Singapore’s IPO pipeline</title>
+      <link>https://www.straitstimes.com/business/two-fund-managers-tapped-for-new-1-5b-anchor-fund-tranche-to-boost-singapores-ipo-pipeline</link>
+      <description>[Straits Times] The Ministry of Trade and Industry and Temasek have appointed Fullerton Fund Management and 65 Equity Partners.</description>
+      <pubDate>Fri, 27 Mar 2026 12:55:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>等在500万AI缺口外的年轻人</title>
+      <link>https://www.tmtpost.com/7930370.html</link>
+      <description>[钛媒体] 企业需要工程能力，高校却仍以论文和考试成绩评价学生。</description>
+      <pubDate>Fri, 27 Mar 2026 12:06:30 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人</title>
+      <link>https://36kr.com/p/3737878513844224?f=rss</link>
+      <description>[36氪] 大公司：
+  日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年
+  日本航天器初创企业ispace周五表示，在两次登月着陆器任务失败后，公司进行战略调整，将把一项由美国政府资助的月球探测任务再度推迟至2030年，并裁减全球员工。此次公告凸显出该企业前景不明朗。当前美国正联合商业及国际伙伴重组太空任务。（新浪财经）
+  菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议
+  36氪获悉，今日菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议。菜鸟将应用其数字供应链科技、仓储自动化技术，以及海外仓储网络运营经验，全力支持CP AXTRA 在泰国及东</description>
+      <pubDate>Fri, 27 Mar 2026 11:48:29 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>More Singapore customers buy Dyson’s AI-powered vacuum cleaners, pushing operating profit past $1b</title>
+      <link>https://www.straitstimes.com/business/more-singapore-customers-buy-dysons-ai-powered-vacuum-cleaners-pushing-operating-profit-past-1b</link>
+      <description>[Straits Times] Dyson also launched 13 new products in 2025, the most in a single year.</description>
+      <pubDate>Fri, 27 Mar 2026 11:30:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>具身觉醒、智造跃迁，物理AI如何在制造业落地？</title>
+      <link>https://www.tmtpost.com/7931873.html</link>
+      <description>[钛媒体] 峰会全程内容，将在钛媒体微信公众号的“Physical AI Moment | 物理AI现场”主题IP直播间，同步线上直播。</description>
+      <pubDate>Fri, 27 Mar 2026 11:13:43 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Lloyds bank reveals IT glitch affected almost half a million customers</title>
+      <link>https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] In a letter to the Treasury Select Committee, Lloyds apologised and said some compensation had been paid.</description>
+      <pubDate>Fri, 27 Mar 2026 11:03:29 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>The Latest AI Documentary Asks: Just How Scared Should We Be?</title>
+      <link>https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/</link>
+      <description>[WIRED AI] The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.</description>
+      <pubDate>Fri, 27 Mar 2026 11:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Singapore stocks rebound amid mixed showing in region</title>
+      <link>https://www.straitstimes.com/business/companies-markets/singapore-stocks-rebound-on-march-27-sti-up-0-2</link>
+      <description>[Straits Times] The benchmark Straits Times Index gained 10.42 points to finish at 4,898.18.</description>
+      <pubDate>Fri, 27 Mar 2026 10:59:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>周鸿祎的AI突围：不下场，就出局</title>
+      <link>https://www.tmtpost.com/7932140.html</link>
+      <description>[钛媒体] “手搓”百个智能体的周鸿祎，只是这场大潮的缩影。</description>
+      <pubDate>Fri, 27 Mar 2026 10:57:54 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>国产手机涨价，抛弃不需要AI手机的人？</title>
+      <link>https://www.tmtpost.com/7932139.html</link>
+      <description>[钛媒体] 被迫为AI内卷分担成本。</description>
+      <pubDate>Fri, 27 Mar 2026 10:57:48 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>罗福莉：AGI已经实现了，下一步是“自进化”</title>
+      <link>https://www.tmtpost.com/7932107.html</link>
+      <description>[钛媒体] 杨植麟、张鹏、罗福莉中关村巅峰论AI。</description>
+      <pubDate>Fri, 27 Mar 2026 10:42:58 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often</title>
+      <link>https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/</link>
+      <description>[WIRED AI] Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.</description>
+      <pubDate>Fri, 27 Mar 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Japan firms weigh merging power chip businesses</title>
+      <link>https://www.channelnewsasia.com/east-asia/japan-chip-semiconductor-businesses-merge-toshiba-mitsubishi-rohm-6021236</link>
+      <description>[CNA Tech] Prime Minister Sanae Takaichi's administration has set a new sales target for domestically produced microchips, aiming for an eightfold increase by 2040 compared with 2020 levels.</description>
+      <pubDate>Fri, 27 Mar 2026 10:27:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>瞄准多场景、全周期运动体验，趣冲健身推出多款自研AI智能健身设备｜最前线</title>
+      <link>https://36kr.com/p/3740892215623942?f=rss</link>
+      <description>[36氪] 作者｜黄楠
+  编辑｜袁斯来
+  一个庞大的万亿级健康消费市场正加速形成。根据国际健身协会（IFAI）等报告显示，近年来，数字健身市场增速高达41.4%，全球健身行业规模预计2030年达1.5万亿美元。其中，中国健康产业规模在2025年已突破10万亿元规模，健康生活服务赛道以每年超15%增速增长。
+  然而，传统健身行业长期受困于用户留存难、运营效率低、服务同质化三大瓶颈。在这一背景下，从单一场馆运营转向“AI+场景+硬件”的系统化智能升级，正成为行业提升效率、应对市场变化的核心趋势。&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;</description>
+      <pubDate>Fri, 27 Mar 2026 08:28:46 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资</title>
+      <link>https://36kr.com/p/3740899945136130?f=rss</link>
+      <description>[36氪] 文｜任倩
+  具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成数据和人类视频数据（EgoSuite）的混合路线，宣称累计交付突破100万小时，估值飙向十亿美金。
+  几个月内，行业关注点已不再只是“谁采得更多”，而是“谁能把Human-centric /Ego</description>
+      <pubDate>Fri, 27 Mar 2026 08:00:35 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”</title>
+      <link>https://36kr.com/p/3740893801824512?f=rss</link>
+      <description>[36氪] 文｜周鑫雨&amp;nbsp;王欣逸 钟楚笛
+  编辑｜周鑫雨
+  Token，在技术语境下，是模型处理文本时的最小单位；在商业语境下，则成了AI服务最主流的计费方式。
+  近期，让Token被黄仁勋、吴泳铭等人，拔高到“经济学”概念的导火索，是当下全球最火的开源Agent框架——俗称为“龙虾”的OpenClaw。
+  它第一次让Agent的概念突破极客圈层，走向普罗大众；同时，运行龙虾庞大的Token消耗，也让习惯使用免费ChatBot的普通用户，第一次感知到：智能，是一种昂贵的、需要购买的资源。
+  2026年3月27日，中关村论坛。在主题为“OpenClaw与AI开源”的圆桌上，五位分别来自大模</description>
+      <pubDate>Fri, 27 Mar 2026 07:54:53 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>「龙虾」火热，硬件掘金，这里有10个最新的硬件项目</title>
+      <link>https://36kr.com/p/3740888543412228?f=rss</link>
+      <description>[36氪] 文｜周鑫雨 钟楚笛
+  编辑｜周鑫雨
+  若是在春节后来到深圳华强北，你大概率会撞上这样一幕：
+  在赛格电子世界大厦的二手设备批发档口，短短十几分钟，就有3、4位操着不同口音的客户，询问是否有适配“龙虾”的硬件。一台部署好“龙虾”的一体机，雅称“虾缸”，售价近期一路从1000元出头，涨到2000元。
+  华强北，是观察科技行业创业风向的窗口。AI眼镜、录音笔、玩偶……在这里，万物皆可适配“龙虾”。一名科技从业者对我们表示：“出现在华强北，说明做到消费级��。”
+  
+  △3月初深圳的一场千人龙虾硬件聚会。图源：inno100。
+  龙虾，大名OpenClaw，当下全球最火的开源Agent框</description>
+      <pubDate>Fri, 27 Mar 2026 07:50:56 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Europe’s economy starting to feel pain from Trump’s Iran war</title>
+      <link>https://www.straitstimes.com/business/economy/europes-economy-starting-to-feel-pain-from-trumps-iran-war</link>
+      <description>[Straits Times] The current shock 'is probably beyond what we can imagine at the moment': ECB president</description>
+      <pubDate>Fri, 27 Mar 2026 06:24:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Spot electricity prices in S’pore hit highest level in 2026 ahead of quarterly tariff revision</title>
+      <link>https://www.straitstimes.com/business/economy/spot-electricity-prices-in-spore-hit-highest-level-in-2026-ahead-of-quarterly-tariff-revision</link>
+      <description>[Straits Times] Electricity retailers have hiked the prices of new contracts and removed several discounted plans.</description>
+      <pubDate>Fri, 27 Mar 2026 06:15:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>This time it’s different: LaunchPad @ one-north’s next act signals a maturing startup ecosystem</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/time-its-different-launchpad-one-norths-next-act-signals-maturing-startup-ecosystem</link>
+      <description>[Business Times] The next iteration of it may be more structured and more technologically advanced</description>
+      <pubDate>Fri, 27 Mar 2026 05:00:00 +0000</pubDate>
       <source>Business Times</source>
     </item>
     <item>
-      <title>How a Vietnamese beauty startup landed a US$38 million exit</title>
-      <link>https://www.businesstimes.com.sg/international/asean/how-vietnamese-beauty-startup-landed-us38-million-exit</link>
-      <description>[Business Times] The Skinetiq deal with Marico marks a rare startup exit in Vietnam</description>
-      <pubDate>Fri, 20 Mar 2026 10:29:18 +0000</pubDate>
+      <title>Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial</title>
+      <link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.</description>
+      <pubDate>Fri, 27 Mar 2026 03:21:48 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Why the Mac Mini is out of stock: A look at Singapore’s OpenClaw buzz</title>
+      <link>https://www.businesstimes.com.sg/singapore/why-mac-mini-out-stock-look-singapores-openclaw-buzz</link>
+      <description>[Business Times] A new AI agent has taken the world by storm. Is this a new hype cycle or the start of a tech...</description>
+      <pubDate>Fri, 27 Mar 2026 03:00:00 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>目标氢能及液流电池市场，实现AEM材料性能突破，「志青博材」获融科储能领投千万元天使+轮融资 | 36氪首发</title>
+      <link>https://36kr.com/p/3740569636962566?f=rss</link>
+      <description>[36氪] 文&amp;nbsp;|&amp;nbsp;张冰冰
+  编辑&amp;nbsp;|&amp;nbsp;阿至
+  36氪获悉，苏州市志青博材科技有限公司（以下简称「志青博材」）近日宣布完成千万元天使+轮融资，由大连融科储能集团股份有限公司领投，老股东熔拓资本跟投，资金将主要用于核心材料研发及工程化推进。
+  「志青博材」成立于2023年6月，致力于推进氢能、液流电池等长周期储能领域中核心材料——阴离子交换膜（AEM）的全国产化研发与量产。目前，「志青博材」已打通从树脂合成到膜材料制备的完整技术链条，拥有多项自主知识产权，实现树脂单釜数十公斤级稳定生产能力，可交付大宽幅的电解水制氢膜、液流电池膜等系列产品，满足不同场景对高性能膜</description>
+      <pubDate>Fri, 27 Mar 2026 02:26:56 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>David Sacks is done as AI czar — here’s what he’s doing instead</title>
+      <link>https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/</link>
+      <description>[TechCrunch AI] Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.</description>
+      <pubDate>Fri, 27 Mar 2026 01:26:40 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Anthropic wins injunction against Trump administration over Defense Department saga</title>
+      <link>https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/</link>
+      <description>[TechCrunch AI] A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.</description>
+      <pubDate>Fri, 27 Mar 2026 01:18:38 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Judge rejects Pentagon's attempt to 'cripple' Anthropic</title>
+      <link>https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.</description>
+      <pubDate>Fri, 27 Mar 2026 00:44:24 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Judge sides with Anthropic to temporarily block the Pentagon&amp;#8217;s ban</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction</link>
+      <description>[The Verge AI] After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. &quot;The Department of War's records show that it designate</description>
+      <pubDate>Fri, 27 Mar 2026 00:33:44 +0000</pubDate>
+      <source>The Verge AI</source>
     </item>
   </channel>
 </rss>
