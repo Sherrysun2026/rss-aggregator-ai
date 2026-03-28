@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 27 Mar 2026 23:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 23:02:27 +0000</lastBuildDate>
     <item>
       <title>Salesforce Agentforce: What you need to know</title>
       <link>https://martech.org/salesforce-agentforce-what-you-need-to-know/</link>
@@ -57,27 +57,6 @@ The post Why AI personalization comes with strict limits appeared first on MarTe
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Google is making it easier to import another AI’s memory into Gemini</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history</link>
-      <description>[The Verge AI] After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new &quot;Import Memory&quot; and &quot;Import Chat History&quot; features on desktop that can help users quickly copy over everything their current AI already knows about them. To use the &quot;Impo</description>
-      <pubDate>Thu, 26 Mar 2026 21:44:37 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Apple will reportedly allow other AI chatbots to plug into Siri</title>
-      <link>https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27</link>
-      <description>[The Verge AI] Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - si</description>
-      <pubDate>Thu, 26 Mar 2026 21:31:27 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Apple’s AI Playlist Playground is bad at music</title>
-      <link>https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music</link>
-      <description>[The Verge AI] Apple Music: &quot;What do you want to hear?&quot; Me: &quot;Atmospheric instrumental black metal to write to.&quot; Apple Music: &quot;Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.&quot; I am skeptical of AI's ability to serve up the music I want to begin with, b</description>
-      <pubDate>Thu, 26 Mar 2026 20:51:31 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>Meet the Tech Reporters Using AI to Help Write and Edit Their Stories</title>
       <link>https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/</link>
       <description>[WIRED AI] Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?</description>
@@ -128,6 +107,157 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
       <description>[Business Times] The software, called ClawBot, will appear as a contact within China’s most popular app</description>
       <pubDate>Sun, 22 Mar 2026 07:48:37 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>Bluesky leans into AI with Attie, an app for building custom feeds</title>
+      <link>https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/</link>
+      <description>[TechCrunch AI] Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.</description>
+      <pubDate>Sat, 28 Mar 2026 23:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Stanford study outlines dangers of asking AI chatbots for personal advice</title>
+      <link>https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/</link>
+      <description>[TechCrunch AI] While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.</description>
+      <pubDate>Sat, 28 Mar 2026 20:45:54 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Suno leans into customization with v5.5</title>
+      <link>https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model</link>
+      <description>[The Verge AI] Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the releas</description>
+      <pubDate>Sat, 28 Mar 2026 18:33:10 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Elon Musk’s last co-founder reportedly leaves xAI</title>
+      <link>https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/</link>
+      <description>[TechCrunch AI] All but two of Musk's 11 xAI co-founders departed before this week.</description>
+      <pubDate>Sat, 28 Mar 2026 16:11:16 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>WTO members bypass opposition to introduce world's first baseline digital trade rules</title>
+      <link>https://www.channelnewsasia.com/world/wto-digital-trade-rules-world-first-bypass-opposition-6023321</link>
+      <description>[CNA Tech] Singapore's Minister-in-charge of Trade Relations Grace Fu said the country welcomes this &quot;pivotal milestone&quot;.&amp;nbsp;</description>
+      <pubDate>Sat, 28 Mar 2026 14:22:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Anthropic’s Claude popularity with paying consumers is skyrocketing</title>
+      <link>https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/</link>
+      <description>[TechCrunch AI] Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.</description>
+      <pubDate>Sat, 28 Mar 2026 14:15:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Why can’t TikTok identify AI generated ads when I can?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure</link>
+      <description>[The Verge AI] I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual &quot;tells&quot; that something was synthetically generated, some of the promotions I've seen have definit</description>
+      <pubDate>Sat, 28 Mar 2026 14:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Explainer-What is the World Trade Organization e-commerce moratorium?</title>
+      <link>https://www.channelnewsasia.com/business/explainer-what-world-trade-organization-e-commerce-moratorium-6023291</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 28 Mar 2026 13:37:47 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>新品上新这么卷，AI真的能帮助天猫和品牌更懂消费者吗？</title>
+      <link>https://www.tmtpost.com/7932918.html</link>
+      <description>[钛媒体] 2026年的天猫算法，开始关注消费者的“社会属性变迁”。</description>
+      <pubDate>Sat, 28 Mar 2026 12:40:08 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>哈萨比斯为何能率领谷歌DeepMind反超OpenAI？</title>
+      <link>https://www.tmtpost.com/7933116.html</link>
+      <description>[钛媒体] 对话哈萨比斯传记中文版译者周健工</description>
+      <pubDate>Sat, 28 Mar 2026 12:06:27 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Why OpenAI killed Sora</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition</link>
+      <description>[The Verge AI] On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high</description>
+      <pubDate>Sat, 28 Mar 2026 12:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫</title>
+      <link>https://36kr.com/p/3738258350817540?f=rss</link>
+      <description>[36氪] 2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。
+  AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但这并非赛道式微的信号，反而意味着市场细分需求将被充分激活，行业总盘持续扩大。
+  在他看来，这场变革远不止于效率提升。从“跟风盯榜单”到“回归用户本身”，从</description>
+      <pubDate>Sat, 28 Mar 2026 09:55:35 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；</title>
+      <link>https://www.tmtpost.com/7933091.html</link>
+      <description>[钛媒体] （3月23日~3月28日）马斯克将在美国建设芯片制造中心量产2纳米芯片；具身智能领域首个行业标准正式发布；阿里达摩院发布新型CPU；京东开源大模型JoyAI-LLM Flash 并推出“龙虾天团”；Arm将首次出售自有芯片</description>
+      <pubDate>Sat, 28 Mar 2026 08:49:29 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Anthropic泄露背后：AI安全承诺的破产与重构</title>
+      <link>https://www.tmtpost.com/7933051.html</link>
+      <description>[钛媒体] Anthropic新模型泄露事件背后，是AI行业安全承诺的深层困境。本文拆解RSP政策调整、国防部博弈、内部管理漏洞三重维度，并给出对中国AI公司的三点启示。</description>
+      <pubDate>Sat, 28 Mar 2026 08:21:40 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌</title>
+      <link>https://www.tmtpost.com/7932893.html</link>
+      <description>[钛媒体] 小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌</description>
+      <pubDate>Sat, 28 Mar 2026 06:32:15 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI流量增速超人类8倍！流量“倒挂”前夜：AI智能体正掏空互联网的旧金矿</title>
+      <link>https://www.tmtpost.com/7932862.html</link>
+      <description>[钛媒体] 人类注意力已过时？</description>
+      <pubDate>Sat, 28 Mar 2026 05:09:48 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>9点1氪｜“华人神��”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号</title>
+      <link>https://36kr.com/p/3741924007461128?f=rss</link>
+      <description>[36氪] 今日热点导览
+  
+   前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体
+   九号公司：与泡泡玛特达成合作，联名电动车将于4月推出
+   苹果公司或将改变战略，向外部人工智能助手开放Siri
+   多位即将卸任的CEO将人工智能列为决定离职的原因之一
+   英国将对限制青少年使用社交媒体展开试点
+  
+  TOP3大新闻
+  美籍华裔刑事鉴识专家李昌钰逝世，享年87岁
+  美国康涅狄格州纽黑文大学27日发布公告说，美籍华裔刑事鉴识专家李昌钰当天在位于内华达州的家中逝世，享年87岁。纽黑文大学校长延斯·弗雷泽里克森表示，李昌钰对该校以及国际法医学界作出卓越贡献，深刻影响一代又一</description>
+      <pubDate>Sat, 28 Mar 2026 01:24:38 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>曹操出行2025年业绩：首次调整后Q4盈利，迈向盈利性增长新阶段</title>
+      <link>https://36kr.com/p/3741142695117059?f=rss</link>
+      <description>[36氪] 3月27日，曹操出行公布了2025年全年业绩。数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。
+  更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外部输血的阶段，真正具备了自我造血与内生增长的能力。
+  在中国共享出行版图中，曹操出行始终是一个独特的存在。其不仅是定制车模式的先行者，更是吉利控股在Robotaxi万亿赛道上的“终极落子”。&amp;nb</description>
+      <pubDate>Sat, 28 Mar 2026 00:19:02 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>业绩快报 | 茶百道2025年业绩报：新品业绩贡献超30%，部分门店咖啡日售超百杯</title>
+      <link>https://36kr.com/p/3741100948029448?f=rss</link>
+      <description>[36氪] 文｜王熠
+  3月27日，茶百道发布2025年业绩报告，公司总年度GMV达到161.8亿元，同比增长11%；单店日均GMV较2024年提升10%。
+  自2025年二季度起，外卖大战重点围绕“咖啡及新茶饮”赛道展开。然而在第三季度后，各平台的补贴显著减弱，部分茶咖企业的外卖订单下滑，且长达数月的补贴及促销，也进而影响了公司的毛利率水平及线下门店的营收表现。
+  在诸多茶咖企业之中，茶百道对外卖大战的态度一直明确——不依赖补贴，只借势提升订单量和用户习惯。更多场合下，茶百道高层也不止一次强调，公司的长期竞争力在于产品力、供应链效率与数字化运营，而非短期补贴。
+  最新的财报数据显示，单看去年第四</description>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <source>36氪</source>
     </item>
     <item>
       <title>China’s AI boom is changing the game for equities investors</title>
@@ -193,13 +323,6 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?</title>
-      <link>https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/</link>
-      <description>[TechCrunch AI] When an 82-year-old Kentucky woman was&amp;#160;offered $26 million&amp;#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&amp;#160;2,000 acres&amp;#160;nearby anyway, but as AI infrastructure stretches further into the real world,&amp;#160;the</description>
-      <pubDate>Fri, 27 Mar 2026 15:40:19 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Apple Still Plans to Sell iPhones When It Turns 100</title>
       <link>https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/</link>
       <description>[WIRED AI] As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.</description>
@@ -214,39 +337,11 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>A股上市3年后又拟赴港IPO，拆解12倍牛股源杰科技的资本阳谋</title>
-      <link>https://www.tmtpost.com/7932589.html</link>
-      <description>[钛媒体] 495倍市盈率的千元股能站稳？</description>
-      <pubDate>Fri, 27 Mar 2026 13:49:53 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Sony to hike PlayStation 5 prices again as memory chip costs surge</title>
-      <link>https://www.channelnewsasia.com/business/sony-hike-playstation-5-prices-again-memory-chip-costs-surge-6021646</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 27 Mar 2026 13:42:02 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>OpenAI shuts down Sora while Meta gets shut out in court</title>
-      <link>https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/</link>
-      <description>[TechCrunch AI] When an 82-year-old Kentucky woman was&amp;#160;offered $26 million&amp;#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&amp;#160;2,000 acres&amp;#160;nearby anyway, but as AI infrastructure stretches further into the real world,&amp;#160;the</description>
-      <pubDate>Fri, 27 Mar 2026 13:30:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Two fund managers tapped for new $1.5b Anchor Fund tranche to boost Singapore’s IPO pipeline</title>
       <link>https://www.straitstimes.com/business/two-fund-managers-tapped-for-new-1-5b-anchor-fund-tranche-to-boost-singapores-ipo-pipeline</link>
       <description>[Straits Times] The Ministry of Trade and Industry and Temasek have appointed Fullerton Fund Management and 65 Equity Partners.</description>
       <pubDate>Fri, 27 Mar 2026 12:55:00 +0000</pubDate>
       <source>Straits Times</source>
-    </item>
-    <item>
-      <title>等在500万AI缺口外的年轻人</title>
-      <link>https://www.tmtpost.com/7930370.html</link>
-      <description>[钛媒体] 企业需要工程能力，高校却仍以论文和考试成绩评价学生。</description>
-      <pubDate>Fri, 27 Mar 2026 12:06:30 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人</title>
@@ -265,13 +360,6 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
       <description>[Straits Times] Dyson also launched 13 new products in 2025, the most in a single year.</description>
       <pubDate>Fri, 27 Mar 2026 11:30:00 +0000</pubDate>
       <source>Straits Times</source>
-    </item>
-    <item>
-      <title>具身觉醒、智造跃迁，物理AI如何在制造业落地？</title>
-      <link>https://www.tmtpost.com/7931873.html</link>
-      <description>[钛媒体] 峰会全程内容，将在钛媒体微信公众号的“Physical AI Moment | 物理AI现场”主题IP直播间，同步线上直播。</description>
-      <pubDate>Fri, 27 Mar 2026 11:13:43 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Lloyds bank reveals IT glitch affected almost half a million customers</title>
@@ -295,39 +383,11 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
       <source>Straits Times</source>
     </item>
     <item>
-      <title>周鸿祎的AI突围：不下场，就出局</title>
-      <link>https://www.tmtpost.com/7932140.html</link>
-      <description>[钛媒体] “手搓”百个智能体的周鸿祎，只是这场大潮的缩影。</description>
-      <pubDate>Fri, 27 Mar 2026 10:57:54 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>国产手机涨价，抛弃不需要AI手机的人？</title>
-      <link>https://www.tmtpost.com/7932139.html</link>
-      <description>[钛媒体] 被迫为AI内卷分担成本。</description>
-      <pubDate>Fri, 27 Mar 2026 10:57:48 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>罗福莉：AGI已经实现了，下一步是“自进化”</title>
-      <link>https://www.tmtpost.com/7932107.html</link>
-      <description>[钛媒体] 杨植麟、张鹏、罗福莉中关村巅峰论AI。</description>
-      <pubDate>Fri, 27 Mar 2026 10:42:58 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often</title>
       <link>https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/</link>
       <description>[WIRED AI] Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.</description>
       <pubDate>Fri, 27 Mar 2026 10:30:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Japan firms weigh merging power chip businesses</title>
-      <link>https://www.channelnewsasia.com/east-asia/japan-chip-semiconductor-businesses-merge-toshiba-mitsubishi-rohm-6021236</link>
-      <description>[CNA Tech] Prime Minister Sanae Takaichi's administration has set a new sales target for domestically produced microchips, aiming for an eightfold increase by 2040 compared with 2020 levels.</description>
-      <pubDate>Fri, 27 Mar 2026 10:27:00 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>瞄准多场景、全周期运动体验，趣冲健身推出多款自研AI智能健身设备｜最前线</title>
@@ -337,41 +397,6 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
   一个庞大的万亿级健康消费市场正加速形成。根据国际健身协会（IFAI）等报告显示，近年来，数字健身市场增速高达41.4%，全球健身行业规模预计2030年达1.5万亿美元。其中，中国健康产业规模在2025年已突破10万亿元规模，健康生活服务赛道以每年超15%增速增长。
   然而，传统健身行业长期受困于用户留存难、运营效率低、服务同质化三大瓶颈。在这一背景下，从单一场馆运营转向“AI+场景+硬件”的系统化智能升级，正成为行业提升效率、应对市场变化的核心趋势。&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;</description>
       <pubDate>Fri, 27 Mar 2026 08:28:46 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资</title>
-      <link>https://36kr.com/p/3740899945136130?f=rss</link>
-      <description>[36氪] 文｜任倩
-  具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成数据和人类视频数据（EgoSuite）的混合路线，宣称累计交付突破100万小时，估值飙向十亿美金。
-  几个月内，行业关注点已不再只是“谁采得更多”，而是“谁能把Human-centric /Ego</description>
-      <pubDate>Fri, 27 Mar 2026 08:00:35 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”</title>
-      <link>https://36kr.com/p/3740893801824512?f=rss</link>
-      <description>[36氪] 文｜周鑫雨&amp;nbsp;王欣逸 钟楚笛
-  编辑｜周鑫雨
-  Token，在技术语境下，是模型处理文本时的最小单位；在商业语境下，则成了AI服务最主流的计费方式。
-  近期，让Token被黄仁勋、吴泳铭等人，拔高到“经济学”概念的导火索，是当下全球最火的开源Agent框架——俗称为“龙虾”的OpenClaw。
-  它第一次让Agent的概念突破极客圈层，走向普罗大众；同时，运行龙虾庞大的Token消耗，也让习惯使用免费ChatBot的普通用户，第一次感知到：智能，是一种昂贵的、需要购买的资源。
-  2026年3月27日，中关村论坛。在主题为“OpenClaw与AI开源”的圆桌上，五位分别来自大模</description>
-      <pubDate>Fri, 27 Mar 2026 07:54:53 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>「龙虾」火热，硬件掘金，这里有10个最新的硬件项目</title>
-      <link>https://36kr.com/p/3740888543412228?f=rss</link>
-      <description>[36氪] 文｜周鑫雨 钟楚笛
-  编辑｜周鑫雨
-  若是在春节后来到深圳华强北，你大概率会撞上这样一幕：
-  在赛格电子世界大厦的二手设备批发档口，短短十几分钟，就有3、4位操着不同口音的客户，询问是否有适配“龙虾”的硬件。一台部署好“龙虾”的一体机，雅称“虾缸”，售价近期一路从1000元出头，涨到2000元。
-  华强北，是观察科技行业创业风向的窗口。AI眼镜、录音笔、玩偶……在这里，万物皆可适配“龙虾”。一名科技从业者对我们表示：“出现在华强北，说明做到消费级��。”
-  
-  △3月初深圳的一场千人龙虾硬件聚会。图源：inno100。
-  龙虾，大名OpenClaw，当下全球最火的开源Agent框</description>
-      <pubDate>Fri, 27 Mar 2026 07:50:56 +0000</pubDate>
       <source>36氪</source>
     </item>
     <item>
@@ -408,30 +433,6 @@ The post How NotebookLM turns marketing docs into usable insights appeared first
       <description>[Business Times] A new AI agent has taken the world by storm. Is this a new hype cycle or the start of a tech...</description>
       <pubDate>Fri, 27 Mar 2026 03:00:00 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>目标氢能及液流电池市场，实现AEM材料性能突破，「志青博材」获融科储能领投千万元天使+轮融资 | 36氪首发</title>
-      <link>https://36kr.com/p/3740569636962566?f=rss</link>
-      <description>[36氪] 文&amp;nbsp;|&amp;nbsp;张冰冰
-  编辑&amp;nbsp;|&amp;nbsp;阿至
-  36氪获悉，苏州市志青博材科技有限公司（以下简称「志青博材」）近日宣布完成千万元天使+轮融资，由大连融科储能集团股份有限公司领投，老股东熔拓资本跟投，资金将主要用于核心材料研发及工程化推进。
-  「志青博材」成立于2023年6月，致力于推进氢能、液流电池等长周期储能领域中核心材料——阴离子交换膜（AEM）的全国产化研发与量产。目前，「志青博材」已打通从树脂合成到膜材料制备的完整技术链条，拥有多项自主知识产权，实现树脂单釜数十公斤级稳定生产能力，可交付大宽幅的电解水制氢膜、液流电池膜等系列产品，满足不同场景对高性能膜</description>
-      <pubDate>Fri, 27 Mar 2026 02:26:56 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>David Sacks is done as AI czar — here’s what he’s doing instead</title>
-      <link>https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/</link>
-      <description>[TechCrunch AI] Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.</description>
-      <pubDate>Fri, 27 Mar 2026 01:26:40 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Anthropic wins injunction against Trump administration over Defense Department saga</title>
-      <link>https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/</link>
-      <description>[TechCrunch AI] A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.</description>
-      <pubDate>Fri, 27 Mar 2026 01:18:38 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Judge rejects Pentagon's attempt to 'cripple' Anthropic</title>
