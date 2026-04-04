@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 03 Apr 2026 23:50:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 23:02:42 +0000</lastBuildDate>
     <item>
       <title>Peppa Pig and Transformers owner Hasbro hit by cyber-attack</title>
       <link>https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -49,13 +49,6 @@ The post Agentic AI discovery requires machine-readable brands appeared first on
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>PSA: Anyone with a link can view your Granola notes by default</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa</link>
-      <description>[The Verge AI] If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are &quot;private by default,&quot; it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as </description>
-      <pubDate>Thu, 02 Apr 2026 21:56:16 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/</link>
       <description>[WIRED AI] In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.</description>
@@ -68,34 +61,6 @@ The post Agentic AI discovery requires machine-readable brands appeared first on
       <description>[WIRED AI] OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.</description>
       <pubDate>Thu, 02 Apr 2026 19:29:48 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>OpenAI acquires technology talk show TBPN in surprise move</title>
-      <link>https://www.channelnewsasia.com/business/openai-acquires-technology-talk-show-tbpn-in-surprise-move-6034361</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 02 Apr 2026 18:40:45 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant</title>
-      <link>https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/</link>
-      <description>[WIRED AI] Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.</description>
-      <pubDate>Thu, 02 Apr 2026 18:27:29 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Elon Musk is about to be a very busy boy!</title>
-      <link>https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla</link>
-      <description>[The Verge AI] To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Apr 2026 18:15:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI just bought TBPN</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn</link>
-      <description>[The Verge AI] OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among</description>
-      <pubDate>Thu, 02 Apr 2026 17:40:07 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>The latest AI-powered martech news and releases</title>
@@ -141,6 +106,118 @@ The post As AI does more of the work, are we building the right leaders? appeare
       <description>[Business Times] Such ventures are not about moving from ‘zero to one’, but about scaling breakthroughs to impact millions, he says</description>
       <pubDate>Sun, 29 Mar 2026 23:00:00 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>Singapore’s 30 largest stocks gain 5% in first quarter of 2026, but Iran war keeps markets on edge</title>
+      <link>https://www.straitstimes.com/business/companies-markets/spores-30-largest-stocks-gain-5-in-first-quarter-of-2026-but-iran-war-keeps-markets-on-edge</link>
+      <description>[Straits Times] Markets should continue to be volatile after the US President’s address to the nation revealed no clear end to the Iran war.</description>
+      <pubDate>Sat, 04 Apr 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>You may have heard of ‘frugal chic’. Is it just another way to justify buying something you don’t need?</title>
+      <link>https://www.straitstimes.com/business/invest/you-may-have-heard-of-frugal-chic-is-it-just-another-way-to-justify-buying-something-you-dont-need</link>
+      <description>[Straits Times] Whatever it is, it certainly boosted my motivation to continue being financially responsible.</description>
+      <pubDate>Sat, 04 Apr 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>A folk musician became a target for AI fakes and a copyright troll</title>
+      <link>https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright</link>
+      <description>[The Verge AI] In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised that someone had pulled performances of the</description>
+      <pubDate>Sat, 04 Apr 2026 17:52:10 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</title>
+      <link>https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</link>
+      <description>[TechCrunch AI] It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.</description>
+      <pubDate>Sat, 04 Apr 2026 16:32:22 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Really, you made this without AI? Prove it</title>
+      <link>https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content</link>
+      <description>[The Verge AI] &quot;This looks like AI.&quot; It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI co</description>
+      <pubDate>Sat, 04 Apr 2026 13:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Singapore biotech Mirxes delays results in Hong Kong after audit flags issues</title>
+      <link>https://www.straitstimes.com/business/singapore-biotech-mirxes-delays-results-in-hong-kong-after-audit-flags-issues</link>
+      <description>[Straits Times] KPMG identified concerns involving 14 transactions tied to US14.8 million in prepayments.</description>
+      <pubDate>Sat, 04 Apr 2026 11:45:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Anthropic成立PAC：厨子不看菜谱看上兵法了</title>
+      <link>https://www.tmtpost.com/7941914.html</link>
+      <description>[钛媒体] 与五角大楼打过一架之后，Anthropic瞄准美国中期选举。</description>
+      <pubDate>Sat, 04 Apr 2026 10:49:14 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Hackers Are Posting the Claude Code Leak With Bonus Malware</title>
+      <link>https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/</link>
+      <description>[WIRED AI] Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.</description>
+      <pubDate>Sat, 04 Apr 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Anthropic封堵第三方工具“薅羊毛”，OpenClaw被迫出局，创始人早已投奔OpenAI</title>
+      <link>https://www.tmtpost.com/7941920.html</link>
+      <description>[钛媒体] “AI平台进入主权时代”的典型信号。</description>
+      <pubDate>Sat, 04 Apr 2026 09:58:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Anthropic拒绝龙虾吃自助餐，中国token大厂笑了</title>
+      <link>https://www.tmtpost.com/7941769.html</link>
+      <description>[钛媒体] AI订阅，被用崩了。</description>
+      <pubDate>Sat, 04 Apr 2026 06:43:55 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>大厂们为啥不让自家员工用别家大模型？</title>
+      <link>https://www.tmtpost.com/7941699.html</link>
+      <description>[钛媒体] 大厂孤岛化，员工苦哈哈。</description>
+      <pubDate>Sat, 04 Apr 2026 06:43:23 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>互联网最骄傲的事，正在被AI一点点拆掉</title>
+      <link>https://www.tmtpost.com/7941760.html</link>
+      <description>[钛媒体] 轻，是互联网的青春期。重，可能才是它的成年形态。</description>
+      <pubDate>Sat, 04 Apr 2026 06:34:02 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法</title>
+      <link>https://www.tmtpost.com/7941770.html</link>
+      <description>[钛媒体] 从谄媚到作弊，Anthropic发现AI内部还有另一套东西。</description>
+      <pubDate>Sat, 04 Apr 2026 06:33:47 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Nasa astronauts reach safe orbit in historic moon mission</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/technology/nasa-astronauts-reach-safe-orbit-historic-moon-mission</link>
+      <description>[Business Times] [AUSTIN] Nasa’s crew of astronauts launched to space and reached a stable orbit, kicking off a landmark journey that will take them...</description>
+      <pubDate>Sat, 04 Apr 2026 05:30:00 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>Anthropic is having a moment in the private markets; SpaceX could spoil the party</title>
+      <link>https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/</link>
+      <description>[TechCrunch AI] Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.</description>
+      <pubDate>Sat, 04 Apr 2026 01:31:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban</link>
+      <description>[The Verge AI] Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will &quot;no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,&quot; according to an email sent to users on Frid</description>
+      <pubDate>Fri, 03 Apr 2026 23:52:49 +0000</pubDate>
+      <source>The Verge AI</source>
     </item>
     <item>
       <title>Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk</title>
@@ -192,13 +269,6 @@ The post As AI does more of the work, are we building the right leaders? appeare
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>People would rather have an Amazon warehouse in their backyard than a data center</title>
-      <link>https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/</link>
-      <description>[TechCrunch AI] A new poll shows that the debate over data centers is far from settled.</description>
-      <pubDate>Fri, 03 Apr 2026 19:20:36 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports</title>
       <link>https://www.channelnewsasia.com/business/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-6035886</link>
       <description>[CNA Tech] </description>
@@ -218,13 +288,6 @@ The post As AI does more of the work, are we building the right leaders? appeare
       <description>[Straits Times] The world’s largest economy gained 178,000 jobs in March, after losing 133,000 in February.</description>
       <pubDate>Fri, 03 Apr 2026 14:15:00 +0000</pubDate>
       <source>Straits Times</source>
-    </item>
-    <item>
-      <title>The Facebook insider building content moderation for the AI era</title>
-      <link>https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/</link>
-      <description>[TechCrunch AI] Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.</description>
-      <pubDate>Fri, 03 Apr 2026 14:00:15 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Trump administration proposes expanding Chinese tech gear crackdown</title>
@@ -260,13 +323,6 @@ The post Your AI governance gap is bigger than you think appeared first on MarTe
       <source>36氪</source>
     </item>
     <item>
-      <title>微医智能体为医保基金装上“数字天眼”，AI守护百姓“救命钱、保命钱”</title>
-      <link>https://www.tmtpost.com/7941316.html</link>
-      <description>[钛媒体] 以AI为“盾”守护民生底线，以“锚”的定力锚定行业方向，微医用技术筑牢医保基金安全防线，让医保监管更精准、医疗服务更高效、群众就医更安心。</description>
-      <pubDate>Fri, 03 Apr 2026 11:55:38 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Chatbots are now prescribing psychiatric drugs</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs</link>
       <description>[The Verge AI] Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque,</description>
@@ -279,41 +335,6 @@ The post Your AI governance gap is bigger than you think appeared first on MarTe
       <description>[WIRED AI] The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.</description>
       <pubDate>Fri, 03 Apr 2026 10:39:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？</title>
-      <link>https://www.tmtpost.com/7940661.html</link>
-      <description>[钛媒体] 让AI写一首诗很容易，但让它去车间稳稳当当地拧好一颗螺丝，至今还是个难题。当大模型走出屏幕、触摸现实，具身智能的&quot;第一杯咖啡&quot;究竟是什么味道？</description>
-      <pubDate>Fri, 03 Apr 2026 10:29:47 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>当Token成为产业共识，火山引擎的好消息和坏消息</title>
-      <link>https://www.tmtpost.com/7941009.html</link>
-      <description>[钛媒体] 一年前，谭待曾用马拉松作比喻，AI行业大概跑了500米，现在，他判断这个距离变成了一公里。</description>
-      <pubDate>Fri, 03 Apr 2026 09:56:27 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>三万亿美元IPO即将上演，市场在激动同时也在颤栗</title>
-      <link>https://www.tmtpost.com/7940984.html</link>
-      <description>[钛媒体] OpenAI、SpaceX、Anthropic箭在弦上</description>
-      <pubDate>Fri, 03 Apr 2026 09:50:53 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>阿里AI的势能，又起来了</title>
-      <link>https://www.tmtpost.com/7940968.html</link>
-      <description>[钛媒体] 千问4天模型三连发，信号更在“模型”外。</description>
-      <pubDate>Fri, 03 Apr 2026 09:50:51 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活</title>
-      <link>https://www.tmtpost.com/7939738.html</link>
-      <description>[钛媒体] AI能帮你经营一家创业公司吗？</description>
-      <pubDate>Fri, 03 Apr 2026 08:50:49 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Impact of Iran war contained, but S’poreans starting to feel pinch</title>
@@ -330,20 +351,6 @@ The post Your AI governance gap is bigger than you think appeared first on MarTe
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>Airbus bets on helicopter capability for tomorrow's war drones</title>
-      <link>https://www.straitstimes.com/business/airbus-bets-on-copter-capability-for-tomorrows-war-drones</link>
-      <description>[Straits Times] Airbus’ strategy essentially involves fusing cooperation on drones and helicopters.</description>
-      <pubDate>Fri, 03 Apr 2026 07:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Microsoft readies US$10 billion AI investment plan in Japan</title>
-      <link>https://www.straitstimes.com/business/microsoft-readies-us10-billion-ai-investment-plan-in-japan</link>
-      <description>[Straits Times] It will develop cloud and AI infrastructure alongside Sakura Internet and telecom operator SoftBank</description>
-      <pubDate>Fri, 03 Apr 2026 06:30:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>阅文“AI拟真人大讲堂”：好故事才是AI时代的未来</title>
       <link>https://36kr.com/p/3750704146072326?f=rss</link>
       <description>[36氪] 如今内容行业风头正盛的莫过于AI拟真人剧。
@@ -353,13 +360,6 @@ The post Your AI governance gap is bigger than you think appeared first on MarTe
   Vidu解决方案负责人郑重如此表示，视频生成大模型在过去一年中，从“老</description>
       <pubDate>Fri, 03 Apr 2026 06:15:06 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>Secret codes and renminbi fees get ships through Iran’s Hormuz tollbooth</title>
-      <link>https://www.straitstimes.com/business/companies-markets/secret-codes-and-yuan-fees-get-ships-through-irans-hormuz-tollbooth</link>
-      <description>[Straits Times] Iran’s National Security Committee has approved a Bill that would impose fees on Strait of Hormuz.</description>
-      <pubDate>Fri, 03 Apr 2026 06:00:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资</title>
