@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 04 Apr 2026 23:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 23:05:02 +0000</lastBuildDate>
     <item>
       <title>Peppa Pig and Transformers owner Hasbro hit by cyber-attack</title>
       <link>https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -39,13 +39,6 @@ The post Agentic AI discovery requires machine-readable brands appeared first on
       <link>https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.</description>
       <pubDate>Wed, 01 Apr 2026 11:34:31 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Thousands lose their jobs in deep cuts at tech giant Oracle</title>
-      <link>https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.</description>
-      <pubDate>Wed, 01 Apr 2026 07:09:46 +0000</pubDate>
       <source>BBC Technology</source>
     </item>
     <item>
@@ -101,23 +94,122 @@ The post As AI does more of the work, are we building the right leaders? appeare
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Singapore’s deep-tech push requires ‘calculated bets’, stronger ecosystem: NUS Enterprise’s Benjamin Tee</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/startups/singapores-deep-tech-push-requires-calculated-bets-stronger-ecosystem-nus-enterprises-benjamin-tee</link>
-      <description>[Business Times] Such ventures are not about moving from ‘zero to one’, but about scaling breakthroughs to impact millions, he says</description>
-      <pubDate>Sun, 29 Mar 2026 23:00:00 +0000</pubDate>
-      <source>Business Times</source>
+      <title>Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use</title>
+      <link>https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/</link>
+      <description>[TechCrunch AI] AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.</description>
+      <pubDate>Sun, 05 Apr 2026 18:51:37 +0000</pubDate>
+      <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>Singapore’s 30 largest stocks gain 5% in first quarter of 2026, but Iran war keeps markets on edge</title>
-      <link>https://www.straitstimes.com/business/companies-markets/spores-30-largest-stocks-gain-5-in-first-quarter-of-2026-but-iran-war-keeps-markets-on-edge</link>
-      <description>[Straits Times] Markets should continue to be volatile after the US President’s address to the nation revealed no clear end to the Iran war.</description>
-      <pubDate>Sat, 04 Apr 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
+      <title>Suno is a music copyright nightmare</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers</link>
+      <description>[The Verge AI] AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, b</description>
+      <pubDate>Sun, 05 Apr 2026 16:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Can orbital data centers help justify a massive valuation for SpaceX?</title>
+      <link>https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</link>
+      <description>[TechCrunch AI] On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.</description>
+      <pubDate>Sun, 05 Apr 2026 15:40:58 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants</title>
+      <link>https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/</link>
+      <description>[TechCrunch AI] Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.</description>
+      <pubDate>Sun, 05 Apr 2026 14:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>I let Gemini in Google Maps plan my day and it went surprisingly well</title>
+      <link>https://www.theverge.com/tech/907015/gemini-google-maps-hands-on</link>
+      <description>[The Verge AI] You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To [&amp;#8230;]</description>
+      <pubDate>Sun, 05 Apr 2026 14:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Grammarly’s sloppelganger saga</title>
+      <link>https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga</link>
+      <description>[The Verge AI] This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly </description>
+      <pubDate>Sun, 05 Apr 2026 12:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资</title>
+      <link>https://36kr.com/p/3753526848897792?f=rss</link>
+      <description>[36氪] 作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。
+  霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精密仪器系国家重点实验室，创始人郭劲为清华精密仪器系硕士，曾任职GE医疗CT部门。公司在X射线光谱分析与AI智能识别算法领域有近二十年科研积累。
+  硬氪获悉，传统选矿主要依赖人工手选或湿法</description>
+      <pubDate>Sun, 05 Apr 2026 06:05:09 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Britain woos Anthropic expansion after US defence clash: Report</title>
+      <link>https://www.channelnewsasia.com/business/britain-woos-anthropic-expansion-after-us-defence-clash-report-6037361</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 05 Apr 2026 04:31:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>锤爆苹果壁垒：AI成最强攻城锤</title>
+      <link>https://www.tmtpost.com/7942072.html</link>
+      <description>[钛媒体] 网络安全正在从“人与人的对抗”转向“智能体与智能体的对抗”。</description>
+      <pubDate>Sun, 05 Apr 2026 02:33:13 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>清明节特辑：过去这一年，哪些互联网产品先走一步</title>
+      <link>https://www.tmtpost.com/7942085.html</link>
+      <description>[钛媒体] 这些产品的倒下不仅是生意的失败，更是AI大潮下，一场关于“效率”与“生存”的残酷大洗牌。</description>
+      <pubDate>Sun, 05 Apr 2026 01:49:05 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发</title>
+      <link>https://36kr.com/p/3752260051616512?f=rss</link>
+      <description>[36氪] 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。
+  AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体验创新，并以深圳海高特科技有限公司作为其研发与设计中枢，为全球视听领域用户提供更具沉浸感的解决方案，重塑家庭娱乐体验。
+  3月31日，AWOL Vision新款超短焦4K三色激光投影产品</description>
+      <pubDate>Sun, 05 Apr 2026 01:10:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>“AI预测未来”！碾压马斯克Grok-4！国产 AI登顶全球</title>
+      <link>https://www.tmtpost.com/7941862.html</link>
+      <description>[钛媒体] 马斯克曾公开断言：“预测未来的能力，是对模型智能性最好的测试。”</description>
+      <pubDate>Sun, 05 Apr 2026 00:25:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Apple at 50: Three products that changed how we live - and three that really didn't</title>
+      <link>https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses</description>
+      <pubDate>Sat, 04 Apr 2026 23:56:55 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>两次众筹破千万后，AWOL Vision还能“抢跑”多久？| 出海爆品先知</title>
+      <link>https://www.tmtpost.com/7941274.html</link>
+      <description>[钛媒体] AWOL Vision的两次千万美元级众筹，是一个美中创业团队在全球高端消费电子市场的一次成功“抢跑”。要从“抢跑”到“领跑”，Awol需要回答的问题还很多。</description>
+      <pubDate>Sat, 04 Apr 2026 23:56:00 +0000</pubDate>
+      <source>钛媒体</source>
     </item>
     <item>
       <title>You may have heard of ‘frugal chic’. Is it just another way to justify buying something you don’t need?</title>
       <link>https://www.straitstimes.com/business/invest/you-may-have-heard-of-frugal-chic-is-it-just-another-way-to-justify-buying-something-you-dont-need</link>
       <description>[Straits Times] Whatever it is, it certainly boosted my motivation to continue being financially responsible.</description>
+      <pubDate>Sat, 04 Apr 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Singapore’s 30 largest stocks gain 5% in first quarter of 2026, but Iran war keeps markets on edge</title>
+      <link>https://www.straitstimes.com/business/companies-markets/spores-30-largest-stocks-gain-5-in-first-quarter-of-2026-but-iran-war-keeps-markets-on-edge</link>
+      <description>[Straits Times] Markets should continue to be volatile after the US President’s address to the nation revealed no clear end to the Iran war.</description>
       <pubDate>Sat, 04 Apr 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
@@ -143,18 +235,11 @@ The post As AI does more of the work, are we building the right leaders? appeare
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Singapore biotech Mirxes delays results in Hong Kong after audit flags issues</title>
+      <title>Singapore biotech firm Mirxes delays results in Hong Kong after audit flags issues</title>
       <link>https://www.straitstimes.com/business/singapore-biotech-mirxes-delays-results-in-hong-kong-after-audit-flags-issues</link>
       <description>[Straits Times] KPMG identified concerns involving 14 transactions tied to US14.8 million in prepayments.</description>
       <pubDate>Sat, 04 Apr 2026 11:45:00 +0000</pubDate>
       <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Anthropic成立PAC：厨子不看菜谱看上兵法了</title>
-      <link>https://www.tmtpost.com/7941914.html</link>
-      <description>[钛媒体] 与五角大楼打过一架之后，Anthropic瞄准美国中期选举。</description>
-      <pubDate>Sat, 04 Apr 2026 10:49:14 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Hackers Are Posting the Claude Code Leak With Bonus Malware</title>
@@ -162,41 +247,6 @@ The post As AI does more of the work, are we building the right leaders? appeare
       <description>[WIRED AI] Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.</description>
       <pubDate>Sat, 04 Apr 2026 10:30:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Anthropic封堵第三方工具“薅羊毛”，OpenClaw被迫出局，创始人早已投奔OpenAI</title>
-      <link>https://www.tmtpost.com/7941920.html</link>
-      <description>[钛媒体] “AI平台进入主权时代”的典型信号。</description>
-      <pubDate>Sat, 04 Apr 2026 09:58:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Anthropic拒绝龙虾吃自助餐，中国token大厂笑了</title>
-      <link>https://www.tmtpost.com/7941769.html</link>
-      <description>[钛媒体] AI订阅，被用崩了。</description>
-      <pubDate>Sat, 04 Apr 2026 06:43:55 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>大厂们为啥不让自家员工用别家大模型？</title>
-      <link>https://www.tmtpost.com/7941699.html</link>
-      <description>[钛媒体] 大厂孤岛化，员工苦哈哈。</description>
-      <pubDate>Sat, 04 Apr 2026 06:43:23 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>互联网最骄傲的事，正在被AI一点点拆掉</title>
-      <link>https://www.tmtpost.com/7941760.html</link>
-      <description>[钛媒体] 轻，是互联网的青春期。重，可能才是它的成年形态。</description>
-      <pubDate>Sat, 04 Apr 2026 06:34:02 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法</title>
-      <link>https://www.tmtpost.com/7941770.html</link>
-      <description>[钛媒体] 从谄媚到作弊，Anthropic发现AI内部还有另一套东西。</description>
-      <pubDate>Sat, 04 Apr 2026 06:33:47 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Nasa astronauts reach safe orbit in historic moon mission</title>
@@ -234,74 +284,11 @@ The post As AI does more of the work, are we building the right leaders? appeare
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports</title>
-      <link>https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/</link>
-      <description>[TechCrunch AI] Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.</description>
-      <pubDate>Fri, 03 Apr 2026 20:28:40 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>OpenAI’s AGI boss is taking a leave of absence</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence</link>
-      <description>[The Verge AI] OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave &quot;for the next several wee</description>
-      <pubDate>Fri, 03 Apr 2026 20:22:59 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Anthropic ramps up its political activities with a new PAC</title>
-      <link>https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/</link>
-      <description>[TechCrunch AI] With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.</description>
-      <pubDate>Fri, 03 Apr 2026 20:22:18 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>AI companies are building huge natural gas plants to power data centers. What could go wrong?</title>
-      <link>https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/</link>
-      <description>[TechCrunch AI] Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.</description>
-      <pubDate>Fri, 03 Apr 2026 19:48:22 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up</title>
       <link>https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/</link>
       <description>[WIRED AI] The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”</description>
       <pubDate>Fri, 03 Apr 2026 19:38:35 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports</title>
-      <link>https://www.channelnewsasia.com/business/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-6035886</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Apr 2026 18:15:43 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>US judge upholds block on subpoenas to Fed’s Jerome Powell, teeing up likely appeal</title>
-      <link>https://www.straitstimes.com/business/economy/us-judge-upholds-block-on-subpoenas-to-feds-jerome-powell-teeing-up-likely-appeal</link>
-      <description>[Straits Times] An appeal could delay confirmation of Mr Kevin Warsh, Mr Trump’s pick to succeed Mr Powell as Fed chair.</description>
-      <pubDate>Fri, 03 Apr 2026 18:07:32 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>US registers strong job growth in March; unemployment rate at 4.3%</title>
-      <link>https://www.straitstimes.com/business/companies-markets/us-registers-strong-job-growth-in-march-unemployment-at-4-3</link>
-      <description>[Straits Times] The world’s largest economy gained 178,000 jobs in March, after losing 133,000 in February.</description>
-      <pubDate>Fri, 03 Apr 2026 14:15:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Trump administration proposes expanding Chinese tech gear crackdown</title>
-      <link>https://www.channelnewsasia.com/business/trump-administration-proposes-expanding-chinese-tech-gear-crackdown-6035576</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Apr 2026 13:29:36 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Apple’s best product ever</title>
-      <link>https://www.theverge.com/podcast/906548/best-apple-product-vergecast</link>
-      <description>[The Verge AI] All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 million votes! We also have lots of other coverage of Apple's first half century, and you should [&amp;#8230</description>
-      <pubDate>Fri, 03 Apr 2026 12:52:41 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>Your AI governance gap is bigger than you think</title>
@@ -323,32 +310,11 @@ The post Your AI governance gap is bigger than you think appeared first on MarTe
       <source>36氪</source>
     </item>
     <item>
-      <title>Chatbots are now prescribing psychiatric drugs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs</link>
-      <description>[The Verge AI] Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque,</description>
-      <pubDate>Fri, 03 Apr 2026 11:43:21 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>The 3 Best Portable Jump Starters in 2026: Get Charged Up</title>
       <link>https://www.wired.com/story/best-portable-jump-starters/</link>
       <description>[WIRED AI] The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.</description>
       <pubDate>Fri, 03 Apr 2026 10:39:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Impact of Iran war contained, but S’poreans starting to feel pinch</title>
-      <link>https://www.straitstimes.com/business/impact-of-iran-war-contained-but-sporeans-starting-to-feel-pinch</link>
-      <description>[Straits Times] PM Lawrence Wong said some support measures will be brought forward, to provide earlier relief.</description>
-      <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Hyundai Motor flags export disruptions as Middle East conflict hits shipping</title>
-      <link>https://www.channelnewsasia.com/business/hyundai-motor-flags-export-disruptions-middle-east-conflict-hits-shipping-6035161</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Apr 2026 07:30:00 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>阅文“AI拟真人大讲堂”：好故事才是AI时代的未来</title>
@@ -372,13 +338,6 @@ The post Your AI governance gap is bigger than you think appeared first on MarTe
       <source>36氪</source>
     </item>
     <item>
-      <title>Microsoft to invest $10 billion in Japan for AI and cyber defence expansion</title>
-      <link>https://www.channelnewsasia.com/business/microsoft-invest-10-billion-in-japan-ai-and-cyber-defence-expansion-6034916</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Apr 2026 03:37:15 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>36氪首发 | 00后上交医学博士做了款可穿戴止鼾设备，获得顺为独家投资</title>
       <link>https://36kr.com/p/3750501433705224?f=rss</link>
       <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
@@ -387,29 +346,6 @@ The post Your AI governance gap is bigger than you think appeared first on MarTe
   夜合科技成立于2025年，总部位于深圳。首款产品聚焦睡眠呼吸赛道，为鼾声人群和阻塞性睡眠呼吸暂停（OSA）患者开发轻量化、舒适、无体位限制的可穿戴颈部设备。
   公司创始人冉昕昕拥有华西、瑞金两大顶级医院的医学背景，于上海交通大学攻读医学博士学位，长期专注于医工交叉领域的研究。在临床实践中，冉昕昕发现患者缺乏消费级止鼾</description>
       <pubDate>Fri, 03 Apr 2026 02:47:57 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>叽伴：用「共同经历」重新定义AI社交</title>
-      <link>https://36kr.com/p/3749816005657093?f=rss</link>
-      <description>[36氪] 随着大语言模型和各类Agent的崛起，国内外涌现出一批以AI为核心的社交产品。然而在行业热闹背后，一个尴尬的现实是：用户尝鲜热情高，留存率却惨淡。
-  聊得越久，越发现角色“失忆”——上周提过的重要事情这周就忘；OOC（性格漂移）——原本高冷的角色突然变得谄媚讨好；最终演变成编剧疲劳的独角戏，用户既要当体验者又要当编剧，负担过重，自然流失。
-  技术越进步，用户对虚拟陪伴的期待反而越现实：要的不是更会说话的AI，而是一段经得起时间、有厚度、有记忆的关系。换句话说，AI社交的本质，不是更智能的对话，而是可沉淀的关系。
-  前不久开启公测的AI社交产品「叽伴」，便是为了解决这些痛点而来。
-  
- </description>
-      <pubDate>Fri, 03 Apr 2026 02:00:34 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利</title>
-      <link>https://36kr.com/p/3750411191550467?f=rss</link>
-      <description>[36氪] 作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，国内量子计算企业——量旋科技（SpinQ）已于近日完成C+轮融资，金额达6亿元。若将三个月前完成的C轮融资合并计算，公司在短短一个季度内累计融资近10亿元。
-  本轮融资汇集了多元化的投资阵容，既包括基石资本等知名投资机构，也有国泰君安创新投等国央企背景的机构，以及浙江财通资本、四川振兴集团、成都天创投等地方投资平台，毅达资本、华强资本持续跟投。
-  量旋科技成立于2018年，是一家专注于量子计算产业化的高科技企业，总部位于深圳。公司创始人兼CEO项金根毕业于清华大学物理系，曾任哈佛大学博士后研究员，在量子计算领域拥有超过15年的研发经验。核心团队来</description>
-      <pubDate>Fri, 03 Apr 2026 01:15:44 +0000</pubDate>
       <source>36氪</source>
     </item>
   </channel>
