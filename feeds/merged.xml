@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 11 Apr 2026 23:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:54:43 +0000</lastBuildDate>
     <item>
       <title>Greece to ban social media for under-15s from next year</title>
       <link>https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -40,13 +40,6 @@ The post AI content can rank, but quality still decides winners appeared first o
 The post Using AI isn’t the same as getting value from it appeared first on MarTech.</description>
       <pubDate>Tue, 07 Apr 2026 13:07:00 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>ChatGPT finally offers $100/month Pro plan</title>
-      <link>https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/</link>
-      <description>[TechCrunch AI] OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.</description>
-      <pubDate>Thu, 09 Apr 2026 21:29:11 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>OpenAI pauses UK data centre deal over energy costs and regulation</title>
@@ -93,6 +86,132 @@ The post How to make AI work with context instead of prompts appeared first on M
       <source>Business Times</source>
     </item>
     <item>
+      <title>【钛晨报】创业板改革再出发，增设第四套上市标准；马斯克的“西方微信”要上线了；王石发博回应“被抓”传闻：一切安好，造谣者交给法律</title>
+      <link>https://www.tmtpost.com/7950349.html</link>
+      <description>[钛媒体] 京东新“国民好车”合作品牌为深蓝汽车；微信3月更新9项功能，微信、企微支持连接自己的龙虾；台积电3月销售额4151.9亿元新台币，同比增长45.2%；阿里认领HappyHorse：目前仍处于内测，近期将开放API；华为入局AI眼镜；MiniMax上线新一代音乐生成模型Music 2.6；房子被扔“燃烧瓶”，OpenAI CEO奥尔特曼公开发声；3·15晚会曝光“万能神药”涉事企业被吊销营业执照并罚200万元；国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》；脑机接口等国家标准发布；黑石拟推动数据中心收购公司IPO，拟筹资20亿美元；香港金管局：向碇点金融及汇丰银行发出首批稳定币</description>
+      <pubDate>Sun, 12 Apr 2026 23:20:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Dollar jumps as failed US-Iran peace talks spark safe-haven push</title>
+      <link>https://www.channelnewsasia.com/business/dollar-jumps-failed-us-iran-peace-talks-spark-safe-haven-push-6052251</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 12 Apr 2026 22:32:55 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Trump officials may be encouraging banks to test Anthropic’s Mythos model</title>
+      <link>https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/</link>
+      <description>[TechCrunch AI] The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.</description>
+      <pubDate>Sun, 12 Apr 2026 21:14:38 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>More fresh grads needed to buoy Singapore’s key maritime industry, says maritime foundation boss</title>
+      <link>https://www.straitstimes.com/business/companies-markets/ceo-insights-more-fresh-grads-needed-in-maritime-to-buoy-spores-key-sector</link>
+      <description>[Straits Times] Singapore Maritime Foundation chairman Hor Weng Yew hopes to change Singaporeans' impression of the industry.</description>
+      <pubDate>Sun, 12 Apr 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>IMF chief warns global monetary system not ready for AI cyber threats</title>
+      <link>https://www.straitstimes.com/business/imf-chief-warns-global-monetary-system-not-ready-for-ai-cyber-threats</link>
+      <description>[Straits Times] Her comments came the latest AI model from Anthropic raises urgent cybersecurity concerns.</description>
+      <pubDate>Sun, 12 Apr 2026 20:33:07 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Raising the bar for manufacturing: Inside six smart S’pore factories earning global recognition</title>
+      <link>https://www.straitstimes.com/business/smart-singapore-factories-earn-global-recognition-advanced-manufacturing-edb</link>
+      <description>[Straits Times] They are recognised by the World Economic Forum for their use of Industry 4.0 technologies to scale production and strengthen supply chains.</description>
+      <pubDate>Sun, 12 Apr 2026 20:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Apple reportedly testing four designs for upcoming smart glasses</title>
+      <link>https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/</link>
+      <description>[TechCrunch AI] These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.</description>
+      <pubDate>Sun, 12 Apr 2026 19:58:42 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>From LLMs to hallucinations, here’s a simple guide to common AI terms</title>
+      <link>https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <description>[TechCrunch AI] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
+      <pubDate>Sun, 12 Apr 2026 15:07:08 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>At the HumanX conference, everyone was talking about Claude</title>
+      <link>https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/</link>
+      <description>[TechCrunch AI] Anthropic was the star of the show at San Francisco's AI-centric conference.</description>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>数十家企业争相接入GLM-5.1，中国大模型从“追赶”进入“攻坚”</title>
+      <link>https://www.tmtpost.com/7950419.html</link>
+      <description>[钛媒体] 在大模型圈，有一种“官宣”比产品发布本身更值得注意：谁在第一时间接入了它。</description>
+      <pubDate>Sun, 12 Apr 2026 14:54:14 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>139%的客户在增购：一家中科院AI公司的八年从实验室到港股 | IPO观察</title>
+      <link>https://www.tmtpost.com/7950387.html</link>
+      <description>[钛媒体] 一家从中国科学院自动化所走出来的AI公司，带着“决策智能第一股”的标签叩响港股大门。</description>
+      <pubDate>Sun, 12 Apr 2026 13:23:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>UK regulators rush to assess risks of latest Anthropic AI model, FT reports</title>
+      <link>https://www.channelnewsasia.com/business/uk-regulators-rush-assess-risks-latest-anthropic-ai-model-ft-reports-6051736</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 12 Apr 2026 12:13:25 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>The AI code wars are heating up</title>
+      <link>https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic</link>
+      <description>[The Verge AI] This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer ap</description>
+      <pubDate>Sun, 12 Apr 2026 12:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>奥特曼家门口那把火，烧出了AI时代的分配矛盾</title>
+      <link>https://www.tmtpost.com/7950006.html</link>
+      <description>[钛媒体] 当一项技术开始同时改变成本、岗位和分配，它带来的冲突就很难永远停留在讨论层面。</description>
+      <pubDate>Sun, 12 Apr 2026 08:26:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>阿里HappyHorse，一场关于“Token经济”的阳谋</title>
+      <link>https://www.tmtpost.com/7949938.html</link>
+      <description>[钛媒体] 压力给到了字节，还是快手，或是腾讯？</description>
+      <pubDate>Sun, 12 Apr 2026 04:25:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Tata Sons chairman tells workers Air India faces challenging time</title>
+      <link>https://www.straitstimes.com/business/tata-group-chair-tells-workers-air-india-faces-challenging-time</link>
+      <description>[Straits Times] The carrier is struggling to reverse record losses and fix persistent operational failures.</description>
+      <pubDate>Sun, 12 Apr 2026 01:59:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>管理提升的 AI 化</title>
+      <link>https://www.tmtpost.com/7950044.html</link>
+      <description>[钛媒体] 管理升级唯有拥抱 AI，才行稳致远。</description>
+      <pubDate>Sun, 12 Apr 2026 01:25:57 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Singapore stocks rise on temporary US-Iran ceasefire relief, but Singtel bucks trend</title>
+      <link>https://www.straitstimes.com/business/companies-markets/us-iran-ceasefire-lifts-spore-market-trading-on-sgx-surges-despite-the-war</link>
+      <description>[Straits Times] Retail investors bought more shares in March despite the war in the Middle East.</description>
+      <pubDate>Sat, 11 Apr 2026 23:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
       <title>Me and My Money: Growing up in a tea plantation taught him about money</title>
       <link>https://www.straitstimes.com/business/invest/me-and-my-money-growing-up-in-a-tea-plantation-taught-him-about-money</link>
       <description>[Straits Times] The Singapore country manager of MoneyHero Group takes a relaxed approach to his finances.</description>
@@ -135,13 +254,6 @@ The post How to make AI work with context instead of prompts appeared first on M
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>滴滴自动驾驶张博：深耕AI、硬件、场景三大能力，持续强化创新突破</title>
-      <link>https://www.tmtpost.com/7949810.html</link>
-      <description>[钛媒体] 滴滴自动驾驶始终坚持负责任的科技创新。</description>
-      <pubDate>Sat, 11 Apr 2026 09:54:25 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Cathay Pacific to cut flights from mid-May to end-June as jet fuel prices surge</title>
       <link>https://www.channelnewsasia.com/business/cathay-pacific-cut-flights-fuel-price-iran-war-6050626</link>
       <description>[CNA Tech] The Hong Kong-based airline will cancel about 2 per cent of its scheduled passenger flights from May 16 to Jun 30, 2026.</description>
@@ -154,27 +266,6 @@ The post How to make AI work with context instead of prompts appeared first on M
       <description>[WIRED AI] From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.</description>
       <pubDate>Sat, 11 Apr 2026 09:30:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>所谓Skill，不过是AI时代的工业垃圾</title>
-      <link>https://www.tmtpost.com/7949507.html</link>
-      <description>[钛媒体] 所谓Skill，不过是AI时代的工业垃圾</description>
-      <pubDate>Sat, 11 Apr 2026 08:56:23 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>奥特曼家差点被烧，AI争议滑向物理暴力</title>
-      <link>https://www.tmtpost.com/7949710.html</link>
-      <description>[钛媒体] “我懂你的难处，但你烧我家是否有点过分”</description>
-      <pubDate>Sat, 11 Apr 2026 08:43:29 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>大模型厂商，是时候告别Token狂欢了</title>
-      <link>https://www.tmtpost.com/7949702.html</link>
-      <description>[钛媒体] 更便宜的Token不是未来。</description>
-      <pubDate>Sat, 11 Apr 2026 08:36:53 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>拿下豪华种子轮，一家明星AI公司宣布倒闭</title>
@@ -218,20 +309,6 @@ The post How to make AI work with context instead of prompts appeared first on M
       <source>Business Times</source>
     </item>
     <item>
-      <title>星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨</title>
-      <link>https://www.tmtpost.com/7949632.html</link>
-      <description>[钛媒体] 奥特曼的AI基建牌桌还稳吗？</description>
-      <pubDate>Sat, 11 Apr 2026 04:55:15 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>专治AI说谎，25岁天才少女公司估值过百亿</title>
-      <link>https://www.tmtpost.com/7949630.html</link>
-      <description>[钛媒体] 硅谷新贵，窄路逆袭</description>
-      <pubDate>Sat, 11 Apr 2026 04:55:12 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>雷军投的&quot;红娘&quot;要去IPO了</title>
       <link>https://36kr.com/p/3761856919093768?f=rss</link>
       <description>[36氪] 伊达母公司米连科技向港交所递交招股书
@@ -243,13 +320,6 @@ The post How to make AI work with context instead of prompts appeared first on M
   与互联网企业常见的“赔本赚吆喝”的套路不同，米连的财报十分亮眼。招股书披露其在</description>
       <pubDate>Sat, 11 Apr 2026 03:19:31 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>First-class seats drive airline profits. It wasn’t always this way</title>
-      <link>https://www.straitstimes.com/business/first-class-seats-drive-airline-profits-it-wasnt-always-this-way</link>
-      <description>[Straits Times] Airlines became better at selling premium seats to travellers, and customers grew much more willing to pay for them.</description>
-      <pubDate>Sat, 11 Apr 2026 03:00:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>低空经济第一股，来了</title>
@@ -297,41 +367,6 @@ The post How to make AI work with context instead of prompts appeared first on M
       <source>36氪</source>
     </item>
     <item>
-      <title>US judge blocks Arizona criminal case against Kalshi at CFTC's request</title>
-      <link>https://www.channelnewsasia.com/business/us-judge-blocks-arizona-criminal-case-against-kalshi-cftcs-request-6050166</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 10 Apr 2026 23:49:01 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Tesla's supervised self-driving software gets Dutch okay, first in Europe</title>
-      <link>https://www.channelnewsasia.com/business/teslas-supervised-self-driving-software-gets-dutch-okay-first-in-europe-6050026</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 10 Apr 2026 21:13:43 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>The risk of relying on spousal maintenance for all expenses after divorce</title>
-      <link>https://www.straitstimes.com/business/invest/the-risk-of-relying-on-spousal-maintenance-for-all-expenses</link>
-      <description>[Straits Times] There is nothing stopping retired spouses from asking for a revision or even a revocation due to financial hardship.</description>
-      <pubDate>Fri, 10 Apr 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release, CNBC reports</title>
-      <link>https://www.channelnewsasia.com/business/vance-bessent-questioned-tech-giants-ai-security-anthropics-mythos-release-cnbc-reports-6049941</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 10 Apr 2026 20:41:03 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Wall St ends mixed, notches weekly gains as investors parse Middle East negotiations</title>
-      <link>https://www.straitstimes.com/business/companies-markets/wall-st-ends-mixed-notches-weekly-gains-as-investors-parse-middle-east-negotiations</link>
-      <description>[Straits Times] The Dow Jones Industrial Average fell 282.62 points, or 0.59 per cent, to 47,903.18.</description>
-      <pubDate>Fri, 10 Apr 2026 20:30:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Anthropic temporarily banned OpenClaw’s creator from accessing Claude</title>
       <link>https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/</link>
       <description>[TechCrunch AI] This ban took place after Claude's pricing changed for OpenClaw users last week.</description>
@@ -360,20 +395,6 @@ The post How to make AI work with context instead of prompts appeared first on M
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings</title>
-      <link>https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/</link>
-      <description>[TechCrunch AI] OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.</description>
-      <pubDate>Fri, 10 Apr 2026 16:41:34 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it</title>
-      <link>https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/</link>
-      <description>[TechCrunch AI] SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI i</description>
-      <pubDate>Fri, 10 Apr 2026 16:38:43 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home</title>
       <link>https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/</link>
       <description>[WIRED AI] An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.</description>
@@ -395,20 +416,6 @@ The post How to make AI work with context instead of prompts appeared first on M
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>S’pore working to boost liquidity, grow pipeline of IPOs, draw more investors to revive stock market</title>
-      <link>https://www.straitstimes.com/business/building-singapore-as-a-growth-capital-hub-creating-a-pipeline-for-future-listings</link>
-      <description>[Straits Times] Much work is needed to achieve a “true renaissance”, said MAS assistant managing director Gillian Tan.</description>
-      <pubDate>Fri, 10 Apr 2026 14:15:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass</title>
-      <link>https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/</link>
-      <description>[TechCrunch AI] This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.</description>
-      <pubDate>Fri, 10 Apr 2026 14:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Dancer with MND performs on stage again through digital avatar</title>
       <link>https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] Breanna Olson said brainwave tech was able to re-establish the expression and connection she felt had gone.</description>
@@ -422,13 +429,6 @@ The post How to make AI work with context instead of prompts appeared first on M
 The post Dell: Agents drive more ecommerce traffic, but conversions lag appeared first on MarTech.</description>
       <pubDate>Fri, 10 Apr 2026 12:56:00 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>Fear and loathing at OpenAI</title>
-      <link>https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast</link>
-      <description>[The Verge AI] Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and </description>
-      <pubDate>Fri, 10 Apr 2026 12:23:18 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>A 6-step AI workflow for building better seasonal campaigns</title>
@@ -458,13 +458,6 @@ The post A 6-step AI workflow for building better seasonal campaigns appeared fi
       <description>[BBC Technology] The gambling platforms have grown in popularity, with some users making wagers on conflicts.</description>
       <pubDate>Fri, 10 Apr 2026 02:32:27 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Anthropic’s AI model scare sparks urgent US warning to bank CEOs</title>
-      <link>https://www.straitstimes.com/business/companies-markets/anthropics-ai-model-scare-sparks-urgent-bessent-powell-warning-to-us-bank-ceos</link>
-      <description>[Straits Times] Mythos can identify and then exploit vulnerabilities in every major operating system and web browser.</description>
-      <pubDate>Fri, 10 Apr 2026 01:42:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
   </channel>
 </rss>
