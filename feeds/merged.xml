@@ -3,41 +3,13 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 01 May 2026 22:54:05 +0000</lastBuildDate>
-    <item>
-      <title>China’s Meta backlash renders Manus model ‘officially dead’</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/chinas-meta-backlash-renders-manus-model-officially-dead</link>
-      <description>[Business Times] Beijing is piling on the pressure just as startups grapple with escalating geopolitical tensions</description>
-      <pubDate>Wed, 29 Apr 2026 04:17:48 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>Billionaire founder overhauls MiroMind after warning on Manus</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/startups/billionaire-founder-overhauls-miromind-after-warning-manus</link>
-      <description>[Business Times] AI startup’s approach may now offer a formula for domestic firms hoping to set up global businesses</description>
-      <pubDate>Tue, 28 Apr 2026 11:52:34 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>The AI arms race and China’s bid to stop Manus’ US$2 billion sale to Meta, explained</title>
-      <link>https://www.businesstimes.com.sg/international/global/ai-arms-race-and-chinas-bid-stop-manus-us2-billion-sale-meta-explained</link>
-      <description>[Business Times] The startup’s parent company moved its headquarters to Singapore in June 2025, shortly before the deal</description>
-      <pubDate>Tue, 28 Apr 2026 10:50:48 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 22:50:08 +0000</lastBuildDate>
     <item>
       <title>Will AI lead to more accurate opinion polls?</title>
       <link>https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?</description>
       <pubDate>Thu, 30 Apr 2026 23:11:37 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks</title>
-      <link>https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/</link>
-      <description>[TechCrunch AI] Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.</description>
-      <pubDate>Thu, 30 Apr 2026 23:07:56 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Good Luck Getting a Mac Mini for the Next ‘Several Months’</title>
@@ -68,13 +40,6 @@
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts</title>
-      <link>https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/</link>
-      <description>[WIRED AI] OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.</description>
-      <pubDate>Thu, 30 Apr 2026 17:30:39 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>The latest AI-powered martech news and releases</title>
       <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
       <description>[MarTech] As AI billionaires cash in, they’re already gearing up to sell the public on a feel-good story no one asked for and even fewer will buy.
@@ -99,42 +64,6 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <source>MarTech</source>
     </item>
     <item>
-      <title>元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发</title>
-      <link>https://36kr.com/p/3789235646094339?f=rss</link>
-      <description>[36氪] 文&amp;nbsp;|&amp;nbsp;张冰冰
-  编辑&amp;nbsp;|&amp;nbsp;阿至
-  36氪获悉，武汉天石科丰新能源科技有限公司（以下简称「天石科丰」）近期宣布完成数千万元pre-A轮融资，由元禾原点领投，天泓投资跟投，启辰资本担任长期财务顾问，本轮融资将主要用于产品研发及百吨级产线落地。
-  「天石科丰」成立于2022年12月，聚焦于硫化物固态电解质粉体材料研发和生产，技术孵化于武汉理工大学和德国吉森大学，开发出空气稳定性良好且室温离子电导率达12&amp;nbsp;mS/cm的硫化物电解质粉体，室温离子电导率达3mS/cm、厚度20μm的LPSCB基复合电解质膜。
-  作为硫化物固态电池上游粉体材料供应</description>
-      <pubDate>Thu, 30 Apr 2026 11:32:16 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”</title>
-      <link>https://36kr.com/p/3789057332043016?f=rss</link>
-      <description>[36氪] 作者 | 邓咏仪
-  编辑 | 杨轩
-  如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。
-  来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。
-  
-  Nebula NEXT 01&amp;nbsp;
-  在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO James Keyes、Meta 前 VP来谈论AI如何重塑物理世界；而苹果联合创始人沃兹尼亚克（Steve Wozni</description>
-      <pubDate>Thu, 30 Apr 2026 09:33:41 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>HappyHorse没有惊喜</title>
-      <link>https://36kr.com/p/3789098887077123?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;兰杰
-  编辑&amp;nbsp;|&amp;nbsp;乔芊
-  4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。&amp;nbsp;
-  HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。
-  该视频模型饱受关注的原因有二。&amp;nbsp;
-  一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测为主要形式的权威AI评测平台Artificial Analysis AI V</description>
-      <pubDate>Thu, 30 Apr 2026 09:11:22 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>Chinese firms struggle to catch up with South Korea, Taiwan leaders in AI chips, say analysts</title>
       <link>https://www.businesstimes.com.sg/international/global/chinese-firms-struggle-catch-south-korea-taiwan-leaders-ai-chips-say-analysts</link>
       <description>[Business Times] Less-robust internal supply chains and US restrictions on China seen as holding down progress</description>
@@ -142,21 +71,233 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <source>Business Times</source>
     </item>
     <item>
-      <title>What China’s blocking of Manus deal means for its AI start-ups relocating overseas for US capital</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/startups/what-chinas-blocking-manus-deal-means-its-ai-start-ups-relocating-overseas-us-capital</link>
-      <description>[Business Times] The startup’s fate raises questions about Chinese AI firms venturing abroad in search of a more neutral identity with which to tap foreign funds and expand globally</description>
-      <pubDate>Thu, 30 Apr 2026 01:31:32 +0000</pubDate>
+      <title>AI-generated actors and scripts are now ineligible for Oscars</title>
+      <link>https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/</link>
+      <description>[TechCrunch AI] Bad news for Tilly Norwood.</description>
+      <pubDate>Sat, 02 May 2026 21:54:58 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Woman skipped ABSD by using ‘goddaughter’ to buy a $3m apartment</title>
+      <link>https://www.straitstimes.com/business/invest/woman-skipped-absd-by-using-goddaughter-to-buy-a-3m-apartment</link>
+      <description>[Straits Times] She later got the goddaughter to transfer a 1 per cent share of the property for her to apply for a bank loan.</description>
+      <pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Airlines scramble to help stranded Spirit passengers after budget carrier collapses</title>
+      <link>https://www.channelnewsasia.com/world/airlines-scramble-help-stranded-spirit-passengers-after-budget-carrier-collapses-6096261</link>
+      <description>[CNA Tech] United Airlines, Delta Air Lines, JetBlue and Southwest are all capping ticket prices for Spirit customers who now need to rebook canceled flights and customers must provide a Spirit flight confirmation number to qualify.</description>
+      <pubDate>Sat, 02 May 2026 17:05:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>The best AI dictation apps, tested and ranked</title>
+      <link>https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/</link>
+      <description>[TechCrunch AI] AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice</description>
+      <pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线</title>
+      <link>https://36kr.com/p/3789475357400068?f=rss</link>
+      <description>[36氪] 文｜肖漫
+  编辑｜李勤
+  当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。
+  卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。
+  “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。
+  在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。
+  这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随</description>
+      <pubDate>Sat, 02 May 2026 13:17:06 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>在硅谷，中美具身公司聊了聊了4个问题的解法</title>
+      <link>https://36kr.com/p/3792155815304450?f=rss</link>
+      <description>[36氪] 文｜周鑫雨
+  编辑｜杨轩
+  规模化落地，今年的具身公司都在谈这个。
+  数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。
+  激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。
+  在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要</description>
+      <pubDate>Sat, 02 May 2026 13:01:36 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Disneyland Now Uses Face Recognition on Visitors</title>
+      <link>https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/</link>
+      <description>[WIRED AI] Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.</description>
+      <pubDate>Sat, 02 May 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Meta faces New Mexico trial that could force changes to Facebook, other platforms</title>
+      <link>https://www.channelnewsasia.com/business/meta-faces-new-mexico-trial-could-force-changes-facebook-other-platforms-6095951</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 02 May 2026 10:03:51 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>那个在OpenAI修中文的人</title>
+      <link>https://www.tmtpost.com/7975466.html</link>
+      <description>[钛媒体] 在知乎看见陈博远发文了！</description>
+      <pubDate>Sat, 02 May 2026 09:52:16 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>周杰伦伙伴，要被卖了</title>
+      <link>https://36kr.com/p/3791838183234816?f=rss</link>
+      <description>[36氪] 图片来源：视觉中国
+  作者/吴琼
+  报道/投资界PEdaily
+  音乐顶流也迎来了卖身结局。
+  近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。
+  你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔钱进了环球音乐的口袋。
+  如今面对天价邀约，这家音乐帝国正面临着抉择时刻。
+  估值4000亿，环球音乐要被卖了
+  此</description>
+      <pubDate>Sat, 02 May 2026 09:37:20 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>又一算力独角兽，冲击IPO</title>
+      <link>https://36kr.com/p/3791796527602951?f=rss</link>
+      <description>[36氪] 作者丨韦香惠
+  来源丨东四十条资本
+  A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。
+  主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。
+  这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系中国移动旗下中移资本，持股15.14%。成立至今，核聚变已至少完成8轮股权融资，身后VC/PE超过30家。
+  超聚变之所以受资本青睐，离不开“</description>
+      <pubDate>Sat, 02 May 2026 07:38:58 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Apple raises Mac mini’s starting price to US$799 after AI frenzy drains supply</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/apple-raises-mac-minis-starting-price-us799-after-ai-frenzy-drains-supply</link>
+      <description>[Business Times] [NEW YORK] Apple raised the starting price of its Mac mini desktop to US$799 from US$599, adjusting to inventory shortages driven by...</description>
+      <pubDate>Sat, 02 May 2026 07:00:00 +0000</pubDate>
       <source>Business Times</source>
     </item>
     <item>
-      <title>Anthropic considering funding offers at over US$900 billion value</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-considering-funding-offers-over-us900-billion-value</link>
-      <description>[Business Times] The Claude maker has been on the hunt for more infrastructure to meet growing demand for its products</description>
-      <pubDate>Thu, 30 Apr 2026 00:25:19 +0000</pubDate>
+      <title>苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？</title>
+      <link>https://36kr.com/p/3791662444911617?f=rss</link>
+      <description>[36氪] 梦晨 发自 凹非寺
+  苹果大失误！把自用的Claude.md打包到了官方App里。
+  这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。
+  这么大的公司，也在Vibe Coding？
+  
+  苹果内部在使用Claude Code构建生产级应用
+  项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……
+  这家全球最注重保密的科技公司，还是把自己的秘密泄露了。
+  事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。
+  等一下。
+  这和Claude Code源码泄露时把source map打包进发布版怎么一</description>
+      <pubDate>Sat, 02 May 2026 06:52:34 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Japan's Taiyo Oil to receive cargo of oil from Russia's Sakhalin-2 as Iran war continues</title>
+      <link>https://www.channelnewsasia.com/business/japans-taiyo-oil-receive-cargo-oil-russias-sakhalin-2-iran-war-continues-6095821</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 02 May 2026 06:50:26 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Hormuz closure exposes Taiwan and Korea’s AI energy trap</title>
+      <link>https://www.businesstimes.com.sg/international/hormuz-closure-exposes-taiwan-and-koreas-ai-energy-trap</link>
+      <description>[Business Times] THE ripple effect of the ongoing Strait of Hormuz crisis is spreading far and wide, with Taiwan and South Korea – the two indispensable...</description>
+      <pubDate>Sat, 02 May 2026 05:00:00 +0000</pubDate>
       <source>Business Times</source>
     </item>
     <item>
-      <title>Oscars says AI actors, writing cannot win awards</title>
+      <title>Spirit Airlines shuts down, industry's first Iran war casualty</title>
+      <link>https://www.channelnewsasia.com/world/us-spirit-airlines-shuts-down-jet-fuel-iran-war-6095676</link>
+      <description>[CNA Tech] The collapse of Spirit will result in thousands of lost jobs and marks the first airline to fail in part due to a doubling in jet fuel prices during the two-month-old Iran war.</description>
+      <pubDate>Sat, 02 May 2026 04:08:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Meta-Manus deal reversal redraws lines for global AI startups</title>
+      <link>https://www.businesstimes.com.sg/international/meta-manus-deal-reversal-redraws-lines-global-ai-startups</link>
+      <description>[Business Times] CHINA’S order to unwind Meta’s US$2 billion acquisition of Manus has sent artificial intelligence (AI) founders into panic mode, especially those with strong Chinese...</description>
+      <pubDate>Sat, 02 May 2026 03:00:00 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>寒武纪2026年一季报点评｜公司点评</title>
+      <link>https://www.tmtpost.com/7975401.html</link>
+      <description>[钛媒体] 业绩变动主要系报告期内受益于人工智能行业算力需求的持续攀升，公司凭借产品的优异竞争力持续拓展市场，积极推动人工智能应用场景落地，带动报告期内收入较上年同期大幅增长。</description>
+      <pubDate>Sat, 02 May 2026 02:20:36 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>价值判断：涨停板的投资机会和风险提示（4月30日）｜证券市场观察</title>
+      <link>https://www.tmtpost.com/7975390.html</link>
+      <description>[钛媒体] 主要指数本月集体收涨，市场总体呈现震荡攀升态势，创业板指涨超15%，突破2015年6月3日的高点，刷新十年新高。创业板综指创历史新高，突破2015年6月3日的高点。科创50指数大涨超25%，沪指站稳4100点。</description>
+      <pubDate>Sat, 02 May 2026 02:15:12 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>GEO大爆炸时代，品牌都在怎么做AI营销</title>
+      <link>https://www.tmtpost.com/7975060.html</link>
+      <description>[钛媒体] 成交链路越短的行业，受AI影响越大，对AI的应对需要更及时；链路越长，AI介入难度越大，企业应对也可更有耐心。</description>
+      <pubDate>Sat, 02 May 2026 02:14:11 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>谷歌给中概AI厂商打好了样</title>
+      <link>https://www.tmtpost.com/7975127.html</link>
+      <description>[钛媒体] 当外界还在为AI 泡沫争论不休时，谷歌股价已经创历史新高。</description>
+      <pubDate>Sat, 02 May 2026 02:14:01 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>当女魔头遇见AI浪潮</title>
+      <link>https://www.tmtpost.com/7975274.html</link>
+      <description>[钛媒体] 从《穿普拉达的女王2》看技术革命如何重写职场权力地图？</description>
+      <pubDate>Sat, 02 May 2026 02:11:49 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Musk’s trial against OpenAI hits some rough spots in first week</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/technology/musks-trial-against-openai-hits-some-rough-spots-first-week</link>
+      <description>[Business Times] [AUSTIN, TEXAS] Elon Musk set out to tell a jury that his falling out with OpenAI was a simple tale of betrayal.</description>
+      <pubDate>Sat, 02 May 2026 01:30:00 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT</title>
+      <link>https://36kr.com/p/3791460373929221?f=rss</link>
+      <description>[36氪] 编辑：桃子
+  【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。
+  对薄公堂第四天，马斯克爆出了大瓜！
+  4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。
+  现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题：
+  xAI是否蒸馏了OpenAI的模型？
+  马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？
+  部分如此（Partly）。
+  此话一出，全网瞬间看呆！
+  
+  马斯克承认Grok模型蒸馏了ChatGP</description>
+      <pubDate>Sat, 02 May 2026 01:25:01 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell</title>
+      <link>https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/</link>
+      <description>[TechCrunch AI] At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit</description>
+      <pubDate>Fri, 01 May 2026 23:06:50 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>‘No more WeWork-style growth’: Hmlet CEO Yoan Kamalski on his comeback and lessons learnt</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/no-more-wework-style-growth-hmlet-ceo-yoan-kamalski-his-comeback-and-lessons-learnt</link>
+      <description>[Business Times] ‘Unfinished desires’ fuel his return and the pivot to sustainable growth under Mitsubishi Estate</description>
+      <pubDate>Fri, 01 May 2026 23:00:00 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>Oscars says AI actors and writing cannot win awards</title>
       <link>https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.</description>
       <pubDate>Fri, 01 May 2026 22:30:59 +0000</pubDate>
@@ -191,16 +332,16 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Why it pays to check the costs and taxes before investing in more properties</title>
-      <link>https://www.straitstimes.com/business/invest/why-it-pays-to-check-the-costs-and-taxes-before-investing-in-more-properties</link>
-      <description>[Straits Times] Investors should always factor in the applicable taxes before investing in properties</description>
+      <title>Lower interest rates, resilient Singapore retail sector behind surge of mall deals</title>
+      <link>https://www.straitstimes.com/business/property/lower-interest-rates-resilient-singapore-retail-sector-behind-surge-of-mall-deals</link>
+      <description>[Straits Times] This is despite issues from the Iran war that could curb people’s spending, and lead to slower economic growth globally.</description>
       <pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Lower interest rates, resilient Singapore retail sector behind surge of mall deals</title>
-      <link>https://www.straitstimes.com/business/property/lower-interest-rates-resilient-singapore-retail-sector-behind-surge-of-mall-deals</link>
-      <description>[Straits Times] This is despite issues from the Iran war that could curb people’s spending, and lead to slower economic growth globally.</description>
+      <title>Why it pays to check the costs and taxes before investing in more properties</title>
+      <link>https://www.straitstimes.com/business/invest/why-it-pays-to-check-the-costs-and-taxes-before-investing-in-more-properties</link>
+      <description>[Straits Times] Investors should always factor in the applicable taxes before investing in properties.</description>
       <pubDate>Fri, 01 May 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
@@ -247,13 +388,6 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>Tether slows gold purchases for USDT reserves in first quarter, data shows</title>
-      <link>https://www.channelnewsasia.com/business/tether-slows-gold-purchases-usdt-reserves-in-first-quarter-data-shows-6094946</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 01 May 2026 16:23:19 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks</title>
       <link>https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/</link>
       <description>[TechCrunch AI] The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.</description>
@@ -266,20 +400,6 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <description>[The Verge AI] The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which</description>
       <pubDate>Fri, 01 May 2026 14:09:56 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Musk v. Altman is just getting started</title>
-      <link>https://techcrunch.com/video/musk-v-altman-is-just-getting-started/</link>
-      <description>[TechCrunch AI] Elon Musk spent the better part of three days&amp;#160;on the witness stand&amp;#160;this week&amp;#160;in his lawsuit against OpenAI, and&amp;#160;it&amp;#8217;s&amp;#160;already getting messy. Emails, texts, and&amp;#160;his own tweets&amp;#160;are surfacing in court, and there are plenty more witnesses to come. Musk&amp;#8217;s arg</description>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>S&amp;P 500 profit eyes sharpest quarterly growth in four years after Big Tech results</title>
-      <link>https://www.channelnewsasia.com/business/sp-500-profit-eyes-sharpest-quarterly-growth-in-four-years-after-big-tech-results-6094721</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 01 May 2026 13:54:48 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Elon Musk had a bad week in court</title>
@@ -320,20 +440,6 @@ The post AI shopping hits a trust ceiling even as AI adoption rises appeared fir
       <source>MarTech</source>
     </item>
     <item>
-      <title>Pentagon reaches agreements with top AI companies, but not Anthropic</title>
-      <link>https://www.channelnewsasia.com/business/pentagon-reaches-agreements-top-ai-companies-not-anthropic-6094501</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 01 May 2026 11:42:15 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>BYD's sales downturn extends to eighth straight month</title>
-      <link>https://www.channelnewsasia.com/business/byds-sales-downturn-extends-eighth-straight-month-6094496</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 01 May 2026 11:37:55 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Spotify adds 'Verified' badges to distinguish human artists from AI</title>
       <link>https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The music streaming platform will review criteria such as artists' live dates and social media presence.</description>
@@ -348,18 +454,6 @@ The post AI shopping hits a trust ceiling even as AI adoption rises appeared fir
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>追觅造车，从“火箭”开始</title>
-      <link>https://36kr.com/p/3790587098832137?f=rss</link>
-      <description>[36氪] 4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。
-  追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。&amp;nbsp;
-  从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。&amp;nbsp;
-  这款火箭车搭载专属定制双固体火箭助推系统，可实现150毫秒瞬时响应，最大推力100千牛，与波音737单台发动机的推力接近，车辆零百加速仅需0.9秒。&amp;nbsp;
-  
-  同时亮相的还有旗舰级激光雷达</description>
-      <pubDate>Fri, 01 May 2026 10:26:42 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>Apple says iPhone 17 'most popular ever' as sales soar</title>
       <link>https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The record results come as boss Tim Cook is preparing to bow out after 15 years at the helm.</description>
@@ -367,87 +461,11 @@ The post AI shopping hits a trust ceiling even as AI adoption rises appeared fir
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>闻泰科技*ST背后：争夺安世半导体控制权之鉴</title>
-      <link>https://www.tmtpost.com/7974894.html</link>
-      <description>[钛媒体] 2025年10月，一场围绕闻泰科技与安世半导体的控制权争议骤然升温。彼时的舆论场充满了一种情绪化的确定性—“硬刚”、“自主自救”、“不再依赖海外”等。但仅仅半年之后，现实却给出了截然不同的答案。闻泰科技2025年年报显示，其实现营收312.53亿元，同比大幅下滑，归母净利润巨亏87.48亿元，被实施*ST，退市风险骤然逼近。</description>
-      <pubDate>Fri, 01 May 2026 09:00:50 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>South Korea’s April exports rise 48% as chip boom extends</title>
       <link>https://www.straitstimes.com/business/economy/south-korean-april-exports-rise-48-as-chip-boom-extends</link>
       <description>[Straits Times] Semiconductor and computer-related exports surge, offsetting weaker autos and higher energy costs.</description>
       <pubDate>Fri, 01 May 2026 06:10:00 +0000</pubDate>
       <source>Straits Times</source>
-    </item>
-    <item>
-      <title>科大讯飞，AI教育的长坡与窄门</title>
-      <link>https://www.tmtpost.com/7974528.html</link>
-      <description>[钛媒体] 懂AI，更要懂教育</description>
-      <pubDate>Fri, 01 May 2026 03:59:15 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>苹果：AI 缺位、存储涨价，照样 “稳稳幸福”？</title>
-      <link>https://www.tmtpost.com/7974779.html</link>
-      <description>[钛媒体] iPhone 17 爆火，关注新 Siri 能否补齐 AI 短板</description>
-      <pubDate>Fri, 01 May 2026 03:53:44 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Meta: 烧钱堆不出顶模， 小扎又要慌</title>
-      <link>https://www.tmtpost.com/7974686.html</link>
-      <description>[钛媒体] 本质上，还是因为缺乏兑现 AI 故事的第二曲线</description>
-      <pubDate>Fri, 01 May 2026 03:20:46 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI缺位的苹果继续狂飙，权力交接的秘密藏在了Q1财报里</title>
-      <link>https://www.tmtpost.com/7974800.html</link>
-      <description>[钛媒体] 四万亿美金的十字路口，库克交棒满分财报，特努斯能否找回乔布斯的灵魂？</description>
-      <pubDate>Fri, 01 May 2026 02:57:40 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资</title>
-      <link>https://36kr.com/p/3790141500366085?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  硬氪获悉，近日，上海大航跃迁航天科技有限公司（下称“大航跃迁”）完成5亿元融资。本轮融资由前海方舟、厚纪资本、普华资本领投，君领资本、海愿资本、惠丰达、君川资本、重庆沙创科技、中重科技、元创资本、汉理资本、上海天使会等机构，以及产业方神猴电缆联合参与投资，部分老股东持续加仓；华兴资本担任长期财务顾问。
-  本轮资金将主要用于加速大航跃迁核心产品，国内首款塔架回收运载火箭“跃迁一号”的研制与首飞，百吨级液氧甲烷发动机研发与测试。
-  大航跃迁成立于2024年2月，是国内首家落地“筷子夹”塔架式回收技术的二代民营火</description>
-      <pubDate>Fri, 01 May 2026 02:52:49 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>AI巨额投入亮明牌，三大云财报冰火两重天 | 看财报</title>
-      <link>https://www.tmtpost.com/7974414.html</link>
-      <description>[钛媒体] 科技巨头将资本支出与现金流的底牌亮出后，投资者开始为巨额AI投入的确定性回报投票。</description>
-      <pubDate>Fri, 01 May 2026 02:31:43 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet</title>
-      <link>https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/</link>
-      <description>[TechCrunch AI] Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.</description>
-      <pubDate>Fri, 01 May 2026 02:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>The split between China and Silicon Valley just got wider</title>
-      <link>https://www.straitstimes.com/business/the-split-between-china-and-silicon-valley-just-got-wider</link>
-      <description>[Straits Times] China's insistence that Meta unwind its deal with Manus escalates the geopolitical fight over advanced tech.</description>
-      <pubDate>Fri, 01 May 2026 02:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线</title>
-      <link>https://36kr.com/p/3787830454787330?f=rss</link>
-      <description>[36氪] 在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。
-  4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国空间站建设以及太空生活等多个维度，并通过模型展示、VR体验等形式强化互动性。
-  从形式上看，这类跨界活动近年来在美妆行业并不罕见，但其背后所指向的“科技背书”，正在成为品牌竞争的重要组成部分——国际美妆巨</description>
-      <pubDate>Fri, 01 May 2026 01:42:35 +0000</pubDate>
-      <source>36氪</source>
     </item>
     <item>
       <title>How Shivon Zilis Operated as Elon Musk’s OpenAI Insider</title>
