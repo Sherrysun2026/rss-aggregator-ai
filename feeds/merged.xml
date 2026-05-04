@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sun, 03 May 2026 22:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 22:59:27 +0000</lastBuildDate>
     <item>
       <title>Will AI lead to more accurate opinion polls?</title>
       <link>https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -41,48 +41,11 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>MarTech</source>
     </item>
     <item>
-      <title>AI moved forward, marketing did not</title>
-      <link>https://martech.org/ai-moved-forward-marketing-did-not/</link>
-      <description>[MarTech] Marketers were early adopters of AI, but while it has evolved most teams are still stuck using it like a smarter autocomplete.
-The post AI moved forward, marketing did not appeared first on MarTech.</description>
-      <pubDate>Thu, 30 Apr 2026 12:27:00 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>Delegated authority is the missing layer in the AI martech stack</title>
-      <link>https://martech.org/delegated-authority/</link>
-      <description>[MarTech] Scaling AI without a clear governance layer risks uncoordinated liability. Delegated authority gives your agents the guardrails needed to act with confidence.
-The post Delegated authority is the missing layer in the AI martech stack appeared first on MarTech.</description>
-      <pubDate>Thu, 30 Apr 2026 12:25:48 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>Chinese firms struggle to catch up with South Korea, Taiwan leaders in AI chips, say analysts</title>
-      <link>https://www.businesstimes.com.sg/international/global/chinese-firms-struggle-catch-south-korea-taiwan-leaders-ai-chips-say-analysts</link>
-      <description>[Business Times] Less-robust internal supply chains and US restrictions on China seen as holding down progress</description>
-      <pubDate>Thu, 30 Apr 2026 04:51:18 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>Commentary: Tighter disclosures on pay, dividends for SGX-listed firms a timely move</title>
-      <link>https://www.channelnewsasia.com/commentary/sgx-stock-market-disclosure-rules-ceo-pay-dividend-policy-6094021</link>
-      <description>[CNA Tech] Concerns about how the latest proposed disclosure rules could be a strain for small and mid-cap listed firms on the Singapore Exchange are weak oft-repeated arguments, says former financial journalist Ven Sreenivasan.</description>
-      <pubDate>Sun, 03 May 2026 22:00:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>‘This is fine’ creator says AI startup stole his art</title>
-      <link>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</link>
-      <description>[TechCrunch AI] The ad comes from Artisan, the AI startup behind billboards urging businesses to &quot;stop hiring humans.&quot;</description>
-      <pubDate>Sun, 03 May 2026 20:16:51 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors</title>
-      <link>https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/</link>
-      <description>[TechCrunch AI] A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.</description>
-      <pubDate>Sun, 03 May 2026 18:00:09 +0000</pubDate>
-      <source>TechCrunch AI</source>
+      <title>Edge AI Daily 早报（5月4日）</title>
+      <link>https://www.tmtpost.com/7976030.html</link>
+      <description>[钛媒体] 苹果宣布放弃实施近八年的净现金中性目标，候任CEO特努斯将调整资本策略转向AI研发与战略性并购。OpenAI CEO萨姆·奥尔特曼透露GPT-5.5主动策划自身发布会。欧洲多国加速推进软件“去美化”进程，基于数据主权与战略自主考量，系统性替换美国软件产品转向本土或开源方案。</description>
+      <pubDate>Sun, 03 May 2026 23:55:05 +0000</pubDate>
+      <source>钛媒体</source>
     </item>
     <item>
       <title>How the internet’s favorite squirrel dad made the hottest camera app of 2026</title>
@@ -97,90 +60,6 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <description>[The Verge AI] This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of g</description>
       <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>SGX unit denies Swiss trader’s allegations over inaccurate Middle East oil shipping costs</title>
-      <link>https://www.straitstimes.com/business/sgx-unit-denies-swiss-traders-allegations-over-inaccurate-middle-east-oil-shipping-costs</link>
-      <description>[Straits Times] Mercuria Energy Group has alleged that the Baltic Exchange Information Services’ tanker pricing data is distorted.</description>
-      <pubDate>Sun, 03 May 2026 11:23:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Bank stocks gain as DBS results lift sentiment; property counters lag</title>
-      <link>https://www.straitstimes.com/business/bank-stocks-gain-as-dbs-results-lift-sentiment-property-counters-lag</link>
-      <description>[Straits Times] Several Catalist firms announced plans to move to the SGX mainboard.</description>
-      <pubDate>Sun, 03 May 2026 07:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>马斯克和阿莫迪，当桌宠还怪可爱嘞</title>
-      <link>https://www.tmtpost.com/7975795.html</link>
-      <description>[钛媒体] 微软三十年前的梦居然被OpenAI做成了？</description>
-      <pubDate>Sun, 03 May 2026 05:22:10 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>硅谷大厂的AI“含金量”开始分级</title>
-      <link>https://www.tmtpost.com/7975709.html</link>
-      <description>[钛媒体] 硅谷财报透底，当美国大厂开始收割AI，字节腾讯阿里们还差几步？</description>
-      <pubDate>Sun, 03 May 2026 02:42:45 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>“置顶”始祖鸟，小红书想成为升级版唯品会？</title>
-      <link>https://www.tmtpost.com/7975655.html</link>
-      <description>[钛媒体] 小红书电商等于几个唯品会</description>
-      <pubDate>Sun, 03 May 2026 01:48:19 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>假期出游，我被AI坑惨了</title>
-      <link>https://www.tmtpost.com/7975705.html</link>
-      <description>[钛媒体] 用AI做旅行攻略，六个真实的踩坑故事。</description>
-      <pubDate>Sun, 03 May 2026 01:14:14 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Agent 需要“油表”和“刹车”：一篇论文，扒光了 Agent 的“糊涂账”</title>
-      <link>https://www.tmtpost.com/7969858.html</link>
-      <description>[钛媒体] AI 写代码到底有多烧钱？</description>
-      <pubDate>Sun, 03 May 2026 00:33:53 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Edge AI Daily 早报（5月3日）</title>
-      <link>https://www.tmtpost.com/7975690.html</link>
-      <description>[钛媒体] 谷歌确认将在Gemini中引入广告， 移动端或成首批测试场，2026年内落地。全球AI竞赛进入资本密集型阶段，四大科技巨头计划2026年投入7250亿美元于AI基础设施，同比增长77%。OpenAI推出Codex宠物模式提升开发者体验，AMD发布支持2000亿参数模型本地运行的AI迷你主机。</description>
-      <pubDate>Sun, 03 May 2026 00:18:03 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI-generated actors and scripts are now ineligible for Oscars</title>
-      <link>https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/</link>
-      <description>[TechCrunch AI] Bad news for Tilly Norwood.</description>
-      <pubDate>Sat, 02 May 2026 21:54:58 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Woman skipped ABSD by using ‘goddaughter’ to buy a $3m apartment</title>
-      <link>https://www.straitstimes.com/business/invest/woman-skipped-absd-by-using-goddaughter-to-buy-a-3m-apartment</link>
-      <description>[Straits Times] She later got the goddaughter to transfer a 1 per cent share of the property for her to apply for a bank loan.</description>
-      <pubDate>Sat, 02 May 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Airlines scramble to help stranded Spirit passengers after budget carrier collapses</title>
-      <link>https://www.channelnewsasia.com/world/airlines-scramble-help-stranded-spirit-passengers-after-budget-carrier-collapses-6096261</link>
-      <description>[CNA Tech] United Airlines, Delta Air Lines, JetBlue and Southwest are all capping ticket prices for Spirit customers who now need to rebook canceled flights and customers must provide a Spirit flight confirmation number to qualify.</description>
-      <pubDate>Sat, 02 May 2026 17:05:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>The best AI dictation apps, tested and ranked</title>
-      <link>https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/</link>
-      <description>[TechCrunch AI] AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice</description>
-      <pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线</title>
@@ -213,13 +92,6 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <description>[WIRED AI] Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.</description>
       <pubDate>Sat, 02 May 2026 10:30:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Meta faces New Mexico trial that could force changes to Facebook, other platforms</title>
-      <link>https://www.channelnewsasia.com/business/meta-faces-new-mexico-trial-could-force-changes-facebook-other-platforms-6095951</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Sat, 02 May 2026 10:03:51 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>周杰伦伙伴，要被卖了</title>
@@ -273,25 +145,11 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <source>36氪</source>
     </item>
     <item>
-      <title>Japan's Taiyo Oil to receive cargo of oil from Russia's Sakhalin-2 as Iran war continues</title>
-      <link>https://www.channelnewsasia.com/business/japans-taiyo-oil-receive-cargo-oil-russias-sakhalin-2-iran-war-continues-6095821</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Sat, 02 May 2026 06:50:26 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Hormuz closure exposes Taiwan and Korea’s AI energy trap</title>
       <link>https://www.businesstimes.com.sg/international/hormuz-closure-exposes-taiwan-and-koreas-ai-energy-trap</link>
-      <description>[Business Times] THE ripple effect of the ongoing Strait of Hormuz crisis is spreading far and wide, with Taiwan and South Korea – the two indispensable...</description>
+      <description>[Business Times] Taiwan and South Korea are reliant on fossil fuel imports to power their factories</description>
       <pubDate>Sat, 02 May 2026 05:00:00 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>Spirit Airlines shuts down, industry's first Iran war casualty</title>
-      <link>https://www.channelnewsasia.com/world/us-spirit-airlines-shuts-down-jet-fuel-iran-war-6095676</link>
-      <description>[CNA Tech] The collapse of Spirit will result in thousands of lost jobs and marks the first airline to fail in part due to a doubling in jet fuel prices during the two-month-old Iran war.</description>
-      <pubDate>Sat, 02 May 2026 04:08:00 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Meta-Manus deal reversal redraws lines for global AI startups</title>
@@ -308,34 +166,213 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <source>Business Times</source>
     </item>
     <item>
-      <title>马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT</title>
-      <link>https://36kr.com/p/3791460373929221?f=rss</link>
-      <description>[36氪] 编辑：桃子
-  【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。
-  对薄公堂第四天，马斯克爆出了大瓜！
-  4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。
-  现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题：
-  xAI是否蒸馏了OpenAI的模型？
-  马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？
-  部分如此（Partly）。
-  此话一出，全网瞬间看呆！
-  
-  马斯克承认Grok模型蒸馏了ChatGP</description>
-      <pubDate>Sat, 02 May 2026 01:25:01 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell</title>
-      <link>https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/</link>
-      <description>[TechCrunch AI] At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit</description>
-      <pubDate>Fri, 01 May 2026 23:06:50 +0000</pubDate>
+      <title>OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO</title>
+      <link>https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/</link>
+      <description>[TechCrunch AI] AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.</description>
+      <pubDate>Mon, 04 May 2026 21:53:21 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>‘No more WeWork-style growth’: Hmlet CEO Yoan Kamalski on his comeback and lessons learnt</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/no-more-wework-style-growth-hmlet-ceo-yoan-kamalski-his-comeback-and-lessons-learnt</link>
-      <description>[Business Times] ‘Unfinished desires’ fuel his return and the pivot to sustainable growth under Mitsubishi Estate</description>
-      <pubDate>Fri, 01 May 2026 23:00:00 +0000</pubDate>
+      <title>Intel appoints Qualcomm executive to lead PC and physical AI business</title>
+      <link>https://www.channelnewsasia.com/business/intel-appoints-qualcomm-executive-lead-pc-and-physical-ai-business-6099591</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 04 May 2026 21:51:26 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Chipmaker Onsemi forecasts quarterly revenue above estimates on resilient auto demand</title>
+      <link>https://www.channelnewsasia.com/business/chipmaker-onsemi-forecasts-quarterly-revenue-above-estimates-resilient-auto-demand-6099566</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 04 May 2026 21:29:52 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Elon Musk settles US SEC lawsuit over Twitter disclosures, to pay $1.9 million penalty</title>
+      <link>https://www.straitstimes.com/business/elon-musk-settles-us-sec-lawsuit-over-twitter-disclosures-to-pay-1-9-million-penalty</link>
+      <description>[Straits Times] The penalty imposed on the tech mogul is the largest in SEC history for the type of violation he was accused of.</description>
+      <pubDate>Mon, 04 May 2026 21:16:12 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Global finance leaders flag shifting capital flows, AI impact at Milken</title>
+      <link>https://www.channelnewsasia.com/business/global-finance-leaders-flag-shifting-capital-flows-ai-impact-milken-6099446</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 04 May 2026 20:31:37 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Lattice Semiconductor to buy software firm AMI in $1.65 billion deal</title>
+      <link>https://www.channelnewsasia.com/business/lattice-semiconductor-buy-software-firm-ami-in-165-billion-deal-6099426</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 04 May 2026 20:28:37 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>White house considers vetting AI Models before they are released, NYT reports</title>
+      <link>https://www.channelnewsasia.com/business/white-house-considers-vetting-ai-models-they-are-released-nyt-reports-6099356</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 04 May 2026 19:44:43 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>European Commission is in contact with Anthropic on Mythos, Dombrovskis says</title>
+      <link>https://www.channelnewsasia.com/business/european-commission-in-contact-anthropic-mythos-dombrovskis-says-6099346</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 04 May 2026 19:43:05 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Image AI models now drive app growth, beating chatbot upgrades</title>
+      <link>https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/</link>
+      <description>[TechCrunch AI] Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.</description>
+      <pubDate>Mon, 04 May 2026 19:12:49 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race</title>
+      <link>https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/</link>
+      <description>[TechCrunch AI] Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.</description>
+      <pubDate>Mon, 04 May 2026 16:57:47 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>The creator of Roomba is back with a furry robot companion</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch</link>
+      <description>[The Verge AI] Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines &amp;#38; Magic, is a dog-sized robotic pet that </description>
+      <pubDate>Mon, 04 May 2026 16:51:38 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Sierra raises $950M as the race to own enterprise AI gets serious</title>
+      <link>https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</link>
+      <description>[TechCrunch AI] The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the &quot;global standard&quot; for AI-powered customer experiences.</description>
+      <pubDate>Mon, 04 May 2026 16:45:55 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims</title>
+      <link>https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/</link>
+      <description>[TechCrunch AI] Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman &quot;will be the most hated men in America&quot; if OpenAI doesn't settle the suit.</description>
+      <pubDate>Mon, 04 May 2026 16:36:03 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Anthropic and OpenAI are both launching joint ventures for enterprise AI services</title>
+      <link>https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/</link>
+      <description>[TechCrunch AI] Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.</description>
+      <pubDate>Mon, 04 May 2026 15:59:24 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</title>
+      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
+      <description>[The Verge AI] Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits </description>
+      <pubDate>Mon, 04 May 2026 15:43:49 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>OCBC to buy HSBC Indonesia’s retail banking business in first major deal under new CEO</title>
+      <link>https://www.straitstimes.com/business/ocbc-to-buy-hsbc-indonesias-retail-banking-business-in-first-major-deal-under-new-ceo</link>
+      <description>[Straits Times] The acquisition will add 336,000 customers and $6.6 billion in assets under management to OCBC Indonesia.</description>
+      <pubDate>Mon, 04 May 2026 14:09:55 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Oil jumps on signs of heightened tensions in Strait of Hormuz</title>
+      <link>https://www.straitstimes.com/business/companies-markets/oil-jumps-on-signs-of-heightened-tensions-in-strait-of-hormuz</link>
+      <description>[Straits Times] Brent spiked more than 5 per cent to trade above US$114 a barrel.</description>
+      <pubDate>Mon, 04 May 2026 13:55:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>How marketing leaders are succeeding in the AI era</title>
+      <link>https://martech.org/how-marketing-leaders-are-succeeding-in-the-ai-era/</link>
+      <description>[MarTech] Despite AI reshaping markets, most CMOs are still seen as execution-focused, creating a gap that threatens their strategic relevance.
+The post How marketing leaders are succeeding in the AI era appeared first on MarTech.</description>
+      <pubDate>Mon, 04 May 2026 13:06:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Why AI agents need decision authority</title>
+      <link>https://martech.org/data-sovereignty/</link>
+      <description>[MarTech] Data sovereignty controls access, but decision architecture defines action. Beyond unifying data, a sovereign operating layer secures AI rights and prevents risk.
+The post Why AI agents need decision authority appeared first on MarTech.</description>
+      <pubDate>Mon, 04 May 2026 12:29:34 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Singapore stocks rise on May 4, with STI gaining 0.2%</title>
+      <link>https://www.straitstimes.com/business/companies-markets/singapore-stocks-rise-on-monday-sti-gains-0-2</link>
+      <description>[Straits Times] Across the broader market, gainers beat losers 416 to 221, after 3.4 billion securities worth $2.1 billion change hands.</description>
+      <pubDate>Mon, 04 May 2026 12:18:26 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线</title>
+      <link>https://36kr.com/p/3794799114476809?f=rss</link>
+      <description>[36氪] 近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。
+  &amp;nbsp;
+  
+  豆包
+  &amp;nbsp;
+  目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发</description>
+      <pubDate>Mon, 04 May 2026 09:49:40 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>一部“黑神话菩提”，“撕裂”红果AI短剧</title>
+      <link>https://www.tmtpost.com/7976139.html</link>
+      <description>[钛媒体] AI短剧也该守规矩了。</description>
+      <pubDate>Mon, 04 May 2026 08:48:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>黄仁勋：有些CEO总喜欢装上帝，阿莫迪：你直接报我身份证得了</title>
+      <link>https://www.tmtpost.com/7976168.html</link>
+      <description>[钛媒体] 黄仁勋怒怼硅谷大佬：AI末日论，正在毁掉美国。</description>
+      <pubDate>Mon, 04 May 2026 08:03:49 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>PCs are pricier, but users will ‘prioritise’ AI benefits, says Lenovo boss</title>
+      <link>https://www.straitstimes.com/business/pcs-are-pricier-but-users-will-prioritise-ai-benefits-says-lenovo-boss</link>
+      <description>[Straits Times] The world’s largest PC maker has raised prices after a surge in memory chip costs.</description>
+      <pubDate>Mon, 04 May 2026 06:30:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Yen jumps as Japan takes on speculators</title>
+      <link>https://www.straitstimes.com/business/companies-markets/yen-suddenly-jumps-markets-on-alert-for-intervention</link>
+      <description>[Straits Times] The yen also rose against the Singapore dollar, though it is still down 1.1 per cent to date in 2026.</description>
+      <pubDate>Mon, 04 May 2026 04:55:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>这只科技行业ETF为投资者提供最优回报性价比</title>
+      <link>https://www.tmtpost.com/7976136.html</link>
+      <description>[钛媒体] 预计道富科技精选行业SPDR基金成分股的盈利今年将比去年增长43%，并在2027年再增长24%。</description>
+      <pubDate>Mon, 04 May 2026 03:07:34 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>China robot-hand-building unicorn Linkerbot targets US$6 billion valuation</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/startups/china-robot-hand-building-unicorn-linkerbot-targets-us6-billion-valuation</link>
+      <description>[Business Times] Beijing-based startup currently holds over 80% of the global market share in high-degree-of-freedom robotic hands</description>
+      <pubDate>Mon, 04 May 2026 02:07:09 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>AI理科碾压人类状元，却被这道“文科题”戳中了死穴...</title>
+      <link>https://www.tmtpost.com/7976039.html</link>
+      <description>[钛媒体] 准大学生“反击指南”。</description>
+      <pubDate>Mon, 04 May 2026 00:10:19 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI skills pull in higher salaries for engineers, as demand shifts to senior roles: report</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/technology/ai-skills-pull-higher-salaries-engineers-demand-shifts-senior-roles-report</link>
+      <description>[Business Times] Pay for senior tech positions across disciplines on the rise, with those in software engineering climbing by 10.8% to 12.6% on average</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <source>Business Times</source>
     </item>
     <item>
@@ -344,13 +381,6 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <description>[BBC Technology] The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.</description>
       <pubDate>Fri, 01 May 2026 22:30:59 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Meta buys robotics startup to bolster its humanoid AI ambitions</title>
-      <link>https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/</link>
-      <description>[TechCrunch AI] Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.</description>
-      <pubDate>Fri, 01 May 2026 22:13:27 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Bright idea? UK firm pioneers data centres using lampposts</title>
@@ -385,20 +415,6 @@ The post Delegated authority is the missing layer in the AI martech stack appear
       <link>https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia</link>
       <description>[The Verge AI] The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which</description>
       <pubDate>Fri, 01 May 2026 14:09:56 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Elon Musk had a bad week in court</title>
-      <link>https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast</link>
-      <description>[The Verge AI] Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI &quot;stole a nonprofit,&quot; and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anywa</description>
-      <pubDate>Fri, 01 May 2026 13:33:15 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Christian content creators are outsourcing AI slop to gig workers on Fiverr</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop</link>
-      <description>[The Verge AI] In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These worke</description>
-      <pubDate>Fri, 01 May 2026 13:25:25 +0000</pubDate>
       <source>The Verge AI</source>
     </item>
     <item>
