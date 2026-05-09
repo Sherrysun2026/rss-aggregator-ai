@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 08 May 2026 22:59:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 22:52:12 +0000</lastBuildDate>
     <item>
       <title>The no-nonsense judge calling the shots in Musk v Altman trial</title>
       <link>https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -19,31 +19,10 @@
       <source>Business Times</source>
     </item>
     <item>
-      <title>Anthropic unveils AI agents to field financial services tasks</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/anthropic-unveils-ai-agents-field-financial-services-tasks</link>
-      <description>[Business Times] The Claude maker now has more than 300,000 business customers who use its technologies to automate parts of their work</description>
-      <pubDate>Wed, 06 May 2026 02:21:21 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>How sunburn inspired a new way to store energy</title>
-      <link>https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Molecules that can capture heat could be a useful technology to decarbonise heating.</description>
-      <pubDate>Thu, 07 May 2026 23:03:04 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
       <title>Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/</link>
       <description>[WIRED AI] Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.</description>
       <pubDate>Thu, 07 May 2026 21:37:20 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>How to Disable Google's Gemini in Chrome</title>
-      <link>https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/</link>
-      <description>[WIRED AI] Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.</description>
-      <pubDate>Thu, 07 May 2026 20:31:57 +0000</pubDate>
       <source>WIRED AI</source>
     </item>
     <item>
@@ -77,17 +56,6 @@ The post Why AI personalization strategies fail appeared first on MarTech.</desc
       <source>MarTech</source>
     </item>
     <item>
-      <title>在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？</title>
-      <link>https://36kr.com/p/3786528811572481?f=rss</link>
-      <description>[36氪] 文｜王毓婵 周鑫雨
-  编辑｜杨轩
-  “看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。&amp;nbsp;
-  中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。&amp;nbsp;
-  愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队等待使用Seedance2.0已经成为2026年AI世界的一个</description>
-      <pubDate>Thu, 07 May 2026 11:31:32 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>Watch: Drone delivers first Amazon parcels in UK</title>
       <link>https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.</description>
@@ -114,6 +82,151 @@ The post Why AI personalization strategies fail appeared first on MarTech.</desc
       <description>[Business Times] The artificial intelligence startup is a competitor to xAI, including for talent</description>
       <pubDate>Thu, 07 May 2026 02:35:59 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>So you’ve heard these AI terms and nodded along; let’s fix that</title>
+      <link>https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <description>[TechCrunch AI] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
+      <pubDate>Sat, 09 May 2026 21:45:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Nvidia has already committed $40B to equity AI deals this year</title>
+      <link>https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/</link>
+      <description>[TechCrunch AI] Nvidia continues to be a big investor in the AI ecosystem.</description>
+      <pubDate>Sat, 09 May 2026 14:43:30 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>豪掷40亿“赌明天”，天阳科技主业困境下的算力豪赌</title>
+      <link>https://www.tmtpost.com/7982302.html</link>
+      <description>[钛媒体] 在目前算力租赁行业高端紧缺，中低端过剩的行业背景下，对于一家扣非净利润仅百万级、且刚刚在2025年录得巨额亏损的公司而言，这更像是一场为了寻找“第二增长曲线”而进行的生死豪赌，而非稳健的战略扩张。</description>
+      <pubDate>Sat, 09 May 2026 12:12:26 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>奥特曼“官宣” OpenAI 手机</title>
+      <link>https://www.tmtpost.com/7982227.html</link>
+      <description>[钛媒体] OpenAI 官宣入局造手机</description>
+      <pubDate>Sat, 09 May 2026 12:02:48 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>钛媒体入选主流价值语料生态联盟首批成员，担纲科技领域高质量数据集核心建设方</title>
+      <link>https://www.tmtpost.com/7982330.html</link>
+      <description>[钛媒体] 未来，钛媒体将继续深度参与联盟各项工作，持续贡献高质量科技语料资源，积极推动语料质量标准的制定与完善，助力构建更加繁荣、健康、可持续的语料生态。</description>
+      <pubDate>Sat, 09 May 2026 11:21:39 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Hackable Robot Lawn Mower Unlocks a New Nightmare</title>
+      <link>https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/</link>
+      <description>[WIRED AI] Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.</description>
+      <pubDate>Sat, 09 May 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>给猫做MBTI画像，17.9g的AI项圈能撬动百亿生意吗？</title>
+      <link>https://www.tmtpost.com/7982002.html</link>
+      <description>[钛媒体] AI创业不是烧钱换量，硬件是健康的现金流入口。</description>
+      <pubDate>Sat, 09 May 2026 09:15:22 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>拒绝腾讯20%股份和阿里生态链，梁文峰究竟在守卫什么</title>
+      <link>https://www.tmtpost.com/7982082.html</link>
+      <description>[钛媒体] 一笔足以创下中国AI融资纪录的交易，在风声最紧的时候戛然而止。</description>
+      <pubDate>Sat, 09 May 2026 09:02:14 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>DeepSeek掀桌后，大模型厂商应该关注什么？</title>
+      <link>https://www.tmtpost.com/7982075.html</link>
+      <description>[钛媒体] LoongForge 能不能跑出来，还得看社区反馈和后续迭代。</description>
+      <pubDate>Sat, 09 May 2026 08:45:06 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>How sunburn inspired a new way to store energy</title>
+      <link>https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Molecules that can capture heat could be a useful technology to decarbonise heating.</description>
+      <pubDate>Sat, 09 May 2026 08:28:23 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>AI开始接管年轻人的「精神自留地」</title>
+      <link>https://36kr.com/p/3801461350702855?f=rss</link>
+      <description>[36氪] 撰文｜锅包柚
+  封面来源｜Unsplash（AI辅助扩图）
+  五一假期已经结束，但打工人的“节后综合症”并未消退。
+  面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。
+  屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。
+  
+  “老板被我fire了”
+  这个让蝈蝈短暂“活过来”的应用，不是什么专业团队做的。而是一个同样被工作折磨的网友@二旬老人，在灵光APP免费花30秒随手“搓”出来的。
+  这届</description>
+      <pubDate>Sat, 09 May 2026 02:54:40 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>US Senate Committee set to consider long-awaited crypto bill next week</title>
+      <link>https://www.channelnewsasia.com/business/us-senate-committee-set-consider-long-awaited-crypto-bill-next-week-6110736</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 09 May 2026 02:06:27 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>The AI talent war in Asia: Who’s winning, who’s losing, and why</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/technology/ai-talent-war-asia-whos-winning-whos-losing-and-why</link>
+      <description>[Business Times] Seek’s Peter Bithos explains why many tech layoffs today are more ‘performative’ than productivity-driven</description>
+      <pubDate>Sat, 09 May 2026 02:00:00 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一</title>
+      <link>https://36kr.com/p/3801398177324550?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。
+  北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。
+  电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及低空飞行器的发展，仪器布局与电气系统互联（电缆网）敷设设计及配</description>
+      <pubDate>Sat, 09 May 2026 01:43:25 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发</title>
+      <link>https://36kr.com/p/3797202414820359?f=rss</link>
+      <description>[36氪] 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下宁波智能技术研究院、清水湾二期基金及奇绩创坛的种子轮及天使轮投资。
+  星识科技是一家专注智能影像技术研发与硬件制造的企业，以远景观测场景为切点，曾推出融合AI功能的Vizta智能望远镜，已在Kicksta</description>
+      <pubDate>Sat, 09 May 2026 01:30:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉</title>
+      <link>https://36kr.com/p/3801348046151428?f=rss</link>
+      <description>[36氪] 整理｜Kris&amp;nbsp;
+  今日热点导览
+  香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局
+  油价上调，加满一箱92号汽油将多花12.5元
+  钱江摩托否认“围剿张雪机车”
+  30条中日航线4月取消全部航班
+  SpaceX冲刺上市，资本开支飙升数百亿
+  TOP3大新闻
+  DeepSeek拟募资最高500亿元
+  据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。(财联社)
+  “全国销冠”任晓敏被刑拘，泰康人寿回应
+  5月7日，泰康人寿方面对记者表示，近日，泰康人寿青岛分公司个人代理人任某某被青岛市公安机关立案侦查，引发社会广泛关</description>
+      <pubDate>Sat, 09 May 2026 00:57:59 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Strong US jobs data complicates any Warsh push for lower rates</title>
+      <link>https://www.straitstimes.com/business/economy/strong-us-jobs-data-complicates-any-warsh-push-for-lower-rates</link>
+      <description>[Straits Times] The US economy added 115,000 jobs in April, exceeding analysts’ forecasts.</description>
+      <pubDate>Fri, 08 May 2026 23:00:26 +0000</pubDate>
+      <source>Straits Times</source>
     </item>
     <item>
       <title>Laid-off Oracle workers tried to negotiate better severance. Oracle said no.</title>
@@ -193,13 +306,6 @@ The post Why AI personalization strategies fail appeared first on MarTech.</desc
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’</title>
-      <link>https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/</link>
-      <description>[WIRED AI] The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”</description>
-      <pubDate>Fri, 08 May 2026 15:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>There’s a Long-Shot Proposal to Protect California Workers From AI</title>
       <link>https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/</link>
       <description>[WIRED AI] California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.</description>
@@ -207,11 +313,11 @@ The post Why AI personalization strategies fail appeared first on MarTech.</desc
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/</link>
-      <description>[TechCrunch AI] Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.</description>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
+      <title>Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’</title>
+      <link>https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/</link>
+      <description>[WIRED AI] The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”</description>
+      <pubDate>Fri, 08 May 2026 15:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
     </item>
     <item>
       <title>IMDA to upskill 40,000 tech professionals over three years amid AI disruption</title>
@@ -241,13 +347,6 @@ The post AI use and fatigue growing among consumers appeared first on MarTech.</
       <description>[CNA Tech] </description>
       <pubDate>Fri, 08 May 2026 13:03:13 +0000</pubDate>
       <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>小阔科技：十年累亏过亿元却突击分红1.3亿，营销三年烧30亿，研发费率不足1%｜IPO观察</title>
-      <link>https://www.tmtpost.com/7979011.html</link>
-      <description>[钛媒体] 小阔科技2023-2025年营收从10.96亿元攀升至24.99亿元，规模扩张迅猛，却深陷增收不增利困境，盈利持续走弱，公司成立十年累计亏损超亿元。</description>
-      <pubDate>Fri, 08 May 2026 12:56:42 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>How video helps you build better AI content with RAG</title>
@@ -288,13 +387,6 @@ The post Amplitude and Statsig deal raises questions for customers appeared firs
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>灵珠AI日均token消耗破50亿：深度用户或成AI应用护城河</title>
-      <link>https://www.tmtpost.com/7981423.html</link>
-      <description>[钛媒体] 值得注意的是，灵珠AI的用户基数远小于大模型公司和互联网平台，这意味着其人均token消耗量处于相当高的水平。</description>
-      <pubDate>Fri, 08 May 2026 11:58:12 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Female board directorships on the rise, but more focus needed to raise diversity, council says</title>
       <link>https://www.straitstimes.com/business/female-board-directorships-on-the-rise-with-more-focus-on-benefits-of-diversity-rather-than-just</link>
       <description>[Straits Times] The aim is for the proportion of women directors to reach 30% by 2030, said the Council for Board Diversity.</description>
@@ -309,46 +401,11 @@ The post Amplitude and Statsig deal raises questions for customers appeared firs
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Logitech bets on AI, gaming and business users as it raises spending, CEO says</title>
-      <link>https://www.channelnewsasia.com/business/logitech-bets-ai-gaming-and-business-users-it-raises-spending-ceo-says-6109521</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 08 May 2026 10:57:01 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>The New Wild West of AI Kids’ Toys</title>
       <link>https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/</link>
       <description>[WIRED AI] These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.</description>
       <pubDate>Fri, 08 May 2026 10:00:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>从75亿到破产：自嗨锅烧光了钱，却没能建立一个组织</title>
-      <link>https://www.tmtpost.com/7981159.html</link>
-      <description>[钛媒体] 自嗨锅从75亿估值到破产清算，不是死于赛道萎缩，而是死于资本催熟了品牌却未催熟组织——当潮水退去，连一枚公章都交不出来的公司，暴露的是善攻不善守的创业基因与流量打法的致命边界。</description>
-      <pubDate>Fri, 08 May 2026 09:56:43 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>昆仑芯A+H双线冲刺，百度芯片“断奶”倒计时</title>
-      <link>https://www.tmtpost.com/7980751.html</link>
-      <description>[钛媒体] 做了十年的“百度内饰”，昆仑芯终于要彻底走向大市场了。从移动集采的十亿订单，到多达44位的股东图谱，这家出身大厂的芯片公司正试图撕掉身上的母体标签。</description>
-      <pubDate>Fri, 08 May 2026 09:46:33 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>告别跨境直邮，拉美电商进入本土化资格赛｜出海参考</title>
-      <link>https://www.tmtpost.com/7980755.html</link>
-      <description>[钛媒体] 拉美电商开启本土基础设施级竞争，2-3年内走完过去东南亚5年跨境升级之路？</description>
-      <pubDate>Fri, 08 May 2026 09:37:30 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>为什么你的AI，总是“一收费就变笨”？</title>
-      <link>https://www.tmtpost.com/7981010.html</link>
-      <description>[钛媒体] 难道真是被金钱蒙蔽了双眼？</description>
-      <pubDate>Fri, 08 May 2026 09:35:46 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>TikTok scales back AI-generated video descriptions after absurd errors</title>
@@ -370,20 +427,6 @@ The post Amplitude and Statsig deal raises questions for customers appeared firs
       <description>[Straits Times] Many sessions are held during working hours, with the minutes made available only after one month.</description>
       <pubDate>Fri, 08 May 2026 07:00:00 +0000</pubDate>
       <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Jardine C&amp;C said to explore sale of car dealership in Malaysia and Singapore</title>
-      <link>https://www.straitstimes.com/business/companies-markets/jardine-said-to-explore-sale-of-jardine-cc-car-dealership-in-malaysia-and-singapore</link>
-      <description>[Straits Times] Jardine Cycle &amp; Carriage brands include Mercedes-Benz, Mitsubishi, Kia, Citroen and Peugeot.</description>
-      <pubDate>Fri, 08 May 2026 04:50:11 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>The fax machine is the bottleneck in US healthcare, and VCs are starting to notice</title>
-      <link>https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/</link>
-      <description>[TechCrunch AI] Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo</description>
-      <pubDate>Fri, 08 May 2026 04:42:29 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>小红书四年AI 路：FOMO、犹豫，到突然加速</title>
@@ -410,17 +453,6 @@ The post Amplitude and Statsig deal raises questions for customers appeared firs
       <source>36氪</source>
     </item>
     <item>
-      <title>36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构</title>
-      <link>https://36kr.com/p/3799984046333186?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。
-  AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效率不足，内存无法实现统一地址空间共享，整体算力利用率较低。
-  容芯致远创始人石旭毕业于清华大学电子工程系，</description>
-      <pubDate>Fri, 08 May 2026 01:45:14 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI</title>
       <link>https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/</link>
       <description>[WIRED AI] Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.</description>
@@ -433,33 +465,6 @@ The post Amplitude and Statsig deal raises questions for customers appeared firs
       <description>[BBC Technology] The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.</description>
       <pubDate>Fri, 08 May 2026 01:31:55 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家</title>
-      <link>https://36kr.com/p/3799129165863937?f=rss</link>
-      <description>[36氪] 作者｜黄楠 周鑫雨
-  编辑｜袁斯来 杨轩
-  硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。
-  有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。
-  一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差不多涨了3倍”。另有知情者透露，2025年Plaud全年收入达到了历年最高，大陆全线产品的出货量符合内部预期。
-  但Plaud出货量谈不上高，有</description>
-      <pubDate>Fri, 08 May 2026 01:31:04 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应</title>
-      <link>https://36kr.com/p/3799881836633093?f=rss</link>
-      <description>[36氪] 今日热点导览
-  30年前捐赠书画部分去向不明？天津美院回应
-  张雪怒斥门店给用户备注磨叽并补偿车主1万
-  茅台集团总经理王莉已回归
-  港交所计划未来数月推出黄金期货
-  马斯克：xAI作为独立公司将解散并入SpaceX
-  TOP3大新闻
-  “很久没有这种兴奋感了”，段永平再加仓泡泡玛特
-  5月7日，知名投资人段永平在社交平台发文称，把中国神华全部换成了泡泡玛特。值得注意的是，段永平此前已经多次表达了对泡泡玛特的看好，并直言“很久没有这种兴奋感了”，此次是首次明确已实际建仓泡泡玛特。此前通过卖出看跌期权的方式布局。段永平还表示：“我理解王宁（泡泡玛特创始人）不是因为我的投资，而是因</description>
-      <pubDate>Fri, 08 May 2026 00:02:19 +0000</pubDate>
-      <source>36氪</source>
     </item>
   </channel>
 </rss>
