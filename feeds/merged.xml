@@ -3,160 +3,13 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Wed, 13 May 2026 23:08:06 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft&amp;#8217;s Edge Copilot update uses AI to pull information from across your tabs</title>
-      <link>https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs</link>
-      <description>[The Verge AI] Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open article</description>
-      <pubDate>Wed, 13 May 2026 22:04:28 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Commentary: Why executive condominiums still offer a valid alternative for the 'sandwich' class</title>
-      <link>https://www.channelnewsasia.com/commentary/executive-condominiums-ec-policy-changes-impact-prices-affordability-demand-6118221</link>
-      <description>[CNA Tech] Executive condominiums remain relevant for the &quot;sandwich&quot; middle class, though the government will need to keep a close watch on prices, says NUS Business School’s Sing Tien Foo.</description>
-      <pubDate>Wed, 13 May 2026 22:00:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 23:00:41 +0000</lastBuildDate>
     <item>
       <title>Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions</title>
       <link>https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/</link>
       <description>[WIRED AI] The plaintiffs and defense have rested their cases, as well as their rear ends.</description>
       <pubDate>Wed, 13 May 2026 21:58:47 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Notion just turned its workspace into a hub for AI agents</title>
-      <link>https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/</link>
-      <description>[TechCrunch AI] Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.</description>
-      <pubDate>Wed, 13 May 2026 21:45:09 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Oil settles lower on US rate hike fears; investors watch Trump-Xi meeting</title>
-      <link>https://www.channelnewsasia.com/business/stocks-oil-price-fell-us-china-trump-jinping-beijing-talks-6117306</link>
-      <description>[CNA Tech] Oil prices fell as markets awaited the outcome of talks in Beijing between Chinese President Xi Jinping and US President Donald Trump.</description>
-      <pubDate>Wed, 13 May 2026 21:05:17 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Kevin Warsh confirmed as Fed chair as central bank faces Trump assault</title>
-      <link>https://www.straitstimes.com/business/economy/kevin-warsh-confirmed-as-fed-chair-as-central-bank-faces-trump-assault</link>
-      <description>[Straits Times] The Senate voted 54 to 45 in favour of Mr Warsh.</description>
-      <pubDate>Wed, 13 May 2026 20:56:58 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Exclusive-Microsoft eyeing startup deals for life after OpenAI</title>
-      <link>https://www.channelnewsasia.com/business/exclusive-microsoft-eyeing-startup-deals-life-after-openai-6119666</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 13 May 2026 20:14:49 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Cisco to cut about 4,000 jobs in AI-focused restructuring as orders surge</title>
-      <link>https://www.channelnewsasia.com/business/cisco-cut-about-4000-jobs-in-ai-focused-restructuring-orders-surge-6119656</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 13 May 2026 20:11:44 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center</title>
-      <link>https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/</link>
-      <description>[TechCrunch AI] Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of &quot;mobile&quot; gas turbines as power plants.</description>
-      <pubDate>Wed, 13 May 2026 19:49:42 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are</title>
-      <link>https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/</link>
-      <description>[TechCrunch AI] The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.</description>
-      <pubDate>Wed, 13 May 2026 19:28:06 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows</title>
-      <link>https://www.channelnewsasia.com/business/openai-chief-altman-has-over-2-billion-stake-in-companies-dealt-openai-court-filing-shows-6119596</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 13 May 2026 19:27:44 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>What It Will Take to Make AI Sustainable</title>
-      <link>https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/</link>
-      <description>[WIRED AI] Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.</description>
-      <pubDate>Wed, 13 May 2026 19:15:59 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border</title>
-      <link>https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/</link>
-      <description>[WIRED AI] Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.</description>
-      <pubDate>Wed, 13 May 2026 19:03:19 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Overworked AI Agents Turn Marxist, Researchers Find</title>
-      <link>https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/</link>
-      <description>[WIRED AI] In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.</description>
-      <pubDate>Wed, 13 May 2026 18:08:33 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>OpenAI Brings Its Ass to Court</title>
-      <link>https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/</link>
-      <description>[WIRED AI] In Musk v. Altman, the company claimed a remarkable trophy was physical proof of Elon Musk’s concerning behavior.</description>
-      <pubDate>Wed, 13 May 2026 17:08:01 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</title>
-      <link>https://www.theverge.com/tech/929791/meta-ai-incognito-chats</link>
-      <description>[The Verge AI] Meta CEO Mark Zuckerberg says its new Incognito Chat is &quot;the first major AI product where there is no log of your conversations stored on servers.&quot; Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is </description>
-      <pubDate>Wed, 13 May 2026 16:45:43 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Who trusts Sam Altman?</title>
-      <link>https://techcrunch.com/2026/05/13/who-trusts-sam-altman/</link>
-      <description>[TechCrunch AI] &quot;I believe I am an honest and trustworthy businessperson,&quot; Altman testified in federal court.</description>
-      <pubDate>Wed, 13 May 2026 16:31:04 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Origin Lab raises $8M to help video game companies sell data to world-model builders</title>
-      <link>https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/</link>
-      <description>[TechCrunch AI] Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.</description>
-      <pubDate>Wed, 13 May 2026 16:22:01 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Anthropic courts a new kind of customer: small business owners</title>
-      <link>https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/</link>
-      <description>[TechCrunch AI] For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.</description>
-      <pubDate>Wed, 13 May 2026 16:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Rivian spinout Mind Robotics valued at $3.4 billion in new funding round</title>
-      <link>https://www.channelnewsasia.com/business/rivian-spinout-mind-robotics-valued-34-billion-in-new-funding-round-6119256</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 13 May 2026 15:48:27 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Microsoft doesn’t want any of this</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial</link>
-      <description>[The Verge AI] Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. Their opening statement was honestly one of the most Microsoft things I've ever seen. More than anythin</description>
-      <pubDate>Wed, 13 May 2026 15:30:37 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</title>
-      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
-      <description>[The Verge AI] Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits </description>
-      <pubDate>Wed, 13 May 2026 15:28:21 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>Thousands of Waymos recalled after robotaxi swept into a creek</title>
@@ -173,55 +26,11 @@
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private</title>
-      <link>https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/</link>
-      <description>[WIRED AI] The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.</description>
-      <pubDate>Wed, 13 May 2026 14:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Alexa is moving into Amazon․com</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus</link>
-      <description>[The Verge AI] Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a</description>
-      <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>Suicide forum fined £950,000 for not blocking UK users</title>
       <link>https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The regulator said the forum had not done enough to protect UK users - but critics accuse Ofcom of acting too slowly.</description>
       <pubDate>Wed, 13 May 2026 11:52:58 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>2026 AI最佳场景渗透案例重磅揭晓</title>
-      <link>https://36kr.com/p/3807623172235011?f=rss</link>
-      <description>[36氪] &amp;nbsp;
-  &amp;nbsp;
-  如果用一个词来描述当下的AI产业，“落地”已有些过时，“渗透”则更为准确。
-  “渗透”意味着AI不再是发布会上的炫技Demo，也不再是PPT里的概念模型，而是像水电煤一样，悄无声息地融入企业运营的毛细血管和用户日常的消费决策中。
-  据麦肯锡《2025 AI应用现状调研》报告显示，在国内大模型的快速崛起推动下，生成式AI已广泛渗透至企业运营中，83%的企业在至少一个职能中实现了常态化使用，这一比例显著领跑全球。更关键的是，45%的受访企业表示已实现AI的规模化或全面部署，远超全球38%的平均线。
-  趋势和数据的背后，是行业正在形成的共识：AI的叙事主线已</description>
-      <pubDate>Wed, 13 May 2026 11:21:17 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Singapore stocks end higher despite Genting disappointment; STI up 1.2%</title>
-      <link>https://www.straitstimes.com/business/companies-markets/sti1</link>
-      <description>[Straits Times] Resorts World Sentosa operator Genting Singapore falls 10.1% to close at 62 cents</description>
-      <pubDate>Wed, 13 May 2026 11:05:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>氪星晚报｜腾讯刘炽平：腾讯没有大裁员计划；中美在韩国举行经贸磋商；马斯克称星舰第12次试飞将于下周进行</title>
-      <link>https://36kr.com/p/3807540422942214?f=rss</link>
-      <description>[36氪] 大公司：
-  腾讯：Hy3 preview调用量持续居OpenRouter榜首，Agent密集发布
-  36氪获悉，腾讯发布2026年第一季度财报，AI全线提速。其中，混元不到三个月完成重建，Hy3 preview在上下文、Agent、Coding等能力上显著提升。OpenRouter数据显示，Hy3 preview结束限免期后，日Token用量和周Token调用量仍保持榜首；4月27日至5月11日连续三周登顶OpenRouter周榜总榜。今年以来，腾讯累计上线数十款通用和垂直场景Agent。
-  腾讯刘炽平：腾讯没有大裁员计划
-  在腾讯股东大会上，对于腾讯是否会大裁员的问题，腾讯总裁刘炽平</description>
-      <pubDate>Wed, 13 May 2026 10:41:17 +0000</pubDate>
-      <source>36氪</source>
     </item>
     <item>
       <title>Google unveils new android AI features ahead of Apple’s Siri revamp</title>
@@ -231,131 +40,10 @@
       <source>Business Times</source>
     </item>
     <item>
-      <title>Shopee delivers record results in Q1 on the back of AI usage</title>
-      <link>https://www.straitstimes.com/business/companies-markets/shopee-delivers-record-results-in-q1-on-the-back-of-ai-usage</link>
-      <description>[Straits Times] This boosted its parent company Sea Limited’s revenue to over $8.9 billion.</description>
-      <pubDate>Wed, 13 May 2026 09:55:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>大厂「分拆潮」，终于轮到了AI</title>
-      <link>https://www.tmtpost.com/7986149.html</link>
-      <description>[钛媒体] 走出大厂温室的AI</description>
-      <pubDate>Wed, 13 May 2026 09:49:22 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI时代的产业版图重构：龙头、雁阵与掉队者</title>
-      <link>https://www.tmtpost.com/7986182.html</link>
-      <description>[钛媒体] 这场AI产业版图的重构，远比一次普通科技浪潮更加深远。它真正改变的，或许是未来二十年的全球经济权力结构。</description>
-      <pubDate>Wed, 13 May 2026 09:49:19 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>智谱找到了“AI最优解”？</title>
-      <link>https://www.tmtpost.com/7986213.html</link>
-      <description>[钛媒体] “孩子终有长大的一天”。</description>
-      <pubDate>Wed, 13 May 2026 09:49:17 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>DAA、超级个体与混合编队：李彦宏的AI时代进化论</title>
-      <link>https://www.tmtpost.com/7986488.html</link>
-      <description>[钛媒体] 只有那些敢于打破惯性、持续重塑自身的企业，才有机会真正穿越周期，建立新的竞争优势。</description>
-      <pubDate>Wed, 13 May 2026 09:48:58 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Data centers are coming for rural America</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine</link>
-      <description>[The Verge AI] At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. In 2023, the 1.4 million-square-foot facility was purchased through a joint venture </description>
-      <pubDate>Wed, 13 May 2026 09:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>林俊旸创业，新公司估值约20亿美金丨智能涌现独家</title>
-      <link>https://36kr.com/p/3807382930251523?f=rss</link>
-      <description>[36氪] 文｜周鑫雨 邓咏仪
-  编辑｜杨轩
-  林俊旸以创业者的身份，重新加入AI模型的战场。
-  《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。
-  目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等。
-  截至发稿前，有关上述信息，林俊旸尚未回复。
-  时间距离3月初的那场“闪电”诀别，已经过去了两个月。
-  2026年3月4日凌晨，林俊旸在X上宣布离开千问：“me stepping down. bye my beloved qwen（我卸任了。再见了，我深爱的千问）。”更早</description>
-      <pubDate>Wed, 13 May 2026 07:24:16 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>6月上海，这场论坛聊透出海真问题</title>
-      <link>https://36kr.com/p/3807234971131656?f=rss</link>
-      <description>[36氪] 副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行
-  
-  出海这件事，已经变了。
-  如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。
-  &amp;nbsp;如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出海”，而是：
-  ·&amp;nbsp;下一阶段最值得重仓的区域市场在哪里？
-  ·&amp;nbsp;AI应该优先进入哪些关键环节，才能形成真正差异化？
-  ·&amp;nbsp;在资本趋于理性、增长更重质量的背景下，什么样的公司还具备穿越周期的可能性？
-  ·&amp;nbsp;对于具身智能、自动驾驶、AI硬件等新</description>
-      <pubDate>Wed, 13 May 2026 05:04:56 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever</title>
       <link>https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns.</description>
       <pubDate>Wed, 13 May 2026 05:01:07 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Deepening memory chip crunch widens gap between stock winners, losers</title>
-      <link>https://www.straitstimes.com/business/deepening-memory-chip-crunch-widens-gap-between-stock-winners-losers</link>
-      <description>[Straits Times] Suppliers are posting windfall gains, while device makers face higher costs and weaker margins.</description>
-      <pubDate>Wed, 13 May 2026 03:22:29 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>From AI robotics to 3D simulation: Singapore deep tech firms tap US market for expansion</title>
-      <link>https://www.straitstimes.com/business/economy/from-ai-robotics-to-3d-simulation-singapore-deep-tech-firms-tap-us-market-for-expansion</link>
-      <description>[Straits Times] The firms are drawn to the advanced manufacturing capabilities and large consumer market there.</description>
-      <pubDate>Wed, 13 May 2026 02:10:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构</title>
-      <link>https://36kr.com/p/3807043342475009?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  硬氪获悉，近日，光子芯力（北京）科技有限公司（以下简称“光子芯力”）宣布完成数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投。
-  光子芯力成立于2024年，总部位于北京，是一家专注于光电融合计算芯片的硬科技初创公司。公司创始人杨其晟博士毕业于清华大学集成电路学院，具备光电融合交叉背景，核心团队亦主要来自清华大学，成员覆盖光学、算法、半导体及产业资源等方向。
-  当前，光计算正被视为突破电子芯片“功耗墙”“存储墙”的重要方向之一，行业也逐渐进入产业化前夜。光子芯力的核心产品聚焦于光电</description>
-      <pubDate>Wed, 13 May 2026 01:26:14 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发</title>
-      <link>https://36kr.com/p/3807039782116865?f=rss</link>
-      <description>[36氪] 36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人��）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。
-  
-  方石机器人产品矩阵
-  方石机器人成立于2019年，致力于解决建筑行业用工老龄化、作业环境高危低效等痛点，通过打造全栈自研的“具身智能+建筑大模型”AI解决方案，推动传统建筑业向智能建造模式转型。目前，公司已深度服务中国建筑、中国铁建等100余家头部建筑企业，落地超500个标杆工程，累计施工面积突破1500万平方米。
-  2023年以来，方石机器</description>
-      <pubDate>Wed, 13 May 2026 01:24:00 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>EBay rejects GameStop’s $71 billion bid as ‘neither credible nor attractive’</title>
-      <link>https://www.straitstimes.com/business/companies-markets/ebay-rejects-gamestops-71-billion-bid-as-neither-credible-nor-attractive</link>
-      <description>[Straits Times] GameStop CEO has said he could take the bid directly to shareholders.</description>
-      <pubDate>Wed, 13 May 2026 01:08:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury</title>
-      <link>https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.</description>
-      <pubDate>Tue, 12 May 2026 18:51:56 +0000</pubDate>
       <source>BBC Technology</source>
     </item>
     <item>
@@ -383,13 +71,6 @@ The post CMOs are buying AI that their organization isn&amp;#8217;t ready for ap
       <source>MarTech</source>
     </item>
     <item>
-      <title>Canvas hack: Company pays criminals to delete students' stolen data</title>
-      <link>https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The company behind Canvas says it has &quot;reached an agreement&quot; with the hackers who disrupted thousands of colleges and universities.</description>
-      <pubDate>Tue, 12 May 2026 10:31:23 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
       <title>Chinese AI firms push beyond Nvidia as DeepSeek turns to Huawei</title>
       <link>https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/chinese-ai-firms-push-beyond-nvidia-deepseek-turns-huawei</link>
       <description>[Business Times] The Chinese tech giant has said that it plans to release a chip for training this year</description>
@@ -397,11 +78,334 @@ The post CMOs are buying AI that their organization isn&amp;#8217;t ready for ap
       <source>Business Times</source>
     </item>
     <item>
-      <title>GIC, BlackRock funding makes Skyroot Aerospace first space unicorn in India</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/startups/gic-blackrock-funding-makes-skyroot-aerospace-first-space-unicorn-india</link>
-      <description>[Business Times] Investment arrives at a pivotal moment as space-tech firm prepares for maiden flight of Vikram-1</description>
-      <pubDate>Thu, 07 May 2026 06:09:18 +0000</pubDate>
-      <source>Business Times</source>
+      <title>SGX asks Mary Chia if it can continue operating amid court battle with creditor</title>
+      <link>https://www.straitstimes.com/business/sgx-asks-mary-chia-if-it-can-continue-operating-amid-court-battle-with-creditor</link>
+      <description>[Straits Times] The queries came after Fullink Capital had initiated insolvency proceedings against Mary Chia.</description>
+      <pubDate>Thu, 14 May 2026 22:55:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>What the jury will actually decide in the case of Elon Musk vs. Sam Altman</title>
+      <link>https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/</link>
+      <description>[TechCrunch AI] Here's what the biggest tech court case of the year is all about.</description>
+      <pubDate>Thu, 14 May 2026 22:47:51 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Closing time</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis</link>
+      <description>[The Verge AI] Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk </description>
+      <pubDate>Thu, 14 May 2026 22:21:46 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Wall Street ends higher on tech rally; investors eye Beijing talks</title>
+      <link>https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-on-tech-rally-investors-eye-beijing-talks</link>
+      <description>[Straits Times] The Dow Jones Industrial Average rose 370.26 points, or 0.75 per cent, to 50,063.46.</description>
+      <pubDate>Thu, 14 May 2026 22:00:07 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Elon Musk’s SpaceXAI has been bleeding staff since its merger</title>
+      <link>https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/</link>
+      <description>[TechCrunch AI] More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.</description>
+      <pubDate>Thu, 14 May 2026 21:30:44 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI brings Codex coding tool to ChatGPT mobile app</title>
+      <link>https://www.channelnewsasia.com/business/openai-brings-codex-coding-tool-chatgpt-mobile-app-6122526</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 14 May 2026 21:15:19 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>'Millions' of pounds saved by replacing Palantir tech in refugee system</title>
+      <link>https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The government said its in-house IT system was &quot;more flexible&quot; while meeting &quot;high standards&quot; of security.</description>
+      <pubDate>Thu, 14 May 2026 21:09:02 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>How to save and spend during a crisis</title>
+      <link>https://www.straitstimes.com/business/invest/how-to-save-and-spend-during-a-crisis</link>
+      <description>[Straits Times] Financial volatility often incites overwhelming fears, which can impair rational decision-making.</description>
+      <pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>How attending meetings can save your job from AI</title>
+      <link>https://www.straitstimes.com/business/invest/how-attending-meetings-can-save-your-job-from-ai</link>
+      <description>[Straits Times] AI can speed up work but human interaction is still needed to run a business or sell to customers</description>
+      <pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Singapore’s hospitality industry needs technology without losing its human touch: Atiom CEO</title>
+      <link>https://www.straitstimes.com/business/singapores-hospitality-industry-needs-technology-without-losing-its-human-touch-atiom-ceo</link>
+      <description>[Straits Times] Training platform founder Matt Spriegel  says technology can diminish the personal touch that defines hospitality.</description>
+      <pubDate>Thu, 14 May 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Behold, the Elon Musk jackass trophy</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue</link>
+      <description>[The Verge AI] Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: &quot;Never stop being a jackass.&quot; It's a commemoration OpenAI emp</description>
+      <pubDate>Thu, 14 May 2026 20:59:23 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI says Codex is coming to your phone</title>
+      <link>https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/</link>
+      <description>[TechCrunch AI] The update gives users enhanced flexibility over how they can manage their workflows.</description>
+      <pubDate>Thu, 14 May 2026 20:58:55 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta</title>
+      <link>https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/</link>
+      <description>[WIRED AI] Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.</description>
+      <pubDate>Thu, 14 May 2026 20:27:34 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Applied Materials sees quarterly revenue above estimates on sustained AI spending</title>
+      <link>https://www.channelnewsasia.com/business/applied-materials-sees-quarterly-revenue-above-estimates-sustained-ai-spending-6122381</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 14 May 2026 20:06:16 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>OpenAI’s Codex is now in the ChatGPT mobile app</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview</link>
+      <description>[The Verge AI] OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on &quot;side</description>
+      <pubDate>Thu, 14 May 2026 20:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>What happens when AI starts building itself?</title>
+      <link>https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/</link>
+      <description>[TechCrunch AI] Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.</description>
+      <pubDate>Thu, 14 May 2026 19:57:20 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned</title>
+      <link>https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/</link>
+      <description>[TechCrunch AI] OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.</description>
+      <pubDate>Thu, 14 May 2026 19:12:03 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard</title>
+      <link>https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/</link>
+      <description>[TechCrunch AI] A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.</description>
+      <pubDate>Thu, 14 May 2026 19:05:01 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/</link>
+      <description>[WIRED AI] Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.</description>
+      <pubDate>Thu, 14 May 2026 19:04:47 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Microsoft starts canceling Claude Code licenses</title>
+      <link>https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad</link>
+      <description>[The Verge AI] Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me t</description>
+      <pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Use this map to find the data centers in your backyard</title>
+      <link>https://www.theverge.com/policy/930629/data-center-policy-map-interactive</link>
+      <description>[The Verge AI] When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. &quot;There's a lot of misinformation about data centers,&quot; she said. &quot;Google has denied taking that land.&quot; Technically, she explains, The</description>
+      <pubDate>Thu, 14 May 2026 17:40:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>FCC approves Verizon's $1 billion spectrum purchase</title>
+      <link>https://www.channelnewsasia.com/business/fcc-approves-verizons-1-billion-spectrum-purchase-6122186</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 14 May 2026 17:30:01 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>OpenAI explores legal options against Apple, source says</title>
+      <link>https://www.channelnewsasia.com/business/openai-explores-legal-options-against-apple-source-says-6122136</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 14 May 2026 16:58:35 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Pain at the pump drives up US consumer spending in April</title>
+      <link>https://www.straitstimes.com/business/economy/pain-at-the-pump-drives-up-us-consumer-spending-in-april</link>
+      <description>[Straits Times] US consumers are facing soaring prices at the pump due to the Iran war.</description>
+      <pubDate>Thu, 14 May 2026 16:25:34 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Blackstone data center vehicle makes muted debut after $1.75 billion IPO</title>
+      <link>https://www.channelnewsasia.com/business/blackstone-data-center-vehicle-makes-muted-debut-after-175-billion-ipo-6122006</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 14 May 2026 15:50:40 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</title>
+      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
+      <description>[The Verge AI] Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits </description>
+      <pubDate>Thu, 14 May 2026 15:46:04 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic, Gates Foundation launch $200 million partnership for AI in health, education</title>
+      <link>https://www.channelnewsasia.com/business/anthropic-gates-foundation-launch-200-million-partnership-ai-in-health-education-6121891</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 14 May 2026 15:03:24 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>The latest AI-powered martech news and releases</title>
+      <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
+      <description>[MarTech] Marketers get better AI results when they stop treating chatbots like answer machines and start using them as sparring partners.
+The post The latest AI-powered martech news and releases appeared first on MarTech.</description>
+      <pubDate>Thu, 14 May 2026 14:34:40 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Why AI makes brand leadership more important</title>
+      <link>https://martech.org/why-ai-makes-brand-leadership-more-important/</link>
+      <description>[MarTech] Companies without clear brand relevance and long-term strategic stewardship risk losing AI visibility and differentiation.
+The post Why AI makes brand leadership more important appeared first on MarTech.</description>
+      <pubDate>Thu, 14 May 2026 12:57:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It</title>
+      <link>https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/</link>
+      <description>[WIRED AI] Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.</description>
+      <pubDate>Thu, 14 May 2026 12:52:28 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Gen Z Is Pioneering a New Understanding of Truth</title>
+      <link>https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/</link>
+      <description>[WIRED AI] The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.</description>
+      <pubDate>Thu, 14 May 2026 11:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>腾讯要懂得花钱</title>
+      <link>https://36kr.com/p/3808999399497221?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;黄绎达
+  编辑&amp;nbsp;|&amp;nbsp;张帆
+  5月13日，腾讯公布了2026年一季度财报。
+  财报显示，腾讯在2026Q1实现收入1964.58亿元，同比增长9%；同期实现经营利润673.75亿元，同比增长17%；Non-IFRS经营利润录得756.3亿元，同比增长9%。若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）对收入、成本、开支等科目的影响，同期再调整后的Non-IFRS经营利润为844亿元，同比增长17%。
+  
+  图：腾讯2026Q1财报摘要；资料来源：公司公告，36氪
+  腾讯2026Q1的业绩延续了长期以</description>
+      <pubDate>Thu, 14 May 2026 10:36:59 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>腾讯，把AI塞入一切</title>
+      <link>https://36kr.com/p/3808710182034944?f=rss</link>
+      <description>[36氪] 文｜王毓婵
+  2026年Q1，腾讯的一切都与AI相关。
+  一季度，腾讯营收1964.6亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。从整体上来说，在AI上的高投入确实让Non-IFRS经营利润从本该有的双位数增长掉到了单位数。
+  财报显示，若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）的收入、成本及开支影响，Non-IFRS经营利润本该有17%的同比增长。
+  为支持模型迭代和AI基础设施建设，腾讯本季研发投入225.4亿元，同比增长19%；资本开支319.4亿元，同比增长16%。而且，接下来在AI上的投入还会稳步扩张。
+ </description>
+      <pubDate>Thu, 14 May 2026 10:36:23 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>腾讯在AI赛道上略显吃力</title>
+      <link>https://www.tmtpost.com/7988103.html</link>
+      <description>[钛媒体] 一季度资本开支达到370亿元，“主要用于支持AI相关的投入”，占营收比重超过18%。</description>
+      <pubDate>Thu, 14 May 2026 10:17:33 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI大佬田渊栋新开公司融资6.5亿美元，黄仁勋、苏姿丰抢着投</title>
+      <link>https://www.tmtpost.com/7988481.html</link>
+      <description>[钛媒体] 他们想做会自我进化的AI。</description>
+      <pubDate>Thu, 14 May 2026 10:08:54 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>OpenAI稳坐三年的王座，终究还是被Anthropic踹下去了</title>
+      <link>https://www.tmtpost.com/7988375.html</link>
+      <description>[钛媒体] 历史性的交叉线，总是在不经意间被画下。</description>
+      <pubDate>Thu, 14 May 2026 09:55:22 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Meta’s New Reality: Record High Profits. Record Low Morale</title>
+      <link>https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/</link>
+      <description>[WIRED AI] Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where “everyone is unhappy.”</description>
+      <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>实测千问×淘宝：AI购物，更隐蔽的“竞价排名”？</title>
+      <link>https://www.tmtpost.com/7988301.html</link>
+      <description>[钛媒体] 理想中的AI购物本该是AI懂我、帮我选、替我省钱，实际体验看，它更像一件华丽的AI外衣，内里包裹的，还是外界熟悉的电商老套路。</description>
+      <pubDate>Thu, 14 May 2026 08:41:26 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>与近10家整机厂达成合作，专注打造航空电推进“中国心”，「羽嘉动力」连续完成两轮融资｜36氪首发</title>
+      <link>https://36kr.com/p/3808772503199489?f=rss</link>
+      <description>[36氪] 文&amp;nbsp;|&amp;nbsp;阿至
+  当低空经济从政策概念走向产业化落地，一场关于“动力心脏”的落地卡位战也在悄然展开。
+  36氪获悉，航空电推进系统研制商羽嘉动力科技（常州）有限公司（以下简称“羽嘉动力”）近日宣布连续完成天使+、天使++两轮融资，累计金额数千万元，投资方包括益华投资、元禾控股、常高新、常金控，所筹资金将主要用于技术研发、人才队伍补充和产线扩建。加上去年7月完成的天使轮，羽嘉动力在不到一年的时间内完成了近亿元融资。
+  羽嘉动力成立于2024年2月，致力于为中大型电动航空器和特种装备提供轻量化、高可靠、性能卓越的“中国心”。公司创始人刘业本硕博均就读于南京航空航天大学电气工</description>
+      <pubDate>Thu, 14 May 2026 06:45:15 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>03年创始人造火箭，40万做出原型发动机，选了一条没人走过的路｜产业专访</title>
+      <link>https://36kr.com/p/3808769298767369?f=rss</link>
+      <description>[36氪] 文&amp;nbsp;|&amp;nbsp;阿至
+  执宇航天创始人张子瀚看起来不像一个还在读大学的本科生。
+  他说话语速略快，不苟言笑，气质有些老练，习惯用三段式推演的方式来回答问题：先给结论，再拆解前提和路线，最后补充例外或风险。
+  用张子瀚自己的话说，他是一个“几乎百分百理性的人，没有任何感性因素去参与我的任何决策”。
+  这种气质和航天领域有着天然的契合，极度理性、高度自省、目标驱动。但作为闯入这个赛道的异类创业者，他身上又有着天然的矛盾点——过于年轻、没有“背景”、不拘传统。
+  小学二年级参加航模国赛获一等奖、初一在自己的实验室用化学药剂合成固体燃料、高二通过自学自考拿到5门全A提前完成学业，</description>
+      <pubDate>Thu, 14 May 2026 06:42:23 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>HMRC to use AI from British tech firm to spot fraud and tax return errors</title>
+      <link>https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors.</description>
+      <pubDate>Thu, 14 May 2026 05:10:45 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司</title>
+      <link>https://36kr.com/p/3807162054106624?f=rss</link>
+      <description>[36氪] 文 | 胡香赟
+  编辑 | 海若镜
+  5月13日，招股书秘交三个多月后，37岁的赖才达带领剂泰科技登陆港交所。开盘上涨170%，上市首日收涨127%，市值超270亿港币。
+  在这位带着几分书生气的麻省理工学院(MIT)化工博士背后，站着贝莱德、瑞银、国新基金、高瓴等基石投资机构，香港公开发售环节超购6900倍。
+  从成立到IPO，剂泰科技用了七年时间。2019年，晶泰科技内部筹备孵化剂泰科技，由时任执行COO赖才达牵头。他与晶泰科技联合创始人温书豪渊源颇深，两人博士都毕业于MIT。温书豪曾向投资人推荐称：“Chris(赖才达)和我有点像，但能力在我之上。”彼时，晶泰科技的估值已近10亿</description>
+      <pubDate>Thu, 14 May 2026 02:13:54 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍</title>
+      <link>https://36kr.com/p/3807831328300549?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;张子怡
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，智能体育影像品牌「XbotGo」（深眸远智）于近期完成近亿元的新一轮融资。由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投，云岫资本担任长期独家财务顾问。
+  在青少年体育运动文化发达的美国，体育不仅仅是竞技，更是家庭生活的核心。相关数据显示，美国有超过3000万青少年参与专业体育训练，美国家庭每周花在孩子体育活动上的时间平均高达10小时。
+  然而，一个长期困扰家长的痛点是：在赛场上的手动拍摄，不仅让家长无法沉浸式享受比赛的“即时情绪价值”，更由于距离远、目标小、场面复杂，很难精准捕捉</description>
+      <pubDate>Thu, 14 May 2026 01:30:37 +0000</pubDate>
+      <source>36氪</source>
     </item>
     <item>
       <title>The AI talent war in Asia: Who’s winning, who’s losing, and why</title>
@@ -426,27 +430,11 @@ The post You could already have the data AI needs to deliver value appeared firs
       <source>MarTech</source>
     </item>
     <item>
-      <title>Winning the next era of local visibility: How AI is changing local search by SOCi</title>
-      <link>https://martech.org/winning-the-next-era-of-local-visibility-how-ai-is-changing-local-search/</link>
-      <description>[MarTech] Learn how to optimize for AI-driven discovery across Google Search, Maps, and Gemini in this exclusive webinar with SOCi and Google.
-The post Winning the next era of local visibility: How AI is changing local search appeared first on MarTech.</description>
-      <pubDate>Mon, 11 May 2026 11:00:00 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
       <title>IMDA to upskill 40,000 tech professionals over three years amid AI disruption</title>
       <link>https://www.businesstimes.com.sg/singapore/imda-upskill-40000-tech-professionals-over-three-years-amid-ai-disruption</link>
       <description>[Business Times] It will co-chair a work group with Workforce Singapore to ensure programmes are relevant and responsive</description>
       <pubDate>Fri, 08 May 2026 13:55:34 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>AI use and fatigue growing among consumers</title>
-      <link>https://martech.org/ai-use-and-fatigue-growing-among-consumers/</link>
-      <description>[MarTech] New report shows consumers are using AI more, which likely explains growing skepticism about its accuracy, automation, and influence.
-The post AI use and fatigue growing among consumers appeared first on MarTech.</description>
-      <pubDate>Fri, 08 May 2026 13:52:59 +0000</pubDate>
-      <source>MarTech</source>
     </item>
   </channel>
 </rss>
