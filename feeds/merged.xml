@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 15 May 2026 22:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 22:52:38 +0000</lastBuildDate>
     <item>
       <title>Google unveils new android AI features ahead of Apple’s Siri revamp</title>
       <link>https://www.businesstimes.com.sg/international/google-unveils-new-android-ai-features-ahead-apples-siri-revamp</link>
@@ -57,13 +57,6 @@ The post CMOs are buying AI that their organization isn&amp;#8217;t ready for ap
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>What the jury will actually decide in the case of Elon Musk vs. Sam Altman</title>
-      <link>https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/</link>
-      <description>[TechCrunch AI] Here's what the biggest tech court case of the year is all about.</description>
-      <pubDate>Thu, 14 May 2026 22:47:51 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>'Millions' of pounds saved by replacing Palantir tech in refugee system</title>
       <link>https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The government said its in-house IT system was &quot;more flexible&quot; while meeting &quot;high standards&quot; of security.</description>
@@ -101,13 +94,6 @@ The post Why AI makes brand leadership more important appeared first on MarTech.
       <source>MarTech</source>
     </item>
     <item>
-      <title>AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It</title>
-      <link>https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/</link>
-      <description>[WIRED AI] Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.</description>
-      <pubDate>Thu, 14 May 2026 12:52:28 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>HMRC to use AI from British tech firm to spot fraud and tax return errors</title>
       <link>https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors.</description>
@@ -115,11 +101,159 @@ The post Why AI makes brand leadership more important appeared first on MarTech.
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>The AI talent war in Asia: Who’s winning, who’s losing, and why</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/technology/ai-talent-war-asia-whos-winning-whos-losing-and-why</link>
-      <description>[Business Times] Seek’s Peter Bithos explains why many tech layoffs today are more ‘performative’ than productivity-driven</description>
-      <pubDate>Sat, 09 May 2026 02:00:00 +0000</pubDate>
-      <source>Business Times</source>
+      <title>Commentary: AI alone cannot shorten the work week</title>
+      <link>https://www.channelnewsasia.com/commentary/ai-short-work-week-jobs-economy-leisure-6123476</link>
+      <description>[CNA Tech] The technology could raise prices and consumption before it gives us more free time, says Adam Shaw for the Financial Times.</description>
+      <pubDate>Sat, 16 May 2026 22:00:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Man forced ex-wife to sign away HDB flat but agreement ruled as invalid</title>
+      <link>https://www.straitstimes.com/business/invest/man-forced-ex-wife-to-sign-away-hdb-flat-but-agreement-ruled-as-invalid</link>
+      <description>[Straits Times] An agreement that is signed before a divorce cannot be enforced unless the courts find that it is fair.</description>
+      <pubDate>Sat, 16 May 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>The haves and have nots of the AI gold rush</title>
+      <link>https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/</link>
+      <description>[TechCrunch AI] The vibes around the current AI boom aren't great, even in the tech industry.</description>
+      <pubDate>Sat, 16 May 2026 20:17:16 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Research repository ArXiv will ban authors for a year if they let AI do all the work</title>
+      <link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link>
+      <description>[TechCrunch AI] ArXiv is doing more to crack down on the careless use of large language models in scientific papers.</description>
+      <pubDate>Sat, 16 May 2026 18:54:28 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Sony tries to explain that its AI Camera Assistant doesn’t suck</title>
+      <link>https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant</link>
+      <description>[The Verge AI] After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it wil</description>
+      <pubDate>Sat, 16 May 2026 15:37:05 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI co-founder Greg Brockman takes charge of product strategy</title>
+      <link>https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/</link>
+      <description>[TechCrunch AI] OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.</description>
+      <pubDate>Sat, 16 May 2026 15:33:33 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus</title>
+      <link>https://www.channelnewsasia.com/business/openai-seals-deal-in-malta-give-all-maltese-access-chatgpt-plus-6125626</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 16 May 2026 10:31:20 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Some Asexuals Are Using AI Companions for Intimacy Without the Sex</title>
+      <link>https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/</link>
+      <description>[WIRED AI] “I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.</description>
+      <pubDate>Sat, 16 May 2026 09:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>BOJ's Himino calls for 'holistic approach' on global monetary system</title>
+      <link>https://www.channelnewsasia.com/business/bojs-himino-calls-holistic-approach-global-monetary-system-6125531</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 16 May 2026 08:36:26 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>阿里健康正式发布医学AI助手“氢离子”</title>
+      <link>https://36kr.com/newsflashes/3811712103423746?f=rss</link>
+      <description>[36氪] 36氪获悉，近日，阿里健康正式发布医学AI助手“氢离子”，同时宣布与英国BMJ集团达成独家合作。据了解，BMJ旗下70本医学期刊过去十年的内容资源接入氢离子，这是国际顶级期刊首次与中国AI平台达成此类合作。氢离子聚焦循证医学，采用四层架构：PICO+GRADE结构化理解、检索增强、模型微调、专家评审闭环。超300位中国临床专家参与共建评价标准，黄晓军、肖瑞平、于金明等10位顶级专家把关学术方向。</description>
+      <pubDate>Sat, 16 May 2026 08:34:03 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Bill Ackman says Alphabet stake sale not a bet against the company</title>
+      <link>https://www.channelnewsasia.com/business/bill-ackman-says-alphabet-stake-sale-not-bet-against-company-6125511</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 16 May 2026 07:48:04 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>百度AI，“单干”创业</title>
+      <link>https://www.tmtpost.com/7990158.html</link>
+      <description>[钛媒体] BMC 重组队伍，DAA 定义规则。</description>
+      <pubDate>Sat, 16 May 2026 02:53:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Anthropic和黄仁勋，都在担忧 Deepseek+华为</title>
+      <link>https://www.tmtpost.com/7989911.html</link>
+      <description>[钛媒体] Anthropic 和黄仁勋有着相同的担忧。</description>
+      <pubDate>Sat, 16 May 2026 02:34:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>上市首日暴涨68%，全球最大AI芯片公司，冲上670亿美元</title>
+      <link>https://www.tmtpost.com/7989946.html</link>
+      <description>[钛媒体] 英伟达的挑战者上市了。</description>
+      <pubDate>Sat, 16 May 2026 02:21:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断</title>
+      <link>https://36kr.com/p/3810520138243593?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;张子怡
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。
+  据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。
+  在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。
+  调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合</description>
+      <pubDate>Sat, 16 May 2026 02:00:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>曾亲赴霍尔木兹调研的Citrini判断：碳化硅是AI最大暗线</title>
+      <link>https://www.tmtpost.com/7989918.html</link>
+      <description>[钛媒体] 从电源到先进封装，一个千亿级市场正在重构。</description>
+      <pubDate>Sat, 16 May 2026 01:56:55 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>百度大模型自救：这次还能逆风翻盘吗？</title>
+      <link>https://www.tmtpost.com/7990101.html</link>
+      <description>[钛媒体] 百度曾是中国AI大模型的先行者，却因根深蒂固的“流量变现”思维痛失好局。新成立的大模型委员会是一次组织自救，但真正的难题是：这一次，它能忍住不收割吗？</description>
+      <pubDate>Sat, 16 May 2026 01:39:58 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>YouTube, Snap and TikTok settle school district's social media addiction claims</title>
+      <link>https://www.channelnewsasia.com/business/youtube-snap-and-tiktok-settle-school-districts-social-media-addiction-claims-6125166</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 16 May 2026 01:19:26 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元</title>
+      <link>https://36kr.com/p/3811265856626440?f=rss</link>
+      <description>[36氪] 今日热点导览
+  
+   OpenAI正考虑采取法律手段起诉苹果公司
+   三星电子开发下一代HBM封装技术，或用于智能手机等移动设备
+   海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群
+   世界银行首席经济学家英德米特・吉尔将于8月卸任退休
+   “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示
+  
+  TOP 3大新闻
+  央视确认获得2026年世界杯版权，费用为6000万美元&amp;nbsp;
+  5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、</description>
+      <pubDate>Sat, 16 May 2026 01:03:11 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Ackman, Loeb take different routes on tech bets in early 2026</title>
+      <link>https://www.channelnewsasia.com/business/ackman-loeb-take-different-routes-tech-bets-in-early-2026-6125151</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 16 May 2026 00:11:31 +0000</pubDate>
+      <source>CNA Tech</source>
     </item>
     <item>
       <title>Grab seeks AI edge in product development using agentic engineering, vibe coding</title>
@@ -136,7 +270,7 @@ The post Why AI makes brand leadership more important appeared first on MarTech.
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Why it’s hard to hide money from ex-spouses</title>
+      <title>Hiding money from ex-spouses will backfire when lies and tricks are exposed</title>
       <link>https://www.straitstimes.com/business/invest/why-its-hard-to-hide-money-from-ex-spouses</link>
       <description>[Straits Times] It is better to be upfront with your finances in a dispute because you can end up losing more if your ploy fails.</description>
       <pubDate>Fri, 15 May 2026 21:00:00 +0000</pubDate>
@@ -178,13 +312,6 @@ The post Why AI makes brand leadership more important appeared first on MarTech.
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Institutional investors boosted holdings of AI infrastructure plays during first quarter</title>
-      <link>https://www.channelnewsasia.com/business/institutional-investors-boosted-holdings-ai-infrastructure-plays-during-first-quarter-6124616</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 15 May 2026 17:17:18 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up</title>
       <link>https://www.wired.com/story/openai-reorg-greg-brockman-product/</link>
       <description>[WIRED AI] OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.</description>
@@ -206,38 +333,10 @@ The post Why AI makes brand leadership more important appeared first on MarTech.
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Google updates its spam rules to include attempts to ‘manipulate’ AI</title>
-      <link>https://www.theverge.com/tech/931416/google-ai-search-spam-policy</link>
-      <description>[The Verge AI] Google updated its spam policy to mark attempts to &quot;manipulate&quot; its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: &quot;In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sys</description>
-      <pubDate>Fri, 15 May 2026 16:42:59 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>OpenAI launches ChatGPT for personal finance, will let you connect bank accounts</title>
       <link>https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/</link>
       <description>[TechCrunch AI] Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.</description>
       <pubDate>Fri, 15 May 2026 16:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Dollar climbs for fifth straight day as Treasury yields surge</title>
-      <link>https://www.channelnewsasia.com/business/dollar-climbs-fifth-straight-day-treasury-yields-surge-6122806</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 15 May 2026 14:58:18 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>UK firms should take steps to limit risks from frontier AI models, UK says</title>
-      <link>https://www.channelnewsasia.com/business/uk-firms-should-take-steps-limit-risks-frontier-ai-models-uk-says-6124281</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 15 May 2026 14:33:27 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Runway started by helping filmmakers — now it wants to beat Google at AI</title>
-      <link>https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/</link>
-      <description>[TechCrunch AI] AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.</description>
-      <pubDate>Fri, 15 May 2026 14:00:00 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
@@ -259,13 +358,6 @@ The post The AI search shift changing B2B marketing metrics appeared first on Ma
       <source>36氪</source>
     </item>
     <item>
-      <title>Tech CEOs invited to US Capitol to testify about children's online safety</title>
-      <link>https://www.channelnewsasia.com/business/tech-ceos-invited-us-capitol-testify-about-childrens-online-safety-6124176</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 15 May 2026 13:23:29 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Not mandatory for most investors to seek advice for complex products like investment-linked policies</title>
       <link>https://www.straitstimes.com/business/not-mandatory-for-most-investors-to-seek-advice-for-complex-products-like-investment-linked-policies</link>
       <description>[Straits Times] MAS said it will proceed with proposals to remove the financial advice requirement for such products.</description>
@@ -280,13 +372,6 @@ The post The AI search shift changing B2B marketing metrics appeared first on Ma
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>美股大型科技股盘前普跌，英特尔跌超5%</title>
-      <link>https://36kr.com/newsflashes/3810550979436293?f=rss</link>
-      <description>[36氪] 36氪获悉，美股大型科技股盘前普跌，截至发稿，英特尔跌超5%，英伟达跌超3%，特斯拉跌超2%，苹果、亚马逊、谷歌、Meta跌超1%，微软涨0.38%。</description>
-      <pubDate>Fri, 15 May 2026 12:52:54 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>H&amp;M lays off staff in Singapore, moves regional headquarters to Malaysia</title>
       <link>https://www.straitstimes.com/business/hm-lays-off-staff-in-singapore-shifts-regional-headquarters-to-malaysia</link>
       <description>[Straits Times] The Swedish fashion retailer declined to reveal how many workers and which roles were affected.</description>
@@ -294,81 +379,11 @@ The post The AI search shift changing B2B marketing metrics appeared first on Ma
       <source>Straits Times</source>
     </item>
     <item>
-      <title>麦肯锡推行人工智能时代薪酬改革，削减合伙人现金分红比例</title>
-      <link>https://36kr.com/newsflashes/3810508672458248?f=rss</link>
-      <description>[36氪] 为简化薪酬体系、扩充资本金规模，并抵御咨询行业市场波动风险，麦肯锡计划下调合伙人可直接现金支取的利润分成比例。据知情人士透露，这家顶尖咨询机构已告知全体合伙人，未来薪酬中将有更大比例以股权形式发放，以此增厚公司资金储备，部分合伙人收入因此变动金额可达数万美元。（新浪财经）</description>
-      <pubDate>Fri, 15 May 2026 12:31:45 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>恒逸石化：拟投资257亿元建设年产240万吨煤制乙二醇项目</title>
-      <link>https://36kr.com/newsflashes/3810504658607621?f=rss</link>
-      <description>[36氪] 36氪获悉，恒逸石化公告，公司子公司恒逸能源科技(吐鲁番)有限公司拟投资建设“年产240万吨高品质纤维用煤制乙二醇项目”，项目预计总投资257亿元。项目建设周期预计为三年，预计于2028年上半年投产。该项目旨在保障下游聚酯产品重要原材料乙二醇的稳定供应，实现原料自主可控，降低原油价格波动影响。</description>
-      <pubDate>Fri, 15 May 2026 12:20:38 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Osaurus brings both local and cloud AI models to your Mac</title>
-      <link>https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/</link>
-      <description>[TechCrunch AI] Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.</description>
-      <pubDate>Fri, 15 May 2026 12:19:48 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Winklevoss-founded Gemini shares surge after founders' $100 million lifeline</title>
-      <link>https://www.channelnewsasia.com/business/winklevoss-founded-gemini-shares-surge-after-founders-100-million-lifeline-6124056</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 15 May 2026 11:59:22 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>At Cannes, filmmakers shift towards cautious acceptance of AI's inevitability</title>
-      <link>https://www.channelnewsasia.com/business/cannes-filmmakers-shift-towards-cautious-acceptance-ais-inevitability-6124021</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 15 May 2026 11:47:31 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Singapore stocks end lower in line with regional markets; STI down 0.1%</title>
       <link>https://www.straitstimes.com/business/companies-markets/singapore-stocks-end-lower-on-may-15-sti-down-0-1</link>
       <description>[Straits Times] Singapore Airlines led the gainers on Singapore’s blue-chip index, advancing 2.4 per cent.</description>
       <pubDate>Fri, 15 May 2026 10:50:00 +0000</pubDate>
       <source>Straits Times</source>
-    </item>
-    <item>
-      <title>捷邦科技连环并购押注液冷散热，营收狂飙难掩连亏困局 | 并购一线</title>
-      <link>https://www.tmtpost.com/7989891.html</link>
-      <description>[钛媒体] 连环并购押液冷，亏损困局待解。</description>
-      <pubDate>Fri, 15 May 2026 10:44:25 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>被礼来反超后，诺和诺德牵手OpenAI</title>
-      <link>https://www.tmtpost.com/7989694.html</link>
-      <description>[钛媒体] AI能加速下一代减重神药的研发吗？</description>
-      <pubDate>Fri, 15 May 2026 10:15:56 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>OpenAI Codex进入手机，国产“龙虾”们该醒醒了</title>
-      <link>https://www.tmtpost.com/7989325.html</link>
-      <description>[钛媒体] Agent之战已打响</description>
-      <pubDate>Fri, 15 May 2026 09:25:45 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>宗主国：Anthropic</title>
-      <link>https://www.tmtpost.com/7989250.html</link>
-      <description>[钛媒体] 一家成立不过五年的AI实验室，在极短时间内成了整个AI基础设施层的实际支配者。</description>
-      <pubDate>Fri, 15 May 2026 09:05:27 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>她曾掌舵OpenAI技术，如今要颠覆OpenAI的规则</title>
-      <link>https://www.tmtpost.com/7989252.html</link>
-      <description>[钛媒体] 大模型下半场的战役，已经从算力与参数的堆砌，演变为机器情商与交互本能的革命。</description>
-      <pubDate>Fri, 15 May 2026 09:05:24 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Mira Murati Wants Her AI to ‘Keep Humans in the Loop’</title>
@@ -387,13 +402,6 @@ The post The AI search shift changing B2B marketing metrics appeared first on Ma
   对各大品牌而言，一个全新的战场已经悄然形成。当消费者不再直接搜索品牌名称，而是</description>
       <pubDate>Fri, 15 May 2026 08:51:47 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>SIA airfares up but airline will not pass on full cost of fuel increases to passengers</title>
-      <link>https://www.straitstimes.com/business/companies-markets/sia-airfares-up-but-airline-says-it-will-not-pass-on-full-cost-of-fuel-increases-to-passengers</link>
-      <description>[Straits Times] The airline noted that jet fuel prices have more than doubled since the Iran conflict began.</description>
-      <pubDate>Fri, 15 May 2026 07:44:46 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家</title>
