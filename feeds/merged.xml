@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Mon, 18 May 2026 23:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:07:43 +0000</lastBuildDate>
     <item>
       <title>Google unveils new android AI features ahead of Apple’s Siri revamp</title>
       <link>https://www.businesstimes.com.sg/international/google-unveils-new-android-ai-features-ahead-apples-siri-revamp</link>
@@ -12,74 +12,300 @@
       <source>Business Times</source>
     </item>
     <item>
-      <title>Chinese AI firms push beyond Nvidia as DeepSeek turns to Huawei</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/chinese-ai-firms-push-beyond-nvidia-deepseek-turns-huawei</link>
-      <description>[Business Times] The Chinese tech giant has said that it plans to release a chip for training this year</description>
-      <pubDate>Tue, 12 May 2026 03:22:49 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>The latest AI-powered martech news and releases</title>
-      <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
-      <description>[MarTech] Marketers get better AI results when they stop treating chatbots like answer machines and start using them as sparring partners.
-The post The latest AI-powered martech news and releases appeared first on MarTech.</description>
-      <pubDate>Thu, 14 May 2026 14:34:40 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>Why AI makes brand leadership more important</title>
-      <link>https://martech.org/why-ai-makes-brand-leadership-more-important/</link>
-      <description>[MarTech] Companies without clear brand relevance and long-term strategic stewardship risk losing AI visibility and differentiation.
-The post Why AI makes brand leadership more important appeared first on MarTech.</description>
-      <pubDate>Thu, 14 May 2026 12:57:00 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元</title>
-      <link>https://36kr.com/p/3814030630084354?f=rss</link>
-      <description>[36氪] 今日热点导览
-  
-   张雪机车，再夺冠
-   长安汽车否认与千里科技合作
-   深圳发布2026年住房发展计划
-   贵州茅台宣布公斤茅台等四款产品提价
-   法拉第未来宣布获得2500万美元融资
-   三星电子会长就公司“内部问题”公开道歉
-  
-  TOP 3 大新闻
-  多款燃油车大降价，降幅最高近30%
-  日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享23000元购车现金优惠；相较于指导价8.79万元降幅达到26%。该款车型还享有限时的保养礼和流量礼。
-  其实，近期多家燃油车都开启了降价模式：起亚新狮铂拓界一口价10.99万元，较指导价15.49万元降2</description>
-      <pubDate>Sun, 17 May 2026 23:55:00 +0000</pubDate>
+      <title>美股三大指数集体收跌，大型科技股多数下跌</title>
+      <link>https://36kr.com/newsflashes/3816801293681540?f=rss</link>
+      <description>[36氪] 36氪获悉，5月19日收盘，美股三大指数集体下跌，纳指跌0.84%，标普500指数跌0.67%，道指跌0.65%。大型科技股多数下跌，谷歌、亚马逊跌超2%，微软、Meta、特斯拉跌超1%，英伟达、奈飞小幅下跌；苹果小幅上涨。热门中概股涨跌不一，拼多多、京东涨超2%，阿里巴巴、哔哩哔哩涨超1%，理想汽车跌超3%，蔚来跌超2%，百度、小鹏集团小幅下跌。</description>
+      <pubDate>Tue, 19 May 2026 23:00:00 +0000</pubDate>
       <source>36氪</source>
     </item>
     <item>
-      <title>Apple’s Siri revamp could include auto-deleting chats</title>
-      <link>https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/</link>
-      <description>[TechCrunch AI] Privacy will be a major theme when Apple unveils a new version of Siri.</description>
-      <pubDate>Sun, 17 May 2026 20:15:00 +0000</pubDate>
+      <title>Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal</title>
+      <link>https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/</link>
+      <description>[WIRED AI] Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They're certainly not alone.</description>
+      <pubDate>Tue, 19 May 2026 22:53:04 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Demis Hassabis said this might be the &amp;#8216;foothills of the singularity.&amp;#8217; What?</title>
+      <link>https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis</link>
+      <description>[The Verge AI] Welcome to a &quot;profound moment for humanity,&quot; according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look</description>
+      <pubDate>Tue, 19 May 2026 22:16:02 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Commentary: The battle the US is winning against China</title>
+      <link>https://www.channelnewsasia.com/commentary/us-china-win-dollar-yuan-currency-trade-6130281</link>
+      <description>[CNA Tech] China is a stunted financial power, leaving the US free to rule global markets, says Ruchir Sharma for the Financial Times.</description>
+      <pubDate>Tue, 19 May 2026 21:59:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Google just declared itself a contender in AI design at IO 2026</title>
+      <link>https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/</link>
+      <description>[TechCrunch AI] Google says it's designed the app to be accessible to everyone, from teachers to small business owners.</description>
+      <pubDate>Tue, 19 May 2026 21:33:30 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>Revamped Siri will reportedly offer autodeleting chats</title>
-      <link>https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats</link>
-      <description>[The Verge AI] Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat </description>
-      <pubDate>Sun, 17 May 2026 18:40:28 +0000</pubDate>
+      <title>You can now talk to your Gmail inbox, as seen at Google IO 2026</title>
+      <link>https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/</link>
+      <description>[TechCrunch AI] Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.</description>
+      <pubDate>Tue, 19 May 2026 21:25:31 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>The future of Google is a search box that does everything</title>
+      <link>https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026</link>
+      <description>[The Verge AI] Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Goog</description>
+      <pubDate>Tue, 19 May 2026 21:24:14 +0000</pubDate>
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement</link>
-      <description>[The Verge AI] Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p</description>
-      <pubDate>Sun, 17 May 2026 17:22:23 +0000</pubDate>
+      <title>How to use Google’s new AI agents to go beyond your standard searches</title>
+      <link>https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/</link>
+      <description>[TechCrunch AI] Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.</description>
+      <pubDate>Tue, 19 May 2026 21:16:25 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing</title>
+      <link>https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/</link>
+      <description>[TechCrunch AI] Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.</description>
+      <pubDate>Tue, 19 May 2026 21:08:51 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Google to release first smart glasses since Google Glass flop</title>
+      <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.</description>
+      <pubDate>Tue, 19 May 2026 21:00:12 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Google’s AI future demands trust — and your personal data</title>
+      <link>https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data</link>
+      <description>[The Verge AI] Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundo</description>
+      <pubDate>Tue, 19 May 2026 21:00:00 +0000</pubDate>
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Some Asexuals Are Using AI Companions for Intimacy Without the Sex</title>
-      <link>https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/</link>
-      <description>[WIRED AI] “I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.</description>
-      <pubDate>Sat, 16 May 2026 09:30:00 +0000</pubDate>
+      <title>Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims</title>
+      <link>https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/</link>
+      <description>[TechCrunch AI] “By the end of this week, you and Sam will be the most hated men in America.”</description>
+      <pubDate>Tue, 19 May 2026 20:11:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses</title>
+      <link>https://www.wired.com/story/everything-google-announced-at-google-io-2026/</link>
+      <description>[WIRED AI] Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.</description>
+      <pubDate>Tue, 19 May 2026 20:00:48 +0000</pubDate>
       <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026</title>
+      <link>https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/</link>
+      <description>[TechCrunch AI] Google is calling the new devices &quot;audio glasses,&quot; in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.</description>
+      <pubDate>Tue, 19 May 2026 19:15:31 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs</title>
+      <link>https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/</link>
+      <description>[WIRED AI] On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.</description>
+      <pubDate>Tue, 19 May 2026 19:00:46 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Gemini will use Volvo’s external cameras to interpret parking signs</title>
+      <link>https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking</link>
+      <description>[The Verge AI] Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks t</description>
+      <pubDate>Tue, 19 May 2026 18:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>The 13 biggest announcements at Google I/O 2026</title>
+      <link>https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini</link>
+      <description>[The Verge AI] Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses. If you weren't able to tune into the event's livestream today or follow along with our </description>
+      <pubDate>Tue, 19 May 2026 17:54:33 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Google wants to compete with Anthropic’s Mythos</title>
+      <link>https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos</link>
+      <description>[The Verge AI] Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an &quot;AI agent for code security&quot; it debuted last October. The difference is that Google is now making the tool more widely available externally -</description>
+      <pubDate>Tue, 19 May 2026 17:48:22 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Demis Hassabis Thinks AI Job Cuts Are Dumb</title>
+      <link>https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/</link>
+      <description>[WIRED AI] The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.</description>
+      <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Google Makes It Easy to Deepfake Yourself</title>
+      <link>https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/</link>
+      <description>[WIRED AI] Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.</description>
+      <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Google Search Goes Agentic—and Doesn’t Need You Anymore</title>
+      <link>https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/</link>
+      <description>[WIRED AI] Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.</description>
+      <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>一季度AI广告收入暴涨170%，B站：模型没有，广告管够</title>
+      <link>https://www.tmtpost.com/7994018.html</link>
+      <description>[钛媒体] B站至今没有拿得出手的AI模型和应用，但它硬生生地把自己解构成了“AI淘金热的卖水人”。</description>
+      <pubDate>Tue, 19 May 2026 14:09:55 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Risks to look out for when using vibe coding to replace SaaS</title>
+      <link>https://martech.org/risks-to-look-out-for-when-using-vibe-coding-to-replace-saas/</link>
+      <description>[MarTech] Vibe coding can replace SaaS tools fast, but risks in security, integration and maintenance can quickly outweigh the savings.
+The post Risks to look out for when using vibe coding to replace SaaS appeared first on MarTech.</description>
+      <pubDate>Tue, 19 May 2026 12:57:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Customer experience outweighs brand in AI-assisted shopping</title>
+      <link>https://martech.org/customer-experience-outweighs-brand-in-ai-assisted-shopping/</link>
+      <description>[MarTech] AI recommendation engines rely on reviews, comparisons, and customer signals to decide which brands to surface and trust.
+The post Customer experience outweighs brand in AI-assisted shopping appeared first on MarTech.</description>
+      <pubDate>Tue, 19 May 2026 12:50:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Singapore stocks end higher amid mixed regional showing; STI up 1.5%</title>
+      <link>https://www.straitstimes.com/business/companies-markets/singapore-stocks-end-higher-amid-mixed-regional-showing-sti-up-1-5</link>
+      <description>[Straits Times] The benchmark Straits Times Index gained 75.59 points to finish at 5,072.34.</description>
+      <pubDate>Tue, 19 May 2026 12:48:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Undergrads can get hands-on AI finance training through IBF’s new programme</title>
+      <link>https://www.straitstimes.com/business/undergrads-to-get-hands-on-ai-finance-training-through-ibfs-new-programme</link>
+      <description>[Straits Times] The programme is aimed at preparing young talent for an AI-enabled financial sector.</description>
+      <pubDate>Tue, 19 May 2026 11:24:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial</title>
+      <link>https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.</description>
+      <pubDate>Tue, 19 May 2026 11:05:09 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>India to monitor Boeing fuel-switch test tied to Air India London incident, documents show</title>
+      <link>https://www.channelnewsasia.com/asia/india-monitor-boeing-fuel-switch-test-tied-air-india-london-incident-documents-show-6130366</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Tue, 19 May 2026 10:43:44 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>ASML says first chips from new High-NA machines to arrive in months</title>
+      <link>https://www.channelnewsasia.com/business/asml-says-first-chips-new-high-na-machines-arrive-in-months-6130371</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Tue, 19 May 2026 10:40:18 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Explainer-What are Samsung union workers demanding and how might a strike play out?</title>
+      <link>https://www.channelnewsasia.com/business/explainer-what-are-samsung-union-workers-demanding-and-how-might-strike-play-out-6130291</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Tue, 19 May 2026 10:12:13 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Musk's failed court attack on OpenAI could leave lasting scars on CEO's reputation</title>
+      <link>https://www.channelnewsasia.com/business/musks-failed-court-attack-openai-could-leave-lasting-scars-ceos-reputation-6130256</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Tue, 19 May 2026 10:06:45 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital'</title>
+      <link>https://www.channelnewsasia.com/business/stanchart-cut-over-7000-jobs-boost-ai-replace-lower-value-human-capital-6130096</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Tue, 19 May 2026 08:55:49 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Elon Musk has lost yet another legal battle. Why he'll still keep fighting</title>
+      <link>https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.</description>
+      <pubDate>Tue, 19 May 2026 08:45:23 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>运营商卖Token：通信管道的最后一搏，还是 AI 时代的入场券？</title>
+      <link>https://www.tmtpost.com/7993452.html</link>
+      <description>[钛媒体] 运营商在 AI 时代的入场券，不是写好了就能用，必须在市场上真金白银地兑现价值、赢得用户认可。</description>
+      <pubDate>Tue, 19 May 2026 06:50:03 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>ST Headstart: Hacking your brain to become who you want to be</title>
+      <link>https://www.straitstimes.com/business/st-headstart-hacking-your-brain-to-become-who-you-want-to-be</link>
+      <description>[Straits Times] </description>
+      <pubDate>Tue, 19 May 2026 04:53:40 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Google, Blackstone to create AI cloud firm with in-house chips</title>
+      <link>https://www.straitstimes.com/business/google-blackstone-to-create-ai-cloud-firm-with-in-house-chips</link>
+      <description>[Straits Times] The move adds to a boom in spending on computing infrastructure, which underpins AI models and services.</description>
+      <pubDate>Tue, 19 May 2026 02:57:46 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发</title>
+      <link>https://36kr.com/p/3805660478184966?f=rss</link>
+      <description>[36氪] 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。
+  SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。
+  过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率</description>
+      <pubDate>Tue, 19 May 2026 01:30:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>StanChart to slash almost 8,000 jobs in AI push</title>
+      <link>https://www.straitstimes.com/business/stanchart-to-slash-back-office-roles-to-boost-returns</link>
+      <description>[Straits Times] The bank said it will cut more than 15 per cent of support staff by 2030.</description>
+      <pubDate>Tue, 19 May 2026 01:26:52 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生</title>
+      <link>https://36kr.com/p/3815459487587847?f=rss</link>
+      <description>[36氪] 今日热点导览
+  
+   瑞幸咖啡正式上线两款含酒精的特调饮品
+   京张高铁试点推出“自行车随身行”服务
+   马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术
+   韩国法院要求三星电子罢工行动不得影响产量
+   多家理财公司集中提前终止理财产品
+  
+  TOP 3 大新闻
+  贾跃亭又拿到7000万美元投资
+  贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4.77亿元人民币）机构投资者募资，并将启动战略、产品技术&amp;amp;业务、财务、资本、AI体系五大变革。贾跃亭表示，其目标包括FFAI市值重回2021年上市水平，2027年第四季度实现经营性现金流</description>
+      <pubDate>Tue, 19 May 2026 00:08:58 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Meta moves 7,000 workers into AI roles ahead of job cuts</title>
+      <link>https://www.straitstimes.com/business/meta-lays-out-details-of-may-20-restructuring-in-internal-document</link>
+      <description>[Straits Times] Two teams are aimed at developing AI agents that can autonomously carry out tasks currently performed by human staff.</description>
+      <pubDate>Mon, 18 May 2026 23:50:00 +0000</pubDate>
+      <source>Straits Times</source>
     </item>
     <item>
       <title>Satellites and AI used to track UK hedgehogs in bid to slow decline</title>
@@ -94,97 +320,6 @@ The post Why AI makes brand leadership more important appeared first on MarTech.
       <description>[BBC Technology] Jurors spent weeks hearing about Musk's claim that Altman had &quot;stolen a charity.&quot;</description>
       <pubDate>Mon, 18 May 2026 22:08:37 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Amazon's Singapore retreat: Why its US playbook failed in Southeast Asia</title>
-      <link>https://www.channelnewsasia.com/business/amazon-singapore-end-local-fulfilment-ecommerce-6121221</link>
-      <description>[CNA Tech] Regional platforms compete on price and volume of unbranded sellers, &quot;not a play that Amazon has traditionally been strong at&quot;, an analyst says.</description>
-      <pubDate>Mon, 18 May 2026 22:00:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>SandboxAQ brings its drug discovery models to Claude — no PhD in computing required</title>
-      <link>https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/</link>
-      <description>[TechCrunch AI] Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.</description>
-      <pubDate>Mon, 18 May 2026 21:29:31 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>OpenAI defeats Elon Musk's lawsuit, removing obstacle to IPO</title>
-      <link>https://www.channelnewsasia.com/world/openai-defeats-elon-musks-lawsuit-removing-obstacle-ipo-6128206</link>
-      <description>[CNA Tech] Elon Musk’s lawyer said after the verdict that &quot;this one is not over&quot; and that the billionaire planned to appeal.</description>
-      <pubDate>Mon, 18 May 2026 21:01:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Elon Musk just lost another lawsuit. Will he keep fighting?</title>
-      <link>https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Musk's loss against OpenAI is the latest in a string of courtroom defeats.</description>
-      <pubDate>Mon, 18 May 2026 20:44:57 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare</title>
-      <link>https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/</link>
-      <description>[TechCrunch AI] Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.</description>
-      <pubDate>Mon, 18 May 2026 19:27:52 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Musk v. Altman proved that AI is led by the wrong people</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people</link>
-      <description>[The Verge AI] The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monda</description>
-      <pubDate>Mon, 18 May 2026 19:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>All of the updates from Elon Musk and Sam Altman’s battle over OpenAI</title>
-      <link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link>
-      <description>[The Verge AI] Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits </description>
-      <pubDate>Mon, 18 May 2026 17:49:49 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Elon Musk Loses Landmark Lawsuit Against OpenAI</title>
-      <link>https://www.wired.com/story/musk-v-altman-jury-verdict/</link>
-      <description>[WIRED AI] The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.</description>
-      <pubDate>Mon, 18 May 2026 17:40:30 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Elon Musk loses his case against Sam Altman</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial</link>
-      <description>[The Verge AI] After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&amp;</description>
-      <pubDate>Mon, 18 May 2026 17:39:32 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Elon Musk has lost his lawsuit against Sam Altman and OpenAI</title>
-      <link>https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</link>
-      <description>[TechCrunch AI] Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.</description>
-      <pubDate>Mon, 18 May 2026 17:34:43 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Amazon Alexa Plus can now create AI-generated podcasts</title>
-      <link>https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts</link>
-      <description>[The Verge AI] Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on &quot;virtually any topic,&quot; according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to s</description>
-      <pubDate>Mon, 18 May 2026 15:55:25 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Amazon’s new Alexa+ powered feature can generate podcast episodes</title>
-      <link>https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/</link>
-      <description>[TechCrunch AI] Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.</description>
-      <pubDate>Mon, 18 May 2026 14:56:47 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>【Fintech 周报】中国银行信用卡APP6月下线；支付宝回应“扣款捐赠184万元”</title>
-      <link>https://www.tmtpost.com/7992548.html</link>
-      <description>[钛媒体] 今年银行罚单金额达8.15亿元；央行披露最新支付数据；国际金价3月以来首次跌破4500美元；五家银行A股IPO候场；五家A股上市保险公司均已不再设立监事会；徽商银行“村改支”落地；渤海银行迈入2万亿阵营；众安保险股权生变；东方嘉富人寿董事长调整；原捷信消费金融四人遭处罚；马上消费金融转让2.4亿元不良资产；腾讯一季度金融科技及企服收入同比增长9%；联想控股注销旗下小贷资质；欢太金融停止自营借款业务。</description>
-      <pubDate>Mon, 18 May 2026 13:09:11 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>AI made marketers faster, but organizations stayed the same</title>
@@ -203,33 +338,12 @@ The post How to make your content visible to AI buying agents appeared first on 
       <source>MarTech</source>
     </item>
     <item>
-      <title>Failed Simba-M1 deal could pose setback to Keppel, lead to more cost pressures for telcos</title>
-      <link>https://www.straitstimes.com/business/companies-markets/failed-simba-m1-deal-could-pose-setback-to-keppel-lead-to-more-cost-pressures-for-telcos</link>
-      <description>[Straits Times] The sector would have gained from consolidation as it would have eased competitive pricing, said analysts.</description>
-      <pubDate>Mon, 18 May 2026 12:45:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>AI is moving too fast for static strategies</title>
       <link>https://martech.org/ai-is-moving-too-fast-for-static-strategies/</link>
       <description>[MarTech] The companies pulling ahead with AI are not predicting the future better than everyone else, they are learning and adapting faster in real time.
 The post AI is moving too fast for static strategies appeared first on MarTech.</description>
       <pubDate>Mon, 18 May 2026 12:12:00 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>Singapore stocks end higher amid mixed regional showing; STI up 0.2%</title>
-      <link>https://www.straitstimes.com/business/companies-markets/singapore-stocks-end-higher-amid-mixed-regional-showing-sti-up-0-2</link>
-      <description>[Straits Times] The benchmark Straits Times Index gained 7.67 points to finish at 4,996.75.</description>
-      <pubDate>Mon, 18 May 2026 11:35:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>百度Q1：搜索广告跌破半壁江山，AI云撑起新故事</title>
-      <link>https://www.tmtpost.com/7992627.html</link>
-      <description>[钛媒体] 资本市场的问题从来不只是里程碑本身，而是这个结构切换背后的增长质量如何。</description>
-      <pubDate>Mon, 18 May 2026 11:34:04 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销</title>
@@ -239,41 +353,6 @@ The post AI is moving too fast for static strategies appeared first on MarTech.<
   36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段，若出现募集资金投资项目未能顺利实施、新技术开发进度不达预期、研发遭遇技术瓶颈甚至失败，将会对公司经营业绩造成一定影响。公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、</description>
       <pubDate>Mon, 18 May 2026 11:11:14 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>Kwek Leng Peck, cousin of Kwek Leng Beng, appointed vice-chairman of CDL</title>
-      <link>https://www.straitstimes.com/business/kwek-leng-peck-cousin-of-kwek-leng-beng-appointed-vice-chairman-of-cdl</link>
-      <description>[Straits Times] The board also reappointed the 69-year-old as a non-independent, non-executive director.</description>
-      <pubDate>Mon, 18 May 2026 11:05:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>South Korea’s LetinAR is building optics behind AI glasses</title>
-      <link>https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/</link>
-      <description>[TechCrunch AI] A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.</description>
-      <pubDate>Mon, 18 May 2026 11:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>AI耳机爆发的前夜，韶音选择“慢下来”</title>
-      <link>https://www.tmtpost.com/7992332.html</link>
-      <description>[钛媒体] AI不是加法，是解法。AI会重构整个智能硬件，但是有节奏的，这种重构是多层次的。</description>
-      <pubDate>Mon, 18 May 2026 10:29:05 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>I’m a Normie. Can Normies Really Vibe Code?</title>
-      <link>https://www.wired.com/story/normie-vibe-code/</link>
-      <description>[WIRED AI] Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.</description>
-      <pubDate>Mon, 18 May 2026 10:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>CNA Explains: How radio frequency bands are regulated - and why it matters for telcos</title>
-      <link>https://www.channelnewsasia.com/singapore/radio-frequency-bands-how-it-regulated-simba-m1-6127906</link>
-      <description>[CNA Tech] Singapore is investigating whether telco Simba complied with regulations governing the use of radio frequency bands.&amp;nbsp;CNA looks at what these bands are and how they are managed.</description>
-      <pubDate>Mon, 18 May 2026 09:47:00 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家</title>
@@ -295,13 +374,6 @@ The post AI is moving too fast for static strategies appeared first on MarTech.<
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>S’pore businesses to have one-stop platform for info on financing partners, advisory services</title>
-      <link>https://www.straitstimes.com/business/spore-businesses-to-have-one-stop-platform-for-info-on-financing-partners-advisory-services</link>
-      <description>[Straits Times] The Singapore Business Federation found that one in five companies here is looking for more financing.</description>
-      <pubDate>Mon, 18 May 2026 07:05:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI</title>
       <link>https://36kr.com/p/3814408307711492?f=rss</link>
       <description>[36氪] 进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：
@@ -317,103 +389,12 @@ The post AI is moving too fast for static strategies appeared first on MarTech.<
       <source>36氪</source>
     </item>
     <item>
-      <title>对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么</title>
-      <link>https://36kr.com/p/3814337101111044?f=rss</link>
-      <description>[36氪] “帮我搭配一套适合海边度假的衣服。”
-  “帮我推荐一家适合约会的西餐厅。”
-  “3000元预算，买哪款扫地机器人最划算？”
-  这类与AI的问答正发生在全球数亿用户身上。过去，人们会把这些问题输入百度、谷歌等搜索引擎，因此产生了SEO（Search EngineOptimization，搜索引擎优化）营销。而当流量入口从搜索引擎转向AI工具，GEO（Generative EngineOptimization，生成引擎优化）也应运而生。
-  区别于传统SEO追求的“搜索结果排名”，GEO的核心目标是让品牌信息在AI生成的回答中被优先引用和推荐。在AI全面渗透用户信息获取与消费决策场景的时代，</description>
-      <pubDate>Mon, 18 May 2026 05:05:40 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Thai Q1 GDP growth beats forecasts, but 2026 outlook unchanged amid Middle East war</title>
-      <link>https://www.channelnewsasia.com/business/thai-q1-gdp-growth-beats-forecasts-2026-outlook-unchanged-amid-middle-east-war-6127706</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Mon, 18 May 2026 04:39:16 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports</title>
-      <link>https://www.channelnewsasia.com/business/anthropic-brief-global-financial-watchdog-cyber-flaws-exposed-mythos-ft-reports-6127681</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Mon, 18 May 2026 04:17:53 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Keppel to let M1-Simba deal lapse on May 21 deadline after IMDA suspends review</title>
-      <link>https://www.channelnewsasia.com/singapore/m1-simba-deal-lapse-deadline-imda-suspends-review-6127551</link>
-      <description>[CNA Tech] Keppel remains open to offers for M1 in the future, says chief executive officer Loh Chin Hua.</description>
-      <pubDate>Mon, 18 May 2026 03:46:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Chip giant Samsung, union hold last-ditch talks to avert strike threatening global supply chains</title>
-      <link>https://www.straitstimes.com/business/companies-markets/south-korea-court-orders-samsung-union-strike-to-not-impact-chip-volume</link>
-      <description>[Straits Times] Court orders union to maintain normal production during any strike; Samsung shares jump 6.7%.</description>
-      <pubDate>Mon, 18 May 2026 02:32:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Hacking your brain to change who you are: ‘Act As If’ theory</title>
-      <link>https://www.straitstimes.com/business/hacking-your-brain-to-change-who-you-are-act-as-if-theory</link>
-      <description>[Straits Times] Feel like you are not enough? Learn how to become your ideal self by acting as if you already are.</description>
-      <pubDate>Mon, 18 May 2026 02:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道</title>
-      <link>https://36kr.com/p/3813463119863553?f=rss</link>
-      <description>[36氪] 36 氪获悉，「律动节拍」已于近期完成超千万级新一轮融资，由天空工场创投基金领投，投后估值达数亿元。
-  「律动节拍」成立于2025 年，是一家为用户提供跨城观演全消费场景的科技型文旅服务企业。公司聚焦 “因演出行” 垂直领域，以 “让一张票成为一座城市的游乐场” 为理念，搭建了面向 C 端用户的 AI演出行程管家。
-  依托集团其背后的生态资源与市场化合作，律动节拍已完成演出票品、酒旅、交通、餐饮、衍生品等多维度供给接入，通过AI与大数据模型训练，将演出资源与文旅资源整合，开发成为一站式定制化的演出行程管家产品&amp;nbsp;。
-  本轮资金将主要用于AI 演出行程管家产品研发、行业大模型训练、</description>
-      <pubDate>Mon, 18 May 2026 01:29:37 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up</title>
-      <link>https://www.wired.com/story/openai-reorg-greg-brockman-product/</link>
-      <description>[WIRED AI] OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.</description>
-      <pubDate>Fri, 15 May 2026 17:09:17 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>The AI search shift changing B2B marketing metrics</title>
       <link>https://martech.org/the-ai-search-shift-changing-b2b-marketing-metrics/</link>
       <description>[MarTech] Website traffic is losing ground as the primary success metric while AI visibility and lead quality take center stage.
 The post The AI search shift changing B2B marketing metrics appeared first on MarTech.</description>
       <pubDate>Fri, 15 May 2026 13:57:06 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>X pledges quicker action on hate and terror content in the UK</title>
-      <link>https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK.</description>
-      <pubDate>Fri, 15 May 2026 12:57:30 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Mira Murati Wants Her AI to ‘Keep Humans in the Loop’</title>
-      <link>https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/</link>
-      <description>[WIRED AI] The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.</description>
-      <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial</title>
-      <link>https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart.</description>
-      <pubDate>Fri, 15 May 2026 05:03:31 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>The Real Losers of the Musk v. Altman Trial</title>
-      <link>https://www.wired.com/story/musk-v-altman-trial-closing-arguments/</link>
-      <description>[WIRED AI] A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.</description>
-      <pubDate>Fri, 15 May 2026 00:49:53 +0000</pubDate>
-      <source>WIRED AI</source>
     </item>
   </channel>
 </rss>
