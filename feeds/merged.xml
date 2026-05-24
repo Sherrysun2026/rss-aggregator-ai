@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 23 May 2026 22:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 23:00:50 +0000</lastBuildDate>
     <item>
       <title>OpenAI is preparing to file for an IPO in the coming weeks</title>
       <link>https://www.businesstimes.com.sg/startups-tech/startups/openai-preparing-file-ipo-coming-weeks</link>
@@ -18,13 +18,6 @@
 The post Why relevance now beats reach in the AI-driven buyer journey appeared first on MarTech.</description>
       <pubDate>Wed, 20 May 2026 12:40:00 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>Singapore updates national AI strategy, partners Google and OpenAI</title>
-      <link>https://www.businesstimes.com.sg/singapore/singapore-updates-national-ai-strategy-partners-google-and-openai</link>
-      <description>[Business Times] Government will help 10,000 enterprises over the next three years to use AI meaningfully</description>
-      <pubDate>Wed, 20 May 2026 01:21:51 +0000</pubDate>
-      <source>Business Times</source>
     </item>
     <item>
       <title>Love factually: Dating start-ups promise to cut the cheats</title>
@@ -93,11 +86,81 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <source>Business Times</source>
     </item>
     <item>
-      <title>SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing</title>
-      <link>https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/</link>
-      <description>[WIRED AI] The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.</description>
-      <pubDate>Thu, 21 May 2026 00:43:13 +0000</pubDate>
+      <title>Commentary: Regulation alone won’t be a silver bullet for ‘dark patterns’ that manipulate consumers</title>
+      <link>https://www.channelnewsasia.com/commentary/dark-patterns-manipulate-consumer-online-shopping-misleading-tactics-singapore-ccs-regulation-6136226</link>
+      <description>[CNA Tech] Given how quickly deceptive tactics evolve, especially with AI, countering “dark patterns” will require a multi-pronged approach that includes consumers, says Victor Seah of the Singapore University of Social Sciences.</description>
+      <pubDate>Sun, 24 May 2026 22:00:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Everyone is navigating AI security in real time — even Google</title>
+      <link>https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/</link>
+      <description>[TechCrunch AI] We're in the transition period -- all of us.</description>
+      <pubDate>Sun, 24 May 2026 21:39:21 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>AI becoming as vital as water, power: Chief of S’pore chip testing firm with 450% share surge in 2026</title>
+      <link>https://www.straitstimes.com/business/ai-is-becoming-as-vital-as-water-and-power-says-chief-of-singapore-chip-stock-up-450-in-2026</link>
+      <description>[Straits Times] AEM Holdings has been a key beneficiary of the rise in AI investments.</description>
+      <pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>To AI executives, we’re all just ‘meat computers’</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/technology/ai-executives-were-all-just-meat-computers</link>
+      <description>[Business Times] This comparison has not landed well with a public anxious about the artificial intelligence future</description>
+      <pubDate>Sun, 24 May 2026 16:06:06 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out</title>
+      <link>https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/</link>
+      <description>[TechCrunch AI] Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.</description>
+      <pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Hackers are learning to exploit chatbot &amp;#8216;personalities&amp;#8217;</title>
+      <link>https://www.theverge.com/column/935545/hackers-ai-chatbots</link>
+      <description>[The Verge AI] This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a lau</description>
+      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin</title>
+      <link>https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/</link>
+      <description>[WIRED AI] A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.</description>
+      <pubDate>Sun, 24 May 2026 10:30:00 +0000</pubDate>
       <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Mythos的面纱，成了Anthropic撬动万亿的杠杆</title>
+      <link>https://www.tmtpost.com/8000513.html</link>
+      <description>[钛媒体] 谷歌和白宫，都拜倒在一个未公开发布的大模型下。</description>
+      <pubDate>Sun, 24 May 2026 10:02:24 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>DeepSeek永久降价，但梁文锋并不想做「赛博菩萨」</title>
+      <link>https://www.tmtpost.com/7999975.html</link>
+      <description>[钛媒体] 逆势降价，DeepSeek拿到了反向定价权。</description>
+      <pubDate>Sun, 24 May 2026 10:01:13 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>一人公司还没赚钱，卖给一人公司的生意先赚钱了</title>
+      <link>https://www.tmtpost.com/8000310.html</link>
+      <description>[钛媒体] AI 让“一人公司”从个人想象进入产业叙事，深圳等地也已将 OPC 纳入人工智能创业生态建设。与此同时，AI 编程工具、出海课程、付费社群和增长服务正在先于普通人的商业闭环完成变现。一个人还没真正成为公司，往往已经先成为一批服务商的客户。</description>
+      <pubDate>Sun, 24 May 2026 05:36:17 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>活过来的Codex，扛起了OpenAI上市的希望</title>
+      <link>https://www.tmtpost.com/8000341.html</link>
+      <description>[钛媒体] ChatGPT证明了OpenAI有用户，Codex要证明OpenAI有生意。</description>
+      <pubDate>Sun, 24 May 2026 05:36:06 +0000</pubDate>
+      <source>钛媒体</source>
     </item>
     <item>
       <title>Ferrari is using IBM’s AI to create F1 superfans</title>
@@ -105,20 +168,6 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <description>[TechCrunch AI] IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.</description>
       <pubDate>Sat, 23 May 2026 15:08:00 +0000</pubDate>
       <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>一场全民“AI自证”的黑色喜剧</title>
-      <link>https://www.tmtpost.com/7999910.html</link>
-      <description>[钛媒体] 2026年的夏天，朱自清先生会被一台机器判定为“60%以上是AI”。</description>
-      <pubDate>Sat, 23 May 2026 13:03:06 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>SpaceX抢跑，OpenAI追击</title>
-      <link>https://www.tmtpost.com/7999911.html</link>
-      <description>[钛媒体] SpaceX计划在纳斯达克双重上市</description>
-      <pubDate>Sat, 23 May 2026 13:03:04 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Elon Musk has given up on solar power (on Earth)</title>
@@ -146,13 +195,6 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
   </description>
       <pubDate>Sat, 23 May 2026 10:10:00 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>【数智周报】  谷歌推出Gemini 3.5系列模型；阿里发布新一代千问旗舰模型Qwen3.7-Max；Meta内部文件曝光：拟裁员10%，全面转向AI架构</title>
-      <link>https://www.tmtpost.com/7999893.html</link>
-      <description>[钛媒体] （5月18日~5月23日）中国信通院启动首批“人工智能营销客服平台能力”测评；华大基因启用“华大时空智惠健康中心”；xAI推出Skills；谷歌推出全天候AI代理Gemini Spark</description>
-      <pubDate>Sat, 23 May 2026 09:06:40 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会</title>
@@ -216,7 +258,7 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
   编辑&amp;nbsp;|&amp;nbsp;袁斯来
   硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。
   维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAICORE Lab），专注于具身智能“大小脑”融合芯片研发，致力于打造全国产化机器人核心计算方案。
-  联合创始人殷积磊毕业于北京大学，拥有超过20年半导体行业经验，曾任知存科技COO兼研发副总裁，以及IBM、GlobalFoundries芯片研发总</description>
+  联合创始人殷积磊毕业于北京大学，拥有超过20年半导体行业经验，曾任知存科技COO兼研发副总裁，以及IBM、GlobalFoundries���片研</description>
       <pubDate>Sat, 23 May 2026 04:20:48 +0000</pubDate>
       <source>36氪</source>
     </item>
@@ -226,13 +268,6 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <description>[Business Times] Each co-lead investor plans to inject roughly US$2 billion</description>
       <pubDate>Sat, 23 May 2026 03:34:50 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>AI融资潮中的三种故事</title>
-      <link>https://www.tmtpost.com/7999581.html</link>
-      <description>[钛媒体] 梁文锋买时间，别人买答案。</description>
-      <pubDate>Sat, 23 May 2026 02:44:03 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Suspended firms have three years to get back on track, or may be delisted: SGX RegCo</title>
@@ -256,24 +291,10 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Shein to buy apparel retailer Everlane</title>
-      <link>https://www.channelnewsasia.com/business/shein-buy-apparel-retailer-everlane-6137536</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 22 May 2026 21:29:07 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’</title>
       <link>https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/</link>
       <description>[TechCrunch AI] You can now disco ball-ify your entire Pixel home screen, says Google.</description>
       <pubDate>Fri, 22 May 2026 21:02:36 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>How VCs and founders use inflated ‘ARR’ to crown AI startups</title>
-      <link>https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/</link>
-      <description>[TechCrunch AI] Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.</description>
-      <pubDate>Fri, 22 May 2026 20:40:48 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
@@ -284,41 +305,6 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>USTR Greer sees no immediate chip tariffs but says protection important for sector</title>
-      <link>https://www.channelnewsasia.com/business/ustr-greer-sees-no-immediate-chip-tariffs-says-protection-important-sector-6137111</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 22 May 2026 20:34:54 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Google appeals US court ruling on search monopoly</title>
-      <link>https://www.channelnewsasia.com/business/google-appeals-us-court-ruling-search-monopoly-6137126</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 22 May 2026 18:23:02 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Elon Musk can’t hear you over the sound of his $1.75 trillion IPO</title>
-      <link>https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/</link>
-      <description>[TechCrunch AI] The SpaceX S-1 is finally here, and the story it tells goes&amp;#160;way further&amp;#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&amp;#160;$28 trillion&amp;#160;total addressable market, a pay package tied to&amp;#160;establishing&amp;#160;a Mars colony,</description>
-      <pubDate>Fri, 22 May 2026 18:17:07 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Workday shares jump as AI demand eases investor concerns</title>
-      <link>https://www.channelnewsasia.com/business/workday-shares-jump-ai-demand-eases-investor-concerns-6137131</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 22 May 2026 17:41:04 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>US Fed chair Kevin Warsh says will be ‘reform-oriented’ at glitzy White House swearing-in</title>
-      <link>https://www.straitstimes.com/business/economy/us-fed-chair-kevin-warsh-says-will-be-reform-oriented-at-glitzy-white-house-swearing-in</link>
-      <description>[Straits Times] Mr Warsh replaces Mr Jerome Powell, who has said he will remain on the Federal Reserve board.</description>
-      <pubDate>Fri, 22 May 2026 17:30:19 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Elon, stop trying to make Grok happen</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen</link>
       <description>[The Verge AI] There is a harsh truth about Elon Musk's &quot;truth-seeking&quot; AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI'</description>
@@ -326,25 +312,11 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Hyundai to recall over 421,000 US vehicles over software brake issue, NHTSA says</title>
-      <link>https://www.channelnewsasia.com/business/hyundai-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-6137546</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 22 May 2026 16:21:41 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Waymo pauses robotaxis in five US cities after cars drive into flooded roads</title>
       <link>https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] A Waymo spokesperson said it had expanded the temporary pause &quot;out of an abundance of caution&quot;.</description>
       <pubDate>Fri, 22 May 2026 16:10:21 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Explainer-From Meta to SpaceX: how dual-class shares keep founders in control</title>
-      <link>https://www.channelnewsasia.com/business/explainer-meta-spacex-how-dual-class-shares-keep-founders-in-control-6137146</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 22 May 2026 15:54:11 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Even If You Hate AI, You Will Use Google AI Search</title>
@@ -391,20 +363,6 @@ The post Consumers want AI ads with a human touch appeared first on MarTech.</de
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Singapore stocks close higher as investors stay cautious over Mid-East outlook; STI up 0.4%</title>
-      <link>https://www.straitstimes.com/business/companies-markets/singapore-stocks-close-higher-amid-cautious-middle-east-outlook-sti-up-0-4</link>
-      <description>[Straits Times] Keppel led the gainers on Singapore’s blue-chip index, rising 4.7 per cent to $10.91.</description>
-      <pubDate>Fri, 22 May 2026 11:35:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Samsung&amp;#8217;s memory chip employees negotiated $340,000 bonuses this year</title>
-      <link>https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus</link>
-      <description>[The Verge AI] Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semic</description>
-      <pubDate>Fri, 22 May 2026 11:05:25 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>The Gulf’s AI Boom Has an Undersea Cable Problem</title>
       <link>https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/</link>
       <description>[WIRED AI] Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.</description>
@@ -412,32 +370,11 @@ The post Consumers want AI ads with a human touch appeared first on MarTech.</de
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Thousands of kilometres from Iran war, Asia’s currencies feel the strain</title>
-      <link>https://www.straitstimes.com/business/thousands-of-kilometres-from-iran-war-asias-currencies-feel-the-strain</link>
-      <description>[Straits Times] Soaring oil prices and a surging US dollar are testing Asia’s foreign-exchange reserves.</description>
-      <pubDate>Fri, 22 May 2026 06:14:22 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Taiwanese chip testing firm’s new Singapore facility to create over 300 jobs</title>
-      <link>https://www.straitstimes.com/business/taiwanese-chip-testing-firms-new-singapore-facility-to-create-over-300-jobs</link>
-      <description>[Straits Times] KYEC's site in Ang Mo Kio includes an over 109,000 sq ft cleanroom.</description>
-      <pubDate>Fri, 22 May 2026 05:58:27 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Meta-Manus deal reversal: China does not make tech firms reject foreign investment, state planner says</title>
       <link>https://www.businesstimes.com.sg/startups-tech/meta-manus-deal-reversal-china-does-not-make-tech-firms-reject-foreign-investment-state-planner-says</link>
       <description>[Business Times] Foreign investment must comply with Chinese laws and regulations, says a spokesperson</description>
       <pubDate>Fri, 22 May 2026 05:01:23 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>India’s job engine strains as Iran war hits remittances and trade</title>
-      <link>https://www.straitstimes.com/business/indias-job-engine-strains-as-iran-war-hits-remittances-and-trade</link>
-      <description>[Straits Times] Returning migrant workers are now stuck in India and unable to find similar pay in their home towns.</description>
-      <pubDate>Fri, 22 May 2026 04:55:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>DeepSeek founder declares artificial general intelligence goal as 70 billion yuan funding round advances</title>
