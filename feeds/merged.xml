@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sun, 24 May 2026 23:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 23:09:50 +0000</lastBuildDate>
     <item>
       <title>OpenAI is preparing to file for an IPO in the coming weeks</title>
       <link>https://www.businesstimes.com.sg/startups-tech/startups/openai-preparing-file-ipo-coming-weeks</link>
@@ -48,13 +48,6 @@ The post Why relevance now beats reach in the AI-driven buyer journey appeared f
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me</title>
-      <link>https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/</link>
-      <description>[WIRED AI] I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped out.</description>
-      <pubDate>Thu, 21 May 2026 15:48:24 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>The latest AI-powered martech news and releases</title>
       <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
       <description>[MarTech] Pacvue wants AI assistants to pull live retail media data directly into chat, eliminating spreadsheets and siloed workflows.
@@ -86,25 +79,11 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <source>Business Times</source>
     </item>
     <item>
-      <title>Commentary: Regulation alone won’t be a silver bullet for ‘dark patterns’ that manipulate consumers</title>
-      <link>https://www.channelnewsasia.com/commentary/dark-patterns-manipulate-consumer-online-shopping-misleading-tactics-singapore-ccs-regulation-6136226</link>
-      <description>[CNA Tech] Given how quickly deceptive tactics evolve, especially with AI, countering “dark patterns” will require a multi-pronged approach that includes consumers, says Victor Seah of the Singapore University of Social Sciences.</description>
-      <pubDate>Sun, 24 May 2026 22:00:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Everyone is navigating AI security in real time — even Google</title>
       <link>https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/</link>
       <description>[TechCrunch AI] We're in the transition period -- all of us.</description>
       <pubDate>Sun, 24 May 2026 21:39:21 +0000</pubDate>
       <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>AI becoming as vital as water, power: Chief of S’pore chip testing firm with 450% share surge in 2026</title>
-      <link>https://www.straitstimes.com/business/ai-is-becoming-as-vital-as-water-and-power-says-chief-of-singapore-chip-stock-up-450-in-2026</link>
-      <description>[Straits Times] AEM Holdings has been a key beneficiary of the rise in AI investments.</description>
-      <pubDate>Sun, 24 May 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>To AI executives, we’re all just ‘meat computers’</title>
@@ -135,132 +114,11 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Mythos的面纱，成了Anthropic撬动万亿的杠杆</title>
-      <link>https://www.tmtpost.com/8000513.html</link>
-      <description>[钛媒体] 谷歌和白宫，都拜倒在一个未公开发布的大模型下。</description>
-      <pubDate>Sun, 24 May 2026 10:02:24 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>DeepSeek永久降价，但梁文锋并不想做「赛博菩萨」</title>
-      <link>https://www.tmtpost.com/7999975.html</link>
-      <description>[钛媒体] 逆势降价，DeepSeek拿到了反向定价权。</description>
-      <pubDate>Sun, 24 May 2026 10:01:13 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>一人公司还没赚钱，卖给一人公司的生意先赚钱了</title>
-      <link>https://www.tmtpost.com/8000310.html</link>
-      <description>[钛媒体] AI 让“一人公司”从个人想象进入产业叙事，深圳等地也已将 OPC 纳入人工智能创业生态建设。与此同时，AI 编程工具、出海课程、付费社群和增长服务正在先于普通人的商业闭环完成变现。一个人还没真正成为公司，往往已经先成为一批服务商的客户。</description>
-      <pubDate>Sun, 24 May 2026 05:36:17 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>活过来的Codex，扛起了OpenAI上市的希望</title>
-      <link>https://www.tmtpost.com/8000341.html</link>
-      <description>[钛媒体] ChatGPT证明了OpenAI有用户，Codex要证明OpenAI有生意。</description>
-      <pubDate>Sun, 24 May 2026 05:36:06 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Ferrari is using IBM’s AI to create F1 superfans</title>
-      <link>https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/</link>
-      <description>[TechCrunch AI] IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.</description>
-      <pubDate>Sat, 23 May 2026 15:08:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Elon Musk has given up on solar power (on Earth)</title>
-      <link>https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/</link>
-      <description>[TechCrunch AI] Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the &quot;solar-electric economy&quot; he promised?</description>
-      <pubDate>Sat, 23 May 2026 13:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Google’s new anything-to-anything AI model is wild</title>
       <link>https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video</link>
       <description>[The Verge AI] Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&amp;#8230;]</description>
       <pubDate>Sat, 23 May 2026 11:00:00 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会</title>
-      <link>https://36kr.com/p/3821714896408713?f=rss</link>
-      <description>[36氪] 下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。
-  硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+AI原生智能体+可穿戴硬件”三位一体，才能让AI从聊天框真正走进现实。
-  以下为圆桌对话内容，经36氪整理编辑：
-  
-  刘子豪丨杭州颜柯教育联合创始人（主持）
-  赵维奇丨乐奇全球开放生态负责人
-  </description>
-      <pubDate>Sat, 23 May 2026 10:10:00 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会</title>
-      <link>https://36kr.com/p/3821542483857801?f=rss</link>
-      <description>[36氪] 稀缺的，到底是懂AI的人，还是懂业务的人？
-  一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。
-  以下为圆桌对话内容，经36氪整理编辑：
-  
-  郑王宇丨36氪基金投资副总裁（主持）
-  龚毅丨尼尔森IQ 通信及科技业务总经理
-  罗飞丨华科智能AI研究院院长
-  林海卓丨卓源亚洲创始合伙人</description>
-      <pubDate>Sat, 23 May 2026 07:14:29 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会</title>
-      <link>https://36kr.com/p/3821533415985283?f=rss</link>
-      <description>[36氪] 真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。
-  只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。
-  以下为圆桌对话内容，经36氪整理编辑：
-  
-  帮主丨36氪《AI局内人》主播（主持）
-  郑鹏宇丨杭州颜柯教育科技有限公司创始人
-  肖玛峰丨AI招聘平台TTC创始人
-  帮主：各位下午好，我是这场圆桌的主持人帮主。这场圆桌不聊技术落地的事，聊一个在座很多老板都非常关心的事—</description>
-      <pubDate>Sat, 23 May 2026 07:05:47 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>对话王小川：离开通用人工智能的主干道之后</title>
-      <link>https://36kr.com/p/3821521291038856?f=rss</link>
-      <description>[36氪] “如果没有转型，继续走主流道路，你也会有同等程度的焦虑。”王小川说，这次转型，让他真正回归到从创业第一天就最想做的事情：造AI医生。
-  访谈｜邓咏仪 杨轩
-  文｜邓咏仪
-  编辑｜张雨忻
-  一年前，王小川带着百川智能来了一次激烈的“大刹车”：大幅缩减通用模型团队，关闭金融等多条行业线，All in医疗大模型。但与此同时，整个大模型行业却热闹非凡，大厂和创业公司轮番进行“轰炸式更新”——过去半年里，平均3天就有一个新版本的通用大模型面世。
-  而看起来沉寂的百川在做什么？5月22日，王小川安静地交出答卷：新医疗大模型M4，以及Agent产品“百小医”。
-  过去3年里，百川逐渐从“要做中国</description>
-      <pubDate>Sat, 23 May 2026 06:53:35 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>圆桌对话：AI浓度与转化率：数字体验的实战增长法则</title>
-      <link>https://36kr.com/p/3821519307591811?f=rss</link>
-      <description>[36氪] AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。
-  “AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。
-  以下为圆桌对话内容，经36氪整理编辑：
-  
-  薛冰丨上海蜚语信息科技副总裁（主持）
-  崔健南丨广州搞搞镇文化科技创始人兼CEO
-  杨晟丨珀乐互动科技创始人
-  薛冰：各位嘉宾大家下午好，我是主持人薛冰，很荣幸受到36氪以及北京亦庄的邀请主持下午的圆桌。今天非常开心能够邀请到和我同台的两位重量级嘉宾，崔总、杨总，现在我们直接进入圆桌环节，先请两位嘉宾做一下自我介绍，先从崔总开始</description>
-      <pubDate>Sat, 23 May 2026 06:53:25 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资</title>
-      <link>https://36kr.com/p/3821371042877575?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。
-  维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAICORE Lab），专注于具身智能“大小脑”融合芯片研发，致力于打造全国产化机器人核心计算方案。
-  联合创始人殷积磊毕业于北京大学，拥有超过20年半导体行业经验，曾任知存科技COO兼研发副总裁，以及IBM、GlobalFoundries���片研</description>
-      <pubDate>Sat, 23 May 2026 04:20:48 +0000</pubDate>
-      <source>36氪</source>
     </item>
     <item>
       <title>Anthropic nears US$30 billion funding round to top OpenAI as most valuable AI startup</title>
@@ -270,18 +128,249 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <source>Business Times</source>
     </item>
     <item>
-      <title>Suspended firms have three years to get back on track, or may be delisted: SGX RegCo</title>
-      <link>https://www.straitstimes.com/business/suspended-firms-have-three-years-to-get-back-on-track-or-may-be-delisted-sgx-regco</link>
-      <description>[Straits Times] The regulator is seeking to keep trading suspensions to the minimum and give more certainty on delisting timelines.</description>
-      <pubDate>Fri, 22 May 2026 23:09:20 +0000</pubDate>
+      <title>US crude futures fall over 6% on report of possible Strait of Hormuz reopening</title>
+      <link>https://www.channelnewsasia.com/business/us-crude-futures-fall-over-6-report-possible-strait-hormuz-reopening-6141191</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 25 May 2026 22:12:41 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Commentary: Japan’s an AI laggard, but that could be its edge</title>
+      <link>https://www.channelnewsasia.com/commentary/ai-japan-long-run-economy-embed-us-backlash-6140216</link>
+      <description>[CNA Tech] The current frenzy around AI creates pressure to spend big now and justify later.&amp;nbsp;For Japan, the long view is the right one, says Catherine Thorbecke for Bloomberg Opinion.</description>
+      <pubDate>Mon, 25 May 2026 21:59:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Oil tumbles nearly 7% as US and Iran seen moving closer to deal</title>
+      <link>https://www.channelnewsasia.com/business/oil-prices-us-iran-peace-deal-hormuz-6139536</link>
+      <description>[CNA Tech] Brent crude dropped below US$97 a barrel after both sides said talks had made progress.</description>
+      <pubDate>Mon, 25 May 2026 21:16:32 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>From overspending to business failures: Why more people end up bankrupt in Singapore</title>
+      <link>https://www.straitstimes.com/business/from-overspending-to-business-failures-why-more-people-end-up-bankrupt-in-singapore</link>
+      <description>[Straits Times] Most borrowers can avoid bankruptcy if they seek help before their debt spirals out of control.</description>
+      <pubDate>Mon, 25 May 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>AI is being used to resurrect the voices of dead pilots</title>
-      <link>https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/</link>
-      <description>[TechCrunch AI] People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.</description>
-      <pubDate>Fri, 22 May 2026 23:03:33 +0000</pubDate>
+      <title>What ClickUp’s mass layoff tells us about the future of work</title>
+      <link>https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/</link>
+      <description>[TechCrunch AI] The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 +0000</pubDate>
       <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>The pope’s AI encyclical isn’t really about AI</title>
+      <link>https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/</link>
+      <description>[TechCrunch AI] Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.</description>
+      <pubDate>Mon, 25 May 2026 15:09:41 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Pope Leo calls for being ‘profoundly human’ in the age of AI</title>
+      <link>https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare</link>
+      <description>[The Verge AI] Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on &quot;safeguarding the human person in the time of artificial intelligence,&quot; in which he discusses the dangers of AI-powered wa</description>
+      <pubDate>Mon, 25 May 2026 15:05:07 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Startup Battlefield 200 applications close in days: Apply before May 27</title>
+      <link>https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/</link>
+      <description>[TechCrunch AI] The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.</description>
+      <pubDate>Mon, 25 May 2026 14:30:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>宇树科技IPO倒计时，9000万撑起的帝国，还差一个“大脑”</title>
+      <link>https://www.tmtpost.com/8001758.html</link>
+      <description>[钛媒体] 将于6月1日上会审议的宇树科技，已经走到了从“明星创业公司”到“上市公司”的历史分水岭。</description>
+      <pubDate>Mon, 25 May 2026 14:09:37 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase</title>
+      <link>https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/</link>
+      <description>[TechCrunch AI] Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.</description>
+      <pubDate>Mon, 25 May 2026 14:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>割肉福兆、苦候30亿补偿款：华映科技的“止血”与“输血”困局</title>
+      <link>https://www.tmtpost.com/8001786.html</link>
+      <description>[钛媒体] 比起剥离亏损的字长，华映科技更需要解决的是“自我造血”能力。</description>
+      <pubDate>Mon, 25 May 2026 13:55:17 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>India's AI ambitions hinge on workforce re-skilling, IBM India head says</title>
+      <link>https://www.channelnewsasia.com/business/indias-ai-ambitions-hinge-workforce-re-skilling-ibm-india-head-says-6140666</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 25 May 2026 12:53:11 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>阿里巴巴重新做云的决心，还是被低估了</title>
+      <link>https://www.tmtpost.com/8000812.html</link>
+      <description>[钛媒体] 现在，阿里云真正意义上将云、芯片、模型做成一体化的组合。</description>
+      <pubDate>Mon, 25 May 2026 12:02:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Singapore aims to speed up private bank account opening for wealthy clients</title>
+      <link>https://www.channelnewsasia.com/singapore/bank-private-banking-wealthy-faster-account-opening-mas-6140471</link>
+      <description>[CNA Tech] Private banking account opening times for the wealthy will be reduced to within one month by the end of 2026, down from the current duration of about six weeks or longer.</description>
+      <pubDate>Mon, 25 May 2026 11:53:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>大模型公司门口，挤满了送钱的投资人</title>
+      <link>https://www.tmtpost.com/8001392.html</link>
+      <description>[钛媒体] 应投尽投</description>
+      <pubDate>Mon, 25 May 2026 11:38:25 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>消除“罪证”：给写作去除“AI味”的不完全手册（2026版）</title>
+      <link>https://36kr.com/p/3824601267196037?f=rss</link>
+      <description>[36氪] 图源：公众号「有三思 &amp;nbsp;U &amp;nbsp;Sense」
+  做个测试。读一下这段话：
+  “熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。”
+  如果你笑了，或者皱了眉，很明显，你的“鉴AI雷达”已经觉醒。&amp;nbsp;
+  近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。大家纷纷晒出自己使用、调教AI，结果内容啼笑皆非的截图。这场围绕AI味写作的调侃就此出圈。&amp;nbsp;
+  
+  ●&amp;nbsp;网友@也许像星星发布的AI味吐槽突破&amp;nbsp;
+  微博AI味相关话题浏览阅读量不小，小红书相关笔记动辄近万点赞。豆瓣、抖音、微信公众号，都能搜到不少相关内容。</description>
+      <pubDate>Mon, 25 May 2026 11:32:24 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>全球Token，短缺了</title>
+      <link>https://www.tmtpost.com/8001378.html</link>
+      <description>[钛媒体] AI的呼吸正在变得昂贵</description>
+      <pubDate>Mon, 25 May 2026 11:23:05 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>20岁透支、60岁退保，韩国人借钱狂买三星</title>
+      <link>https://www.tmtpost.com/8001441.html</link>
+      <description>[钛媒体] 韩国人举债死磕芯片股</description>
+      <pubDate>Mon, 25 May 2026 11:23:03 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>The AI Era Is Creating a Bug Hunting Arms Race</title>
+      <link>https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/</link>
+      <description>[WIRED AI] As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.</description>
+      <pubDate>Mon, 25 May 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Anthropic's Olah says AI must be guided from outside Big Tech</title>
+      <link>https://www.channelnewsasia.com/business/anthropics-olah-says-ai-must-be-guided-outside-big-tech-6140456</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 25 May 2026 10:27:03 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会</title>
+      <link>https://36kr.com/p/3824164325412992?f=rss</link>
+      <description>[36氪] 新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。
+  
+  麻亚炜将AI转型划分为四个递进阶段：
+  第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。
+  第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从&quot;命令&quot;转化为&quot;共识&quot;。
+  第三阶段（2025）：AI in All 深度嵌入 将AI融入所有</description>
+      <pubDate>Mon, 25 May 2026 08:54:18 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会</title>
+      <link>https://36kr.com/p/3824158896312709?f=rss</link>
+      <description>[36氪] 半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。
+  
+  广州因特智能科技有限公司孵化于西安电子科技大学广州研究院，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持软硬一体，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。
+  以下为演讲内容，经36氪整理编辑：
+  
+  刘金硕丨广州因特智能科技CEO
+  非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司</description>
+      <pubDate>Mon, 25 May 2026 06:26:35 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>High Court raps UOB over inconsistent legal positions on late mortgage payment charges</title>
+      <link>https://www.straitstimes.com/business/high-court-raps-uob-over-inconsistent-legal-positions-on-late-mortgage-payment-charges</link>
+      <description>[Straits Times] It also criticised shortcomings in the bank’s court papers filed against a firm over a $556,200 loan.</description>
+      <pubDate>Mon, 25 May 2026 06:20:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会</title>
+      <link>https://36kr.com/p/3824154127093892?f=rss</link>
+      <description>[36氪] AIGC如何从生产工具进阶到情感洞察？当AI能写出剧本、生成音乐、表演微表情，人还剩什么？
+  内容产业正在发生生产模式跃迁，传统用户画像在AI时代正在被颠覆，真正要做的是理解用户的情感状态而非静态标签。厂牌效应不会消失，越过技术线之后，人最后坚守的是“手搓”的审美与意义。
+  以下为圆桌对话内容，经36氪整理编辑：
+  
+  刘士武丨36氪游戏主编（主持）
+  庄明浩丨趣丸科技副总裁兼首席战略官
+  胡维琦丨MiniMax To B 中国区商业化负责人
+  郑安迪丨柠萌影视旗下短剧厂牌好有本领总经理
+  刘士武：大家好，我是36氪游戏主编刘士武，也是这场圆桌的主持人，本场圆桌论坛的主题是从“</description>
+      <pubDate>Mon, 25 May 2026 06:08:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Singapore core inflation sees surprise drop in April but higher costs loom</title>
+      <link>https://www.straitstimes.com/business/economy/singapore-core-inflation-eases-to-1-4-in-april-but-higher-energy-costs-loom</link>
+      <description>[Straits Times] Higher global energy prices will likely raise electricity, transport and production costs in the coming months.</description>
+      <pubDate>Mon, 25 May 2026 05:01:35 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Toshifumi Suzuki, who transformed 7-Eleven chain, dies at 93</title>
+      <link>https://www.straitstimes.com/business/companies-markets/toshifumi-suzuki-who-transformed-7-eleven-chain-dies-at-93</link>
+      <description>[Straits Times] The convenience store chain had over 55,000 outlets in at least 16 countries by the time he left as CEO in May 2016.</description>
+      <pubDate>Mon, 25 May 2026 03:47:40 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Singapore is riding the global AI investment boom but there are risks, says MTI</title>
+      <link>https://www.straitstimes.com/business/singapore-is-riding-the-global-ai-investment-boom-but-here-are-the-risks-says-mti</link>
+      <description>[Straits Times] There is a risk of slowdown in chip production if the Iran war is protracted.</description>
+      <pubDate>Mon, 25 May 2026 03:16:09 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据</title>
+      <link>https://36kr.com/p/3824089662853513?f=rss</link>
+      <description>[36氪] 作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。
+  竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。
+  团队方面，创始人张吉曾任群核科技副总裁，深度参与大规模空间数据处理与商业化；首席科学家过洁为南京大学长聘副教授、3DGS和空间仿真领域顶尖科学家；团队具</description>
+      <pubDate>Mon, 25 May 2026 02:25:26 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资</title>
+      <link>https://36kr.com/p/3824073646624899?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;张子怡
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，3D打印高端光固化全栈技术企业、齿科细分龙头——黑格科技（HeyGears）于近期完成超3亿元人民币C轮融资。本轮融资由君联资本、达晨联合领投，歌斐资产、国科投资跟投。
+  本轮资金用途将用于光固化技术研发迭代、全球产业链深化、顶尖人才引进及新一代数字化齿科解决方案、桌面级光固化全彩造物产品的发布。
+  黑格科技的齿科业务始于2018年，依托耗材体系和DLP技术的全产业链国产攻坚，后推出光固化产品线UltraCraft及齿科数字化解决方案，已成为全球细分龙头。
+  目前，黑格科技齿科业务全球化布局成效</description>
+      <pubDate>Mon, 25 May 2026 02:09:23 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Singapore upgrades 2026 key exports growth forecast as AI-related demand surges</title>
+      <link>https://www.straitstimes.com/business/economy/singapore-upgrades-2026-key-exports-growth-forecast-on-strong-ai-related-electronics-demand</link>
+      <description>[Straits Times] Key exports are expected to rise by 3 per cent to 5 per cent in 2026, from 2 per cent to 4 per cent previously.</description>
+      <pubDate>Mon, 25 May 2026 00:55:38 +0000</pubDate>
+      <source>Straits Times</source>
     </item>
     <item>
       <title>AI may speed up search for drugs to treat brain conditions</title>
@@ -289,13 +378,6 @@ The post Marketing teams must own AI, or workslop will take over appeared first 
       <description>[BBC Technology] Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.</description>
       <pubDate>Fri, 22 May 2026 21:30:06 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’</title>
-      <link>https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/</link>
-      <description>[TechCrunch AI] You can now disco ball-ify your entire Pixel home screen, says Google.</description>
-      <pubDate>Fri, 22 May 2026 21:02:36 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for</title>
@@ -338,13 +420,6 @@ The post The AI marketing advantage hiding in your metadata appeared first on Ma
       <link>https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize</link>
       <description>[The Verge AI] Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's &quot;The Serpent in th</description>
       <pubDate>Fri, 22 May 2026 14:30:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Spotify says its AI remix tool is for superfans, but I&amp;#8217;m not convinced</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan</link>
-      <description>[The Verge AI] AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of &quot;Smells Like Teen Spirit,&quot; dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make the</description>
-      <pubDate>Fri, 22 May 2026 14:20:00 +0000</pubDate>
       <source>The Verge AI</source>
     </item>
     <item>
