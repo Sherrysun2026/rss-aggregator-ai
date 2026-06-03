@@ -3,13 +3,298 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Tue, 02 Jun 2026 23:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:48:05 +0000</lastBuildDate>
     <item>
-      <title>【钛晨报】国务院印发《加快农业农村现代化“十五五”规划》；老虎国际暂停境内存量账户新开仓、加仓交易；“东吴证券+东海证券”重组草案出炉</title>
-      <link>https://www.tmtpost.com/8012109.html</link>
-      <description>[钛媒体] 腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%；豆包预计6月下旬正式收费？ 官方暂未回应；阿里5月人事变化：吴泽明进入合伙人委员会；宇树科技科创板IPO审核状态变更为“提交注册”；英伟达Spectrum-X以太网硅光技术已全面量产；中国光通信技术实现重要突破；孙正义重登亚洲首富。</description>
-      <pubDate>Tue, 02 Jun 2026 23:20:00 +0000</pubDate>
+      <title>【钛晨报】覆盖14个平台，市场监管总局开展网络餐饮专项抽检；Alphabet宣布将股权融资规模从800亿美元增至847.5亿美元；比亚迪入局人形机器人</title>
+      <link>https://www.tmtpost.com/8014013.html</link>
+      <description>[钛媒体] 豆包：对于广大用户日常使用的豆包功能，将保持目前的免费服务；消息称DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元；Alphabet：预计Gemini 3.5 Pro将于6月推出；国家广播电视总局部署开展微短剧有害低俗内容和侵权盗版专项治理；多地银行正按要求适当加大信贷投放；今年已有近百家村镇银行注销；中国两大自动驾驶企业纳入港股通</description>
+      <pubDate>Wed, 03 Jun 2026 23:20:00 +0000</pubDate>
       <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Lovable signs multiyear deal with Google Cloud to up usage 5x, source says</title>
+      <link>https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/</link>
+      <description>[TechCrunch AI] Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.</description>
+      <pubDate>Wed, 03 Jun 2026 22:56:51 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>NTUC concerned about employers presenting retrenchments as 'new opportunities' by asking workers to reapply for roles abroad</title>
+      <link>https://www.channelnewsasia.com/singapore/retrenchment-disguised-job-loss-apply-overseas-new-opportunity-6155641</link>
+      <description>[CNA Tech] Some employers take this approach in order to avoid the optics of a retrenchment, say manpower experts.</description>
+      <pubDate>Wed, 03 Jun 2026 22:00:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Commentary: How much AI Is too much for stock investors?</title>
+      <link>https://www.channelnewsasia.com/commentary/ai-stocks-growth-earnings-sp-500-invest-portfolio-6159476</link>
+      <description>[CNA Tech] While it’s tempting to keep riding the wave, investors would be wise to diversify their portfolios, says Jonathan Levin for Bloomberg Opinion.&amp;nbsp;</description>
+      <pubDate>Wed, 03 Jun 2026 21:58:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Commentary: Google’s AI shift is causing a collective freak-out</title>
+      <link>https://www.channelnewsasia.com/commentary/google-search-ai-gemini-online-advertising-6159391</link>
+      <description>[CNA Tech] Google’s AI evolution is taking the company into uncharted waters, though that may be less of a problem for parent company Alphabet than for advertisers, says Parmy Olson for Bloomberg Opinion.</description>
+      <pubDate>Wed, 03 Jun 2026 21:58:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Trading Day: War clouds and tech wobbles</title>
+      <link>https://www.channelnewsasia.com/business/trading-day-war-clouds-and-tech-wobbles-6160756</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 03 Jun 2026 21:03:01 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Exclusive-Honeywell's Quantinuum raises $1.68 billion in US IPO as quantum computing heats up, source says</title>
+      <link>https://www.channelnewsasia.com/business/exclusive-honeywells-quantinuum-raises-168-billion-in-us-ipo-quantum-computing-heats-up-source-says-6160731</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 03 Jun 2026 20:58:06 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>CrowdStrike reports higher operating expenses as AI investments gain pace</title>
+      <link>https://www.channelnewsasia.com/business/crowdstrike-reports-higher-operating-expenses-ai-investments-gain-pace-6160706</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 03 Jun 2026 20:41:31 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal</title>
+      <link>https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/</link>
+      <description>[TechCrunch AI] If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.</description>
+      <pubDate>Wed, 03 Jun 2026 19:38:32 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon</title>
+      <link>https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/</link>
+      <description>[TechCrunch AI] Dreambeans is a curated list of AI-illustrated &quot;stories&quot; culled from the personal data in your Google account.</description>
+      <pubDate>Wed, 03 Jun 2026 19:07:42 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity</title>
+      <link>https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/</link>
+      <description>[WIRED AI] Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.</description>
+      <pubDate>Wed, 03 Jun 2026 18:49:32 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain</title>
+      <link>https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/</link>
+      <description>[WIRED AI] Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.</description>
+      <pubDate>Wed, 03 Jun 2026 18:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>As AI gets better, it reveals an empty promise</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise</link>
+      <description>[The Verge AI] This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of th</description>
+      <pubDate>Wed, 03 Jun 2026 17:45:35 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Amazon&amp;#8217;s search bar will invent AI-generated products you can&amp;#8217;t buy</title>
+      <link>https://www.theverge.com/tech/942547/amazon-search-bar-ai-images</link>
+      <description>[The Verge AI] Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a bl</description>
+      <pubDate>Wed, 03 Jun 2026 16:07:31 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Amazon will show AI product images when you search for some reason</title>
+      <link>https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/</link>
+      <description>[TechCrunch AI] Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.</description>
+      <pubDate>Wed, 03 Jun 2026 15:50:26 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>This Is How Trump Finally Signed the AI Executive Order</title>
+      <link>https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/</link>
+      <description>[WIRED AI] After shelving the original executive order last month, Donald Trump finally got on board Monday night.</description>
+      <pubDate>Wed, 03 Jun 2026 15:46:52 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司</title>
+      <link>https://36kr.com/p/3837330582008963?f=rss</link>
+      <description>[36氪] 大公司：
+  瑞典AI初创公司Lovable与Google Cloud扩大多年期合作
+  据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面）
+  美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元
+  美银分析师Vivek Arya团队更新了英伟达研报。该机构测算2027财年下半年Vera CPU销售额有望达200亿美元；下一财年产品年化营收规模将突破500亿美元，英伟达有望跻身全球头部服务器CPU供应商。（新浪财经）
+  段永平在泡泡玛特持股比例</description>
+      <pubDate>Wed, 03 Jun 2026 15:01:21 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked</title>
+      <link>https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/</link>
+      <description>[TechCrunch AI] The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.</description>
+      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Publishers will be able to opt out of AI Search, thanks to new regulation</title>
+      <link>https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/</link>
+      <description>[TechCrunch AI] U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.</description>
+      <pubDate>Wed, 03 Jun 2026 14:58:33 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Phone signal on trains not good enough most of the time, research says</title>
+      <link>https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Ofcom found the major phone networks were not providing good signal on trains, and train companies were slowing down wi-fi.</description>
+      <pubDate>Wed, 03 Jun 2026 14:21:22 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Lloyds, Halifax and Bank of Scotland back after online banking outage</title>
+      <link>https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] &quot;We're aware some customers are having issues with our app and online banking. We're really sorry about this,&quot; Lloyds Bank posted on X.</description>
+      <pubDate>Wed, 03 Jun 2026 14:16:52 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Microsoft and OpenAI broke up — now they’re ready to fight</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition</link>
+      <description>[The Verge AI] At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the</description>
+      <pubDate>Wed, 03 Jun 2026 14:04:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Salesforce pushes agentic marketing from planning to pipeline</title>
+      <link>https://martech.org/salesforce-pushes-agentic-marketing-from-planning-to-pipeline/</link>
+      <description>[MarTech] Salesforce introduced new marketing agents that can qualify leads, create content, launch campaigns, and optimize performance across channels.
+The post Salesforce pushes agentic marketing from planning to pipeline appeared first on MarTech.</description>
+      <pubDate>Wed, 03 Jun 2026 13:10:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Why ‘it’s just SEO’ could cost the industry billions</title>
+      <link>https://martech.org/why-its-just-seo-could-cost-the-industry-billions/</link>
+      <description>[MarTech] Treating generative search as business as usual risks shrinking the very market search marketers should be expanding.
+The post Why &amp;#8216;it’s just SEO&amp;#8217; could cost the industry billions appeared first on MarTech.</description>
+      <pubDate>Wed, 03 Jun 2026 13:10:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>联芸科技上市1年半又抛20亿元定增，今年一季度突击花掉IPO募资</title>
+      <link>https://www.tmtpost.com/8013979.html</link>
+      <description>[钛媒体] IPO募投尚在延期，加码高端存储主控时不我待。</description>
+      <pubDate>Wed, 03 Jun 2026 12:55:26 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption</title>
+      <link>https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/</link>
+      <description>[WIRED AI] The company’s RTX Spark chips might finally turn the “AI PC” into reality.</description>
+      <pubDate>Wed, 03 Jun 2026 11:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Meta workers can opt out of being tracked at work - but only for half an hour at a time</title>
+      <link>https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] According to an internal memo, new controls will allow employees to pause the data collection for &quot;up to 30 minutes at a time&quot;.</description>
+      <pubDate>Wed, 03 Jun 2026 10:46:30 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>199元的“AI功能机”和900亿市值，诺基亚的AI双重叙事</title>
+      <link>https://www.tmtpost.com/8011965.html</link>
+      <description>[钛媒体] 诺基亚不止是手机。</description>
+      <pubDate>Wed, 03 Jun 2026 10:20:18 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>美团“换骨”：王兴保住外卖+到店「现实的肉」，还要重构「AI的壳」</title>
+      <link>https://www.tmtpost.com/8012008.html</link>
+      <description>[钛媒体] 美团阵痛期里“拐点”正在到来。</description>
+      <pubDate>Wed, 03 Jun 2026 10:19:01 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock</title>
+      <link>https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/</link>
+      <description>[WIRED AI] Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.</description>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>一篇AI写的稿，凭啥卖我几万</title>
+      <link>https://www.tmtpost.com/8013645.html</link>
+      <description>[钛媒体] 减去一个零，再来谈约稿。</description>
+      <pubDate>Wed, 03 Jun 2026 09:43:07 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI has a water problem — Google thinks it has a fix</title>
+      <link>https://www.theverge.com/policy/942296/google-water-commitments-data-centers</link>
+      <description>[The Verge AI] In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, i</description>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Redditors Are Using AI to Beat Obscene World Cup Ticket Prices</title>
+      <link>https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/</link>
+      <description>[WIRED AI] Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.</description>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Google must let publishers opt out of AI Search features, rules UK</title>
+      <link>https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out</link>
+      <description>[The Verge AI] Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI</description>
+      <pubDate>Wed, 03 Jun 2026 08:45:48 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Publishers in UK can opt out of Google AI search results</title>
+      <link>https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The Competition and Markets Authority says it would put publishers &quot;in a stronger position to negotiate content deals with Google&quot;.</description>
+      <pubDate>Wed, 03 Jun 2026 05:18:00 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发</title>
+      <link>https://36kr.com/p/3836068296209537?f=rss</link>
+      <description>[36氪] 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。
+  目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。
+  商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。
+  具身智能</description>
+      <pubDate>Wed, 03 Jun 2026 01:30:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑</title>
+      <link>https://36kr.com/p/3836744788014208?f=rss</link>
+      <description>[36氪] 作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。
+  旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。
+  不同于市面上常见的</description>
+      <pubDate>Wed, 03 Jun 2026 01:10:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈</title>
+      <link>https://36kr.com/p/3836703946257542?f=rss</link>
+      <description>[36氪] 今日热点导览
+  
+   豆包付费或专注复杂任务， 定价锚定ChatGPT
+   英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力
+   中国内地航线燃油附加费将下调
+   标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款
+   马尔代夫将限制16岁以下青少年访问部分社媒平台
+  
+  TOP 3大新闻
+  腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录
+  6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控股涨近9%，阿里巴巴涨近6%。腾讯控股股价午后持续震荡上行。截至13:12，腾讯控股股价报474.4港元/</description>
+      <pubDate>Wed, 03 Jun 2026 00:21:18 +0000</pubDate>
+      <source>36氪</source>
     </item>
     <item>
       <title>Do you find yourself aimlessly scrolling? You're not alone</title>
@@ -19,52 +304,10 @@
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Cyera eyes $12B valuation at 80x ARR multiple despite operating losses</title>
-      <link>https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/</link>
-      <description>[TechCrunch AI] The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.</description>
-      <pubDate>Tue, 02 Jun 2026 22:50:56 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>ChatGPT app hits 1 billion monthly active users in record time, data shows</title>
-      <link>https://www.channelnewsasia.com/business/chatgpt-app-hits-1-billion-monthly-active-users-in-record-time-data-shows-6157616</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 02 Jun 2026 22:22:25 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Australia's Megaport secures four new AI infrastructure contracts, to raise $594 million</title>
-      <link>https://www.channelnewsasia.com/business/australias-megaport-secures-four-new-ai-infrastructure-contracts-raise-594-million-6157611</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 02 Jun 2026 22:17:57 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Microsoft testing wearable AI gadget aimed at office workers</title>
       <link>https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The company said its own workers are testing a &quot;wearable access badge&quot; and a desktop device.</description>
       <pubDate>Tue, 02 Jun 2026 21:47:42 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Palo Alto raises annual forecasts on strong AI cybersecurity demand, shares surge</title>
-      <link>https://www.channelnewsasia.com/business/palo-alto-raises-annual-forecasts-strong-ai-cybersecurity-demand-shares-surge-6157511</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 02 Jun 2026 20:52:21 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Exclusive-Meta scales back plan for internal mouse-tracking tech, citing staff concerns</title>
-      <link>https://www.channelnewsasia.com/business/exclusive-meta-scales-back-plan-internal-mouse-tracking-tech-citing-staff-concerns-6157441</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 02 Jun 2026 20:03:09 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Microsoft says new quantum chip 1,000 times more reliable than predecessor</title>
-      <link>https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The tech giant predicts it will have a quantum computer that can solve commercially useful problems by the end of the decade.</description>
-      <pubDate>Tue, 02 Jun 2026 19:24:31 +0000</pubDate>
       <source>BBC Technology</source>
     </item>
     <item>
@@ -73,104 +316,6 @@
       <description>[The Verge AI] Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event l</description>
       <pubDate>Tue, 02 Jun 2026 19:23:52 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Uber caps employee AI spending after blowing through budget in 4 months</title>
-      <link>https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/</link>
-      <description>[TechCrunch AI] Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.</description>
-      <pubDate>Tue, 02 Jun 2026 19:11:48 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>New Microsoft tool lets devs spin up AI behavior tests using text descriptions</title>
-      <link>https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/</link>
-      <description>[TechCrunch AI] Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.</description>
-      <pubDate>Tue, 02 Jun 2026 19:02:21 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Trump signs executive order to review AI models before they’re released</title>
-      <link>https://www.theverge.com/policy/941775/trump-ai-executive-order</link>
-      <description>[The Verge AI] President Donald Trump signed an executive order Tuesday creating a &quot;voluntary framework&quot; for AI companies to share their frontier models with the federal government before they're released &quot;to promote secure innovation and strengthen the cybersecurity of critical infrastructure.&quot; The order says the</description>
-      <pubDate>Tue, 02 Jun 2026 18:33:42 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI</title>
-      <link>https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/</link>
-      <description>[TechCrunch AI] The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.</description>
-      <pubDate>Tue, 02 Jun 2026 18:16:53 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Microsoft reveals new quantum chip made with AI, says it will have systems by 2029</title>
-      <link>https://www.channelnewsasia.com/business/microsoft-reveals-new-quantum-chip-made-ai-says-it-will-have-systems-2029-6157366</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 02 Jun 2026 18:16:51 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Microsoft’s first advanced reasoning AI is here</title>
-      <link>https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026</link>
-      <description>[The Verge AI] Microsoft announced a bunch of new in-house AI models at Build 2026, including a new &quot;flagship&quot; model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companie</description>
-      <pubDate>Tue, 02 Jun 2026 18:12:44 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Microsoft launches Scout, an OpenClaw-inspired personal assistant</title>
-      <link>https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/</link>
-      <description>[TechCrunch AI] Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.</description>
-      <pubDate>Tue, 02 Jun 2026 18:02:44 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Google rolls out fake call detection to protect against AI deepfake impersonation scams</title>
-      <link>https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/</link>
-      <description>[TechCrunch AI] As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Microsoft Scout is a new AI personal assistant built on OpenClaw</title>
-      <link>https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw</link>
-      <description>[The Verge AI] Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expen</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Google’s Phone app will tell you if a scammer is impersonating one of your contacts</title>
-      <link>https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation</link>
-      <description>[The Verge AI] Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang [&amp;#8230;]</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Meet Microsoft Scout, Your AI Coworker That Never Logs Off</title>
-      <link>https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/</link>
-      <description>[WIRED AI] Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.</description>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Microsoft&amp;#8217;s Project Solara is an OS for AI agent gadgets</title>
-      <link>https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets</link>
-      <description>[The Verge AI] Microsoft just announced &quot;Project Solara,&quot; a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it &quot;a new platform built from the ground up to power agent-driven experiences.&quot; It's built on Android, not Windows. Microsoft demonstrated two concept Project Solara dev</description>
-      <pubDate>Tue, 02 Jun 2026 17:31:02 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Trump administration to ask US AI firms to voluntarily submit models for cybersecurity tests</title>
-      <link>https://www.channelnewsasia.com/business/trump-administration-ask-us-ai-firms-voluntarily-submit-models-cybersecurity-tests-6157136</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 02 Jun 2026 15:43:31 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget</title>
-      <link>https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/</link>
-      <description>[WIRED AI] Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.</description>
-      <pubDate>Tue, 02 Jun 2026 15:30:00 +0000</pubDate>
-      <source>WIRED AI</source>
     </item>
     <item>
       <title>Can marketers navigate AI search’s trust cliff?</title>
@@ -192,55 +337,6 @@ The post Can marketers navigate AI search&amp;#8217;s trust cliff? appeared firs
       <source>36氪</source>
     </item>
     <item>
-      <title>Instagram AI chatbot tricked by hackers to give access to others' accounts</title>
-      <link>https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.</description>
-      <pubDate>Tue, 02 Jun 2026 11:40:02 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Chatbot烧钱三年，还是AI时代的“新大陆”吗？</title>
-      <link>https://www.tmtpost.com/8011510.html</link>
-      <description>[钛媒体] 巨额投入后，Chatbot到了要证明自身商业可行性的时候。</description>
-      <pubDate>Tue, 02 Jun 2026 10:26:19 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>滴普科技赵杰辉：企业 AI 技术生态，正在被重构</title>
-      <link>https://www.tmtpost.com/8011496.html</link>
-      <description>[钛媒体] 在新的结构里，那些「替模型补短板」的技术方案会退到边缘甚至退场，而企业知识层与企业智能体层会成为新的核心。</description>
-      <pubDate>Tue, 02 Jun 2026 10:11:47 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>快手与字节，打响“二番战”</title>
-      <link>https://www.tmtpost.com/8011399.html</link>
-      <description>[钛媒体] 当短视频格局尘埃落定时，快手这个封闭生态就已经能看到天花板。当下，从产品体验、服务支撑，到商业模式焕新，AI都被寄予厚望。哪怕需要跟字节硬碰硬，哪怕技术仍然落后，这都是快手最好的出路。</description>
-      <pubDate>Tue, 02 Jun 2026 09:46:36 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>The Trump Administration Is at War With Itself Over AI Regulation</title>
-      <link>https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/</link>
-      <description>[WIRED AI] Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.</description>
-      <pubDate>Tue, 02 Jun 2026 09:30:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>10万亿！中国正成为AI基建狂魔</title>
-      <link>https://www.tmtpost.com/8011257.html</link>
-      <description>[钛媒体] 请注意，中国要发力了。</description>
-      <pubDate>Tue, 02 Jun 2026 09:26:38 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>今年618，迎来AI购物“大乱斗”</title>
-      <link>https://www.tmtpost.com/8011276.html</link>
-      <description>[钛媒体] 当AI助手变身AI买手</description>
-      <pubDate>Tue, 02 Jun 2026 09:26:37 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家</title>
       <link>https://36kr.com/p/3835814391100550?f=rss</link>
       <description>[36氪] 文｜肖思佳
@@ -250,98 +346,6 @@ The post Can marketers navigate AI search&amp;#8217;s trust cliff? appeared firs
   据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行</description>
       <pubDate>Tue, 02 Jun 2026 09:13:50 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>做了18年民宿的爱彼迎，开始卖酒店了？</title>
-      <link>https://36kr.com/p/3835511712363657?f=rss</link>
-      <description>[36氪] 爱彼迎的”进化“
-  五月的旧金山，正在经历一场技术的集体癫狂。硅谷的各路AI新贵忙着为机器进化摇旗呐喊，把发布会开成一场场技术狂欢，仿佛人类的下一步就是被算法接管一切。
-  同样的城市里，Brian Chesky——爱彼迎联合创始人兼首席执行官，站上爱彼迎旧金山总部2026夏季发布会的舞台，面对着坐满一楼中央大厅的全球媒体和围在办公大楼每层栏杆边上的爱彼迎员工，他拿应该是过去一年最让他兴奋的事开场了，不是爱彼迎如何利用AI来进化，而是——
-  一位在巴黎专拍家庭和情侣的摄影师，去年靠爱彼迎体验赚了14.5万美元；一位意大利第三代意面传人，靠每场90分钟、收费70美元的手工意面课，赚了超过18</description>
-      <pubDate>Tue, 02 Jun 2026 04:23:41 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发</title>
-      <link>https://36kr.com/p/3800191597583621?f=rss</link>
-      <description>[36氪] 36氪获悉，植物纤维皮革面料公司深圳朴飞生物（以下简称超级皮儿PEELSPHERE®）已完成新一轮融资，由头部创投机构——深圳市创新投资集团有限公司（深创投）独家战略投资。此轮资金将主要用于新产品研发与团队扩充。
-  超级皮儿PEELSPHERE®是一家做植纤皮革面料的公司。它所切入的场景清晰而纯粹：在消费品牌对材料性能、设计表达、健康环保和综合赋能提出更高要求的背景下，如何通过绿色科技，将咖啡渣、橘子皮、苹果皮等农业废料转化为兼具皮革性能质感、设计表现力和规模化制造潜力的新型面料，为品牌提供更多元、更具产品力的可持续整体解决方案。
-  其技术路径是一套兼顾科技性能与产业落地的先进成果。公司采</description>
-      <pubDate>Tue, 02 Jun 2026 03:34:38 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”</title>
-      <link>https://36kr.com/p/3834292242130825?f=rss</link>
-      <description>[36氪] 具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。
-  而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。
-  36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。
-  元节核心团队在成立公司前有过较长时期的探索和孵化，此次融资标志着项目初步验证可行性，并已拿到国内外多家头部公司的产品合作部署意向。
-  元节智能的创始团队带有鲜明的“美团基因”。
-  创始人兼CEO王栋博士曾任美团外卖事业部技术负责人，管理千人产研团队，主导构</description>
-      <pubDate>Tue, 02 Jun 2026 01:57:17 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿</title>
-      <link>https://36kr.com/p/3835278829008257?f=rss</link>
-      <description>[36氪] 今日热点导览
-  
-   闲鱼回应读取用户手机内文物照片上架售卖
-   赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力
-   英伟达推出NVIDIA DSX平台
-   OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人
-   4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车
-  
-  TOP 3大新闻
-  豆包预计6月下旬正式付费，并加速打通抖音电商
-  5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。”
-  据36氪独家了解，以上只是豆包商业化的预</description>
-      <pubDate>Tue, 02 Jun 2026 00:12:57 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>The latest AI-powered martech news and releases</title>
-      <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
-      <description>[MarTech] Google is bringing Preferred Sources into AI search, giving publishers a new way to build loyalty driven visibility in AI Overviews and AI Mode.
-The post The latest AI-powered martech news and releases appeared first on MarTech.</description>
-      <pubDate>Thu, 28 May 2026 14:34:40 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>How Turkey Hacked the Hair Transplant Industry</title>
-      <link>https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/</link>
-      <description>[WIRED AI] From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.</description>
-      <pubDate>Sun, 31 May 2026 09:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>How 'confused' AI rollout hurts firms and baffles staff</title>
-      <link>https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.</description>
-      <pubDate>Mon, 01 Jun 2026 23:05:11 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims</title>
-      <link>https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'</description>
-      <pubDate>Mon, 01 Jun 2026 18:58:26 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Anthropic Confidentially Files for What Could Be the Largest IPO Ever</title>
-      <link>https://www.wired.com/story/anthropic-files-s1-ipo-sec/</link>
-      <description>[WIRED AI] The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.</description>
-      <pubDate>Mon, 01 Jun 2026 17:17:58 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch</title>
-      <link>https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/</link>
-      <description>[WIRED AI] Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars.</description>
-      <pubDate>Mon, 01 Jun 2026 11:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
     </item>
     <item>
       <title>Google adds AI shopping insights to Merchant Center</title>
@@ -365,14 +369,6 @@ The post How to use B2B PR to shape what AI recommends appeared first on MarTech
       <description>[MarTech] Competitor analysis goes beyond dashboards and weekly reports. Here’s how to use AI to think ahead instead of catching up.
 The post The marketer’s new playbook for AI-powered competitive intelligence appeared first on MarTech.</description>
       <pubDate>Fri, 29 May 2026 12:23:00 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>AI is powering the loss of B2B marketing jobs</title>
-      <link>https://martech.org/ai-is-powering-the-loss-of-marketing-jobs/</link>
-      <description>[MarTech] 47% of B2B companies reduced marketing roles due to AI, often by quietly eliminating backfills rather than announcing layoffs.
-The post AI is powering the loss of B2B marketing jobs appeared first on MarTech.</description>
-      <pubDate>Fri, 29 May 2026 12:21:00 +0000</pubDate>
       <source>MarTech</source>
     </item>
   </channel>
