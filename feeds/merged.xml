@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 05 Jun 2026 23:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 23:07:58 +0000</lastBuildDate>
     <item>
       <title>US tech stocks’ market dominance presents new risks as it reaches new heights</title>
       <link>https://www.businesstimes.com.sg/companies-markets/us-tech-stocks-market-dominance-presents-new-risks-it-reaches-new-heights</link>
@@ -49,13 +49,6 @@ The post Why &amp;#8216;it’s just SEO&amp;#8217; could cost the industry billi
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Kevin O’Leary agrees to downsize massive Utah data center</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center</link>
-      <description>[The Verge AI] Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 1</description>
-      <pubDate>Thu, 04 Jun 2026 18:38:04 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>The latest AI-powered martech news and releases</title>
       <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
       <description>[MarTech] UK regulators are forcing Google to separate AI scraping from search rankings, giving publishers more control over content and traffic.
@@ -72,33 +65,12 @@ The post Snowflake&amp;#8217;s new AI tools target a marketing pain point appear
       <source>MarTech</source>
     </item>
     <item>
-      <title>TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</title>
-      <link>https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles</link>
-      <description>[The Verge AI] Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. &quot;Customer demand is so high, and we can only support so much,&quot; TSMC CEO </description>
-      <pubDate>Thu, 04 Jun 2026 14:15:44 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Elon Musk is steamrolling Wall Street to become a trillionaire</title>
-      <link>https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds</link>
-      <description>[The Verge AI] Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I can’t recommend it enough.  I wanted to have Ryan on the show because we’re on the cusp of the SpaceX </description>
-      <pubDate>Thu, 04 Jun 2026 14:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>How to make vibe coding sustainable inside the enterprise</title>
       <link>https://martech.org/how-to-make-vibe-coding-sustainable-inside-the-enterprise/</link>
       <description>[MarTech] AI-generated code moves fast, but organizations still need governance, validation, documentation, and long-term maintenance workflows.
 The post How to make vibe coding sustainable inside the enterprise appeared first on MarTech.</description>
       <pubDate>Thu, 04 Jun 2026 12:35:00 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’</title>
-      <link>https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/</link>
-      <description>[WIRED AI] With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.</description>
-      <pubDate>Thu, 04 Jun 2026 10:30:00 +0000</pubDate>
-      <source>WIRED AI</source>
     </item>
     <item>
       <title>Who is Elon Musk and what is his net worth?</title>
@@ -129,6 +101,160 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <source>Business Times</source>
     </item>
     <item>
+      <title>Commentary: What if AI retraining is just a comforting lie?</title>
+      <link>https://www.channelnewsasia.com/commentary/ai-layoffs-job-loss-upskill-reskill-tech-sector-6164066</link>
+      <description>[CNA Tech] If upskilling is being touted as the bridge to an AI future, it must lead somewhere, says&amp;nbsp;Catherine Thorbecke for Bloomberg Opinion.</description>
+      <pubDate>Sat, 06 Jun 2026 22:00:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>When a wealthy family’s infighting results in 10 court disputes</title>
+      <link>https://www.straitstimes.com/business/invest/when-a-wealthy-familys-infighting-results-in-10-court-disputes</link>
+      <description>[Straits Times] Most of the disputes happened after the patriarch lost his mental capacity</description>
+      <pubDate>Sat, 06 Jun 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>High fuel costs to trigger airline failures and consolidation, industry chief says</title>
+      <link>https://www.channelnewsasia.com/business/high-fuel-costs-trigger-airline-failures-and-consolidation-industry-chief-says-6166781</link>
+      <description>[CNA Tech] Airlines are also expected to protect margins by cutting unprofitable routes, while fares, which have surged since the outbreak of the Iran war, are unlikely to come down soon, Walsh said.</description>
+      <pubDate>Sat, 06 Jun 2026 20:40:33 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</title>
+      <link>https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/</link>
+      <description>[TechCrunch AI] Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.</description>
+      <pubDate>Sat, 06 Jun 2026 20:32:24 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>US budget carrier Breeze Airways sets sights on 2027 IPO</title>
+      <link>https://www.channelnewsasia.com/business/us-budget-carrier-breeze-airways-sets-sights-2027-ipo-6166716</link>
+      <description>[CNA Tech] Breeze Airrways Chief Executive David Neeleman, who has worked in the airline industry through some of its most turbulent periods, including the Sep 11, 2001, attacks in the US and the pandemic, had a cautiously optimistic tone when asked about the state of the aviation business.</description>
+      <pubDate>Sat, 06 Jun 2026 18:29:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</title>
+      <link>https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/</link>
+      <description>[TechCrunch AI] Apple's WWDC nears: Here's what you can look forward to.</description>
+      <pubDate>Sat, 06 Jun 2026 18:13:36 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Sriram Krishnan is leaving his role as White House AI advisor</title>
+      <link>https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/</link>
+      <description>[TechCrunch AI] Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.</description>
+      <pubDate>Sat, 06 Jun 2026 17:42:15 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>The Trump administration might take an equity stake in OpenAI</title>
+      <link>https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/</link>
+      <description>[TechCrunch AI] President Donald Trump said he's discussing deals &quot;where the American people can benefit from the success of AI.&quot;</description>
+      <pubDate>Sat, 06 Jun 2026 16:17:21 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center</link>
+      <description>[The Verge AI] A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the &quot;No Data Center&quot; signs going up that, &quot;I've seen a lot of these all over </description>
+      <pubDate>Sat, 06 Jun 2026 15:05:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta made its own AI-generated clickbait news feed</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles</link>
+      <description>[The Verge AI] Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a &quot;For You&quot; section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and</description>
+      <pubDate>Sat, 06 Jun 2026 14:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Here comes new Siri again</title>
+      <link>https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini</link>
+      <description>[The Verge AI] Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&amp;#8230;]</description>
+      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Crypto-Funded Chinese Peptide Labs Are Booming</title>
+      <link>https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/</link>
+      <description>[WIRED AI] Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.</description>
+      <pubDate>Sat, 06 Jun 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>新势力车企，正在悄悄变成一家AI公司</title>
+      <link>https://www.tmtpost.com/8017671.html</link>
+      <description>[钛媒体] 新势力车企，在满世界“造人”</description>
+      <pubDate>Sat, 06 Jun 2026 09:08:43 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Anthropic交表，MiniMax冲A，而我最想聊的是M3大模型</title>
+      <link>https://www.tmtpost.com/8017665.html</link>
+      <description>[钛媒体] MiniMax M3是全球第一个集齐了Frontier三件套的开源大模型。</description>
+      <pubDate>Sat, 06 Jun 2026 09:06:40 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？</title>
+      <link>https://www.tmtpost.com/8017669.html</link>
+      <description>[钛媒体] 究竟是营销还是真事儿？</description>
+      <pubDate>Sat, 06 Jun 2026 09:06:38 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>华为云不打Token价格战，周跃峰要给AI云换一个赢的方式</title>
+      <link>https://www.tmtpost.com/8017599.html</link>
+      <description>[钛媒体] AI云的竞争焦点从Token吞吐量，转向智能体能不能在企业里真正跑起来。</description>
+      <pubDate>Sat, 06 Jun 2026 05:39:16 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Indonesia central bank, finance minister agree to boost asset yields to aid rupiah</title>
+      <link>https://www.channelnewsasia.com/business/indonesia-central-bank-finance-minister-agree-boost-asset-yields-aid-rupiah-6166116</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 06 Jun 2026 04:54:15 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>AIDC储能放量起势，谁已悄悄冲在了最前面？</title>
+      <link>https://www.tmtpost.com/8017585.html</link>
+      <description>[钛媒体] AIDC的电化学储能，正在从传统机房备电，成为算力基础设施的能源基座。</description>
+      <pubDate>Sat, 06 Jun 2026 03:38:26 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>姚顺雨，给出腾讯AI“隆中对”</title>
+      <link>https://www.tmtpost.com/8017576.html</link>
+      <description>[钛媒体] 腾讯AI的下半场，还得看微信。</description>
+      <pubDate>Sat, 06 Jun 2026 03:30:19 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>SpaceX inks $38.7 billion computing power deal with Google</title>
+      <link>https://www.straitstimes.com/business/spacex-inks-38-7-billion-computing-power-deal-with-google</link>
+      <description>[Straits Times] This is the second such agreement SpaceX has made with an AI competitor in recent weeks.</description>
+      <pubDate>Sat, 06 Jun 2026 02:09:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事</title>
+      <link>https://36kr.com/p/3840996342073604?f=rss</link>
+      <description>[36氪] 今日热点导览
+  SpaceX据悉将其IPO的日本融资目标提高至25亿美元
+  二手房挂牌量回落新房库存下降，楼市供需关系向好
+  B站宣布启动AI创造公开赛
+  TOP3大新闻
+  数据显示，豆包推出付费后月活减少610万&amp;nbsp;
+  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。”&amp;nbsp;
+  有分析人士认为，字节跳动过早地将盈利模式商业化，可</description>
+      <pubDate>Sat, 06 Jun 2026 01:07:19 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
       <title>Anthropic moves towards IPO, stepping up race with OpenAI</title>
       <link>https://www.businesstimes.com.sg/startups-tech/startups/anthropic-moves-towards-ipo-stepping-race-openai</link>
       <description>[Business Times] The IPO market has regained momentum in recent weeks, with companies raising US$87.5 billion to May 26</description>
@@ -157,25 +283,11 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <source>Straits Times</source>
     </item>
     <item>
-      <title>US says it will speed development and use of AI for national security</title>
-      <link>https://www.channelnewsasia.com/business/us-says-it-will-speed-development-and-use-ai-national-security-6165561</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 05 Jun 2026 20:08:48 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Startup Battlefield 200 applications officially close in 3 days</title>
       <link>https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/</link>
       <description>[TechCrunch AI] Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.</description>
       <pubDate>Fri, 05 Jun 2026 20:00:00 +0000</pubDate>
       <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Chip selloff erases over $1 trillion in stock market value</title>
-      <link>https://www.channelnewsasia.com/business/chip-selloff-erases-over-1-trillion-in-stock-market-value-6165526</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 05 Jun 2026 19:57:14 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Trump to meet AI leaders to discuss US investment in their companies</title>
@@ -185,31 +297,10 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO</title>
-      <link>https://www.channelnewsasia.com/business/spacex-lands-google-ai-compute-deal-after-anthropic-pact-ahead-ipo-6165421</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 05 Jun 2026 18:58:50 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Google will pay SpaceX $920M per month for compute</title>
       <link>https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/</link>
       <description>[TechCrunch AI] In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.</description>
       <pubDate>Fri, 05 Jun 2026 18:57:20 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Trump says his team will &quot;look into&quot; US taking stake in AI companies</title>
-      <link>https://www.channelnewsasia.com/business/trump-says-his-team-will-look-us-taking-stake-in-ai-companies-6165396</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 05 Jun 2026 18:29:43 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>The most interesting startups right now want to get you off your phone</title>
-      <link>https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/</link>
-      <description>[TechCrunch AI] While the AI fundraising machine&amp;#160;keeps breaking its own records, some founders are building in the other direction.&amp;#160; Mirror founder Brynn Putnam just raised money for&amp;#160;Board, a startup focused on bringing people together through in-person games and social experiences.&amp;#160;Cyberdeck cr</description>
-      <pubDate>Fri, 05 Jun 2026 17:17:06 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
@@ -242,13 +333,6 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>The token bill comes due: Inside the industry scramble to manage AI’s runaway costs</title>
-      <link>https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/</link>
-      <description>[TechCrunch AI] &quot;The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'&quot;</description>
-      <pubDate>Fri, 05 Jun 2026 14:49:12 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Strong US job growth beats expectations in May, firming recent gains</title>
       <link>https://www.straitstimes.com/business/economy/strong-us-job-growth-beats-expectations-in-may-firming-recent-gains</link>
       <description>[Straits Times] The world’s largest economy shows signs of firming after months of turbulence.</description>
@@ -256,32 +340,11 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <source>Straits Times</source>
     </item>
     <item>
-      <title>The ‘together tech’ wave might be the most intriguing startup bet of 2026</title>
-      <link>https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/</link>
-      <description>[TechCrunch AI] While the AI fundraising machine&amp;#160;keeps breaking its own records, some founders are building in the other direction.&amp;#160; Mirror founder Brynn Putnam just raised money for&amp;#160;Board, a startup focused on bringing people together through in-person games and social experiences.&amp;#160;Cyberdeck cr</description>
-      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>This AI startup says it can tell if a script will make a hit film</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood</link>
       <description>[The Verge AI] When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data</description>
       <pubDate>Fri, 05 Jun 2026 13:57:31 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>从纳尔股份到日联科技：菲莱测试并购案背后的估值 V 型反转 | 并购一线</title>
-      <link>https://www.tmtpost.com/8017241.html</link>
-      <description>[钛媒体] 菲莱测试曲线上市在即。</description>
-      <pubDate>Fri, 05 Jun 2026 13:19:57 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AirTrunk commits $30B to build 5GW of AI data centers in India</title>
-      <link>https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/</link>
-      <description>[TechCrunch AI] The Australian data center operator plans to set up 5GW of capacity in India.</description>
-      <pubDate>Fri, 05 Jun 2026 13:03:10 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业</title>
@@ -323,20 +386,6 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>AI要自己造AI了？Anthropic最新暴论，到底有多真？</title>
-      <link>https://www.tmtpost.com/8016791.html</link>
-      <description>[钛媒体] 看完你再决定焦不焦虑。</description>
-      <pubDate>Fri, 05 Jun 2026 09:46:58 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>张小龙“失控”背后，粉笔的AI赌局与现实困境</title>
-      <link>https://www.tmtpost.com/8016611.html</link>
-      <description>[钛媒体] 当CEO成为粉笔最大的风险敞口。</description>
-      <pubDate>Fri, 05 Jun 2026 09:34:19 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Singapore investors keep funds with Moomoo, Tiger Brokers, Longbridge amid China curbs</title>
       <link>https://www.straitstimes.com/business/singapore-investors-keep-funds-with-moomoo-tiger-brokers-longbridge-amid-china-curbs</link>
       <description>[Straits Times] Many said they feel assured as the Singapore entities of these brokerages are regulated by MAS.</description>
@@ -355,11 +404,11 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <link>https://36kr.com/p/3840016255126016?f=rss</link>
       <description>[36氪] 作者 | 邓咏仪
   编辑 | 张雨忻
-  “在国产化算力供应受限的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”
+  “在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”
   6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。
   他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。
   
-  华为云</description>
+  华</description>
       <pubDate>Fri, 05 Jun 2026 08:28:25 +0000</pubDate>
       <source>36氪</source>
     </item>
@@ -378,28 +427,14 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Uptick in S’pore retail sales extends into April as spending holds up amid Middle East crisis</title>
-      <link>https://www.straitstimes.com/business/singapore-retail-sales-rise-5-4-in-april-as-consumer-spending-stays-resilient</link>
-      <description>[Straits Times] Petrol service stations posted the strongest growth, mainly due to higher petrol prices.</description>
-      <pubDate>Fri, 05 Jun 2026 05:40:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>AllianzGI in exclusive talks to buy UOB Asset Management: Sources</title>
-      <link>https://www.straitstimes.com/business/banking/allianzgi-in-exclusive-talks-to-buy-uob-asset-management-sources</link>
-      <description>[Straits Times] Details are being finalised on a transaction that could be valued at up to $600 million, sources say.</description>
-      <pubDate>Fri, 05 Jun 2026 05:29:54 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>微信AI对手机厂商打开一道窄门｜焦点分析</title>
       <link>https://36kr.com/p/3839575253993985?f=rss</link>
       <description>[36氪] 文｜王毓婵 梁键强
   编辑｜张雨忻
   昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。
-  “您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。
+  “您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通���双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。
   与之前字节跳动推出的豆包手机相比，腾讯的微信AI采取了完全不同的技术路径。
-  以豆包手机为代表的很多 OS 端 AI 助手，走的是 GUI agent（图形界面智</description>
+  以豆包手机为代表的很多 OS 端 AI 助手，走的是 GUI agent（图形界</description>
       <pubDate>Fri, 05 Jun 2026 03:39:48 +0000</pubDate>
       <source>36氪</source>
     </item>
@@ -424,17 +459,6 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
   有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”；
   另外，算上A+轮独家领投的阿里，这也是具身智能赛道罕见同时聚齐国内四家大模型厂商——此前，智谱仅通过Z基金小范围投资具身智能领域，</description>
       <pubDate>Fri, 05 Jun 2026 01:00:00 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发</title>
-      <link>https://36kr.com/p/3835460873385348?f=rss</link>
-      <description>[36氪] 文｜胡香赟
-  编辑｜海若镜
-  36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。
-  百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院的科研资源，自2023年起开始构建AI虚拟细胞基础大模型，以实现细胞行为和状态变化的精准分析及预测，并持续推进AIVC模型升级和产业化落地实践。
-  20</description>
-      <pubDate>Fri, 05 Jun 2026 00:30:00 +0000</pubDate>
       <source>36氪</source>
     </item>
   </channel>
