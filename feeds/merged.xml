@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 06 Jun 2026 23:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 23:10:02 +0000</lastBuildDate>
     <item>
       <title>US tech stocks’ market dominance presents new risks as it reaches new heights</title>
       <link>https://www.businesstimes.com.sg/companies-markets/us-tech-stocks-market-dominance-presents-new-risks-it-reaches-new-heights</link>
@@ -94,11 +94,137 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <source>Business Times</source>
     </item>
     <item>
-      <title>First Windows PC powered by Nvidia chips to debut next week, Axios reports</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/technology/first-windows-pc-powered-nvidia-chips-debut-next-week-axios-reports</link>
-      <description>[Business Times] Microsoft and Nvidia will unveil the new PCs at the Computex trade show in Taiwan and Microsoft’s Build developer conference in San...</description>
-      <pubDate>Sun, 31 May 2026 09:31:32 +0000</pubDate>
+      <title>Commentary: Iran war has raised inflation risks. Why are Asian economies still growing?</title>
+      <link>https://www.channelnewsasia.com/commentary/iran-war-stagflation-asia-economies-export-boom-ai-electronics-6164221</link>
+      <description>[CNA Tech] For all the attention on inflation, the bigger surprise this year may be how resilient the region has been, says DBS chief economist Taimur Baig.</description>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>askST Jobs: Am I being ‘difficult’ if I speak up at work?</title>
+      <link>https://www.straitstimes.com/business/askst-jobs-am-i-being-difficult-if-i-speak-up-at-work</link>
+      <description>[Straits Times] Speaking up at work matters, but how concerns are raised can shape career outcomes.</description>
+      <pubDate>Sun, 07 Jun 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Singapore households’ net wealth up, but also taking on more debt such as home loans</title>
+      <link>https://www.straitstimes.com/business/economy/singapore-households-net-wealth-up-but-also-taking-on-more-debt-such-as-home-loans</link>
+      <description>[Straits Times] Still, SingStat figures indicate that the debt situation remains broadly stable for now.</description>
+      <pubDate>Sun, 07 Jun 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Is this the dawn of the Tokenpocalypse?</title>
+      <link>https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/</link>
+      <description>[TechCrunch AI] We're likely to see more price increases as the big AI companies plan to go public.</description>
+      <pubDate>Sun, 07 Jun 2026 20:26:13 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OPEC+ approves fourth oil output quota hike since Hormuz closure</title>
+      <link>https://www.channelnewsasia.com/business/opec-oil-output-quota-hike-fourth-approve-hormuz-closure-iran-us-war-6167726</link>
+      <description>[CNA Tech] On Sunday, the seven members decided to increase targets by 188,000 barrels per day from July, OPEC said in a statement.</description>
+      <pubDate>Sun, 07 Jun 2026 19:53:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Cathay Pacific plans more aircraft orders across fleet, CEO says</title>
+      <link>https://www.channelnewsasia.com/business/cathay-pacific-plans-more-aircraft-orders-across-fleet-ceo-says-6167631</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 07 Jun 2026 18:10:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Notion restores access to Anthropic after service disruption</title>
+      <link>https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/</link>
+      <description>[TechCrunch AI] Notion's head of product said he was &quot;astonished&quot; at “the amount of people RT-ing this.&quot;</description>
+      <pubDate>Sun, 07 Jun 2026 17:56:22 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI is still working on that ‘super app’</title>
+      <link>https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/</link>
+      <description>[TechCrunch AI] &quot;Chat is dead&quot; — at least, according to a senior OpenAI employee.</description>
+      <pubDate>Sun, 07 Jun 2026 16:23:22 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>10 Key Reflections on China's Tech Giant Tencent’s AI Second Half</title>
+      <link>https://www.tmtpost.com/8018365.html</link>
+      <description>[钛媒体] How does Tencent understand AI, organize around AI, and bring AI into real-world use cases?</description>
+      <pubDate>Sun, 07 Jun 2026 14:15:03 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>China‘s Top Two Large Model Firms Seeking Dual Listing in Hong Kong and Chinese Mainland</title>
+      <link>https://www.tmtpost.com/8018356.html</link>
+      <description>[钛媒体] After announcing their plan to list in the A-share market, the two large model companies saw their stock prices plunge in the Hong Kong stock market. Can Zhipu and MiniMax withstand the pressure?</description>
+      <pubDate>Sun, 07 Jun 2026 13:51:09 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI ‘content creators’ are getting harder to spot</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators</link>
+      <description>[The Verge AI] This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to ide</description>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Nvidia, SK to detail cooperation plan as Jensen Huang flags prolonged chip shortage</title>
+      <link>https://www.channelnewsasia.com/business/nvidia-sk-chips-memory-shortage-jensen-huang-6167326</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 07 Jun 2026 11:30:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>拼多多应该有AI焦虑吗</title>
+      <link>https://www.tmtpost.com/8017809.html</link>
+      <description>[钛媒体] 电商拼多多，AI拼少少？</description>
+      <pubDate>Sun, 07 Jun 2026 11:00:08 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>英特尔与英伟达互抢地盘，乱了，都乱了</title>
+      <link>https://www.tmtpost.com/8018055.html</link>
+      <description>[钛媒体] 英伟达做CPU、英特尔做GPU,芯片巨头们谁都不敢&quot;安于一隅&quot;。</description>
+      <pubDate>Sun, 07 Jun 2026 10:59:55 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Exclusive: JD.com and Tencent Partner on AI Agents</title>
+      <link>https://www.tmtpost.com/8018139.html</link>
+      <description>[钛媒体] Tencent has recently been advancing several projects in the AI agent space.</description>
+      <pubDate>Sun, 07 Jun 2026 08:58:09 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>OpenAI plans ChatGPT ‘superapp’ overhaul ahead of listing, reports FT</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openai-plans-chatgpt-superapp-overhaul-ahead-listing-reports-ft</link>
+      <description>[Business Times] Overhaul will give greater prominence and resources to OpenAI’s coding product Codex and is set to roll out in the coming weeks</description>
+      <pubDate>Sun, 07 Jun 2026 07:19:13 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>独家｜京东、腾讯联手，就AI Agent将达成合作</title>
+      <link>https://www.tmtpost.com/8018104.html</link>
+      <description>[钛媒体] 腾讯在AI Agent领域近期有多个项目推进</description>
+      <pubDate>Sun, 07 Jun 2026 06:58:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports</title>
+      <link>https://www.channelnewsasia.com/business/openai-plans-chatgpt-superapp-overhaul-ahead-listing-ft-reports-6167051</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 07 Jun 2026 04:21:43 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Tech tremors: Overpriced SpaceX IPO roils markets, Singapore tech stocks not spared</title>
+      <link>https://www.straitstimes.com/business/companies-markets/tech-tremors-overpriced-spacex-ipo-roils-markets-singapore-tech-stocks-not-spared</link>
+      <description>[Straits Times] The company's IPO is priced at US$135 per share, valuing it at around US$1.7 trillion.</description>
+      <pubDate>Sun, 07 Jun 2026 04:00:00 +0000</pubDate>
+      <source>Straits Times</source>
     </item>
     <item>
       <title>Commentary: What if AI retraining is just a comforting lie?</title>
@@ -108,18 +234,11 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>When a wealthy family’s infighting results in 10 court disputes</title>
+      <title>A daughter evicted, a wealthy family divided: The 10-lawsuit saga in Singapore</title>
       <link>https://www.straitstimes.com/business/invest/when-a-wealthy-familys-infighting-results-in-10-court-disputes</link>
-      <description>[Straits Times] Most of the disputes happened after the patriarch lost his mental capacity</description>
+      <description>[Straits Times] Most of the disputes happened after the patriarch lost his mental capacity.</description>
       <pubDate>Sat, 06 Jun 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
-    </item>
-    <item>
-      <title>High fuel costs to trigger airline failures and consolidation, industry chief says</title>
-      <link>https://www.channelnewsasia.com/business/high-fuel-costs-trigger-airline-failures-and-consolidation-industry-chief-says-6166781</link>
-      <description>[CNA Tech] Airlines are also expected to protect margins by cutting unprofitable routes, while fares, which have surged since the outbreak of the Iran war, are unlikely to come down soon, Walsh said.</description>
-      <pubDate>Sat, 06 Jun 2026 20:40:33 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</title>
@@ -127,13 +246,6 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <description>[TechCrunch AI] Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.</description>
       <pubDate>Sat, 06 Jun 2026 20:32:24 +0000</pubDate>
       <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>US budget carrier Breeze Airways sets sights on 2027 IPO</title>
-      <link>https://www.channelnewsasia.com/business/us-budget-carrier-breeze-airways-sets-sights-2027-ipo-6166716</link>
-      <description>[CNA Tech] Breeze Airrways Chief Executive David Neeleman, who has worked in the airline industry through some of its most turbulent periods, including the Sep 11, 2001, attacks in the US and the pandemic, had a cautiously optimistic tone when asked about the state of the aviation business.</description>
-      <pubDate>Sat, 06 Jun 2026 18:29:00 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</title>
@@ -147,13 +259,6 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <link>https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/</link>
       <description>[TechCrunch AI] Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.</description>
       <pubDate>Sat, 06 Jun 2026 17:42:15 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>The Trump administration might take an equity stake in OpenAI</title>
-      <link>https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/</link>
-      <description>[TechCrunch AI] President Donald Trump said he's discussing deals &quot;where the American people can benefit from the success of AI.&quot;</description>
-      <pubDate>Sat, 06 Jun 2026 16:17:21 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
@@ -185,55 +290,6 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>新势力车企，正在悄悄变成一家AI公司</title>
-      <link>https://www.tmtpost.com/8017671.html</link>
-      <description>[钛媒体] 新势力车企，在满世界“造人”</description>
-      <pubDate>Sat, 06 Jun 2026 09:08:43 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Anthropic交表，MiniMax冲A，而我最想聊的是M3大模型</title>
-      <link>https://www.tmtpost.com/8017665.html</link>
-      <description>[钛媒体] MiniMax M3是全球第一个集齐了Frontier三件套的开源大模型。</description>
-      <pubDate>Sat, 06 Jun 2026 09:06:40 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？</title>
-      <link>https://www.tmtpost.com/8017669.html</link>
-      <description>[钛媒体] 究竟是营销还是真事儿？</description>
-      <pubDate>Sat, 06 Jun 2026 09:06:38 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>华为云不打Token价格战，周跃峰要给AI云换一个赢的方式</title>
-      <link>https://www.tmtpost.com/8017599.html</link>
-      <description>[钛媒体] AI云的竞争焦点从Token吞吐量，转向智能体能不能在企业里真正跑起来。</description>
-      <pubDate>Sat, 06 Jun 2026 05:39:16 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Indonesia central bank, finance minister agree to boost asset yields to aid rupiah</title>
-      <link>https://www.channelnewsasia.com/business/indonesia-central-bank-finance-minister-agree-boost-asset-yields-aid-rupiah-6166116</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Sat, 06 Jun 2026 04:54:15 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>AIDC储能放量起势，谁已悄悄冲在了最前面？</title>
-      <link>https://www.tmtpost.com/8017585.html</link>
-      <description>[钛媒体] AIDC的电化学储能，正在从传统机房备电，成为算力基础设施的能源基座。</description>
-      <pubDate>Sat, 06 Jun 2026 03:38:26 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>姚顺雨，给出腾讯AI“隆中对”</title>
-      <link>https://www.tmtpost.com/8017576.html</link>
-      <description>[钛媒体] 腾讯AI的下半场，还得看微信。</description>
-      <pubDate>Sat, 06 Jun 2026 03:30:19 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>SpaceX inks $38.7 billion computing power deal with Google</title>
       <link>https://www.straitstimes.com/business/spacex-inks-38-7-billion-computing-power-deal-with-google</link>
       <description>[Straits Times] This is the second such agreement SpaceX has made with an AI competitor in recent weeks.</description>
@@ -262,46 +318,11 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <source>Business Times</source>
     </item>
     <item>
-      <title>Netflix names longtime director Jay Hoag as chairman, succeeding Reed Hastings</title>
-      <link>https://www.channelnewsasia.com/business/netflix-names-longtime-director-jay-hoag-chairman-succeeding-reed-hastings-6165736</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 05 Jun 2026 22:29:19 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Marvell to join S&amp;P 500 after AI boom helps chipmaker pass profitability test</title>
-      <link>https://www.channelnewsasia.com/business/marvell-join-sp-500-after-ai-boom-helps-chipmaker-pass-profitability-test-6165681</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 05 Jun 2026 21:24:22 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Wall Street ends sharply lower as chips slide, jobs data fuels rate hike fears</title>
-      <link>https://www.straitstimes.com/business/companies-markets/wall-street-ends-sharply-lower-as-chips-slide-jobs-data-fuels-rate-hike-fears</link>
-      <description>[Straits Times] The Dow Jones Industrial Average fell 684.53 points, or 1.33 per cent, to 50,877.40.</description>
-      <pubDate>Fri, 05 Jun 2026 20:27:07 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Startup Battlefield 200 applications officially close in 3 days</title>
-      <link>https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/</link>
-      <description>[TechCrunch AI] Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.</description>
-      <pubDate>Fri, 05 Jun 2026 20:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Trump to meet AI leaders to discuss US investment in their companies</title>
       <link>https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The US president said on Friday he expects to meet the leaders of top AI companies next week.</description>
       <pubDate>Fri, 05 Jun 2026 19:36:30 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Google will pay SpaceX $920M per month for compute</title>
-      <link>https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/</link>
-      <description>[TechCrunch AI] In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.</description>
-      <pubDate>Fri, 05 Jun 2026 18:57:20 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>This is your laptop… on AI</title>
@@ -331,20 +352,6 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <description>[WIRED AI] Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.</description>
       <pubDate>Fri, 05 Jun 2026 15:00:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Strong US job growth beats expectations in May, firming recent gains</title>
-      <link>https://www.straitstimes.com/business/economy/strong-us-job-growth-beats-expectations-in-may-firming-recent-gains</link>
-      <description>[Straits Times] The world’s largest economy shows signs of firming after months of turbulence.</description>
-      <pubDate>Fri, 05 Jun 2026 14:46:44 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>This AI startup says it can tell if a script will make a hit film</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood</link>
-      <description>[The Verge AI] When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data</description>
-      <pubDate>Fri, 05 Jun 2026 13:57:31 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业</title>
@@ -386,13 +393,6 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Singapore investors keep funds with Moomoo, Tiger Brokers, Longbridge amid China curbs</title>
-      <link>https://www.straitstimes.com/business/singapore-investors-keep-funds-with-moomoo-tiger-brokers-longbridge-amid-china-curbs</link>
-      <description>[Straits Times] Many said they feel assured as the Singapore entities of these brokerages are regulated by MAS.</description>
-      <pubDate>Fri, 05 Jun 2026 09:24:01 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>AI Has Come for Serif Fonts</title>
       <link>https://www.wired.com/story/ai-has-come-for-serif-fonts/</link>
       <description>[WIRED AI] AI companies are using serif to project humanity. Critics are calling it “tasteslop.”</description>
@@ -420,21 +420,14 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Trump’s latest tariff salvo may not be fix for global issue of forced labour</title>
-      <link>https://www.straitstimes.com/business/economy/trumps-latest-tariff-salvo-no-fix-for-global-issue-of-forced-labour</link>
-      <description>[Straits Times] One-third of Singapore’s exports could be slapped with a new 12.5 per cent tariff.</description>
-      <pubDate>Fri, 05 Jun 2026 07:05:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>微信AI对手机厂商打开一道窄门｜焦点分析</title>
       <link>https://36kr.com/p/3839575253993985?f=rss</link>
       <description>[36氪] 文｜王毓婵 梁键强
   编辑｜张雨忻
   昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。
-  “您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通���双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。
+  “您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。
   与之前字节跳动推出的豆包手机相比，腾讯的微信AI采取了完全不同的技术路径。
-  以豆包手机为代表的很多 OS 端 AI 助手，走的是 GUI agent（图形界</description>
+  以豆包手机为代表的很多 OS 端 AI 助手，走的是 GUI agent（图形界面智</description>
       <pubDate>Fri, 05 Jun 2026 03:39:48 +0000</pubDate>
       <source>36氪</source>
     </item>
@@ -453,11 +446,11 @@ The post Brands want to be in and out of the closet for Pride Month appeared fir
       <title>硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资</title>
       <link>https://36kr.com/p/3838835333253385?f=rss</link>
       <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;邱晓芬
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  编辑&amp;nbsp;|&amp;nbsp;袁��来
   硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。
   「原力灵机」是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO唐文斌创立，团队核心创始成员为旷视科技原班人马。
   有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”；
-  另外，算上A+轮独家领投的阿里，这也是具身智能赛道罕见同时聚齐国内四家大模型厂商——此前，智谱仅通过Z基金小范围投资具身智能领域，</description>
+  另外，算上A+轮独家领投的阿里，这也是具身智能赛道罕见同时聚齐国内四家大模型厂商——此前，智谱仅通过Z基金小范围投资具身智能领域</description>
       <pubDate>Fri, 05 Jun 2026 01:00:00 +0000</pubDate>
       <source>36氪</source>
     </item>
