@@ -3,13 +3,340 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Tue, 09 Jun 2026 23:19:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 23:38:32 +0000</lastBuildDate>
     <item>
-      <title>How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund</title>
-      <link>https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/</link>
-      <description>[TechCrunch AI] Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.</description>
-      <pubDate>Tue, 09 Jun 2026 23:17:51 +0000</pubDate>
+      <title>【钛晨报】国家发展改革委：抓紧研究储备一批针对性、操作性强的政策工具，根据需要及时出台实施；SpaceX的首次公开募股吸引了中东财富基金的数十亿美元认购；千问发布首个高考志愿填报Agent</title>
+      <link>https://www.tmtpost.com/8023011.html</link>
+      <description>[钛媒体] 荣耀YOYO与微信首个A2A合作正式上线；百度升级AI高考志愿填报服务；美国证券交易委员会或在6月22日当周批准SK海力士的美国存托凭证上市申请；商务部等8单位印发《关于促进铁路与旅游融合发展 扩大服务消费的若干措施》的通知；国务院安委会办公室联合三部委约谈中国交通建设集团有限公司和中国电力建设集团有限公司；张雪机车是否有上市计划？张雪回应：顺其自然</description>
+      <pubDate>Wed, 10 Jun 2026 23:20:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>South Korea presses EU for fair treatment on new steel import duties</title>
+      <link>https://www.channelnewsasia.com/business/south-korea-presses-eu-fair-treatment-new-steel-import-duties-6175371</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 10 Jun 2026 23:01:57 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</title>
+      <link>https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</link>
+      <description>[TechCrunch AI] A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.</description>
+      <pubDate>Wed, 10 Jun 2026 22:31:19 +0000</pubDate>
       <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>US charges suspected Russian hacker with facilitating cyber campaign</title>
+      <link>https://www.channelnewsasia.com/business/us-charges-suspected-russian-hacker-facilitating-cyber-campaign-6175311</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 10 Jun 2026 22:18:34 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Wall Street indexes fall more than 1%, hit by tech, Iran war worries</title>
+      <link>https://www.straitstimes.com/business/companies-markets/wall-street-indexes-fall-more-than-1-hit-by-tech-iran-war-worries</link>
+      <description>[Straits Times] The Dow Jones Industrial Average fell 953.33 points, or 1.87 per cent, to 49,918.78.</description>
+      <pubDate>Wed, 10 Jun 2026 22:06:44 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Citi Singapore to expand offerings for wealth clients, tap AI as competition heats up</title>
+      <link>https://www.straitstimes.com/business/citi-singapore-to-expand-offerings-for-wealth-clients-tap-ai-as-competition-heats-up</link>
+      <description>[Straits Times] The bank says wealthy clients expect more than traditional financial solutions.</description>
+      <pubDate>Wed, 10 Jun 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues</title>
+      <link>https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/</link>
+      <description>[TechCrunch AI] Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.</description>
+      <pubDate>Wed, 10 Jun 2026 20:19:31 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Oracle's AI spending blows past estimates, raising worries over growing debt</title>
+      <link>https://www.channelnewsasia.com/business/oracles-ai-spending-blows-past-estimates-raising-worries-over-growing-debt-6175091</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 10 Jun 2026 20:12:13 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Anthropic urges US not to block state AI laws without setting federal standards</title>
+      <link>https://www.channelnewsasia.com/business/anthropic-urges-us-not-block-state-ai-laws-without-setting-federal-standards-6175056</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 10 Jun 2026 19:29:56 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Claude Fable won’t answer basic biology questions</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions</link>
+      <description>[The Verge AI] Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to t</description>
+      <pubDate>Wed, 10 Jun 2026 18:43:34 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Oracle awarded US contract to provide government-wide HR software</title>
+      <link>https://www.channelnewsasia.com/business/oracle-awarded-us-contract-provide-government-wide-hr-software-6174971</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 10 Jun 2026 18:41:06 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Tesla gets go-ahead to sell self-driving technology in Belgium</title>
+      <link>https://www.channelnewsasia.com/business/tesla-gets-go-ahead-sell-self-driving-technology-in-belgium-6174931</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 10 Jun 2026 18:14:50 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Microsoft, like, totally gets why students are booing AI-pilled graduation speakers</title>
+      <link>https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft</link>
+      <description>[The Verge AI] New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from gradua</description>
+      <pubDate>Wed, 10 Jun 2026 17:45:11 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>The future of AI regulation is courting the strangest, most anxious bedfellows</title>
+      <link>https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms</link>
+      <description>[The Verge AI] Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for </description>
+      <pubDate>Wed, 10 Jun 2026 17:38:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Google won’t just admit it’s feeding YouTube creators to its music AI</title>
+      <link>https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube</link>
+      <description>[The Verge AI] If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model.</description>
+      <pubDate>Wed, 10 Jun 2026 17:20:36 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>‘AI-pilled’ firms spend $7,500 per employee each month on AI</title>
+      <link>https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/</link>
+      <description>[TechCrunch AI] The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.</description>
+      <pubDate>Wed, 10 Jun 2026 17:07:35 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Microsoft restricts Claude Fable for employees over data retention concerns</title>
+      <link>https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally</link>
+      <description>[The Verge AI] Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled ou</description>
+      <pubDate>Wed, 10 Jun 2026 16:50:23 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Google will save your Lens photos, Search Live recordings, and Translate audio for AI training</title>
+      <link>https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio</link>
+      <description>[The Verge AI] Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new &quot;Search Services History&quot; setting. That includes the images you search for with Google Lens, recordings f</description>
+      <pubDate>Wed, 10 Jun 2026 16:18:45 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>How memory tools can make AI models worse</title>
+      <link>https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/</link>
+      <description>[TechCrunch AI] New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.</description>
+      <pubDate>Wed, 10 Jun 2026 16:11:08 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable</title>
+      <link>https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/</link>
+      <description>[TechCrunch AI] Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.</description>
+      <pubDate>Wed, 10 Jun 2026 15:41:22 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in</title>
+      <link>https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/</link>
+      <description>[TechCrunch AI] AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.</description>
+      <pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US</title>
+      <link>https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/</link>
+      <description>[WIRED AI] The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.</description>
+      <pubDate>Wed, 10 Jun 2026 14:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Trump Media and TAE Technologies will not spin off Truth Social</title>
+      <link>https://www.straitstimes.com/business/trump-media-and-tae-technologies-will-not-spin-off-truth-social</link>
+      <description>[Straits Times] The companies did not provide a reason for walking back the idea of a Truth Social spin-off.</description>
+      <pubDate>Wed, 10 Jun 2026 13:50:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>China Opens World’s First Wind-Powered Underwater Data Center</title>
+      <link>https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/</link>
+      <description>[WIRED AI] With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.</description>
+      <pubDate>Wed, 10 Jun 2026 13:39:32 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Programme for Income Insurance shareholders to sell shares relaunched</title>
+      <link>https://www.straitstimes.com/business/private-trading-platform-for-income-insurance-shareholders-to-trade-shares-relaunched</link>
+      <description>[Straits Times] Some shareholders say the selling process remains too complex and may not provide fair value.</description>
+      <pubDate>Wed, 10 Jun 2026 13:35:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Marketing needs AI outcomes, not more AI pilots</title>
+      <link>https://martech.org/marketing-needs-ai-outcomes-not-more-ai-pilots/</link>
+      <description>[MarTech] Learn how to identify high-value AI opportunities, prepare teams for adoption, and measure the outcomes that matter to the business.
+The post Marketing needs AI outcomes, not more AI pilots appeared first on MarTech.</description>
+      <pubDate>Wed, 10 Jun 2026 13:22:28 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Your AI portfolio isn’t an AI strategy</title>
+      <link>https://martech.org/your-ai-portfolio-isnt-an-ai-strategy/</link>
+      <description>[MarTech] Learn the four questions that reveal whether your AI efforts are creating lasting value or simply generating activity.
+The post Your AI portfolio isn&amp;#8217;t an AI strategy appeared first on MarTech.</description>
+      <pubDate>Wed, 10 Jun 2026 12:48:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Gartner finds CMOs spending more on digital and acquisition</title>
+      <link>https://martech.org/gartner-finds-cmos-spending-more-on-digital-and-acquisition/</link>
+      <description>[MarTech] CMOs are spending more on digital media and acquisition as consumers grow more skeptical of AI-generated content and its value.
+The post Gartner finds CMOs spending more on digital and acquisition appeared first on MarTech.</description>
+      <pubDate>Wed, 10 Jun 2026 12:10:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>LinkedIn unveils new team in push to capture business advertisers</title>
+      <link>https://www.straitstimes.com/business/linkedin-launches-new-effort-in-push-to-capture-business-advertisers</link>
+      <description>[Straits Times] The platform unveiled BrandWorks, which aims to deliver higher-performing ad campaigns for customers.</description>
+      <pubDate>Wed, 10 Jun 2026 12:10:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>钻石之后，英伟达又带火了陶瓷</title>
+      <link>https://www.tmtpost.com/8022661.html</link>
+      <description>[钛媒体] 马桶厂成了AI供应商</description>
+      <pubDate>Wed, 10 Jun 2026 10:33:03 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI正在猎杀上一代独角兽</title>
+      <link>https://www.tmtpost.com/8022184.html</link>
+      <description>[钛媒体] 220家独角兽，被AI悄悄杀死。</description>
+      <pubDate>Wed, 10 Jun 2026 10:22:22 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Siri补齐短板，苹果AI还需关键一跃</title>
+      <link>https://www.tmtpost.com/8021976.html</link>
+      <description>[钛媒体] AI赛点生变，苹果掉队明显。</description>
+      <pubDate>Wed, 10 Jun 2026 10:22:08 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>微信AI真正该抄的作业，在谷歌这里</title>
+      <link>https://www.tmtpost.com/8022663.html</link>
+      <description>[钛媒体] 一觉睡醒，Dreambeans把你昨天的故事变成了今天的AI早报</description>
+      <pubDate>Wed, 10 Jun 2026 10:21:57 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Bank of Japan governor Ueda hospitalised, will miss June meeting</title>
+      <link>https://www.straitstimes.com/business/economy/bank-of-japan-governor-ueda-hospitalised-will-miss-june-meeting</link>
+      <description>[Straits Times] The central bank is widely expected to raise interest rates next week to levels unseen in three decades.</description>
+      <pubDate>Wed, 10 Jun 2026 10:17:54 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini</title>
+      <link>https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/</link>
+      <description>[WIRED AI] The Argentine national team will be Google’s test bench and technological showcase during the World Cup.</description>
+      <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>The phantom cashier: Tracing the journey of Singapore’s unmanned stores</title>
+      <link>https://www.businesstimes.com.sg/singapore/phantom-cashier-tracing-journey-singapores-unmanned-stores</link>
+      <description>[Business Times] ‘Zero checkout’ was meant to solve a labour crunch, but costs and roll-out woes are forcing a rethink.</description>
+      <pubDate>Wed, 10 Jun 2026 09:30:00 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>上市芯片分销商重组“瘦身”，拟8.97亿并购上海肖克利；汽车覆盖件模具龙头拟18.3亿元收购东实股份60%股权；【并购一线】</title>
+      <link>https://www.tmtpost.com/8022248.html</link>
+      <description>[钛媒体] 6月9日最新并购信息及价值分析。</description>
+      <pubDate>Wed, 10 Jun 2026 08:59:26 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市</title>
+      <link>https://36kr.com/p/3847079661193733?f=rss</link>
+      <description>[36氪] 大公司：
+  瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长
+  36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。
+  Meta与安巴尼旗下的信实集团合作，在印度建设人工智能数据中心
+  Facebook母公司Meta 周三表示，已与印度亿万富翁穆克什·安巴尼旗下的信实工业集团 达成合作，将在印度共建一座人工智能数据中</description>
+      <pubDate>Wed, 10 Jun 2026 08:32:14 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段</title>
+      <link>https://36kr.com/p/3846956646124036?f=rss</link>
+      <description>[36氪] 文｜周鑫雨
+  编辑｜张雨忻
+  《智能涌现》独家获悉，字节跳动 AI 制药业务线已启动拆分与独立融资进程。
+  据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。
+  新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着从基础模型研究到产业化的核心职能。
+  此前字节内部负责蛋白结构预测模型的相关团队，也已并入由刘凯负责的 AI 制药团队，相关算法模型团队已完成整</description>
+      <pubDate>Wed, 10 Jun 2026 06:11:37 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店</title>
+      <link>https://36kr.com/p/3846793046133257?f=rss</link>
+      <description>[36氪] 文｜张子怡
+  编辑｜袁斯来
+  在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。
+  不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具；对于独立站卖家而言，这一数字往往会上升到5个甚至更多。
+  因此，跨境电商圈对于AI工具的降本增效功能格外渴望。在过去两年的大模型热潮中，跨境卖家们用ChatGPT写描述、Midjourney生图、翻译客</description>
+      <pubDate>Wed, 10 Jun 2026 03:20:39 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件</title>
+      <link>https://36kr.com/p/3846789531404549?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。
+  微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。
+  当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高达55%，但现有的机器视觉只看见动作，却无法穿透皮肤洞察情绪波动或生理疲劳。
+  无论是物理世界的具身机器人还是数字世界的语言大模型，���于缺乏高精度多模态人</description>
+      <pubDate>Wed, 10 Jun 2026 03:18:51 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发</title>
+      <link>https://36kr.com/p/3844720012151040?f=rss</link>
+      <description>[36氪] 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。
+  资金将重点用于自研世界模型的架构搭建、算法迭代与场景落地，同步扩充核心研发与项目交付团队，完善商业化落地配套能力。
+  千诀科技创立于2023年6月，核心团队孵化自清华大学类脑研究中心，长期聚焦具身智能决策与规划大模型研发落地，突破传统设备任务局限</description>
+      <pubDate>Wed, 10 Jun 2026 01:30:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>8点1氪丨致3人永久失明，膳魔师紧急召回百万件产品；发布会后苹果市值蒸发超1.587万亿；Anthropic发布最强模型：Claude Fable 5正式上线</title>
+      <link>https://36kr.com/p/3846601462073600?f=rss</link>
+      <description>[36氪] 今日热点导览
+  清仓美高梅国际持股，何超琼套现逾1.4亿美元
+  任天堂在法国遭2.7亿元重罚
+  王传福回应股价被低估：还没能反映比亚迪潜力
+  5月汽车销量公布：前十已无燃油车
+  TOP3大新闻
+  已致3人永久失明，膳魔师紧急召回百万件产品
+  因产品瓶塞存在弹出的风险，近段时间，德国知名真空保温品牌膳魔师（Thermos）在中美多国各召回百万件食物罐等产品，据美国消费品安全委员会披露的公告，有三名消费者因眼睛被击中而导致永久性视力丧失。
+  5月29日，国家市场监管总局官网发布公告称，日前，膳魔师（中国）家庭制品有限公司召回2011年-2023年期间制造的部分SK3000、SK30</description>
+      <pubDate>Wed, 10 Jun 2026 00:08:16 +0000</pubDate>
+      <source>36氪</source>
     </item>
     <item>
       <title>Kalshi to make some users reveal job details to tackle insider trading</title>
@@ -19,69 +346,6 @@
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>SpaceX aims to launch orbital AI computing tests by end of next year, sources say</title>
-      <link>https://www.channelnewsasia.com/business/spacex-orbital-ai-computing-tests-ipo-2027-6172371</link>
-      <description>[CNA Tech] The orbital-compute effort is central to SpaceX's long-term growth pitch to investors, and the company claims in its IPO documents that it is &quot;the only company with a commercially viable path to building orbital AI compute at scale&quot;.</description>
-      <pubDate>Tue, 09 Jun 2026 22:32:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>World's largest chipmaker does not rule out price rises as costs increase</title>
-      <link>https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.</description>
-      <pubDate>Tue, 09 Jun 2026 22:00:24 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Super Micro Computer to raise $7 billion in equity offerings to meet AI server demand</title>
-      <link>https://www.channelnewsasia.com/business/super-micro-computer-raise-7-billion-in-equity-offerings-meet-ai-server-demand-6172261</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 09 Jun 2026 21:21:05 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>S&amp;P 500, Nasdaq fall as tech selling resumes, Trump vows to react to downed US helicopter</title>
-      <link>https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-fall-as-tech-selling-resumes-trump-vows-to-react-to-downed-us-helicopter</link>
-      <description>[Straits Times] The Dow Jones Industrial Average rose 84.28 points, or 0.14 per cent, to 50,857.58.</description>
-      <pubDate>Tue, 09 Jun 2026 21:19:08 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>US tech shares resume sell-off while oil prices retreat</title>
-      <link>https://www.channelnewsasia.com/business/us-tech-shares-resume-sell-while-oil-prices-retreat-6172016</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 09 Jun 2026 21:18:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’</title>
-      <link>https://www.channelnewsasia.com/business/musks-xai-spacex-hit-class-action-over-data-center-nuisance-6172216</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 09 Jun 2026 21:01:39 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Hey, Siri, here’s what I actually want from AI</title>
-      <link>https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/</link>
-      <description>[TechCrunch AI] I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?</description>
-      <pubDate>Tue, 09 Jun 2026 20:50:17 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Anthropic’s Fable 5 can make weirdly fun video games with the click of a button</title>
-      <link>https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/</link>
-      <description>[TechCrunch AI] Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.</description>
-      <pubDate>Tue, 09 Jun 2026 20:37:49 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Can tech companies learn to love cheaper AI models?</title>
-      <link>https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/</link>
-      <description>[TechCrunch AI] If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.</description>
-      <pubDate>Tue, 09 Jun 2026 18:56:09 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Version of AI tool 'too powerful for public' released to public</title>
       <link>https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.</description>
@@ -89,46 +353,11 @@
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more</title>
-      <link>https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</link>
-      <description>[TechCrunch AI] Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.</description>
-      <pubDate>Tue, 09 Jun 2026 18:04:24 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>AI is boosting accuracy for clinicians, Philips North America CEO says</title>
-      <link>https://www.channelnewsasia.com/business/ai-boosting-accuracy-clinicians-philips-north-america-ceo-says-6171991</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 09 Jun 2026 17:07:47 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Anthropic rolls out public version of Mythos without cybersecurity capability</title>
-      <link>https://www.channelnewsasia.com/business/anthropic-rolls-out-public-version-mythos-without-cybersecurity-capability-6171971</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 09 Jun 2026 17:01:01 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You</title>
       <link>https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/</link>
       <description>[WIRED AI] Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.</description>
       <pubDate>Tue, 09 Jun 2026 17:00:46 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Anthropic’s Claude Fable 5 is a version of Mythos the public can access today</title>
-      <link>https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/</link>
-      <description>[TechCrunch AI] Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.</description>
-      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Anthropic releases its first Mythos-class model Claude Fable</title>
-      <link>https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos</link>
-      <description>[The Verge AI] Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 &quot;shows exceptional performance in software engineering, knowledge work, and vision,&quot; with its lead over other models growing as tasks become</description>
-      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>Farage says Reform has contacted X 'to highest level' over fake AI ads</title>
@@ -153,98 +382,11 @@ The post OpenAI tests multi-advertiser ad placements in ChatGPT appeared first o
       <source>MarTech</source>
     </item>
     <item>
-      <title>Apple is embracing the fantasy of AI photo editing</title>
-      <link>https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes</link>
-      <description>[The Verge AI] Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered photo editing tools.</description>
-      <pubDate>Tue, 09 Jun 2026 16:13:14 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Microsoft AI chief walks back comments about AI taking over white-collar work</title>
-      <link>https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs</link>
-      <description>[The Verge AI] Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their</description>
-      <pubDate>Tue, 09 Jun 2026 14:54:51 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Apple’s AI promises are finally, almost, sort of here</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here</link>
-      <description>[The Verge AI] Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be &quot;introducing new technologies and innovations that push the limits on what's possible.&quot; But its slew of announcements - centered on a brand-new &quot;Siri AI&quot; - had more to do with catch</description>
-      <pubDate>Tue, 09 Jun 2026 14:18:18 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>王伟东：从 &quot;东方蓝宝石&quot; 设计师到AI时代的建筑“破壁人”</title>
-      <link>https://www.tmtpost.com/8021629.html</link>
-      <description>[钛媒体] 让中国工程师终于能从80%的重复劳动中抬起头来，重新仰望那片本该属于创意的星空。</description>
-      <pubDate>Tue, 09 Jun 2026 14:07:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Apple’s best AI idea looks a lot like vibe coding</title>
-      <link>https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code</link>
-      <description>[The Verge AI] Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, ann</description>
-      <pubDate>Tue, 09 Jun 2026 13:34:48 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Apple’s AI pitch will live or die by its privacy promise</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc</link>
-      <description>[The Verge AI] As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, &quot;right&quot; means &quot;with more privacy than anyone else.&quot; It's a good pitch - </description>
-      <pubDate>Tue, 09 Jun 2026 12:55:33 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%</title>
-      <link>https://36kr.com/p/3845899768760580?f=rss</link>
-      <description>[36氪] 大公司：
-  猫眼娱乐：作为首批内测开发者接入微信AI生态布局
-  36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。
-  京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件
-  36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资者公开发行股票并在北交所上市的申请并撤回申请文件。
-  歌尔股份：拟向歌尔光学增资5亿元，持股比例将增至39.6676%
-  36氪获悉，歌尔股份公</description>
-      <pubDate>Tue, 09 Jun 2026 12:48:30 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发</title>
-      <link>https://36kr.com/p/3845819328023043?f=rss</link>
-      <description>[36氪] 文&amp;nbsp;|&amp;nbsp;阿至
-  封面来源｜Pexels
-  星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。
-  36氪获悉，星载光电核心部组件供应商天津寰宇星通科技有限公司（以下简称“寰宇星通”）近期已完成数千万元Pre-A+轮融资，由滁州启金翌鑫独家领投，后续又获得了上市公司金春股份的追加投资。本轮资金将主要用于星载组合光纤放大器产线扩容、星载三轴光纤陀螺在轨搭载验证及多款新品研发，进一步加速星载光电核心部组件的国产化进程。
-  寰宇星通成立于2021年，团队核心班底来自南开大学，是国内最早从事星载光纤放大器自主研发的</description>
-      <pubDate>Tue, 09 Jun 2026 10:51:58 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate</title>
       <link>https://www.wired.com/story/the-big-interview-podcast-alex-vindman/</link>
       <description>[WIRED AI] In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.</description>
       <pubDate>Tue, 09 Jun 2026 10:30:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>翻译一本书只要半小时，为什么出版没有爆炸？</title>
-      <link>https://www.tmtpost.com/8021017.html</link>
-      <description>[钛媒体] AI时代的摩擦力与技术乌托邦。</description>
-      <pubDate>Tue, 09 Jun 2026 10:16:54 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>SingPost to roll out islandwide mail and small parcel pick-up from HDB, condo letterboxes</title>
-      <link>https://www.straitstimes.com/business/islandwide-mail-and-small-parcel-pickup-from-all-hdb-condo-letterboxes-by-sept-30-singpost</link>
-      <description>[Straits Times] Mail dropped off by 10am will be delivered by the next working day.</description>
-      <pubDate>Tue, 09 Jun 2026 10:10:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>张小龙10年前就预判了Agent，微信AI将改变一切？</title>
-      <link>https://www.tmtpost.com/8021166.html</link>
-      <description>[钛媒体] 真·一盘大棋。</description>
-      <pubDate>Tue, 09 Jun 2026 10:00:34 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut</title>
@@ -254,120 +396,10 @@ The post OpenAI tests multi-advertiser ad placements in ChatGPT appeared first o
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目</title>
-      <link>https://36kr.com/p/3845645258541319?f=rss</link>
-      <description>[36氪] 文｜李嘉星
-  编辑｜周鑫雨
-  一句话介绍
-  context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。
-  它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。
-  据团队表示，在编程场景下，context-mode 能够让 AI 编程的成本降低 98%，同时将大模型的记忆力从30分钟提升至 3 小时。
-  团队背景
-  context-mode 的背后是一支背景多元的跨国初创团队。目前团队的核心成员分布在土耳其、法国等 4 个国家，主要通过 GitHub 异步协作。
-  Mert Köseo</description>
-      <pubDate>Tue, 09 Jun 2026 07:53:19 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>India’s Paytm plans to hire 4,000 people in AI pivot as it cuts 400 staff</title>
-      <link>https://www.straitstimes.com/business/banking/indias-paytm-plans-to-hire-4000-people-in-ai-pivot-as-it-cuts-400-staff</link>
-      <description>[Straits Times] The company has been revamping its business since Indian regulators targeted its banking affiliate two years ago.</description>
-      <pubDate>Tue, 09 Jun 2026 05:03:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>China exports jump 19% in May on booming AI trade as shipments to US surge</title>
-      <link>https://www.straitstimes.com/business/economy/china-exports-jump-19-in-may-on-booming-ai-trade-as-shipments-to-us-surge</link>
-      <description>[Straits Times] Booming demand for AI hardware offset disruptions from the war in Iran.</description>
-      <pubDate>Tue, 09 Jun 2026 03:41:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上</title>
-      <link>https://36kr.com/p/3845356968839680?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;邱晓芬
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线——
-  这次，苹果没有如往常一般发布新硬件，也不预热万众瞩目的折叠屏，而是把一个多小时演讲的最大篇幅，留给了软件与AI。
-  显然，苹果正试图把过去两年的&quot;AI迟到者&quot;的标签，编译成另一套叙事。
-  在发布会上，苹果软件工程高级副总裁克雷格·费德里吉（Craig Federighi）先是纠偏了多数AI的产品思路——他认为，大部分公司都在急着往前跑，&quot;为了AI而AI&quot;，却始</description>
-      <pubDate>Tue, 09 Jun 2026 03:01:37 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports</title>
-      <link>https://www.straitstimes.com/business/perplexity-plans-2028-ipo-regardless-of-anthropic-or-openai-listings-cnbc-reports</link>
-      <description>[Straits Times] Competitor OpenAI and Elon Musk's SpaceX will also be going public this week.</description>
-      <pubDate>Tue, 09 Jun 2026 02:54:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Perplexity planning 2028 IPO regardless of Anthropic or OpenAI listings, reports CNBC</title>
       <link>https://www.businesstimes.com.sg/startups-tech/perplexity-planning-2028-ipo-regardless-anthropic-or-openai-listings-reports-cnbc</link>
       <description>[Business Times] OpenAI confidentially filed for a US IPO earlier on Jun 8, following Anthropic’s filing on Jun 1</description>
       <pubDate>Tue, 09 Jun 2026 02:23:28 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>UBS said to cut Asia ESG staff by half in latest pullback by global banks</title>
-      <link>https://www.straitstimes.com/business/banking/ubs-said-to-cut-asia-esg-staff-by-half-in-latest-pullback-by-global-banks</link>
-      <description>[Straits Times] An associate director in Singapore was among the departures.</description>
-      <pubDate>Tue, 09 Jun 2026 02:21:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先</title>
-      <link>https://36kr.com/p/3845295918909954?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  硬氪获悉，苏州墨锋新材料科技有限公司（下称“墨锋科技”）近日完成新一轮千万元融资，由险峰基金、成都科创投集团投资，资金将主要用于产线扩建与产能扩张。
-  墨锋科技成立于2023年，技术源自四川大学近20年高分子材料研究成果，聚焦高性能POD（聚芳噁二唑）薄膜产业化。
-  POD作为一种耐高温聚合物，早在上世纪六七十年代便受到关注，但由于加工成型过程中的工艺问题和设备腐蚀问题，产业化难度极高，相关研究一度长期停滞。
-  国内对于POD的系统性研究起步较晚，但进展迅速。2006年前后，四川大学徐建军教授团队开始持续</description>
-      <pubDate>Tue, 09 Jun 2026 01:58:22 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司</title>
-      <link>https://36kr.com/p/3845293120621057?f=rss</link>
-      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;乔钰杰
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  硬氪获悉，隼瞻科技有限公司（下称“隼瞻科技”）近日完成近亿元天使+轮融资。本轮融资引入英飞尼迪资本、白云金控、深圳中小担创投、厚天资本、华盖资本、嘉誉创投等多家战略投资人，老股东毅达资本、达泰资本持续加持。
-  隼瞻科技成立于2023年初，专注芯片处理器模块及开发平台，致力于打造基于“RISC-V+DSA”的新一代处理器设计体系，公司希望通过“IP货架+EDA工具链”的模式，降低AI时代定制化处理器设计门槛。
-  当前，AI模型快速垂直化，正在推动芯片产业从“通用计算”走向“专用计算”。
-  过去，以CPU为核</description>
-      <pubDate>Tue, 09 Jun 2026 01:56:31 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>The latest AI-powered martech news and releases</title>
-      <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
-      <description>[MarTech] UK regulators are forcing Google to separate AI scraping from search rankings, giving publishers more control over content and traffic.
-The post The latest AI-powered martech news and releases appeared first on MarTech.</description>
-      <pubDate>Thu, 04 Jun 2026 15:32:08 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>Snowflake’s new AI tools target a marketing pain point</title>
-      <link>https://martech.org/snowflakes-new-ai-tools-target-a-marketing-pain-point/</link>
-      <description>[MarTech] The company is building a platform that lets marketers use AI across the customer journey while maintaining governance, privacy, and data quality.
-The post Snowflake&amp;#8217;s new AI tools target a marketing pain point appeared first on MarTech.</description>
-      <pubDate>Thu, 04 Jun 2026 15:13:35 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>How to make vibe coding sustainable inside the enterprise</title>
-      <link>https://martech.org/how-to-make-vibe-coding-sustainable-inside-the-enterprise/</link>
-      <description>[MarTech] AI-generated code moves fast, but organizations still need governance, validation, documentation, and long-term maintenance workflows.
-The post How to make vibe coding sustainable inside the enterprise appeared first on MarTech.</description>
-      <pubDate>Thu, 04 Jun 2026 12:35:00 +0000</pubDate>
-      <source>MarTech</source>
-    </item>
-    <item>
-      <title>OpenAI plans ChatGPT ‘superapp’ overhaul ahead of listing, reports FT</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openai-plans-chatgpt-superapp-overhaul-ahead-listing-reports-ft</link>
-      <description>[Business Times] Overhaul will give greater prominence and resources to OpenAI’s coding product Codex and is set to roll out in the coming weeks</description>
-      <pubDate>Sun, 07 Jun 2026 07:19:13 +0000</pubDate>
       <source>Business Times</source>
     </item>
     <item>
@@ -376,6 +408,13 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <description>[Business Times] Apple shares closed 1.9% lower at US$301.54 on the Nasdaq on Jun 8</description>
       <pubDate>Mon, 08 Jun 2026 23:53:47 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>Could humanoid robots be heading for the battlefield?</title>
+      <link>https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.</description>
+      <pubDate>Mon, 08 Jun 2026 23:06:30 +0000</pubDate>
+      <source>BBC Technology</source>
     </item>
     <item>
       <title>OpenAI files for US IPO after rival Anthropic as AI giants head to public markets</title>
@@ -389,27 +428,6 @@ The post How to make vibe coding sustainable inside the enterprise appeared firs
       <link>https://www.wired.com/story/openai-confidentially-files-for-ipo/</link>
       <description>[WIRED AI] The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.</description>
       <pubDate>Mon, 08 Jun 2026 21:31:58 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Apple’s New Siri AI Is Ready to Get Personal</title>
-      <link>https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/</link>
-      <description>[WIRED AI] From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.</description>
-      <pubDate>Mon, 08 Jun 2026 18:17:44 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech</title>
-      <link>https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/</link>
-      <description>[WIRED AI] The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.</description>
-      <pubDate>Mon, 08 Jun 2026 17:44:28 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report</title>
-      <link>https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/</link>
-      <description>[WIRED AI] The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.</description>
-      <pubDate>Mon, 08 Jun 2026 17:31:11 +0000</pubDate>
       <source>WIRED AI</source>
     </item>
     <item>
