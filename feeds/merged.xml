@@ -3,21 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 20 Jun 2026 23:12:20 +0000</lastBuildDate>
-    <item>
-      <title>AI will create more jobs for humans, not replace them, Amazon founder Bezos says</title>
-      <link>https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.</description>
-      <pubDate>Wed, 17 Jun 2026 16:37:41 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>What to study in the AI age - from big tech bosses</title>
-      <link>https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.</description>
-      <pubDate>Wed, 17 Jun 2026 15:59:39 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
+    <lastBuildDate>Sun, 21 Jun 2026 23:19:38 +0000</lastBuildDate>
     <item>
       <title>The hidden fragility of performance marketing</title>
       <link>https://martech.org/the-hidden-fragility-of-performance-marketing/</link>
@@ -162,18 +148,109 @@ The post What customers tell friends that marketers miss appeared first on MarTe
       <source>MarTech</source>
     </item>
     <item>
-      <title>The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed</title>
-      <link>https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/</link>
-      <description>[WIRED AI] Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.</description>
-      <pubDate>Thu, 18 Jun 2026 06:00:00 +0000</pubDate>
+      <title>The ‘mass affluent’ are losing their allure for wealth managers navigating AI</title>
+      <link>https://www.businesstimes.com.sg/wealth/mass-affluent-are-losing-their-allure-wealth-managers-navigating-ai</link>
+      <description>[Business Times] Such clients can now get ‘something close to private-banking quality’ from the technology</description>
+      <pubDate>Sun, 21 Jun 2026 23:00:00 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>Course enrolments soar as AI fever grips Singapore</title>
+      <link>https://www.straitstimes.com/business/course-enrolments-soar-as-ai-fever-grips-singapore</link>
+      <description>[Straits Times] The boost in earnings has been significant for some training providers.</description>
+      <pubDate>Sun, 21 Jun 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>M1-Simba deal collapse: A setback for consolidation, but not necessarily for Keppel or consumers</title>
+      <link>https://www.straitstimes.com/business/m1-simba-deal-collapse-a-setback-for-consolidation-but-not-necessarily-for-keppel-or-consumers</link>
+      <description>[Straits Times] The failed transaction has wider implications for Singapore’s telecommunications sector.</description>
+      <pubDate>Sun, 21 Jun 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>When the Trump administration cracks down on Anthropic, who benefits?</title>
+      <link>https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/</link>
+      <description>[TechCrunch AI] On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.</description>
+      <pubDate>Sun, 21 Jun 2026 15:28:17 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27</title>
+      <link>https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/</link>
+      <description>[TechCrunch AI] Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.</description>
+      <pubDate>Sun, 21 Jun 2026 14:40:28 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>28 Tips to Take Your ChatGPT Prompts to the Next Level</title>
+      <link>https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/</link>
+      <description>[WIRED AI] Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.</description>
+      <pubDate>Sun, 21 Jun 2026 10:30:00 +0000</pubDate>
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Anthropic pulls its most advanced AI models, including Mythos, after US bars foreign access</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/anthropic-pulls-its-most-advanced-ai-models-including-mythos-after-us-bars-foreign-access</link>
-      <description>[Business Times] Anthropic said it believes the US issued the order after discovering that it is possible to ‘jailbreak’ Fable 5</description>
-      <pubDate>Sun, 14 Jun 2026 01:51:39 +0000</pubDate>
-      <source>Business Times</source>
+      <title>【数智周报】DeepSeek敲定首轮超510亿元外部融资；SpaceX换股收购AI编程独角兽Cursor；美国叫停Anthropic最强模型Fable 5和Mythos 5</title>
+      <link>https://www.tmtpost.com/8035376.html</link>
+      <description>[钛媒体] （6月15日-6月20日）钉钉换帅后宣布组织调整；字节豆包日收入不足百万，Seedance毛利率达70%；DeepSeek识图模式正式上线；Manus早期投资者计划抱团赎回股份；腾讯参投林俊旸AI公司2000万美元；IplanRIO被指套壳阿里千问和Nex两款国产模型；AMD收购内存优化企业MEXT……</description>
+      <pubDate>Sun, 21 Jun 2026 10:11:34 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>具身智能最火这一年，她让AI赛车飙上天门山，让机器人乒乓打进奥运会</title>
+      <link>https://www.tmtpost.com/8035242.html</link>
+      <description>[钛媒体] 当资本一年涌入735亿、行业却仍困在实验室与训练场之间，具身智能最缺的或许不是钱，而是一套可被信任的验证标准。Hitch Open创始人唐敏勤，从天门山99道弯的AI竞速，到入选世界人形机器人运动会的机器人乒乓，致力于为物理智能搭起第一座公平的竞技场，并创造它自己的「AlphaGo时刻」。</description>
+      <pubDate>Sun, 21 Jun 2026 09:25:01 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>微信和支付宝又在AI支付入口“打起来了”</title>
+      <link>https://www.tmtpost.com/8035258.html</link>
+      <description>[钛媒体] AI支付，下一个支付场景。</description>
+      <pubDate>Sun, 21 Jun 2026 09:14:26 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>豆包收费，能赚多少钱？</title>
+      <link>https://www.tmtpost.com/8035153.html</link>
+      <description>[钛媒体] 字节不靠AI赚钱，但能让别人没法停止烧钱。</description>
+      <pubDate>Sun, 21 Jun 2026 09:10:38 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Yoghurt wars: Danone-Chobani clash underscores wider protein battle</title>
+      <link>https://www.straitstimes.com/business/yoghurt-wars-danone-chobani-clash-underscores-wider-protein-battle</link>
+      <description>[Straits Times] Danone has accused Chobani of inflating protein claims on labels on multiple-serving tubs of Chobani 20g protein.</description>
+      <pubDate>Sun, 21 Jun 2026 04:39:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>GPT-5.6倒计时：放弃单一API幻想，算力迭代再快也敌不过一纸合规</title>
+      <link>https://www.tmtpost.com/8035108.html</link>
+      <description>[钛媒体] AI大模型基座正步入闭源受控与本地开源的“双轨制”时代。当合规与可用性超越纯技术指标，企业亟需加速底层模型解耦，以应对常态化的断供风险。</description>
+      <pubDate>Sun, 21 Jun 2026 04:35:27 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Why $94,000 homes remain unsold in Malaysia</title>
+      <link>https://www.straitstimes.com/business/why-94100-homes-remain-unsold-in-malaysia</link>
+      <description>[Straits Times] The rising property overhang is no longer simply a question of headline affordability.</description>
+      <pubDate>Sun, 21 Jun 2026 01:45:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Why an AI company cleaned my New York City apartment for free</title>
+      <link>https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.</description>
+      <pubDate>Sat, 20 Jun 2026 23:18:55 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>How the social media ban could reshape how all of us use the internet</title>
+      <link>https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online</description>
+      <pubDate>Sat, 20 Jun 2026 23:18:12 +0000</pubDate>
+      <source>BBC Technology</source>
     </item>
     <item>
       <title>The fine print in insurance policy nobody reads until it matters</title>
@@ -218,13 +295,6 @@ The post What customers tell friends that marketers miss appeared first on MarTe
       <source>Straits Times</source>
     </item>
     <item>
-      <title>造芯片的，开始造设备了</title>
-      <link>https://www.tmtpost.com/8034884.html</link>
-      <description>[钛媒体] 制造端躬身入局设备赛道。</description>
-      <pubDate>Sat, 20 Jun 2026 10:54:58 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Siri AI Hands On: A Smart, Helpful Assistant</title>
       <link>https://www.wired.com/story/siri-ai-hands-on-iphone/</link>
       <description>[WIRED AI] The new Siri AI is conversational, omnipresent, and actually helpful.</description>
@@ -232,46 +302,11 @@ The post What customers tell friends that marketers miss appeared first on MarTe
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>接连两位大咖出走，谷歌到底出了什么BUG？</title>
-      <link>https://www.tmtpost.com/8034890.html</link>
-      <description>[钛媒体] 曾经把OpenAI吓出红色警报的谷歌，半年后怎么全线掉队了？</description>
-      <pubDate>Sat, 20 Jun 2026 08:33:53 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>花钱雇AI当同事，我的生意怎么样了？</title>
-      <link>https://www.tmtpost.com/8034774.html</link>
-      <description>[钛媒体] 每月一两千，把数字员工用到起飞。</description>
-      <pubDate>Sat, 20 Jun 2026 07:40:57 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>三天内连失两位传奇：谷歌的AI人才大坝，正在决堤？</title>
-      <link>https://www.tmtpost.com/8034755.html</link>
-      <description>[钛媒体] Google顶尖AI人才接连流向OpenAI与Anthropic，暴露其广告商业模式与AI使命的根本错位，人才版图正经历不可逆重组。</description>
-      <pubDate>Sat, 20 Jun 2026 03:51:19 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>New video game console aims to get kids moving</title>
       <link>https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The Nex Playground will cost £269 (€319) when it is released on 22 June in the UK and Ireland.</description>
       <pubDate>Sat, 20 Jun 2026 01:10:51 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Momenta冲击港股IPO，物理AI第一股要来了</title>
-      <link>https://www.tmtpost.com/8034713.html</link>
-      <description>[钛媒体] Momenta冲击港股IPO，物理AI第一股要来了</description>
-      <pubDate>Sat, 20 Jun 2026 01:04:42 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Edge AI Daily 早报（6月20日）</title>
-      <link>https://www.tmtpost.com/8034758.html</link>
-      <description>[钛媒体] AlphaFold之父John Jumper离开DeepMind加入Anthropic，标志AI产业从科学探索向产品化竞争范式切换。OpenAI将前沿健康AI能力免费开放给2.3亿用户，推动健康AI从精英特权走向全民基础设施。Meta锁定1.6吉瓦电力容量，揭示AI竞赛已进入电力战阶段。</description>
-      <pubDate>Sat, 20 Jun 2026 00:32:56 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Singapore startups double down on AI usage, running multiple platforms: Aspire report</title>
@@ -303,53 +338,11 @@ The post When AI is choosing, how is brand loyalty earned? appeared first on Mar
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>Exclusive-Canadian lender TD tells some employees it will use software to monitor their work</title>
-      <link>https://www.channelnewsasia.com/business/exclusive-canadian-lender-td-tells-some-employees-it-will-use-software-monitor-their-work-6196461</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 19 Jun 2026 21:33:33 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>AI is not magic; without good data it’s trash in, trash out: AvePoint CEO</title>
-      <link>https://www.straitstimes.com/business/companies-markets/ai-is-not-magic-without-good-data-its-trash-in-trash-out-avepoint-ceo</link>
-      <description>[Straits Times] CEO Tianyi Jiang said Singapore is primed to be a launchpad for AI-enabled innovation.</description>
-      <pubDate>Fri, 19 Jun 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>US scientist John Jumper to leave Google DeepMind for Anthropic</title>
-      <link>https://www.channelnewsasia.com/business/us-scientist-john-jumper-leave-google-deepmind-anthropic-6196411</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 19 Jun 2026 20:40:39 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>UK's top data and AI regulator quits after 'inappropriate' humour</title>
       <link>https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.</description>
       <pubDate>Fri, 19 Jun 2026 20:28:33 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Trump tells Axios he no longer views Anthropic as national security threat</title>
-      <link>https://www.channelnewsasia.com/business/trump-tells-axios-he-no-longer-views-anthropic-national-security-threat-6196336</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 19 Jun 2026 19:54:07 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Is the US government’s Anthropic ban accidentally helping the brand?</title>
-      <link>https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/</link>
-      <description>[TechCrunch AI] Just as last week&amp;#160;was ending,&amp;#160;the US government&amp;#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&amp;#8217;s guardrails.&amp;#160; Cybersecurity researchers have&amp;#160;since </description>
-      <pubDate>Fri, 19 Jun 2026 16:08:17 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</title>
-      <link>https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</link>
-      <description>[TechCrunch AI] Just as last week&amp;#160;was ending,&amp;#160;the US government&amp;#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&amp;#8217;s guardrails.&amp;#160; Cybersecurity researchers have&amp;#160;since </description>
-      <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>The film about Sam Altman has been dropped by Amazon MGM</title>
@@ -359,47 +352,12 @@ The post When AI is choosing, how is brand loyalty earned? appeared first on Mar
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Brazil's Lula signs decree to freeze illegal betting platform funds</title>
-      <link>https://www.channelnewsasia.com/business/brazils-lula-signs-decree-freeze-illegal-betting-platform-funds-6195956</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 19 Jun 2026 14:12:04 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>As Jio Platforms eyes record IPO, what are India’s biggest share offerings?</title>
-      <link>https://www.straitstimes.com/business/as-jio-platforms-eyes-record-ipo-what-are-indias-biggest-share-offerings</link>
-      <description>[Straits Times] An IPO by the National Stock Exchange of India might be worth about US$3.3 billion (S$4.3 billion).</description>
-      <pubDate>Fri, 19 Jun 2026 13:59:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Ambani’s Jio Platforms files for $4.9 billion IPO that could be India’s biggest, sources say</title>
-      <link>https://www.straitstimes.com/business/ambanis-jio-platforms-files-for-4-9-billion-ipo-that-could-be-indias-biggest-sources-say</link>
-      <description>[Straits Times] The company has diversified beyond telecoms into AI, cloud and enterprise network services.</description>
-      <pubDate>Fri, 19 Jun 2026 13:29:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>The real martech problem is not technology</title>
       <link>https://martech.org/the-real-martech-problem-is-not-technology/</link>
       <description>[MarTech] A new survey suggests operational bottlenecks, not software limitations, are preventing marketers from acting on insights.
 The post The real martech problem is not technology appeared first on MarTech.</description>
       <pubDate>Fri, 19 Jun 2026 12:51:00 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>France mobilises €13 billion for tech sovereignty funding push</title>
-      <link>https://www.channelnewsasia.com/business/france-mobilises-eu13-billion-tech-sovereignty-funding-push-6195671</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 19 Jun 2026 10:53:15 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Investors see Micron earnings as pulse check of AI rally momentum</title>
-      <link>https://www.channelnewsasia.com/business/investors-see-micron-earnings-pulse-check-ai-rally-momentum-6195586</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 19 Jun 2026 10:02:23 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万</title>
@@ -415,13 +373,6 @@ The post The real martech problem is not technology appeared first on MarTech.</
       <description>[Business Times] A second facility, named Longbridge Cafe, is set to open in Q4 2026</description>
       <pubDate>Fri, 19 Jun 2026 09:48:38 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>Stocks dip after US-Iran peace talks delay; yen nears 40-year lows</title>
-      <link>https://www.straitstimes.com/business/stocks-dip-after-us-iran-peace-talks-delay-yen-nears-40-year-lows</link>
-      <description>[Straits Times] The dollar headed towards its strongest weekly gain in a month, mostly at the expense of the yen.</description>
-      <pubDate>Fri, 19 Jun 2026 09:45:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>Barret Zoph is out at OpenAI again after just five months</title>
