@@ -3,20 +3,13 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 27 Jun 2026 23:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 23:07:41 +0000</lastBuildDate>
     <item>
       <title>Anthropic accuses Alibaba of ‘illicitly’ accessing AI models</title>
       <link>https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-accuses-alibaba-illicitly-accessing-ai-models</link>
       <description>[Business Times] The AI startup’s calls for additional government support in countering what it sees as unfair practices by Chinese rivals</description>
       <pubDate>Wed, 24 Jun 2026 23:43:18 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>GTA 6 will cost £70 - and physical edition will not contain a disc</title>
-      <link>https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Rockstar has said physical copies of the game will contain a code for a digital download for the game.</description>
-      <pubDate>Wed, 24 Jun 2026 23:20:12 +0000</pubDate>
-      <source>BBC Technology</source>
     </item>
     <item>
       <title>How to build trust when buyers question everything</title>
@@ -47,13 +40,6 @@ The post The real AI opportunity is creating new value appeared first on MarTech
       <description>[WIRED AI] The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.</description>
       <pubDate>Thu, 25 Jun 2026 23:13:45 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>OpenAI will delay GPT-5.6 after Trump administration request</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request</link>
-      <description>[The Verge AI] The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&amp;#38;A that it would release GPT-5.6 in limited pr</description>
-      <pubDate>Thu, 25 Jun 2026 21:57:06 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>Apple hikes some prices by nearly 20% while Xbox raises console cost</title>
@@ -108,6 +94,146 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>Business Times</source>
     </item>
     <item>
+      <title>China’s Z.ai claims it can match Mythos on cybersecurity</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity</link>
+      <description>[The Verge AI] China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the</description>
+      <pubDate>Sun, 28 Jun 2026 21:42:51 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Cashless kids: How digital wallets are replacing pocket money</title>
+      <link>https://www.straitstimes.com/business/cashless-kids-how-digital-wallets-are-replacing-pocket-money</link>
+      <description>[Straits Times] How to build smart money habits with digital wallets.</description>
+      <pubDate>Sun, 28 Jun 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>askST Jobs: My job feels secure, but my industry is in decline due to AI. Should I be worried?</title>
+      <link>https://www.straitstimes.com/singapore/jobs/askst-jobs-my-job-feels-secure-but-my-industry-is-in-decline-due-to-ai-should-i-be-worried</link>
+      <description>[Straits Times] Job security can be an illusion if workers fail to prepare for AI and industry disruption.</description>
+      <pubDate>Sun, 28 Jun 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Suno launches Spark incubator program to feed independent artists to its AI machine</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine</link>
+      <description>[The Verge AI] Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin</description>
+      <pubDate>Sun, 28 Jun 2026 20:27:36 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Baidu’s AI chip unit Kunlunxin targets $64.6 billion Hong Kong IPO, report says</title>
+      <link>https://www.straitstimes.com/business/baidus-ai-chip-unit-kunlunxin-targets-64-6-billion-hong-kong-ipo-report-says</link>
+      <description>[Straits Times] Investors have been asked to buy chips with a value 3-7 times the worth of their planned subscription in Kunlunxin’s IPO shares.</description>
+      <pubDate>Sun, 28 Jun 2026 19:35:05 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Ford rehires ‘gray beard’ engineers after AI falls short</title>
+      <link>https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/</link>
+      <description>[TechCrunch AI] &quot;Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”</description>
+      <pubDate>Sun, 28 Jun 2026 19:05:39 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO, The Information reports</title>
+      <link>https://www.channelnewsasia.com/business/baidus-ai-chip-unit-kunlunxin-targets-50-billion-hong-kong-ipo-information-reports-6216681</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 28 Jun 2026 18:19:13 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Why Wall Street thinks US memory maker Micron is the next Nvidia</title>
+      <link>https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/</link>
+      <description>[TechCrunch AI] Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.</description>
+      <pubDate>Sun, 28 Jun 2026 15:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Prosecutors used ChatGPT logs as evidence in the Palisades fire trial</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial</link>
+      <description>[The Verge AI] Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his</description>
+      <pubDate>Sun, 28 Jun 2026 14:12:06 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Australia's Firmus Technologies strikes AI access deal with Nvidia</title>
+      <link>https://www.channelnewsasia.com/business/australias-firmus-technologies-strikes-ai-access-deal-nvidia-6216451</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 28 Jun 2026 14:02:53 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Austria urges Europe to host Anthropic following US curbs on AI access</title>
+      <link>https://www.channelnewsasia.com/business/austria-urges-europe-host-anthropic-following-us-curbs-ai-access-6216396</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 28 Jun 2026 12:58:55 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>周鸿祎一小时密集输出：AI落地最大的误区，是把先进发动机装在马车上</title>
+      <link>https://www.tmtpost.com/8044486.html</link>
+      <description>[钛媒体] “传统网络安全厂商会被大模型厂商无情地干掉，干掉你的往往不是同行。”</description>
+      <pubDate>Sun, 28 Jun 2026 11:45:18 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>从手机到云端AI：高通如何撕开英伟达垄断缺口？</title>
+      <link>https://www.tmtpost.com/8044290.html</link>
+      <description>[钛媒体] 高通未来将有极大的可能以差异化的路线与英伟达正面抗衡。</description>
+      <pubDate>Sun, 28 Jun 2026 10:44:56 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>省钱，我只服梁文锋</title>
+      <link>https://www.tmtpost.com/8044306.html</link>
+      <description>[钛媒体] DeepSeek再也不崩了，原因藏在一篇论文里。</description>
+      <pubDate>Sun, 28 Jun 2026 10:44:45 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI预测世界杯小组赛：混元第一，千问、DeepSeek打平</title>
+      <link>https://www.tmtpost.com/8044355.html</link>
+      <description>[钛媒体] 猜强队稳，猜平局难。</description>
+      <pubDate>Sun, 28 Jun 2026 10:34:04 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>SIA shares jump amid Iran peace talks, World Cup fever but rebound could be temporary</title>
+      <link>https://www.straitstimes.com/business/sia-shares-jump-amid-iran-peace-talks-world-cup-fever-but-rebound-could-be-temporary</link>
+      <description>[Straits Times] AI stocks and emerging market currencies like the Malaysian ringgit also had a volatile week.</description>
+      <pubDate>Sun, 28 Jun 2026 07:45:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Google limits Meta’s use of its Gemini AI models, FT reports</title>
+      <link>https://www.channelnewsasia.com/business/google-limits-metas-use-its-gemini-ai-models-ft-reports-6216136</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 28 Jun 2026 05:23:02 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>中国硬件科技股，正站在反弹的十字路口</title>
+      <link>https://www.tmtpost.com/8042126.html</link>
+      <description>[钛媒体] 7月中报季才是真正的“验金时刻”。</description>
+      <pubDate>Sun, 28 Jun 2026 04:56:31 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”</title>
+      <link>https://www.tmtpost.com/8044056.html</link>
+      <description>[钛媒体] 摒弃App概念，以Agent为核心</description>
+      <pubDate>Sun, 28 Jun 2026 02:23:55 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Tech firms are blaming AI for mega device and console price rises</title>
+      <link>https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.</description>
+      <pubDate>Sat, 27 Jun 2026 23:10:47 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
       <title>SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype</title>
       <link>https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/</link>
       <description>[TechCrunch AI] Not everyone is buying Elon Musk’s vision for orbital data centers.</description>
@@ -155,48 +281,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <description>[TechCrunch AI] New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.</description>
       <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
       <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布</title>
-      <link>https://www.tmtpost.com/8043821.html</link>
-      <description>[钛媒体] （5月22日-27日）AI推动HBM供不应求，美光预计供应紧张将持续至2027年以后；华为汪涛：2030年全球各类智能体将突破千亿规模，2040年或达万亿规模；字节新一代豆包手机供应链信息曝光，发布时间或延迟；英伟达宣布Vera Rubin NVL4系统Q4起供货；Groq完成6.5亿美元融资，加速扩建AI推理云并目标2027年底达200兆瓦；IDC：到2027年推理将占智能算力需求70%以上...</description>
-      <pubDate>Sat, 27 Jun 2026 08:44:14 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>“十五五”规划 20万亿能源投资，别忘了给“科普”留预算，“AI+能源”理应让科普更简单</title>
-      <link>https://www.tmtpost.com/8043666.html</link>
-      <description>[钛媒体] 中国能源发展需补公众认知短板，AI科普可助力。</description>
-      <pubDate>Sat, 27 Jun 2026 08:25:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>豆包收费，张一鸣帮张小龙探路</title>
-      <link>https://www.tmtpost.com/8043650.html</link>
-      <description>[钛媒体] 未来 AI 应用竞争的关键， 并非B端C端二选一，而是能不能做好 “AI 的底子、流量的场子、场景的钩子”—— 技术底座足够硬，用户规模足够大，场景生态足够深。</description>
-      <pubDate>Sat, 27 Jun 2026 08:09:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>当算力变成消费券：Token 补贴热潮下，谁在受益，谁在买单？</title>
-      <link>https://www.tmtpost.com/8043721.html</link>
-      <description>[钛媒体] 一杯咖啡能换20万Token。武汉、庆阳、贵阳……地方政府正在用算力补贴争夺AI企业。但繁荣的表象下，补贴流向了大厂，小团队连申报资格都没有；国企算力中心仅能打平运营成本，无法覆盖折旧。</description>
-      <pubDate>Sat, 27 Jun 2026 07:58:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI高考志愿填报避雷指南</title>
-      <link>https://www.tmtpost.com/8043710.html</link>
-      <description>[钛媒体] 是非成败转头空，AI也会骗考生。</description>
-      <pubDate>Sat, 27 Jun 2026 07:54:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>探访北京探月学校：AI时代“超级高中生” 、大学外的第三种可能与中国创新教育</title>
-      <link>https://www.tmtpost.com/8043613.html</link>
-      <description>[钛媒体] 一场提前十年的“未来教育实验”。</description>
-      <pubDate>Sat, 27 Jun 2026 07:40:23 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完</title>
@@ -248,13 +332,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>36氪</source>
     </item>
     <item>
-      <title>Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies</title>
-      <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
-      <description>[TechCrunch AI] Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.</description>
-      <pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Anthropic&amp;#8217;s Mythos 5 is back</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations</link>
       <description>[The Verge AI] After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable </description>
@@ -294,41 +371,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>US allows Anthropic to release Mythos to some US companies</title>
-      <link>https://www.channelnewsasia.com/business/us-allows-anthropic-release-mythos-some-us-companies-6214336</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 26 Jun 2026 22:36:53 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Commentary: Micron’s huge AI windfall is bad news for most of us</title>
-      <link>https://www.channelnewsasia.com/commentary/micron-technology-semiconductor-chip-ai-data-centre-demand-supply-6212661</link>
-      <description>[CNA Tech] Besides having to pay more for your next iPad&amp;nbsp;or&amp;nbsp;Nintendo Switch, soaring chip prices potentially come with other big downsides, says Chris Bryant for Bloomberg Opinion.</description>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>US bans imports of more Chinese technology goods</title>
-      <link>https://www.channelnewsasia.com/business/us-bans-imports-more-chinese-technology-goods-6214171</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 26 Jun 2026 20:39:26 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>EU defends digital tax approach, says ready to act if Trump takes measures</title>
-      <link>https://www.channelnewsasia.com/business/eu-defends-digital-tax-approach-says-ready-act-if-trump-takes-measures-6214066</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 26 Jun 2026 19:05:18 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</title>
-      <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
-      <description>[TechCrunch AI] “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”</description>
-      <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>OpenAI Has New AI Models. Here’s Why You Can’t Use Them</title>
       <link>https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/</link>
       <description>[WIRED AI] The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.</description>
@@ -336,25 +378,11 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>OpenAI unveils GPT-5.6 amid US AI regulatory drama</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview</link>
-      <description>[The Verge AI] Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for &quot;high-v</description>
-      <pubDate>Fri, 26 Jun 2026 17:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>Europe Is Fed Up and Wants Its Own AI</title>
       <link>https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/</link>
       <description>[WIRED AI] It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.</description>
       <pubDate>Fri, 26 Jun 2026 15:00:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Anthropic&amp;#8217;s Mythos mess is only getting worse</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations</link>
-      <description>[The Verge AI] It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in si</description>
-      <pubDate>Fri, 26 Jun 2026 14:07:03 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>Why your top ranking no longer means you’re winning</title>
@@ -383,13 +411,6 @@ The post Why your top ranking no longer means you&amp;#8217;re winning appeared 
       <source>Business Times</source>
     </item>
     <item>
-      <title>Malaysian ringgit expected to weaken further against Singdollar in 2026</title>
-      <link>https://www.straitstimes.com/business/malaysian-ringgit-expected-to-weaken-further-against-singdollar-in-2026</link>
-      <description>[Straits Times] Political uncertainty in Malaysia and expectations of higher US rates are putting pressure on the ringgit.</description>
-      <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>《走进AIE》，谁是下一个主角</title>
       <link>https://36kr.com/p/3869838577620231?f=rss</link>
       <description>[36氪] 一展两地，链接全球 &amp;nbsp; &amp;nbsp;AIE 电子展成为龙头企业的必选舞台
@@ -415,39 +436,11 @@ The post Why your top ranking no longer means you&amp;#8217;re winning appeared 
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Regional trade bloc CPTPP welcomes reopening of Strait of Hormuz, steps up expansion efforts</title>
-      <link>https://www.straitstimes.com/business/cptpp-welcomes-reopening-of-strait-of-hormuz-advances-expansion-agenda</link>
-      <description>[Straits Times] They also reaffirmed their commitment to promoting “free and open markets and rules-based trade”.</description>
-      <pubDate>Fri, 26 Jun 2026 08:50:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>S’pore factory output rises in May as AI demand continues to drive growth in electronics sector</title>
-      <link>https://www.straitstimes.com/business/economy/spore-factory-output-rises-in-may-as-ai-demand-continues-to-drive-growth-in-electronics-sector</link>
-      <description>[Straits Times] But output fell in the key sectors of chemicals, biomedical manufacturing and transport engineering.</description>
-      <pubDate>Fri, 26 Jun 2026 07:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Renewed tech sell-off jolts Asia stocks after Apple raises prices</title>
-      <link>https://www.straitstimes.com/business/companies-markets/renewed-tech-sell-off-jolts-asia-stocks</link>
-      <description>[Straits Times] The price hikes are a sign the industry’s pricing power may come at the expense of future demand.</description>
-      <pubDate>Fri, 26 Jun 2026 05:18:55 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>OpenAI leans towards waiting until 2027 for IPO, NYT reports</title>
       <link>https://www.businesstimes.com.sg/startups-tech/openai-leans-towards-waiting-until-2027-ipo-nyt-reports</link>
       <description>[Business Times] The ChatGPT maker and rival Anthropic PBC have been racing to make their Wall Street debuts as soon as this year</description>
       <pubDate>Fri, 26 Jun 2026 03:52:34 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>ChatGPT owner OpenAI may delay IPO until 2027 on tech stock volatility, NYT reports</title>
-      <link>https://www.straitstimes.com/business/companies-markets/chatgpt-owner-openai-considering-delaying-ipo-until-2027-on-tech-stock-volatility-nyt-reports</link>
-      <description>[Straits Times] OpenAI and rival Anthropic have been racing to make their Wall Street debuts.</description>
-      <pubDate>Fri, 26 Jun 2026 02:21:31 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>Anthropic Thinks Its Own Success Is Key to Making AI Safe</title>
