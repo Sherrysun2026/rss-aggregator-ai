@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 04 Jul 2026 23:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:05:04 +0000</lastBuildDate>
     <item>
       <title>Don't expect connected car apps to save your stolen car, experts say</title>
       <link>https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -46,27 +46,6 @@
 The post HubSpot&amp;#8217;s Warmly deal points to the next generation of CRM appeared first on MarTech.</description>
       <pubDate>Wed, 01 Jul 2026 14:53:10 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>Google built a great smart speaker, but Gemini isn’t ready for it</title>
-      <link>https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home</link>
-      <description>[The Verge AI] Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fal</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>UOB, quantum technologies centre partner to explore quantum computing for derivatives valuation</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/uob-quantum-technologies-centre-partner-explore-quantum-computing-derivatives-valuation</link>
-      <description>[Business Times] Large-scale simulation methods are being used currently but they can be time and resource-intensive</description>
-      <pubDate>Wed, 01 Jul 2026 11:47:48 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>Anthropic&amp;#8217;s long-sidelined Fable 5 is greenlit to return</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back</link>
-      <description>[The Verge AI] After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, </description>
-      <pubDate>Wed, 01 Jul 2026 00:03:55 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
     <item>
       <title>AI is making creative the new targeting</title>
@@ -172,6 +151,168 @@ The post AI visibility depends on who writes about your brand appeared first on 
       <source>Business Times</source>
     </item>
     <item>
+      <title>Some of the nation’s rich are letting AI teach their kids</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep</link>
+      <description>[The Verge AI] Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep </description>
+      <pubDate>Sun, 05 Jul 2026 22:30:54 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Commentary: The fragile reopening of Hormuz is no return to normal for Asia</title>
+      <link>https://www.channelnewsasia.com/commentary/iran-war-strait-hormuz-fragile-reopening-what-it-means-asia-6229406</link>
+      <description>[CNA Tech] A return to pre-war normalcy in the Strait of Hormuz is likely to be slow. This holds implications for Asia, says Coface chief APAC economist Bernard Aw.</description>
+      <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>British budget airline easyJet ready to accept $9.4 billion takeover bid from Castlelake</title>
+      <link>https://www.straitstimes.com/business/british-budget-airline-easyjet-ready-to-accept-9-4-billion-takeover-bid-from-castlelake</link>
+      <description>[Straits Times] The deal would see US investment firm Castlelake take 31-year-old easyJet private.</description>
+      <pubDate>Sun, 05 Jul 2026 21:03:42 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>BTS are set to bring year-end festive cheer to Singapore’s economy</title>
+      <link>https://www.straitstimes.com/business/bts-are-set-to-bring-festive-year-end-cheer-to-singapores-economy</link>
+      <description>[Straits Times] The Army is expected to drive demand across hotels, airlines, shopping centres and restaurants here.</description>
+      <pubDate>Sun, 05 Jul 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>The bull market’s next test</title>
+      <link>https://www.straitstimes.com/business/the-bull-markets-next-test</link>
+      <description>[Straits Times] The next chapter will hinge as much on AI's revenue monetisation as on its capital expenditure.</description>
+      <pubDate>Sun, 05 Jul 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Fewer disruptions, faster performance, stronger protection: Why resilient connectivity is now a business priority</title>
+      <link>https://www.straitstimes.com/business/sptel-fewer-disruptions-faster-performance-stronger-protection-resilient-connectivity-priority</link>
+      <description>[Straits Times] From alternative fibre routes to flexible bandwidth and built-in cyber protection, SPTel is helping businesses strengthen the networks that now underpin daily operations.</description>
+      <pubDate>Sun, 05 Jul 2026 20:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Amazon will stop accepting new customers for Mechanical Turk</title>
+      <link>https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/</link>
+      <description>[TechCrunch AI] These may be the last days of Amazon’s Mechanical Turk.</description>
+      <pubDate>Sun, 05 Jul 2026 17:43:36 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Infuriating Google commercial imagines the founding fathers embracing AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence</link>
+      <description>[The Verge AI] &quot;Group project, but make it 1776.&quot; That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be</description>
+      <pubDate>Sun, 05 Jul 2026 14:23:11 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>【ESG-V评级观察】北京上市公司价值重估：金融与硬科技抬升上限，地产与部分传统产业承压</title>
+      <link>https://www.tmtpost.com/8053400.html</link>
+      <description>[钛媒体] 北京上市公司整体高评级企业密度较高，尤其在金融、软件、半导体、央企平台和高端制造领域具备明显优势；但与此同时，房地产、部分传统制造、部分软件服务和中小科技企业，也出现了较为明显的评级下沉。</description>
+      <pubDate>Sun, 05 Jul 2026 13:20:04 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI 越记住你，越可能&quot;带着偏见理解你&quot;</title>
+      <link>https://www.tmtpost.com/8053185.html</link>
+      <description>[钛媒体] 从&quot;信息茧房&quot;到&quot;人格茧房&quot;，AI 个性化的认知代价</description>
+      <pubDate>Sun, 05 Jul 2026 09:28:45 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>South Korea to create future fund from chip windfall to spur growth, tackle inequality</title>
+      <link>https://www.channelnewsasia.com/east-asia/south-korea-future-fund-chip-windfall-6233061</link>
+      <description>[CNA Tech] A top official says the government will use the &quot;Future Response Fund&quot; to help finance major national investment projects and strengthen the country's long-term competitiveness.</description>
+      <pubDate>Sun, 05 Jul 2026 09:23:12 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>OPEC+ approves further oil output increase as Hormuz exports start to recover</title>
+      <link>https://www.straitstimes.com/business/opec-set-to-clear-another-oil-output-increase-sources-say</link>
+      <description>[Straits Times] The oil-producing group has agreed to increase quotas by 188,000 barrels per day from August.</description>
+      <pubDate>Sun, 05 Jul 2026 09:15:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>OPEC+ approves further oil output increase as Hormuz exports start to recover</title>
+      <link>https://www.channelnewsasia.com/world/oil-supply-increase-opec-exports-hormuz-6233046</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 05 Jul 2026 08:07:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统</title>
+      <link>https://36kr.com/p/3882365879005186?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;邱晓芬
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。
+  「忆生科技」致力于从科学第一性原理出发，用&quot;感知—预测—交互&quot;闭环构建机器人&quot;大脑+小脑&quot;统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。
+  本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发、多模态全人形动作交互数据和算法训练管线的建设、顶尖人才团队的</description>
+      <pubDate>Sun, 05 Jul 2026 06:27:30 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业</title>
+      <link>https://36kr.com/p/3882364132077577?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;邱晓芬
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。
+  最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。
+  本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。
+  「光象科技」成立于2025年4月，是清华大学车辆与运载学院与人工智能学院联合孵化的具身智能公司。
+  在团队配置上，「光���科技」呈现出“产业+学术”的基因。公</description>
+      <pubDate>Sun, 05 Jul 2026 06:25:53 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过</title>
+      <link>https://36kr.com/p/3882361033322755?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;邱晓芬
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。
+  这是目前餐饮垂直机器人领域规模最大的一笔融资之一。
+  在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋、以及港科大首席副校长郭毅可等。
+  「影智XBOT」成立于2022年，其创始人唐沐称得上机器人圈的“异类”——是机器人</description>
+      <pubDate>Sun, 05 Jul 2026 06:23:00 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Are the ‘Mangos’ stocks already turning soft?</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/are-mangos-stocks-already-turning-soft</link>
+      <description>[Business Times] There’s no guarantee that any of the acronym’s six members will stick around and thrive</description>
+      <pubDate>Sun, 05 Jul 2026 01:50:13 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>华为43%，寒武11%：2026年国产AI芯片的产能饥饿游戏</title>
+      <link>https://www.tmtpost.com/8051488.html</link>
+      <description>[钛媒体] 2026年，华为豪取中芯43%先进产能，寒武纪抢下11%。当15家国产AI芯片公司挤在同一条产线上，决定胜负的不是技术，而是那张看不见的&quot;产能船票&quot;。这是一场卡在产线上的大逃杀。</description>
+      <pubDate>Sun, 05 Jul 2026 01:22:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI应用层，谁在真正赚钱？</title>
+      <link>https://www.tmtpost.com/8053021.html</link>
+      <description>[钛媒体] AI应用层的商业化，2025-2026年是&quot;融资驱动&quot;，2027-2028年会进入&quot;利润驱动&quot;——那时候，推理成本降下来了，用户付费习惯养成了，真正的赢家会浮出水面。  而现在，还在烧钱的大多数AI应用公司，能不能活到那一天，是一个很大的问号。</description>
+      <pubDate>Sun, 05 Jul 2026 01:19:52 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI引爆存储，江波龙上半年净利暴涨超600倍</title>
+      <link>https://www.tmtpost.com/8053032.html</link>
+      <description>[钛媒体] AI引爆存储，江波龙上半年净利暴涨超600倍</description>
+      <pubDate>Sun, 05 Jul 2026 01:19:48 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Edge AI Daily 早报（7月5日）</title>
+      <link>https://www.tmtpost.com/8053089.html</link>
+      <description>[钛媒体] Anthropic发布Claude Fable 5编码模型实现SWE-bench 95.0%突破，同时启动内部药物发现项目Claude Science，标志AI公司从工具提供商向垂直领域深度渗透。OpenAI英国Stargate数据中心300亿英镑承诺暴露基础设施投资泡沫，Meta数据中心污染事件揭示AI扩张的环保监管盲区。</description>
+      <pubDate>Sun, 05 Jul 2026 00:39:15 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
       <title>I passed on SpaceX and the market made me feel foolish, but only briefly</title>
       <link>https://www.straitstimes.com/business/i-passed-on-spacex-and-the-markets-made-me-feel-briefly-foolish</link>
       <description>[Straits Times] The fundamentals didn't stack up, but watching paper millionaires emerge overnight shook that conviction.</description>
@@ -214,53 +355,11 @@ The post AI visibility depends on who writes about your brand appeared first on 
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>【数智周报】  智平方完成近50亿元融资；豆包：智能体功能将于7月15日下线；可灵AI落地近30亿美元融资 ；Anthropic推出Claude Science</title>
-      <link>https://www.tmtpost.com/8052985.html</link>
-      <description>[钛媒体] （6月29日~7月4日）月之暗面声明：未授权任何第三方处理融资交易；曝贾扬清离开英伟达，公司去年48亿卖身；谷歌推出AI生图模型Nano Banana 2 Lite；施耐德将以31亿美元收购工业AI公司Cognite；联合国报告呼吁尽快完善人工智能治理</description>
-      <pubDate>Sat, 04 Jul 2026 11:38:06 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>For one small business, AI was key to a quick start and expansion</title>
       <link>https://www.channelnewsasia.com/business/one-small-business-ai-was-key-quick-start-and-expansion-6232026</link>
       <description>[CNA Tech] </description>
       <pubDate>Sat, 04 Jul 2026 10:01:59 +0000</pubDate>
       <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>OpenAI要怎么卖广告</title>
-      <link>https://www.tmtpost.com/8052577.html</link>
-      <description>[钛媒体] OpenAI开始正式向广告主推介ChatGPT的广告生意了。</description>
-      <pubDate>Sat, 04 Jul 2026 07:56:03 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>海归博士回国创业，一年狂飙4倍，拿下3000亿元市值</title>
-      <link>https://www.tmtpost.com/8052643.html</link>
-      <description>[钛媒体] 硅谷巨头纷纷放弃的冷门赛道，被中国50后老炮熬了20年，狂飙出3000亿市值！</description>
-      <pubDate>Sat, 04 Jul 2026 07:55:58 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Deepseek调价居然和电有关？AI开收“高峰电费”，算电协同到底是怎么个“协同”？</title>
-      <link>https://www.tmtpost.com/8052737.html</link>
-      <description>[钛媒体] AI与电力同步峰谷调价，凸显算电协同需求。</description>
-      <pubDate>Sat, 04 Jul 2026 07:55:56 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>芯片冷却，涌现大量“黑科技”</title>
-      <link>https://www.tmtpost.com/8052444.html</link>
-      <description>[钛媒体] 学术界、巨头、初创公司，密集出招。</description>
-      <pubDate>Sat, 04 Jul 2026 07:45:33 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>程一笑要带可灵AI打“对赌局”</title>
-      <link>https://www.tmtpost.com/8052804.html</link>
-      <description>[钛媒体] 快手也养不起可灵AI了。</description>
-      <pubDate>Sat, 04 Jul 2026 07:25:13 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？</title>
@@ -290,7 +389,7 @@ The post AI visibility depends on who writes about your brand appeared first on 
       <source>36氪</source>
     </item>
     <item>
-      <title>36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资</title>
+      <title>36氪首发 | 剑桥副教授创业硅光芯片，已合作华为，获一亿投资</title>
       <link>https://36kr.com/p/3879991356157952?f=rss</link>
       <description>[36氪] 图源/企业
   作者丨欧雪
@@ -309,20 +408,6 @@ The post AI visibility depends on who writes about your brand appeared first on 
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari</title>
-      <link>https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</link>
-      <description>[TechCrunch AI] We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.</description>
-      <pubDate>Fri, 03 Jul 2026 18:43:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Fermi CEO Neugebauer suspends proxy campaign after judge’s recusal</title>
-      <link>https://www.channelnewsasia.com/business/fermi-ceo-neugebauer-suspends-proxy-campaign-after-judges-recusal-6231176</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Jul 2026 17:49:04 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Google DeepMind Unionization Talks Are Off to a Rocky Start</title>
       <link>https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/</link>
       <description>[WIRED AI] During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.</description>
@@ -337,20 +422,6 @@ The post AI visibility depends on who writes about your brand appeared first on 
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Tesla rolls out robotaxi service in Miami</title>
-      <link>https://www.channelnewsasia.com/business/tesla-rolls-out-robotaxi-service-in-miami-6230881</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Jul 2026 14:59:13 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Singapore Retail Festival returns, with three weeks of themed weekend experiences, live-stream shopping</title>
-      <link>https://www.straitstimes.com/business/singapore-retail-festival-returns-with-three-weeks-of-themed-weekend-experiences-and-livestream</link>
-      <description>[Straits Times] The festival returns from July 4 to 26, featuring promotions, rewards, and immersive experiences.</description>
-      <pubDate>Fri, 03 Jul 2026 14:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Anthropic wants to develop its own drugs</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development</link>
       <description>[The Verge AI] At the event &quot;The Briefing: AI for Science&quot; earlier this week, Anthropic announced Claude Science, a new &quot;AI workbench for scientists&quot; that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding </description>
@@ -358,95 +429,11 @@ The post AI visibility depends on who writes about your brand appeared first on 
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Construction engineering firm Metrocon eyes SGX listing through Hatten Land takeover</title>
-      <link>https://www.straitstimes.com/business/construction-engineering-firm-metrocon-eyes-sgx-listing-through-hatten-land-takeover</link>
-      <description>[Straits Times] The beleaguered property developer has asked shareholders to approve a $28 million reverse takeover by Metrocon Holdings.</description>
-      <pubDate>Fri, 03 Jul 2026 13:55:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>More hitting CPF retirement targets at the milestone age of 55</title>
-      <link>https://www.straitstimes.com/business/more-hitting-cpf-retirement-targets-at-the-milestone-age-of-55</link>
-      <description>[Straits Times] The raising of the Enhanced Retirement Sum in 2025 spurred members to make record levels of top-ups.</description>
-      <pubDate>Fri, 03 Jul 2026 12:35:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>AI hiring outpaces overall IT recruitment in India, report shows</title>
-      <link>https://www.channelnewsasia.com/business/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-6230576</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Jul 2026 12:16:54 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</link>
       <description>[The Verge AI] Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with ch</description>
       <pubDate>Fri, 03 Jul 2026 11:49:10 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>秋声 | 袁进辉新公司冲港股IPO，成立不到三年</title>
-      <link>https://36kr.com/p/3879814941437956?f=rss</link>
-      <description>[36氪] 本文约2700字，建议阅读6分钟
-  作者&amp;nbsp;|&amp;nbsp;彭孝秋
-  
-   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
-   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。
-  
-  Q2的最后一天，硅基流动向港交所递交了上市申请，此次IPO是以18C未商业化公司身份申报。联席保荐人为华泰与海通国际。
-  如果你在AI开发者圈子，硅基流动（SiliconFlow）这个名字不会陌生。它就是那</description>
-      <pubDate>Fri, 03 Jul 2026 11:12:32 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实</title>
-      <link>https://36kr.com/p/3879796756754694?f=rss</link>
-      <description>[36氪] 大公司：
-  德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元
-  针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利润收入选择权的重估。按德银测算，Meta到2027年底AI相关算力可能达到8至11.5GW，其中可对外出售容量约1.2至2.7GW；假设75%实现销售、每GW年化收入100亿至150亿美元，Meta 202</description>
-      <pubDate>Fri, 03 Jul 2026 10:55:45 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家</title>
-      <link>https://36kr.com/p/3877919172047111?f=rss</link>
-      <description>[36氪] 图源视觉中国
-  文｜肖漫编辑｜李勤、杨轩
-  “回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。
-  36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。
-  从群组关系来看，理想汽车产品部由范皓宇负责，包含电动本体、空间智能、自动驾驶终端产品、交互设计、平台运营、App与官网等。
-  了解调整动向的人士向36氪汽车透露，目前调整主要针对电动本体和自动驾驶等核心产品定义团队，其中已经明确的是，产品部的电动本体定义团队，拆分并入刘立国带领的整车研发部门；自动驾驶终端产品团队将并进詹锟带领的基座模型</description>
-      <pubDate>Fri, 03 Jul 2026 10:45:12 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>India investigating Tata data leak that exposed Apple iPhone 18 Pro secrets</title>
-      <link>https://www.straitstimes.com/business/india-investigating-tata-data-leak-that-exposed-apple-iphone-18-pro-secrets</link>
-      <description>[Straits Times] Sensitive lists of components and suppliers, and photos of iPhone 18 Pro models are among files posted on the ‌dark web.</description>
-      <pubDate>Fri, 03 Jul 2026 10:30:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Analysis:Argentina's plan for AI-run companies can't avoid humans</title>
-      <link>https://www.channelnewsasia.com/business/analysisargentinas-plan-ai-run-companies-cant-avoid-humans-6230366</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Jul 2026 10:01:50 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Global equity fund inflows rise as investors add tech stocks after market dip</title>
-      <link>https://www.channelnewsasia.com/business/global-equity-fund-inflows-rise-investors-add-tech-stocks-after-market-dip-6230356</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 03 Jul 2026 09:47:54 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>South Korea presidential office rejects Coupang and US claims of discriminatory treatment</title>
-      <link>https://www.straitstimes.com/business/s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory-treatment</link>
-      <description>[Straits Times] A US House Judiciary Committee report accused South Korea of discriminatory treatment of the US-listed e-commerce firm.</description>
-      <pubDate>Fri, 03 Jul 2026 07:40:59 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>The AI trade is losing one of its key signals</title>
