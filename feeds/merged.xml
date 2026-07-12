@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 11 Jul 2026 22:54:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:54:32 +0000</lastBuildDate>
     <item>
       <title>The CMS is becoming the AI operating system for brands</title>
       <link>https://martech.org/the-cms-is-becoming-the-ai-operating-system-for-brands/</link>
@@ -29,31 +29,10 @@ The post Why AI search makes trust your most important visibility signal appeare
       <source>MarTech</source>
     </item>
     <item>
-      <title>Samsung scales up production of advanced storage drive for Nvidia’s Vera Rubin platform</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/technology/samsung-scales-production-advanced-storage-drive-nvidias-vera-rubin-platform</link>
-      <description>[Business Times] The solid-state drive is part of a package for artificial intelligence data centres</description>
-      <pubDate>Wed, 08 Jul 2026 02:24:24 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>Fidji Simo steps down from leading OpenAI’s AGI work due to illness</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor</link>
-      <description>[The Verge AI] OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a &quot;part-time advisor,&quot; she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she</description>
-      <pubDate>Thu, 09 Jul 2026 23:24:04 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down</title>
       <link>https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/</link>
       <description>[WIRED AI] The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.</description>
       <pubDate>Thu, 09 Jul 2026 23:13:18 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Anthropic Wants You to Pay Up for Claude Fable 5</title>
-      <link>https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/</link>
-      <description>[WIRED AI] Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.</description>
-      <pubDate>Thu, 09 Jul 2026 18:30:00 +0000</pubDate>
       <source>WIRED AI</source>
     </item>
     <item>
@@ -70,6 +49,127 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <description>[BBC Technology] Ofcom has fined a slew of sites it says are failing to prevent children accessing their adult content.</description>
       <pubDate>Thu, 09 Jul 2026 11:29:31 +0000</pubDate>
       <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Lorde says Ray-Ban Meta AI glasses are ‘not sexy’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy</link>
+      <description>[The Verge AI] Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI s</description>
+      <pubDate>Sun, 12 Jul 2026 20:10:19 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Apple’s failed self-driving car program left a legacy of powerful AI chips</title>
+      <link>https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra</link>
+      <description>[The Verge AI] Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor</description>
+      <pubDate>Sun, 12 Jul 2026 16:27:06 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>The fight against AI data centers is just beginning</title>
+      <link>https://www.theverge.com/column/963346/ai-data-centers-fight</link>
+      <description>[The Verge AI] This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threate</description>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>不卷9.9，这一代跨境人在创造贵20美元的新物种 ｜ 出海参考</title>
+      <link>https://www.tmtpost.com/8061768.html</link>
+      <description>[钛媒体] 从被动接单，到主动定义产品，从有什么卖什么的铺货方式，到为用户创造产品的创新思维，划分出新旧两代跨境电商创业者的核心差异。</description>
+      <pubDate>Sun, 12 Jul 2026 10:16:45 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides</title>
+      <link>https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/</link>
+      <description>[WIRED AI] Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.</description>
+      <pubDate>Sun, 12 Jul 2026 10:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Record electricity prices: Fixed contracts, cost pass-on mitigate impact for Singapore data centre operators</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/technology/record-electricity-prices-fixed-contracts-cost-pass-mitigate-impact-singapore-data-centre-operators</link>
+      <description>[Business Times] But as hedges expire, high power costs could drive next wave of growth across the border, says one analyst</description>
+      <pubDate>Sun, 12 Jul 2026 09:20:01 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions</title>
+      <link>https://www.channelnewsasia.com/business/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-acquisitions-6249086</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 12 Jul 2026 08:36:49 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>腾讯重仓一个IPO</title>
+      <link>https://36kr.com/p/3892352153942530?f=rss</link>
+      <description>[36氪] 图片来源：视觉中国
+  作者/杨继云
+  报道/投资界PEdaily
+  深圳超级IPO来了。
+  日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。
+  回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着腾讯等一支长长的投资人队伍。
+  腾讯无疑最为重仓，已成为云豹智能最大股东。与广东国资押注的粤芯半导体一起，云豹智能成为大湾区又一标志性的半导体案例。
+  斯坦福博士，干出深圳独角兽快IPO了
+  先从创始</description>
+      <pubDate>Sun, 12 Jul 2026 07:59:37 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>科技板块集体“刹车”，谁在偷偷踩油门？</title>
+      <link>https://www.tmtpost.com/8061635.html</link>
+      <description>[钛媒体] 从之前的高歌猛进，到如今恐慌震荡，这背后到底发生了什么？</description>
+      <pubDate>Sun, 12 Jul 2026 07:33:35 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>算力基建，遭遇急刹车？</title>
+      <link>https://www.tmtpost.com/8061647.html</link>
+      <description>[钛媒体] 巨头选择算力变现，AI基建迈入新阶段。</description>
+      <pubDate>Sun, 12 Jul 2026 07:21:31 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型</title>
+      <link>https://36kr.com/p/3892222176574211?f=rss</link>
+      <description>[36氪] 换更大的模型就等于更聪明？
+  【导读】换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。很多人为此一路换到最贵的Fable，近日，Anthropic，亲手澄清了这个误区。
+  你有没有过这种时刻：Claude Code写代码写砸了，第一反应，就是赶紧换个更强的模型。
+  但这一招，很多时候并不管用，甚至是在白花钱。
+  近日，Anthropic官方发了一篇长文专门来讲这件事。
+  
+  Anthropic官方长文
+  起因是太多人把Claude Code里的两个选项搞混了：
+  一个是模型选择（Model），一个是努力度（Effort）。
+  
+  Anthropic官</description>
+      <pubDate>Sun, 12 Jul 2026 05:47:23 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>这个周末，科技投资人都得飞一趟成都</title>
+      <link>https://36kr.com/p/3892096788396806?f=rss</link>
+      <description>[36氪] 新能源基金的下半场
+  作者 | 吕敬之编辑 | 吾人
+  来源 |&amp;nbsp;融中财经
+  一只新能源基金落子成都。
+  近日，成都交通投资集团有限公司、成都濛江投资集团有限公司、杭州碧澄能源发展有限公司、洛能（杭州）股权投资有限公司四方签署新能源产业战略合作协议。根据协议，四方将联合设立总规模10亿元的新能源并购基金，推动碧澄能源西南总部及智能运维、资产运营等专业化经营主体落户成都彭州市，助力当地构建产融协同、全域联动的绿色能源产业发展新格局。
+  资本市场上的突破和产业落地上的加强，在成都相遇了。这次签约的背后，是新能源资产运营逻辑的一次悄悄转变，也是成都这座城在绿色能源赛道上的一次主动</description>
+      <pubDate>Sun, 12 Jul 2026 03:27:05 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>拆分电商业务、整治剧本带货，快手给复购喂“救心丸”</title>
+      <link>https://www.tmtpost.com/8061563.html</link>
+      <description>[钛媒体] 让快手电商再一次伟大！</description>
+      <pubDate>Sun, 12 Jul 2026 03:10:58 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>三年高新企业资格被取消，朗姿股份的“科技外衣”破了</title>
+      <link>https://www.tmtpost.com/8061488.html</link>
+      <description>[钛媒体] 这轮清退，某种程度上也是在收紧“服务业披科技皮”的认定口径。</description>
+      <pubDate>Sun, 12 Jul 2026 03:02:07 +0000</pubDate>
+      <source>钛媒体</source>
     </item>
     <item>
       <title>Commentary: Micron’s massive profits are a guarantee of trouble</title>
@@ -110,34 +210,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
   抽丝剥茧，智谱起飞的根源，离不开一年前对 Coding 的押注。2025 年初，智谱就开始重新分配资源，</description>
       <pubDate>Sat, 11 Jul 2026 11:28:29 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>WorkBuddy与姚顺雨，腾讯AI的两条命?</title>
-      <link>https://www.tmtpost.com/8060588.html</link>
-      <description>[钛媒体] 开始翻盘。</description>
-      <pubDate>Sat, 11 Jul 2026 10:09:29 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>音乐圈版权保卫战：AI是如何洗劫音乐人的？</title>
-      <link>https://www.tmtpost.com/8061263.html</link>
-      <description>[钛媒体] 谁为炼化买单？</description>
-      <pubDate>Sat, 11 Jul 2026 10:09:17 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>GPT-5.6背后最恐怖的真相，AI已经开始自我进化了</title>
-      <link>https://www.tmtpost.com/8061074.html</link>
-      <description>[钛媒体] 但只有极少数人注意到了那个真正具有历史意义的细节。Luna是Sol训练出来的。</description>
-      <pubDate>Sat, 11 Jul 2026 09:23:51 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>算力过剩是个伪命题</title>
-      <link>https://www.tmtpost.com/8061099.html</link>
-      <description>[钛媒体] Anthropic都快饿死了，还叨叨过剩呢？</description>
-      <pubDate>Sat, 11 Jul 2026 09:23:42 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Meta scraps AI image feature days after launch following privacy backlash</title>
@@ -246,13 +318,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>SK hynix: From near collapse to AI chip powerhouse behind record US listing</title>
-      <link>https://www.channelnewsasia.com/east-asia/sk-hynix-story-record-us-listing-ai-chips-6245921</link>
-      <description>[CNA Tech] Once on the edge of financial ruin, the South Korean chip giant has rebounded to debut on Wall Street in what is the largest US listing by a foreign company.</description>
-      <pubDate>Fri, 10 Jul 2026 22:01:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Apple sues OpenAI for allegedly stealing hardware secrets</title>
       <link>https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets</link>
       <description>[The Verge AI] Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered &quot;a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.&quot; In addition to OpenAI, the lawsuit also names IO Prod</description>
@@ -267,25 +332,11 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>South Korean chip giant SK hynix surges on first day of trading on Wall Street</title>
-      <link>https://www.channelnewsasia.com/world/sk-hynix-wall-street-shares-surge-6247311</link>
-      <description>[CNA Tech] SK hynix’s NASDAQ listing raised US$26.5 billion, making it one of the largest stock sales in history.</description>
-      <pubDate>Fri, 10 Jul 2026 20:58:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets</title>
       <link>https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/</link>
       <description>[WIRED AI] The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.</description>
       <pubDate>Fri, 10 Jul 2026 20:44:05 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Apple sues OpenAI, two former employees for trade secrets theft</title>
-      <link>https://www.channelnewsasia.com/business/apple-sues-openai-two-former-employees-trade-secrets-theft-6247321</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 10 Jul 2026 20:32:42 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Open source AI matters more than ever, according to Hugging Face’s Clem Delangue</title>
@@ -316,13 +367,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Would you host part of an AI data center in your home?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center</link>
-      <description>[The Verge AI] A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new &quot;distributed AI compute&quot; program that will &quot;place numerous compute n</description>
-      <pubDate>Fri, 10 Jul 2026 13:20:25 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>AI adoption hits 90% as CX deployment paths diverge</title>
       <link>https://martech.org/ai-adoption-hits-90-as-cx-deployment-paths-diverge/</link>
       <description>[MarTech] AI adoption is nearly universal in CX, but organizations are divided on architecture, governance, and building customer trust while proving ROI.
@@ -346,24 +390,6 @@ The post Who trains tomorrow&amp;#8217;s marketers if AI does the work? appeared
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录</title>
-      <link>https://36kr.com/p/3889551814916614?f=rss</link>
-      <description>[36氪] 大公司：
-  SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元
-  参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行的投行，总佣金池规模或将突破1.4亿美元；佣金由两部分构成，一是募资总额0.5%的基础承销费，二是SK海力士另行支付的浮动激励奖金。
-  谷歌要求AI广告必须标注：涵盖搜索和YouTube等
-  当地时间7月9日，谷歌宣布全面扩大生成式AI广告的披露范围。新规要求在谷歌搜索、YouTube和Discover信息流中，</description>
-      <pubDate>Fri, 10 Jul 2026 10:23:02 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Seatrium transfers its first bit of energy from its floating lab to Singapore’s electricity grid</title>
-      <link>https://www.straitstimes.com/business/companies-markets/seatrium-transfers-its-first-bit-of-energy-from-its-floating-lab-to-singapores-electricity-grid</link>
-      <description>[Straits Times] Transfer shows floating distributed energy resource platform can support both on-land grid and marine energy needs.</description>
-      <pubDate>Fri, 10 Jul 2026 10:15:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Big tech must deal with scam ads under Ofcom proposals</title>
       <link>https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] Ofcom says more than half of UK adults have encountered potentially fraudulent ads online.</description>
@@ -371,41 +397,11 @@ The post Who trains tomorrow&amp;#8217;s marketers if AI does the work? appeared
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线</title>
-      <link>https://36kr.com/p/3889524008303363?f=rss</link>
-      <description>[36氪] 徕芬珠海超级工厂（图源/企业）
-  作者丨欧雪
-  编辑丨袁斯来
-  7月8日，徕芬科技在珠海斗门的超级工厂举办媒体探访活动。
-  这座总投资超5亿元、占地超20万平方米的制造基地，自2025年8月投产以来，首次较大规模地向外界开放参观。
-  该工厂目前承接电动牙刷、剃须刀及部分新品的生产，并配套了电机车间、精密成型车间、喷涂车间、组装车间及约3000平方米的可靠性实验室。
-  
-  徕芬可靠性实验室（图源/企业）
-  自建工厂在消费电子行业并非主流路径，尤其对于一家成立仅7年的公司而言，重资产投入意味着更长的回报周期和更大的经营压力。
-  硬氪了解到，徕芬选择自建工厂，部分原因在于外部代工厂</description>
-      <pubDate>Fri, 10 Jul 2026 07:49:14 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Stranded oil tankers finally reach S’pore after months stuck in Mid-East amid US-Iran tension</title>
-      <link>https://www.straitstimes.com/business/oil-tankers-previously-stranded-in-the-middle-east-arrive-in-spore-as-us-iran-tensions-rise</link>
-      <description>[Straits Times] The outlook for oil flows through the Strait of Hormuz could change again, given the latest developments.</description>
-      <pubDate>Fri, 10 Jul 2026 06:20:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot</title>
       <link>https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/</link>
       <description>[WIRED AI] Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?</description>
       <pubDate>Fri, 10 Jul 2026 06:00:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>KPMG UK to slash 200 back office roles in latest round of cuts</title>
-      <link>https://www.straitstimes.com/business/companies-markets/kpmg-uk-to-slash-200-back-office-roles-in-latest-round-of-cuts</link>
-      <description>[Straits Times] Professional services firms are turning to AI and offshoring to cut costs and boost revenues.</description>
-      <pubDate>Fri, 10 Jul 2026 05:47:09 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>Tencent in talks to become Singapore-based AI startup Manus’ largest shareholder, sources say</title>
@@ -422,36 +418,11 @@ The post Who trains tomorrow&amp;#8217;s marketers if AI does the work? appeared
       <source>Business Times</source>
     </item>
     <item>
-      <title>JustCo takes over former Taste Orchard mall to offer co-working, co-living and retail under one roof</title>
-      <link>https://www.straitstimes.com/business/property/from-co-working-spaces-to-homes-justco-adds-co-living-to-the-mix-as-og-orchard-points-new-tenant</link>
-      <description>[Straits Times] It has signed a multi-year lease with landlord OG and will launch the services from September.</description>
-      <pubDate>Fri, 10 Jul 2026 04:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>赢官司、融新钱，他想把百万「抗癌针」变平价</title>
-      <link>https://36kr.com/p/3888284244720131?f=rss</link>
-      <description>[36氪] 文 | 胡香赟
-  编辑 | 海若镜
-  36氪获悉，前传奇生物创始人/首席科学家范晓虎创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。
-  过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一关又一关。
-  在中国细胞与基因治疗（CGT）领域，“范晓虎”这个名字很难被绕开。2022年3月，他主导的传奇生物细胞药物西达基奥仑赛在欧美上市，是目前全球唯一一款销售额逼近20亿美金的CAR-T细胞疗法</description>
-      <pubDate>Fri, 10 Jul 2026 03:26:25 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet</title>
       <link>https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.</description>
       <pubDate>Fri, 10 Jul 2026 01:33:45 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Microsoft’s carbon emissions went up 25 percent last year</title>
-      <link>https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026</link>
-      <description>[The Verge AI] Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons &quot;without select interventions.&quot; Micro</description>
-      <pubDate>Fri, 10 Jul 2026 00:04:13 +0000</pubDate>
-      <source>The Verge AI</source>
     </item>
   </channel>
 </rss>
