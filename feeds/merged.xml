@@ -3,90 +3,13 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Wed, 22 Jul 2026 23:08:37 +0000</lastBuildDate>
-    <item>
-      <title>Google burning through cash with spiralling AI costs</title>
-      <link>https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The company said earlier this year it expected to spend as much as $190bn on AI investments.</description>
-      <pubDate>Wed, 22 Jul 2026 23:02:32 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>美股三大指数集体收跌，大型科技股多数下跌</title>
-      <link>https://36kr.com/newsflashes/3907409390130308?f=rss</link>
-      <description>[36氪] 36氪获悉，7月22日收盘，美股三大指数集体下跌，道指跌0.01%，纳指跌0.57%，标普500指数跌0.14%。大型科技股多数下跌，英特尔、Meta跌超2%，微软、谷歌、特斯拉、亚马逊跌超1%，苹果、奈飞小幅下跌；英伟达涨超2%。热门中概股跌多涨少，网易跌超6%，小鹏集团、哔哩哔哩跌超3%，蔚来跌超2%，拼多多、阿里巴巴跌超1%；老虎证券涨超4%，富途控股涨超2%。</description>
-      <pubDate>Wed, 22 Jul 2026 23:02:22 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Paramount’s US$110b Warner deal gets EU conditional approval</title>
-      <link>https://www.straitstimes.com/business/paramounts-us110b-warner-deal-gets-eu-conditional-approval</link>
-      <description>[Straits Times] It is a positive development for the deal even as it faces a high-stakes US lawsuit that threatens its progress.</description>
-      <pubDate>Wed, 22 Jul 2026 22:25:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Google justifies its massive AI spending with a booming cloud business</title>
-      <link>https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/</link>
-      <description>[TechCrunch AI] Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.</description>
-      <pubDate>Wed, 22 Jul 2026 22:01:52 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 22:59:58 +0000</lastBuildDate>
     <item>
       <title>The White House Is Trying to Figure Out What to Do About Chinese AI</title>
       <link>https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/</link>
       <description>[WIRED AI] There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.</description>
       <pubDate>Wed, 22 Jul 2026 21:00:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable</title>
-      <link>https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/</link>
-      <description>[TechCrunch AI] The episode has also intensified a broader debate in Washington over the influx of Chinese open models.</description>
-      <pubDate>Wed, 22 Jul 2026 20:49:03 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>S&amp;P 500, Nasdaq close lower as investors await technology earnings</title>
-      <link>https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-close-lower-as-investors-await-technology-earnings</link>
-      <description>[Straits Times] The Dow Jones Industrial Average rose 1.52 points to 52,226.16.</description>
-      <pubDate>Wed, 22 Jul 2026 20:39:48 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>ServiceNow raises annual subscription revenue forecast again on AI-driven demand</title>
-      <link>https://www.channelnewsasia.com/business/servicenow-raises-annual-subscription-revenue-forecast-again-ai-driven-demand-6271866</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 22 Jul 2026 20:13:35 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>IBM cuts annual revenue growth forecast as customers prioritize AI infrastructure spending</title>
-      <link>https://www.channelnewsasia.com/business/ibm-cuts-annual-revenue-growth-forecast-customers-prioritize-ai-infrastructure-spending-6271871</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 22 Jul 2026 20:12:25 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Texas Instruments forecasts upbeat revenue on analog chip demand</title>
-      <link>https://www.channelnewsasia.com/business/texas-instruments-forecasts-upbeat-revenue-analog-chip-demand-6271846</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 22 Jul 2026 20:07:29 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Google increases capex forecast again after cloud-driven quarterly beat</title>
-      <link>https://www.channelnewsasia.com/business/google-increases-capex-forecast-again-after-cloud-driven-quarterly-beat-6271851</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 22 Jul 2026 20:05:17 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>How OpenAI’s human mistake led to the AI-powered hack on Hugging Face</title>
-      <link>https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/</link>
-      <description>[TechCrunch AI] OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.</description>
-      <pubDate>Wed, 22 Jul 2026 19:11:46 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Teenager drops social media addiction lawsuit against Meta</title>
@@ -101,83 +24,6 @@
       <description>[WIRED AI] As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.</description>
       <pubDate>Wed, 22 Jul 2026 19:01:38 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Travis Kalanick’s robotics company raises $1.7B, led by a16z</title>
-      <link>https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/</link>
-      <description>[TechCrunch AI] Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.</description>
-      <pubDate>Wed, 22 Jul 2026 18:50:44 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Teen plaintiff suing Meta over mental health harms drops his claims against company days before trial</title>
-      <link>https://www.channelnewsasia.com/business/teen-plaintiff-suing-meta-over-mental-health-harms-drops-his-claims-against-company-days-trial-6271736</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 22 Jul 2026 18:38:44 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Yope raises $12.3M to build a private social network without algorithms or ads</title>
-      <link>https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/</link>
-      <description>[TechCrunch AI] Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha</description>
-      <pubDate>Wed, 22 Jul 2026 18:13:58 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Monday.com lays off hundreds to focus on AI</title>
-      <link>https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/</link>
-      <description>[TechCrunch AI] The company said it is reducing its headcount by 20%, or about 630 staff, to &quot;support a leaner, more focused operating model&quot; as it focuses on its AI Work Platform.</description>
-      <pubDate>Wed, 22 Jul 2026 17:54:14 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails</title>
-      <link>https://www.channelnewsasia.com/business/chinese-ais-role-in-stopping-rogue-openai-agent-shows-cost-us-guardrails-6271641</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Wed, 22 Jul 2026 17:16:47 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Here&amp;#8217;s what Samsung&amp;#8217;s smart glasses actually look like</title>
-      <link>https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker</link>
-      <description>[The Verge AI] Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Park</description>
-      <pubDate>Wed, 22 Jul 2026 16:35:34 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>端侧觉醒：当AI长出&quot;身体&quot;，热闹之后拼什么？｜ WAIC2026</title>
-      <link>https://www.tmtpost.com/8074962.html</link>
-      <description>[钛媒体] 当AI长出&quot;身体&quot;，哪些能力必须长在设备里？从众筹爆款到规模量产隔着几道门槛？软硬件边界消融之后，各家又靠什么守住自己的生态位？</description>
-      <pubDate>Wed, 22 Jul 2026 15:28:51 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>深圳上市公司价值重估：金融与硬科技托举上限，创新密度背后分化加深</title>
-      <link>https://www.tmtpost.com/8075899.html</link>
-      <description>[钛媒体] 与传统制造城市不同，深圳上市公司更像是一组高密度创新样本：一端连接资本市场和金融信用，一端连接电子信息、智能制造、医疗器械、新能源装备和数字经济。ESG-V评级结果，也由此呈现出“头部企业质量较高、产业链创新特征突出、中间层较厚、尾部公司分化明显”的结构。</description>
-      <pubDate>Wed, 22 Jul 2026 15:17:52 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>价值判断：跌停板的投资机会和风险提示（7月21日）｜上市公司观察</title>
-      <link>https://www.tmtpost.com/8075874.html</link>
-      <description>[钛媒体] 盘面资金大幅切换，主力资金集中涌入半导体设备、存储芯片、CPO算力等高景气科技赛道，板块批量涨停；资金从医药商业、传统周期、题材小票持续撤离，医疗器械、金属制造、工程咨询、光学材料、工业电子等板块跌幅居前，多只中小盘个股受情绪冲击触及跌停，题材小票抛压集中释放。</description>
-      <pubDate>Wed, 22 Jul 2026 14:44:37 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AMD commits up to $5 billion to  Anthropic</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal</link>
-      <description>[The Verge AI] AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r</description>
-      <pubDate>Wed, 22 Jul 2026 14:44:27 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>美股大型科技股盘前涨跌不一，英特尔跌超4%</title>
-      <link>https://36kr.com/newsflashes/3906808923837829?f=rss</link>
-      <description>[36氪] 36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，英特尔、闪迪、美光科技跌超4%，英伟达跌超1%，特斯拉跌0.74%，苹果跌0.04%；微软涨0.31%，谷歌涨0.27%，Meta涨0.23%，亚马逊涨0.18%。</description>
-      <pubDate>Wed, 22 Jul 2026 12:51:33 +0000</pubDate>
-      <source>36氪</source>
     </item>
     <item>
       <title>Your newest competitors aren’t other brands</title>
@@ -195,101 +41,6 @@ The post Your newest competitors aren&amp;#8217;t other brands appeared first on
       <source>Business Times</source>
     </item>
     <item>
-      <title>OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</title>
-      <link>https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.</description>
-      <pubDate>Wed, 22 Jul 2026 11:40:11 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Mary Chia repays debt, but insolvency proceedings to continue in court</title>
-      <link>https://www.straitstimes.com/business/mary-chia-repays-debt-but-insolvency-proceedings-to-continue-in-court</link>
-      <description>[Straits Times] The beauty and wellness group is disputing $558,811 in interest and additional fees claimed by Fullink Capital.</description>
-      <pubDate>Wed, 22 Jul 2026 11:40:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Why Japan Has Become a Graveyard for China’s Bubble Tea Kings</title>
-      <link>https://www.tmtpost.com/8075658.html</link>
-      <description>[钛媒体] After conquering Southeast Asia, Chinese bubble tea giants like Mixue, Nayuki, and Heytea set their sights on Japan, aiming to replicate their aggressive, scale-driven playbooks. Instead, they hit an operational brick wall. Facing steep cost structures, ingrained consumer habits favoring mini-sized </description>
-      <pubDate>Wed, 22 Jul 2026 11:03:02 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Meta made its own AI detection system. It should have just used Google’s</title>
-      <link>https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid</link>
-      <description>[The Verge AI] IIn March, Meta's Oversight Board called on the company to &quot;meet its public commitments and employ its own tools&quot; to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images </description>
-      <pubDate>Wed, 22 Jul 2026 11:00:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>AI内容全球化：短剧、影视与互动内容的下一程 ｜WAIC2026</title>
-      <link>https://www.tmtpost.com/8075471.html</link>
-      <description>[钛媒体] AI重塑内容生产，商业化走向全球化叙事与细分市场。</description>
-      <pubDate>Wed, 22 Jul 2026 10:47:21 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Utility companies promise to spare us from AI’s energy bill</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump</link>
-      <description>[The Verge AI] In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's </description>
-      <pubDate>Wed, 22 Jul 2026 10:12:13 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>风向变了！三大运营商集体“卖铲”</title>
-      <link>https://www.tmtpost.com/8074796.html</link>
-      <description>[钛媒体] 三大运营商在WAIC 2026集体押注“Token经济”，争做AI时代的卖铲人。</description>
-      <pubDate>Wed, 22 Jul 2026 09:15:19 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>‘It is not AI instead of workers’: NTUC’s Desmond Tan at Synagie’s new AI platform launch</title>
-      <link>https://www.straitstimes.com/business/it-is-not-ai-instead-of-workers-ntucs-desmond-tan-at-synagies-new-ai-platform-launch</link>
-      <description>[Straits Times] Geene 2.0 combines capabilities such as data analysis, strategy recommendations and content generation.</description>
-      <pubDate>Wed, 22 Jul 2026 08:50:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Asian stocks cling to gains as US rebounds, oil rises</title>
-      <link>https://www.straitstimes.com/business/asian-stocks-cling-to-gains-as-us-rebounds-oil-rises</link>
-      <description>[Straits Times] Asia-Pacific shares outside Japan was up 0.2 per cent, while Japan’s Nikkei 225 flitted between gains and losses.</description>
-      <pubDate>Wed, 22 Jul 2026 08:28:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用</title>
-      <link>https://36kr.com/p/3906523265914245?f=rss</link>
-      <description>[36氪] 7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。超擎数智创始人兼CEO唐春峰在WAIC现场接受36氪「氪话未来」特邀专访，围绕人工智能推理应用落地、软硬一体全栈解决方案、行业应用实践等话题，分享了超擎从软件、硬件到行业部署的整体布局，以及如何通过技术方案提升AI应用效率、降低企业落地成本。
-  本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在</description>
-      <pubDate>Wed, 22 Jul 2026 08:02:33 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力</title>
-      <link>https://36kr.com/p/3906499484996742?f=rss</link>
-      <description>[36氪] 7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。润建股份董事、副总裁丁永在WAIC现场接受36氪「氪话未来」特邀专访，围绕Token生产、应用落地、价值闭环及出海布局等话题，分享了润建股份打造Token全栈服务能力、推动企业级AI落地的探索。
-  本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在关注一个更加核心的问题：AI如何真正进入企业业务</description>
-      <pubDate>Wed, 22 Jul 2026 07:38:55 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇</title>
-      <link>https://36kr.com/p/3906468088042886?f=rss</link>
-      <description>[36氪] 硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。
-  同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方案部负责人，并创立过规模超百人的矿山自动驾驶公司。
-  团队自动驾驶基因雄厚，首席科学家为美国康涅狄格大学AI博士及博士后，曾任某自动驾驶独角兽公司的感知预测负责人；智能航行技术VP为法国巴黎萨克雷大学AI硕士，历任Intel算法科学家、驭势科技高级研究员及挚途科技规控部部长；商务合伙人拥有12</description>
-      <pubDate>Wed, 22 Jul 2026 07:06:04 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Singapore bets on AI in healthcare, but success will depend on commercial sustainability</title>
-      <link>https://www.straitstimes.com/business/singapore-bets-on-ai-in-healthcare-but-success-will-depend-on-commercial-sustainability</link>
-      <description>[Straits Times] Fostering innovation within the healthcare industry is increasingly becoming a national priority.</description>
-      <pubDate>Wed, 22 Jul 2026 05:59:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup</title>
       <link>https://www.businesstimes.com.sg/startups-tech/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-startup</link>
       <description>[Business Times] This has triggered a hack that compromised the infrastructure of AI startup Hugging Face last week</description>
@@ -304,17 +55,6 @@ The post Your newest competitors aren&amp;#8217;t other brands appeared first on
       <source>Business Times</source>
     </item>
     <item>
-      <title>最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿</title>
-      <link>https://36kr.com/p/3905241313527687?f=rss</link>
-      <description>[36氪] 7月21日，由北京新奥聚变能源科技有限公司（简称新奥聚变）主办的第四届氢硼聚变研讨会在河北廊坊开幕。
-  
-  第四届氢硼聚变研讨会现场
-  作为中国最早开展商用聚变能源开发的民营企业，新奥集团于2017年基于从低碳技术向无碳技术的研发升级，开启“无中子、低成本、商用化”的紧凑型聚变研发，重点布局球形环氢硼聚变技术路线。该技术路线具有清洁安全、燃料易得、成本低廉等优势，具有较大的商业化潜力。
-  2023年，新奥集团成为国家可控核聚变创新联合体成员，2026年开始参与国际托卡马克物理与工程活动（ITPEA），成为中国首家、全球第二家加入ITPEA的民营企业。同时，它也是国内投入最大、技术参数最</description>
-      <pubDate>Wed, 22 Jul 2026 01:30:00 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>OpenAI Models Escaped Containment and Hacked Hugging Face</title>
       <link>https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/</link>
       <description>[WIRED AI] The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.</description>
@@ -322,38 +62,10 @@ The post Your newest competitors aren&amp;#8217;t other brands appeared first on
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over</title>
-      <link>https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance</link>
-      <description>[The Verge AI] On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features charact</description>
-      <pubDate>Tue, 21 Jul 2026 22:06:43 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI says it accidentally hacked Hugging Face with a new AI system</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai</link>
-      <description>[The Verge AI] OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and &quot;an even more capable pre-release model&quot; discovered vulnerabilities within their sandboxed testing environment, allowing them to g</description>
-      <pubDate>Tue, 21 Jul 2026 21:48:54 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
       <title>This Former Intel CEO Wants to Jumpstart Moore’s Law With Light</title>
       <link>https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/</link>
       <description>[WIRED AI] Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.</description>
       <pubDate>Tue, 21 Jul 2026 19:05:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots</title>
-      <link>https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/</link>
-      <description>[WIRED AI] A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.</description>
-      <pubDate>Tue, 21 Jul 2026 16:08:44 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Nvidia Wants to Own Every Chip Inside AI Data Centers</title>
-      <link>https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/</link>
-      <description>[WIRED AI] Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.</description>
-      <pubDate>Tue, 21 Jul 2026 15:00:00 +0000</pubDate>
       <source>WIRED AI</source>
     </item>
     <item>
@@ -373,70 +85,374 @@ The post What CMOs should be doing about AI right now appeared first on MarTech.
       <source>MarTech</source>
     </item>
     <item>
-      <title>Stop buying AI and start buying capabilities</title>
-      <link>https://martech.org/stop-buying-ai-and-start-buying-capabilities/</link>
-      <description>[MarTech] &quot;AI-powered&quot; hides what a product actually does. A four-part framework makes vendor claims easier to evaluate and compare.
-The post Stop buying AI and start buying capabilities appeared first on MarTech.</description>
-      <pubDate>Tue, 21 Jul 2026 12:27:00 +0000</pubDate>
-      <source>MarTech</source>
+      <title>US Treasury finds no trading partner manipulated currency for trade advantage in 2025</title>
+      <link>https://www.straitstimes.com/business/us-treasury-finds-no-trading-partner-manipulated-currency-for-trade-advantage-in-2025</link>
+      <description>[Straits Times] But 10 economies, including S'pore, remain on a list for enhanced monitoring of their foreign exchange practices.</description>
+      <pubDate>Thu, 23 Jul 2026 22:55:00 +0000</pubDate>
+      <source>Straits Times</source>
     </item>
     <item>
-      <title>AI minister role boosted but tech department axed in Burnham shake-up</title>
-      <link>https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary.</description>
-      <pubDate>Tue, 21 Jul 2026 09:15:55 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>What is China’s Moonshot AI and why is it roiling markets?</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/what-chinas-moonshot-ai-and-why-it-roiling-markets</link>
-      <description>[Business Times] Beijing-based firm’s Kimi K3 AI model delivers performance that rivals offerings from OpenAI and Anthropic</description>
-      <pubDate>Tue, 21 Jul 2026 09:14:27 +0000</pubDate>
+      <title>Nvidia signs US$1.5 billion accord with OSAT firm Amkor for chip packaging</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/technology/nvidia-signs-us1-5-billion-accord-osat-firm-amkor-chip-packaging</link>
+      <description>[Business Times] This boosts Amkor’s production in Asia to create a geographically diverse and resilient global supply chain</description>
+      <pubDate>Thu, 23 Jul 2026 22:38:24 +0000</pubDate>
       <source>Business Times</source>
     </item>
     <item>
-      <title>Samsung creates new robotics division; plans research hubs in US, China and Japan</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/technology/samsung-creates-new-robotics-division-plans-research-hubs-us-china-and-japan</link>
-      <description>[Business Times] An ex-Hyundai Motor executive has been hired to head the new unit</description>
-      <pubDate>Tue, 21 Jul 2026 06:50:47 +0000</pubDate>
-      <source>Business Times</source>
+      <title>US warns against excessive yen volatility, calls for BOJ rate hikes</title>
+      <link>https://www.channelnewsasia.com/business/us-warns-against-excessive-yen-volatility-calls-boj-rate-hikes-6274776</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 23 Jul 2026 22:07:18 +0000</pubDate>
+      <source>CNA Tech</source>
     </item>
     <item>
-      <title>China, Thailand eye deeper tech cooperation to drive ‘prosperous shared future’</title>
-      <link>https://www.businesstimes.com.sg/international/asean/china-thailand-eye-deeper-tech-cooperation-drive-prosperous-shared-future</link>
-      <description>[Business Times] Countries vow greater collaboration across health, agricultural technology, AI and clean energy, among other fields</description>
-      <pubDate>Tue, 21 Jul 2026 02:09:25 +0000</pubDate>
-      <source>Business Times</source>
+      <title>Six IPOs this year, most trading below issue price: What this means for Singapore's market reforms</title>
+      <link>https://www.channelnewsasia.com/singapore/sgx-ipo-price-stocks-justco-foundation-healthcare-6270171</link>
+      <description>[CNA Tech] Analysts say the underwhelming showing reflects thin liquidity and a global tilt towards AI stocks more than a failure of Singapore's push to revive its equity market.</description>
+      <pubDate>Thu, 23 Jul 2026 22:00:00 +0000</pubDate>
+      <source>CNA Tech</source>
     </item>
     <item>
-      <title>Ofcom unable to take further legal action against suicide forum</title>
-      <link>https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The regulator said it had &quot;no further legal routes available&quot; under the Online Safety Act.</description>
-      <pubDate>Mon, 20 Jul 2026 16:57:30 +0000</pubDate>
+      <title>SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns</title>
+      <link>https://www.channelnewsasia.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-seeing-returns-6274751</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 23 Jul 2026 21:53:11 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Nvidia, Amkor strike $1.5 billion chip packaging deal</title>
+      <link>https://www.channelnewsasia.com/business/nvidia-amkor-strike-15-billion-chip-packaging-deal-6274746</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 23 Jul 2026 21:45:55 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Alexa Plus is getting an AI update to handle more complicated instructions</title>
+      <link>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</link>
+      <description>[The Verge AI] Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati</description>
+      <pubDate>Thu, 23 Jul 2026 21:15:06 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Wall St falls as tech earnings spark AI spending worries and oil hits US$100</title>
+      <link>https://www.straitstimes.com/business/companies-markets/wall-st-falls-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100</link>
+      <description>[Straits Times] The Dow Jones Industrial Average fell 506.93 points, or 0.97 per cent, to 51,711.65.</description>
+      <pubDate>Thu, 23 Jul 2026 21:11:23 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Pentagon awards Oracle nearly $7 billion deal in latest software consolidation push</title>
+      <link>https://www.channelnewsasia.com/business/pentagon-awards-oracle-nearly-7-billion-deal-in-latest-software-consolidation-push-6274661</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 23 Jul 2026 21:01:56 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>AI is running on borrowed money</title>
+      <link>https://www.straitstimes.com/business/invest/ai-is-running-on-borrowed-money</link>
+      <description>[Straits Times] There are signs that the markets have started to recoil from more extravagant AI bets.</description>
+      <pubDate>Thu, 23 Jul 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Anthropic and Eli Lilly: GIC doubles down on AI investments with an eye on risks</title>
+      <link>https://www.straitstimes.com/business/anthropic-and-eli-lilly-gic-doubles-down-on-ai-investments-with-an-eye-on-risks</link>
+      <description>[Straits Times] It is watching for near-term risks in the AI space, such as over-regulation and stretched valuations.</description>
+      <pubDate>Thu, 23 Jul 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>How Driscoll’s can make money from berries all year round</title>
+      <link>https://www.straitstimes.com/business/invest/how-driscolls-can-make-money-from-berries-all-year-round</link>
+      <description>[Straits Times] The global market leader now ships 4 billion containers of fruit across 60 countries each year.</description>
+      <pubDate>Thu, 23 Jul 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Digital Realty raises annual FFO forecast on robust data center demand</title>
+      <link>https://www.channelnewsasia.com/business/digital-realty-raises-annual-ffo-forecast-robust-data-center-demand-6274666</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 23 Jul 2026 20:59:31 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Intel boosts spending plans on AI boom</title>
+      <link>https://www.straitstimes.com/business/intel-boosts-spending-plans-on-ai-boom</link>
+      <description>[Straits Times] Intel expects third-quarter revenue between US$15.8 billion and US$16.8 billion.</description>
+      <pubDate>Thu, 23 Jul 2026 20:59:08 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Lawmakers push for AI 'kill switch' after OpenAI goes rogue</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] A new bill would let the US government order the shutdown of AI models that pose a public threat.</description>
+      <pubDate>Thu, 23 Jul 2026 20:58:35 +0000</pubDate>
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>AliExpress fined record €550m by EU for allowing sale of illegal goods</title>
-      <link>https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The Chinese retailer allowed unsafe toys and counterfeit clothes to be sold on its site, says the EU.</description>
-      <pubDate>Mon, 20 Jul 2026 15:22:54 +0000</pubDate>
+      <title>Google and Tesla shares plunge as AI spending rattles markets</title>
+      <link>https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.</description>
+      <pubDate>Thu, 23 Jul 2026 20:42:33 +0000</pubDate>
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Unlocking enterprise AI through unified workflows</title>
-      <link>https://martech.org/unlocking-enterprise-ai-through-unified-workflows/</link>
-      <description>[MarTech] Isolated artificial intelligence assistants are costing your operations team time. Here is how workflow integration transforms raw AI into actual enterprise value.
-The post Unlocking enterprise AI through unified workflows appeared first on MarTech.</description>
-      <pubDate>Mon, 20 Jul 2026 12:29:00 +0000</pubDate>
+      <title>AMD takes on Nvidia with its Helios AI rack-scale system</title>
+      <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
+      <description>[TechCrunch AI] AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.</description>
+      <pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Anthropic updates Claude voice mode with more capable models</title>
+      <link>https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</link>
+      <description>[TechCrunch AI] Claude's new voice model will let you reschedule your meeting or draft an email.</description>
+      <pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Claude’s voice mode is now available for Opus and Sonnet</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai</link>
+      <description>[The Verge AI] Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa</description>
+      <pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta’s New Feel-Good AI Ad Uses a Song About the World Ending</title>
+      <link>https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/</link>
+      <description>[WIRED AI] The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”</description>
+      <pubDate>Thu, 23 Jul 2026 18:45:52 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing</title>
+      <link>https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/</link>
+      <description>[TechCrunch AI] AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.</description>
+      <pubDate>Thu, 23 Jul 2026 18:38:34 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Patreon is laying off 20 percent of workers</title>
+      <link>https://www.theverge.com/tech/970211/patreon-layoffs-ai</link>
+      <description>[The Verge AI] Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes &quot;because we believe AI replaces humans,&quot; but says AI has &quot;fundamentally transformed the tech in</description>
+      <pubDate>Thu, 23 Jul 2026 18:20:30 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Runway launches AI model router as generative media gets crowded</title>
+      <link>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</link>
+      <description>[TechCrunch AI] The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.</description>
+      <pubDate>Thu, 23 Jul 2026 17:07:35 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI makes ChatGPT Health available to all US users</title>
+      <link>https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/</link>
+      <description>[TechCrunch AI] Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.</description>
+      <pubDate>Thu, 23 Jul 2026 17:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI is making big claims as it rolls out ChatGPT Health to everyone</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims</link>
+      <description>[The Verge AI] OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models &quot;are now capable of </description>
+      <pubDate>Thu, 23 Jul 2026 17:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta launched a new AI optimism ad set to a song about human extinction</title>
+      <link>https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/</link>
+      <description>[TechCrunch AI] David Bowie's song &quot;Five Years,&quot; which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.</description>
+      <pubDate>Thu, 23 Jul 2026 16:28:50 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>ChatGPT has no clear brand leader in most categories</title>
+      <link>https://martech.org/chatgpt-has-no-clear-brand-leader-in-most-categories/</link>
+      <description>[MarTech] Semrush found only 15% of ChatGPT categories have a consistent brand leader, underscoring how difficult AI visibility is to sustain.
+The post ChatGPT has no clear brand leader in most categories appeared first on MarTech.</description>
+      <pubDate>Thu, 23 Jul 2026 14:38:56 +0000</pubDate>
       <source>MarTech</source>
     </item>
     <item>
-      <title>Salesforce’s woes underline marketing’s agentic AI problems</title>
-      <link>https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/</link>
-      <description>[MarTech] Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption.
-The post Salesforce&amp;#8217;s woes underline marketing&amp;#8217;s agentic AI problems appeared first on MarTech.</description>
-      <pubDate>Fri, 17 Jul 2026 15:00:45 +0000</pubDate>
+      <title>The latest AI-powered martech news and releases</title>
+      <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
+      <description>[MarTech] HubSpot expands Breeze AI, adding tools for building, governing, and managing AI agents, reflecting the growing focus on operational oversight.
+The post The latest AI-powered martech news and releases appeared first on MarTech.</description>
+      <pubDate>Thu, 23 Jul 2026 14:29:37 +0000</pubDate>
       <source>MarTech</source>
+    </item>
+    <item>
+      <title>Lawmakers prepare bill requiring AI ‘kill switch’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal</link>
+      <description>[The Verge AI] Lawmakers are preparing to introduce an &quot;AI Kill Switch Act&quot; that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the </description>
+      <pubDate>Thu, 23 Jul 2026 14:13:35 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Google fined €890m by EU for favouring its own apps over rivals</title>
+      <link>https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] It is the first major enforcement action against the tech giant under the EU's new digital rules.</description>
+      <pubDate>Thu, 23 Jul 2026 14:05:27 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era</title>
+      <link>https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive</link>
+      <description>[The Verge AI] Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a </description>
+      <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Amazon gaming boss predicts future where players no longer need consoles</title>
+      <link>https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online.</description>
+      <pubDate>Thu, 23 Jul 2026 13:24:16 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>智源最新研究提出警报：大模型智能体可能带来生物安全风险</title>
+      <link>https://www.tmtpost.com/8077514.html</link>
+      <description>[钛媒体] 知识构建的安全门槛，正被大模型智能体拆除</description>
+      <pubDate>Thu, 23 Jul 2026 12:59:16 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”</title>
+      <link>https://www.tmtpost.com/8077591.html</link>
+      <description>[钛媒体] TPU牺牲了一部分通用性，换取在特定任务中的计算密度和能效表现。</description>
+      <pubDate>Thu, 23 Jul 2026 12:58:42 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Consumer distrust of AI isn’t all about the AI</title>
+      <link>https://martech.org/consumer-distrust-of-ai-isnt-about-the-ai/</link>
+      <description>[MarTech] Research shows consumers worry less about the technology than how brands collect, manage, and use their personal data.
+The post Consumer distrust of AI isn&amp;#8217;t all about the AI appeared first on MarTech.</description>
+      <pubDate>Thu, 23 Jul 2026 12:16:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>'Let's enjoy the ride' says Elon Musk, as AI fears mount</title>
+      <link>https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.</description>
+      <pubDate>Thu, 23 Jul 2026 11:39:11 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>The Model That Saved Hugging Face</title>
+      <link>https://www.tmtpost.com/8077503.html</link>
+      <description>[钛媒体] How Zhipu AI and Its Open-Source GLM 5.2 Solved the Autonomous OpenAI Cyberattack That Stymied American Guardrails</description>
+      <pubDate>Thu, 23 Jul 2026 11:11:03 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>DeepSeek的底层逻辑变了吗？</title>
+      <link>https://www.tmtpost.com/8077355.html</link>
+      <description>[钛媒体] 环境逼迫它改变，而它选择在改变中，延续自己的逻辑</description>
+      <pubDate>Thu, 23 Jul 2026 11:10:41 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>“科技小登”为何跳水？</title>
+      <link>https://www.tmtpost.com/8075900.html</link>
+      <description>[钛媒体] 下跌前精准减持。</description>
+      <pubDate>Thu, 23 Jul 2026 10:54:02 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Gemini弱爆了，但不影响谷歌赚钱</title>
+      <link>https://www.tmtpost.com/8077236.html</link>
+      <description>[钛媒体] 财报超预期，股价却跌了，谷歌的AI信仰还能撑多久？</description>
+      <pubDate>Thu, 23 Jul 2026 10:53:41 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力</title>
+      <link>https://36kr.com/p/3908051015488640?f=rss</link>
+      <description>[36氪] 大公司：
+  DeepSeek今年已增资65%36氪获悉，据媒体报道，近日，DeepSeek创始人梁文锋一场4小时的投资人闭门会议实录在科技与创投圈刷屏，他明确表示“DeepSeek只有一条主线，即通往通用人工智能（AGI）”，相关话题引发关注。天眼查App显示，DeepSeek关联公司杭州深度求索成立于2023年7月，法定代表人为裴湉，经营范围含工程和技术研究和试验发展、软件开发、人工智能应用软件开发等，由梁文锋、宁波程恩企业管理咨询合伙企业等共同持股。变更记录显示，该公司今年发生两次增资，注册资本由1000万人民币增至约1645万人民币。
+  淡马锡旗下凯德投资与丰树合并谈判据悉陷入停滞
+</description>
+      <pubDate>Thu, 23 Jul 2026 10:09:52 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目</title>
+      <link>https://36kr.com/p/3908027308823684?f=rss</link>
+      <description>[36氪] 从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。
+  林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。
+  林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止环境，使传统自动化方案始终难以落地。
+  林下被树木遮蔽，使导航设备很容易因GNSS信号丢失无法定位，通讯信号强衰</description>
+      <pubDate>Thu, 23 Jul 2026 10:01:57 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop</title>
+      <link>https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/</link>
+      <description>[WIRED AI] With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.</description>
+      <pubDate>Thu, 23 Jul 2026 09:15:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品</title>
+      <link>https://36kr.com/p/3907953777120385?f=rss</link>
+      <description>[36氪] 文｜周鑫雨
+  编辑｜张雨忻
+  什么样画像的AI创业者会饱受瞩目？不同投资人心里或许有不同的答案，但其中一个答案一定是：剪映系。
+  陈冕，Lovart、LibTV等热门创作工具的缔造者；明超平，AI Coding社区YouWare的创始人，2025年一级市场最火的95后；闹闹，其打造的AI视频创作工具OiiOii，被高瓴、锦秋投资......
+  他们履历的共同点是：曾在剪映、CapCut团队——参与过这两款过亿日活产品的打磨，这让投资人有理由相信，这群“剪映系”创业者了解用户、有产品审美，更可能在这波AI浪潮中押中消费级的机会。
+  但很长一段时间内，“剪映系”真正的起点，郭列，隐身在2</description>
+      <pubDate>Thu, 23 Jul 2026 08:16:42 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型</title>
+      <link>https://36kr.com/p/3907934819521670?f=rss</link>
+      <description>[36氪] 文 | 周鑫雨
+  编辑 | 张雨忻
+  《智能涌现》独家获悉，近期，腾讯混元多模态理解负责人胡瀚提出了离职。
+  此前，他曾担任微软亚洲研究院视觉计算组首席研究员。2025 年初加入腾讯后，负责视觉大模型的研究。在后续的调整中，他加入大语言模型部旗下的“Frontier”前沿技术研究组，负责多模态理解的相关研究，汇报给姚顺雨。
+  据了解，胡瀚还曾承担世界模型的研发工作。
+  与此同时，腾讯大语言模型部负责人姚顺雨近期正在密集梳理旗下团队，胡瀚此前所在的研究组或将聚焦世界模型的前沿研究。
+  截至发稿，腾讯未对上述信息做回复。
+  大语言模型仍是混元最重要的事
+  自 2026 年年中以来，</description>
+      <pubDate>Thu, 23 Jul 2026 08:07:02 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作</title>
+      <link>https://36kr.com/p/3907676111983745?f=rss</link>
+      <description>[36氪] 文｜王欣逸
+  编辑｜张雨忻
+  “技术突破决定AI能走多快，真正能否创造价值决定AI能走多远。”在今年的WAIC腾讯AI应用创新论坛上，腾讯公司副总裁林松涛分享了这样一个观点。
+  同样是“Claw热”之后上线的产品，腾讯的三大Agent产品WorkBuddy、QClaw和Marvis迎来了各自不同的命运。
+  首先是WorkBuddy，林松涛在此次论坛上公开表示，WorkBuddy的DAU已稳居国内效率智能体产品第一；QClaw方面，相关业务和部分团队在近日也迎来了调整，并入至WorkBuddy所在部门，不过QClaw产品仍将持续运营；上线最晚的Marvis则走出了一条差异化的系统级Age</description>
+      <pubDate>Thu, 23 Jul 2026 04:23:24 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式</title>
+      <link>https://36kr.com/p/3907639172027522?f=rss</link>
+      <description>[36氪] 7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话未来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探索AI时代下的新型创业范式。
+  本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨</description>
+      <pubDate>Thu, 23 Jul 2026 02:57:46 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>China AI firm PsiBot becomes latest startup to hit US$1 billion in value</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/china-ai-firm-psibot-becomes-latest-startup-hit-us1-billion-value</link>
+      <description>[Business Times] It is one of the few unicorns in the field of embodied AI and world models, which help robots navigate physical surroundings</description>
+      <pubDate>Thu, 23 Jul 2026 01:19:44 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>Alphabet hikes spending outlook in race to build AI data centres</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/alphabet-hikes-spending-outlook-race-build-ai-data-centres</link>
+      <description>[Business Times] The Google parent says 2026 capital spending may top US$200 billion</description>
+      <pubDate>Thu, 23 Jul 2026 00:04:50 +0000</pubDate>
+      <source>Business Times</source>
     </item>
   </channel>
 </rss>
