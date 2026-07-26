@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 25 Jul 2026 22:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 23:01:33 +0000</lastBuildDate>
     <item>
       <title>Google fined €890m by EU for favouring its own apps over rivals</title>
       <link>https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,11 +78,106 @@ The post Consumer distrust of AI isn&amp;#8217;t all about the AI appeared first
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>China AI firm PsiBot becomes latest startup to hit US$1 billion in value</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/china-ai-firm-psibot-becomes-latest-startup-hit-us1-billion-value</link>
-      <description>[Business Times] It is one of the few unicorns in the field of embodied AI and world models, which help robots navigate physical surroundings</description>
-      <pubDate>Thu, 23 Jul 2026 01:19:44 +0000</pubDate>
+      <title>US Federal Reserve faces growing pressure to hike rates as price risks rebound</title>
+      <link>https://www.straitstimes.com/business/us-federal-reserve-faces-growing-pressure-to-hike-rates-as-price-risks-rebound</link>
+      <description>[Straits Times] AI-driven demand, Iran war and the newly announced tariffs also call for higher rates.</description>
+      <pubDate>Sun, 26 Jul 2026 22:57:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>askST Jobs: Is AI rejecting my job applications even before a human sees them?</title>
+      <link>https://www.straitstimes.com/singapore/jobs/askst-jobs-is-ai-rejecting-my-job-applications-even-before-a-human-sees-them</link>
+      <description>[Straits Times] AI can polish up your CV, but it should still reflect both the role’s requirements and your personal brand.</description>
+      <pubDate>Sun, 26 Jul 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Making sense of the panic over Chinese AI</title>
+      <link>https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/</link>
+      <description>[TechCrunch AI] On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.</description>
+      <pubDate>Sun, 26 Jul 2026 19:40:57 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack</title>
+      <link>https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/</link>
+      <description>[TechCrunch AI] &quot;The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!&quot;</description>
+      <pubDate>Sun, 26 Jul 2026 16:33:13 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>【数智周报】  OpenAI证实模型测试出现失控，引发史无前例入侵；阿里千问发布 Qwen-Image-3.0；华为首次完整展示全系列计算模组产品；英特尔将在数据中心部门裁员</title>
+      <link>https://www.tmtpost.com/8079812.html</link>
+      <description>[钛媒体] （7月20日~7月26日）中科类脑发布全球首款算电一体化平台；英伟达发布Vera Rubin平台进展；谷歌研发新型“Frozen”芯片，大幅提升Gemini AI模型运行效率；腾讯混元推出智能体Hyra-1.0</description>
+      <pubDate>Sun, 26 Jul 2026 09:17:18 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>全世界AI能力下降一万倍，只有我还是普通人</title>
+      <link>https://www.tmtpost.com/8079609.html</link>
+      <description>[钛媒体] 寡头垄断API初创企业如何生存？</description>
+      <pubDate>Sun, 26 Jul 2026 07:35:08 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Codex也断了:OpenAI三线齐崩，Agent时代的宕机账单怎么算</title>
+      <link>https://www.tmtpost.com/8079615.html</link>
+      <description>[钛媒体] OpenAI三线齐崩，Agent时代的宕机账单怎么算</description>
+      <pubDate>Sun, 26 Jul 2026 07:35:07 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>9500亿是纸面繁荣：SK海力士签的不是大单，是卖身契</title>
+      <link>https://www.tmtpost.com/8079637.html</link>
+      <description>[钛媒体] 韩国9500亿AI大单与存储芯片股暴跌同日发生，荒诞背后是一套被忽略的真相：9500亿是&quot;意向金额&quot;的叙事炼金术，真实投资远低于此；SK海力士签的HBM长协不是护身符，是跌价周期的卖身契；英伟达正对上游锁供应、对下游涨价格，把自己变成AI产业链的&quot;央行&quot;——发行标准，收取铸币税，把风险全部分配给制造端。</description>
+      <pubDate>Sun, 26 Jul 2026 07:35:01 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI博主不能说的秘密：&quot;十分钟&quot;炫技背后，是你买不起的Token账单</title>
+      <link>https://www.tmtpost.com/8079664.html</link>
+      <description>[钛媒体] 真正的问题从来不在于&quot;你不会用AI&quot;。在于没有人告诉你：用AI，到底要花多少钱。</description>
+      <pubDate>Sun, 26 Jul 2026 07:34:59 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Kimi夜店庆功背后：AI狂飙的逻辑，和我们正在失去的“慢”</title>
+      <link>https://www.tmtpost.com/8079711.html</link>
+      <description>[钛媒体] 会用AI的人与不会用AI的人，能拿到算力资源的公司与拿不到的公司，掌握数据的大平台与没有数据的普通人——差距不是在缩小，而是在以另一种方式拉大。所谓的“技术平权”，目前看来更像是一个美好的开场白。</description>
+      <pubDate>Sun, 26 Jul 2026 07:34:53 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>DeepSeek suspends fundraising after founder’s alleged US-China AI comments go viral: sources</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/deepseek-suspends-fundraising-after-founders-alleged-us-china-ai-comments-go-viral-sources</link>
+      <description>[Business Times] The firm might choose to resume the deal process at a later date</description>
+      <pubDate>Sun, 26 Jul 2026 05:14:31 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>SIA shareholders question board about Air India investment; Metro to shut outlets: Markets this week</title>
+      <link>https://www.straitstimes.com/business/companies-markets/metro-to-shut-outlets-sti-up-but-wall-street-tumbles-on-ai-spending-fears-markets-this-week</link>
+      <description>[Straits Times] Market confidence was shaken by Middle East tensions, and crude oil traded above US$100 a barrel.</description>
+      <pubDate>Sun, 26 Jul 2026 04:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Monday.com is the latest tech company to blame AI for layoffs — here are 20 others</title>
+      <link>https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
+      <description>[TechCrunch AI] A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.</description>
+      <pubDate>Sun, 26 Jul 2026 01:30:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资</title>
+      <link>https://36kr.com/p/3911162147640456?f=rss</link>
+      <description>[36氪] 作者&amp;nbsp;|&amp;nbsp;邱晓芬
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。
+  这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内发展速度最快的具身大脑企业之一。
+  「眸深智能」成立于2025年1月，定位为全球最懂动作的自进化具身大脑公</description>
+      <pubDate>Sun, 26 Jul 2026 01:00:00 +0000</pubDate>
+      <source>36氪</source>
     </item>
     <item>
       <title>Couple’s 3 homes co-owned with their kids can still be shared during divorce</title>
@@ -120,35 +215,14 @@ The post Consumer distrust of AI isn&amp;#8217;t all about the AI appeared first
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>AI下一步将迈向何方？一场正在发生的范式革命</title>
-      <link>https://www.tmtpost.com/8078921.html</link>
-      <description>[钛媒体] 当这场“革命”真正到来时，人类对“智能”的理解将被彻底刷新，它不再是快速执行命令的工具，而是能够主动思考和探索未知的“大脑”。到那时，我们再回头看今天的大模型竞赛，或许就像今天回头看当年的功能机之争，声势浩大，却远不是终局。</description>
-      <pubDate>Sat, 25 Jul 2026 11:33:59 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>荣耀换Logo，一场关于AI的“阳谋”</title>
-      <link>https://www.tmtpost.com/8079208.html</link>
-      <description>[钛媒体] 荣耀的新Logo，藏着一场AI豪赌。</description>
-      <pubDate>Sat, 25 Jul 2026 11:21:30 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>苹果压价20%、英伟达涨价、Meta烧120亿：AI产业链正陷入&quot;三明治陷阱&quot;</title>
-      <link>https://www.tmtpost.com/8078916.html</link>
-      <description>[钛媒体] 英伟达涨价、苹果压价、Meta烧钱——AI产业链正形成危险的三明治结构：上游存储/GPU吸走利润，下游云厂商锁定需求，夹在中间的精密制造被上下挤压。这不是芯片通胀，是利润分配权的结构性掠夺。英特尔&quot;高双位数增长&quot;预言，更可能是制造端产能过剩的死亡预告。</description>
-      <pubDate>Sat, 25 Jul 2026 11:13:15 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目</title>
       <link>https://36kr.com/p/3910880823202948?f=rss</link>
       <description>[36氪] 文｜温丽虹
   编辑｜张雨忻
   Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。
-  从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。
+  从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。
   公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在“AI寻人”这个方向上筛过好几轮。当时徐新在看两个方向，“AI找工作”与“AI找伴侣”。
-  招聘方向上</description>
+  招聘方向</description>
       <pubDate>Sat, 25 Jul 2026 11:00:21 +0000</pubDate>
       <source>36氪</source>
     </item>
@@ -174,13 +248,6 @@ The post Consumer distrust of AI isn&amp;#8217;t all about the AI appeared first
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>金风科技成风电界“黄埔军校”？原副总裁李飞履新容知日新，内卷之下行业人才正在分流</title>
-      <link>https://www.tmtpost.com/8079213.html</link>
-      <description>[钛媒体] 金风科技成行业“黄埔军校”，风电人才流向格局生变。</description>
-      <pubDate>Sat, 25 Jul 2026 06:49:05 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>South Korea's SK Hynix, Samsung Elec sign $950 billion partnership with US big tech</title>
       <link>https://www.channelnewsasia.com/business/south-koreas-sk-hynix-samsung-elec-sign-950-billion-partnership-us-big-tech-6277651</link>
       <description>[CNA Tech] </description>
@@ -193,20 +260,6 @@ The post Consumer distrust of AI isn&amp;#8217;t all about the AI appeared first
       <description>[Business Times] A new side hustle has been making its way around South-east Asia, one that doesn’t require learning a new skill.</description>
       <pubDate>Sat, 25 Jul 2026 04:19:10 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>Opus 5 反超 Fable 5，Anthropic 的定价牌局被打乱了？</title>
-      <link>https://www.tmtpost.com/8078939.html</link>
-      <description>[钛媒体] 半价跑赢旗舰。</description>
-      <pubDate>Sat, 25 Jul 2026 04:15:35 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>特斯拉重构资产负债表</title>
-      <link>https://www.tmtpost.com/8078954.html</link>
-      <description>[钛媒体] 从轻资产科技公司到重资产工业集团。</description>
-      <pubDate>Sat, 25 Jul 2026 02:48:00 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布</title>
@@ -242,34 +295,6 @@ The post Consumer distrust of AI isn&amp;#8217;t all about the AI appeared first
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M</title>
-      <link>https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/</link>
-      <description>[TechCrunch AI] The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.</description>
-      <pubDate>Fri, 24 Jul 2026 22:25:58 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week</title>
-      <link>https://www.channelnewsasia.com/business/exclusive-its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-6277366</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 24 Jul 2026 22:17:59 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Commentary: OpenAI’s breach of Hugging Face shows AI is getting too hard to contain</title>
-      <link>https://www.channelnewsasia.com/commentary/openai-breach-hugging-face-ai-safety-6273046</link>
-      <description>[CNA Tech] AI companies need to accept some uncomfortable trade-offs to make their models more secure, says&amp;nbsp;Parmy Olson for Bloomberg Opinion.</description>
-      <pubDate>Fri, 24 Jul 2026 22:00:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Nasdaq lags on angst over AI spending ahead of earnings reports</title>
-      <link>https://www.straitstimes.com/business/nasdaq-lags-on-angst-over-ai-spending-ahead-of-earnings-reports</link>
-      <description>[Straits Times] Falling oil prices provided Wall Street with some support even as Middle East hostilities continued.</description>
-      <pubDate>Fri, 24 Jul 2026 21:09:44 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>PlayStation Network outage resolved after thousands of gamers unable to play</title>
       <link>https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The outage affected gamers' ability to launch games, apps or network features on their PlayStation.</description>
@@ -291,13 +316,6 @@ The post Consumer distrust of AI isn&amp;#8217;t all about the AI appeared first
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Why Cognition bought Poke: AI personality is becoming a competitive advantage</title>
-      <link>https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/</link>
-      <description>[TechCrunch AI] The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.</description>
-      <pubDate>Fri, 24 Jul 2026 18:07:32 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast/</link>
       <description>[WIRED AI] On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.</description>
@@ -310,13 +328,6 @@ The post Consumer distrust of AI isn&amp;#8217;t all about the AI appeared first
       <description>[The Verge AI] The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [</description>
       <pubDate>Fri, 24 Jul 2026 17:29:48 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Anthropic launches Opus 5</title>
-      <link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
-      <description>[TechCrunch AI] Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.</description>
-      <pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities</title>
@@ -376,7 +387,7 @@ The post The 7 layers of an AI-ready marketing operating system appeared first o
       <description>[36氪] 7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student &amp;amp; Developer Program）。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。
   
   图片1
-  随着 AI 加速演进，AI 应用正在从简单信息交互迈向复杂任务执行，AI Agent 正在成为下一代应用的主���形态。在这一趋势下，实时、高质量的信息获取能力是 AI Agent 看见世界、完</description>
+  随着 AI 加速演进，AI 应用正在从简单信息交互迈向复杂任务执行，AI Agent 正在成为下一代应用的主流形态。在这一趋势下，实时、高质量的信息获取能力是 AI Agent 看见世界、完成任</description>
       <pubDate>Fri, 24 Jul 2026 11:36:12 +0000</pubDate>
       <source>36氪</source>
     </item>
@@ -390,13 +401,6 @@ The post The 7 layers of an AI-ready marketing operating system appeared first o
   当地时间7月23日，黄金白银大跌，油价狂飙。现货黄金跌1.96%，报4049美元；现货白银跌3.60%，报57.5967美元/盎司。国际贵金属期货普遍收跌。COMEX黄金期货跌2.4%，报4052.30美元/盎司；COMEX白银期货跌3.99%，</description>
       <pubDate>Fri, 24 Jul 2026 11:00:26 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>Singtel supports potential listing of its data centre business in India, it tells shareholders</title>
-      <link>https://www.straitstimes.com/business/companies-markets/singtel-tells-shareholders-it-supports-potential-listing-of-its-data-centre-business-in-india</link>
-      <description>[Straits Times] The telco also answered shareholder questions on its capital management strategy ahead of its AGM.</description>
-      <pubDate>Fri, 24 Jul 2026 10:50:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>你的下一位面试官，可能不是人</title>
@@ -421,28 +425,6 @@ The post The 7 layers of an AI-ready marketing operating system appeared first o
       <description>[WIRED AI] “I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”</description>
       <pubDate>Fri, 24 Jul 2026 10:00:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Salary and wrongful dismissal claims in S’pore rose last year to their highest levels since 2019</title>
-      <link>https://www.straitstimes.com/business/salary-wrongful-dismissal-claims-up-in-2025-hit-highest-levels-since-at-least-2019</link>
-      <description>[Straits Times] MOM and TADM said the rise is linked to higher job turnover due to retrenchments and business closures.</description>
-      <pubDate>Fri, 24 Jul 2026 10:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程</title>
-      <link>https://36kr.com/p/3909358392988806?f=rss</link>
-      <description>[36氪] 7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。曾鸣教授在WAIC现场接受36氪「氪话未来」特邀专访，围绕AI时代企业增长、组织变革、智能复利、AI原生业务以及企业落地路径等话题，分享了他对于人工智能如何重塑商业模式与价值创造方式的观察与判断。
-  本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在更加关注一个核心问题：AI如何真正进入企业业务</description>
-      <pubDate>Fri, 24 Jul 2026 08:06:05 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
-      <title>Temasek eyes defence deals as Europe boosts military spending, executive says</title>
-      <link>https://www.straitstimes.com/business/temasek-eyes-defence-deals-as-europe-boosts-military-spending-executive-says</link>
-      <description>[Straits Times] Temasek will mainly target dual-use technologies, or products serving both civilian and military customers.</description>
-      <pubDate>Fri, 24 Jul 2026 07:36:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>AMD unveils new products said to outperform Nvidia’s in pursuit of US$2 trillion opportunity</title>
