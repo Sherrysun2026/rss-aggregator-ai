@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 31 Jul 2026 23:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 22:57:53 +0000</lastBuildDate>
     <item>
       <title>Meta shares fall as frustration grows over AI spending plans</title>
       <link>https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -17,27 +17,6 @@
       <description>[Business Times] The breach and a similar incident at rival OpenAI have sparked calls for more guardrails over the tech</description>
       <pubDate>Thu, 30 Jul 2026 23:58:19 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>Tim Cook hints at iCloud Plus tier for AI power users</title>
-      <link>https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai</link>
-      <description>[The Verge AI] Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI &quot;a lot,&quot; adding that &quot;we will have some kind of upgrade possibilities on iCloud Plus where</description>
-      <pubDate>Thu, 30 Jul 2026 22:29:45 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance</title>
-      <link>https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/</link>
-      <description>[WIRED AI] Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.</description>
-      <pubDate>Thu, 30 Jul 2026 20:12:57 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic</title>
-      <link>https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/</link>
-      <description>[WIRED AI] This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.</description>
-      <pubDate>Thu, 30 Jul 2026 17:51:10 +0000</pubDate>
-      <source>WIRED AI</source>
     </item>
     <item>
       <title>Xbox tech boss says 'unacceptable' outage should not have affected disc games</title>
@@ -83,6 +62,127 @@ The post How to measure marketing when AI owns discovery appeared first on MarTe
       <description>[BBC Technology] It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.</description>
       <pubDate>Thu, 30 Jul 2026 07:23:11 +0000</pubDate>
       <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>He goes from living on $1 bread to running his own mocktail business</title>
+      <link>https://www.straitstimes.com/business/invest/he-went-from-surviving-on-1-buns-during-covid-19-to-pouring-70k-into-a-mocktails-business</link>
+      <description>[Straits Times] His income from personal training dwindled to zero during Covid-19 but that period taught him important lessons.</description>
+      <pubDate>Sat, 01 Aug 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps</title>
+      <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
+      <description>[TechCrunch AI] Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.</description>
+      <pubDate>Sat, 01 Aug 2026 20:26:04 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>YouTuber Hank Green says his AI usage is ‘not healthy’</title>
+      <link>https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/</link>
+      <description>[TechCrunch AI] Green offered a remarkable apology, saying that &quot;the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.&quot;</description>
+      <pubDate>Sat, 01 Aug 2026 19:45:45 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Is this Billboard Hot 100 hit AI slop?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop</link>
+      <description>[The Verge AI] Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track &quot;Rubberz,&quot; which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula</description>
+      <pubDate>Sat, 01 Aug 2026 18:20:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Sam Altman is still making the case for parenting via ChatGPT</title>
+      <link>https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/</link>
+      <description>[TechCrunch AI] OpenAI's CEO seemed excited to share a &quot;cool use case&quot; for parents.</description>
+      <pubDate>Sat, 01 Aug 2026 17:07:34 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>This $9 key physically locks your most addictive apps</title>
+      <link>https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/</link>
+      <description>[TechCrunch AI] This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.</description>
+      <pubDate>Sat, 01 Aug 2026 15:58:17 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran</title>
+      <link>https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/</link>
+      <description>[WIRED AI] Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.</description>
+      <pubDate>Sat, 01 Aug 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier</title>
+      <link>https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/</link>
+      <description>[WIRED AI] Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?</description>
+      <pubDate>Sat, 01 Aug 2026 09:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>AI大厂，打起了“Token奶茶大战”</title>
+      <link>https://www.tmtpost.com/8088011.html</link>
+      <description>[钛媒体] 模型越来越“像”，得留存者得天下</description>
+      <pubDate>Sat, 01 Aug 2026 09:06:13 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>数百万本书，被Claude“阅后即焚”</title>
+      <link>https://www.tmtpost.com/8088012.html</link>
+      <description>[钛媒体] 为了让AI读完人类的书，Anthropic先让这些书不再作为书存在。</description>
+      <pubDate>Sat, 01 Aug 2026 08:41:40 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>“榨”出硅的极限：怎么让GPU不“闲着”？</title>
+      <link>https://www.tmtpost.com/8088046.html</link>
+      <description>[钛媒体] AI Infra的效率革命</description>
+      <pubDate>Sat, 01 Aug 2026 08:19:49 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>自研大模型的马斯克，把豆包装进了特斯拉</title>
+      <link>https://www.tmtpost.com/8087804.html</link>
+      <description>[钛媒体] 180万亿日均Token调用量的豆包，700万辆搭载的智能汽车，100%覆盖的主流车企。这些数字背后是中国AI从跟随到被需要的完整路径。</description>
+      <pubDate>Sat, 01 Aug 2026 08:19:41 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>重组ToB业务，字节在赌什么？</title>
+      <link>https://www.tmtpost.com/8087590.html</link>
+      <description>[钛媒体] AI办公进入“集团军”时代。</description>
+      <pubDate>Sat, 01 Aug 2026 08:19:18 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>苹果的5万亿美元时刻：最强财报，最弱AI</title>
+      <link>https://www.tmtpost.com/8087556.html</link>
+      <description>[钛媒体] 全球市值第一的AI转型答卷。</description>
+      <pubDate>Sat, 01 Aug 2026 08:19:07 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主</title>
+      <link>https://36kr.com/p/3920241240419720?f=rss</link>
+      <description>[36氪] 今日热点导览
+  字节跳动发布视频创作模型Seedance 2.5
+  长鑫科技市值突破4万亿
+  人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线
+  韩国KOSPI指数上涨18%
+  Anthropic称AI模型在测试期间误侵三家真实机构系统
+  TOP3大新闻
+  马斯克回应特斯拉剥离中国业务
+  7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑出售或剥离其中国业务的消息，特斯拉中国内部人士也向第一财经记者表示：“不实消息。”（第一财经）
+  去哪儿：8月5日起燃油附加费再下调，800公里以上航线每人省</description>
+      <pubDate>Sat, 01 Aug 2026 00:38:59 +0000</pubDate>
+      <source>36氪</source>
+    </item>
+    <item>
+      <title>With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again</title>
+      <link>https://www.channelnewsasia.com/business/situational-awareness-ai-deal-citadels-griffin-rides-rescue-again-6292246</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 31 Jul 2026 23:59:44 +0000</pubDate>
+      <source>CNA Tech</source>
     </item>
     <item>
       <title>OpenAI reportedly finds evidence that more of its agents ran amok</title>
@@ -134,13 +234,6 @@ The post How to measure marketing when AI owns discovery appeared first on MarTe
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</title>
-      <link>https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/</link>
-      <description>[TechCrunch AI] A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.</description>
-      <pubDate>Fri, 31 Jul 2026 19:47:28 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Google Earth&amp;#8217;s AI deepfake tool only lasted one day</title>
       <link>https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool</link>
       <description>[The Verge AI] Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images </description>
@@ -162,13 +255,6 @@ The post How to measure marketing when AI owns discovery appeared first on MarTe
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Sam Altman isn’t the only one who wants to pump the brakes on AI</title>
-      <link>https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/</link>
-      <description>[TechCrunch AI] After years of pushing full speed ahead on AI,&amp;#160;OpenAI CEO&amp;#160;Sam Altman says&amp;#160;maybe it’s&amp;#160;time for the AI industry to “pace” itself. The comments came&amp;#160;just days after one of OpenAI&amp;#8217;s own models broke out of its test environment and got tangled up in&amp;#160;a breach at Hugging</description>
-      <pubDate>Fri, 31 Jul 2026 17:26:32 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>NXP in talks to buy chip developer Ambarella, FT reports</title>
       <link>https://www.channelnewsasia.com/business/nxp-in-talks-buy-chip-developer-ambarella-ft-reports-6291811</link>
       <description>[CNA Tech] </description>
@@ -183,25 +269,11 @@ The post How to measure marketing when AI owns discovery appeared first on MarTe
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Snapchat no longer rewards fully AI-generated Spotlight content</title>
-      <link>https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/</link>
-      <description>[TechCrunch AI] Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.</description>
-      <pubDate>Fri, 31 Jul 2026 16:49:08 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>The major labels propose rules to keep AI slop off the charts</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts</link>
       <description>[The Verge AI] Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the Internation</description>
       <pubDate>Fri, 31 Jul 2026 16:36:48 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Siri AI could come with a paywall for power users</title>
-      <link>https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/</link>
-      <description>[TechCrunch AI] Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.</description>
-      <pubDate>Fri, 31 Jul 2026 16:08:18 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Worth a crack? US eggs make a comeback in Singapore after more than 20 years</title>
@@ -231,13 +303,6 @@ The post How to measure marketing when AI owns discovery appeared first on MarTe
       <link>https://www.channelnewsasia.com/business/moonshot-has-nvidia-chip-cluster-alibaba-computing-deal-bloomberg-news-reports-6291621</link>
       <description>[CNA Tech] </description>
       <pubDate>Fri, 31 Jul 2026 15:08:51 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Stocks boosted by tech earnings; bond yields hit multi-year highs</title>
-      <link>https://www.channelnewsasia.com/business/stocks-boosted-tech-earnings-bond-yields-hit-multi-year-highs-6289901</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 31 Jul 2026 15:03:58 +0000</pubDate>
       <source>CNA Tech</source>
     </item>
     <item>
@@ -307,34 +372,6 @@ The post 4 questions to ask before adding AI to an event workflow appeared first
       <source>MarTech</source>
     </item>
     <item>
-      <title>Autonomous Intelligence and the End of Productivity Software</title>
-      <link>https://www.tmtpost.com/8087563.html</link>
-      <description>[钛媒体] As major technology platforms dismantle independent workplace productivity tools to embed artificial intelligence directly into core organizational workflows, the traditional enterprise software market faces an abrupt reckoning. In a landscape transformed by low-cost reasoning models and hyper-accel</description>
-      <pubDate>Fri, 31 Jul 2026 11:34:03 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>晶圆级芯片，正在升温</title>
-      <link>https://www.tmtpost.com/8085583.html</link>
-      <description>[钛媒体] 芯片的边界，正在扩展到整片晶圆。</description>
-      <pubDate>Fri, 31 Jul 2026 10:51:11 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>光模块估值双轨制：上游稀缺重估与下游科技股叙事的认知断裂</title>
-      <link>https://www.tmtpost.com/8086478.html</link>
-      <description>[钛媒体] 英伟达20亿美元锁定Lumentum与Coherent磷化铟产能，光互联上游稀缺性被重估；但下游光模块公司仍享受科技股溢价。同一产业链出现&quot;估值双轨制&quot;——上游按稀缺品定价，下游按成长股定价。随着头部厂商凭硅光与客户绑定留利、中小厂失血，&quot;光模块&quot;作为统一估值标签的裂缝正在加深。</description>
-      <pubDate>Fri, 31 Jul 2026 10:41:08 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>飞书&quot;出嫁&quot;豆包、腾讯推&quot;人机双写&quot;：大厂AI办公终于想起要收费了</title>
-      <link>https://www.tmtpost.com/8086639.html</link>
-      <description>[钛媒体] 7月30日，中国互联网的AI牌桌上，两张底牌同时翻开，背后藏着同一个焦虑——AI烧了这么多钱，到底怎么收回来？</description>
-      <pubDate>Fri, 31 Jul 2026 10:40:59 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报</title>
       <link>https://36kr.com/p/3910776673064073?f=rss</link>
       <description>[36氪] 文｜王毓婵 兰杰
@@ -347,20 +384,6 @@ The post 4 questions to ask before adding AI to an event workflow appeared first
   曾爱玲的个人主页显示，她曾在腾讯混元&amp;amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、</description>
       <pubDate>Fri, 31 Jul 2026 10:27:38 +0000</pubDate>
       <source>36氪</source>
-    </item>
-    <item>
-      <title>门禁堵人，欠费曝光：数字化成了物业“跑路”元凶？</title>
-      <link>https://www.tmtpost.com/8087171.html</link>
-      <description>[钛媒体] 技术越深入，信任越崩塌。</description>
-      <pubDate>Fri, 31 Jul 2026 10:15:24 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI明星粉丝快40万了，真人明星要交出饭碗吗？</title>
-      <link>https://www.tmtpost.com/8087189.html</link>
-      <description>[钛媒体] 方桃子是当头一棒，也是一剂强心剂，真人内容仍旧大有可为，前提是创作者要守住自己内心的节奏与方向。</description>
-      <pubDate>Fri, 31 Jul 2026 10:15:14 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统</title>
@@ -404,34 +427,10 @@ The post 4 questions to ask before adding AI to an event workflow appeared first
       <source>Business Times</source>
     </item>
     <item>
-      <title>创业这件事，你最关心的问题是什么？36氪想跟你聊一聊</title>
-      <link>https://36kr.com/p/3919112515956355?f=rss</link>
-      <description>[36氪] 你的创业想法，值得被看见
-  有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。
-  我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题：
-  未来，企业该如何更好地发展？
-  &amp;nbsp;
-  为了更真实地了解创业者当下最关心的话题，36氪发起了一份创业者需求调研。这份问卷没有标准答案，也不是产品推广，而是希望听到创业者最真实的声音。
-  当然，我们也会关注一个绕不开的话题——人工智能正在如何影响创业。
-  但相比讨论&quot;AI到底有多火&quot;，我们更想知道的是：
-  
-   它是否真的帮助企业提升了效率？
-   创</description>
-      <pubDate>Fri, 31 Jul 2026 08:24:28 +0000</pubDate>
-      <source>36氪</source>
-    </item>
-    <item>
       <title>Japan’s central bank keeps rates steady, delivers hawkish signal as government props up yen</title>
       <link>https://www.straitstimes.com/business/japans-central-bank-keeps-rates-steady-delivers-hawkish-signal-as-government-props-up-yen</link>
       <description>[Straits Times] The central bank also highlighted inflationary pressures from robust global AI-demand.</description>
       <pubDate>Fri, 31 Jul 2026 08:05:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Singapore banks using AI to vet private banking clients, speed up onboarding</title>
-      <link>https://www.straitstimes.com/business/spore-banks-using-ai-agents-to-vet-private-banking-clients-speed-up-onboarding</link>
-      <description>[Straits Times] The system can also use AI to scour the internet for information to pre-qualify prospective clients.</description>
-      <pubDate>Fri, 31 Jul 2026 08:01:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
