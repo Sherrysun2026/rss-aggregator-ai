@@ -3,13 +3,21 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 08 Aug 2026 22:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 22:35:00 +0000</lastBuildDate>
     <item>
       <title>AI or real? BBC analyses viral China disaster videos</title>
       <link>https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.</description>
       <pubDate>Wed, 05 Aug 2026 22:00:32 +0000</pubDate>
       <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Is your intent data being sold to your competitors?</title>
+      <link>https://martech.org/is-your-intent-data-being-sold-to-your-competitors/</link>
+      <description>[MarTech] Researchers say software vendors routinely collect customer and business data and incorporate it into commercial products.
+The post Is your intent data being sold to your competitors? appeared first on MarTech.</description>
+      <pubDate>Wed, 05 Aug 2026 14:55:45 +0000</pubDate>
+      <source>MarTech</source>
     </item>
     <item>
       <title>SpaceX shares sink after first earnings report reveals huge AI spending plans</title>
@@ -26,32 +34,35 @@
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Jony Ive&amp;#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor</link>
-      <description>[The Verge AI] The AI device OpenAI is developing with former Apple designer Jony Ive is &quot;essentially a smart speaker without a display&quot; that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price ove</description>
-      <pubDate>Thu, 06 Aug 2026 20:55:39 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Why Normal People Aren’t Using AI Agents</title>
-      <link>https://www.wired.com/story/why-normal-people-arent-using-ai-agents/</link>
-      <description>[WIRED AI] The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.</description>
-      <pubDate>Thu, 06 Aug 2026 19:55:45 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows</title>
-      <link>https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/</link>
-      <description>[WIRED AI] In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.</description>
-      <pubDate>Thu, 06 Aug 2026 19:30:46 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>First OpenAI, now Meta - why do AI hacks keep happening?</title>
       <link>https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] A flood of companies are revealing AI models gained access to the internet - with real consequences.</description>
       <pubDate>Thu, 06 Aug 2026 15:59:34 +0000</pubDate>
       <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>The latest AI-powered martech news and releases</title>
+      <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
+      <description>[MarTech] Klaviyo is acquiring AI startup Agency and bringing its founder, Elias Torres, aboard as chief product officer.
+The post The latest AI-powered martech news and releases appeared first on MarTech.</description>
+      <pubDate>Thu, 06 Aug 2026 15:24:25 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Time’s AI-only ads may be marketing’s next frontier</title>
+      <link>https://martech.org/times-ai-only-ads-may-be-marketings-next-frontier/</link>
+      <description>[MarTech] Time is serving ads directly to AI crawlers, a strategy that could reshape how brands influence AI-generated answers.
+The post Time&amp;#8217;s AI-only ads may be marketing&amp;#8217;s next frontier appeared first on MarTech.</description>
+      <pubDate>Thu, 06 Aug 2026 15:00:07 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>How agencies are evolving to overcome AI</title>
+      <link>https://martech.org/how-agencies-are-evolving-to-overcome-ai/</link>
+      <description>[MarTech] Routine content creation is becoming less valuable. New research shows agencies are responding by selling expertise instead of production.
+The post How agencies are evolving to overcome AI appeared first on MarTech.</description>
+      <pubDate>Thu, 06 Aug 2026 13:05:00 +0000</pubDate>
+      <source>MarTech</source>
     </item>
     <item>
       <title>Singapore businesses view scaling AI as the biggest challenge: Forrester report</title>
@@ -68,6 +79,118 @@
       <source>Business Times</source>
     </item>
     <item>
+      <title>Oil rises as uncertainty continues over reopening of Strait</title>
+      <link>https://www.channelnewsasia.com/business/oil-rises-uncertainty-continues-over-reopening-strait-6308831</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 09 Aug 2026 22:17:04 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>‘Texas of the Mountain West’: US state of Utah on drive to court Singapore investors</title>
+      <link>https://www.straitstimes.com/business/texas-of-the-mountain-west-us-state-of-utah-on-drive-to-court-singapore-investors</link>
+      <description>[Straits Times] Utah Governor Spencer Cox said the state is seeing investment in sectors including energy.</description>
+      <pubDate>Sun, 09 Aug 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</title>
+      <link>https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/</link>
+      <description>[TechCrunch AI] The AI-focused hedge fund is still making some big bets.</description>
+      <pubDate>Sun, 09 Aug 2026 20:35:17 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Anthropic is turning Claude Code’s auto mode on by default</title>
+      <link>https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/</link>
+      <description>[TechCrunch AI] Programming with Claude Code will soon require even less human oversight.</description>
+      <pubDate>Sun, 09 Aug 2026 19:20:32 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy</title>
+      <link>https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/</link>
+      <description>[TechCrunch AI] On the latest episode of Equity, we spoke to Jill Lepore about &quot;government by machines&quot; and why Elon Musk is a bad science fiction reader.</description>
+      <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>The AI safety test is becoming a safety risk</title>
+      <link>https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</link>
+      <description>[TechCrunch AI] AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.</description>
+      <pubDate>Sun, 09 Aug 2026 14:30:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>AI detectors are creating a new era of distrust</title>
+      <link>https://www.theverge.com/column/976690/ai-writing-detectors-suspicion</link>
+      <description>[The Verge AI] This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT beca</description>
+      <pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How</title>
+      <link>https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/</link>
+      <description>[WIRED AI] There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.</description>
+      <pubDate>Sun, 09 Aug 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>These AI Barons Are Ready to Give Away Their Fortunes</title>
+      <link>https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/</link>
+      <description>[WIRED AI] A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?</description>
+      <pubDate>Sun, 09 Aug 2026 09:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>伯克希尔开始花钱了，然后呢？</title>
+      <link>https://www.tmtpost.com/8096598.html</link>
+      <description>[钛媒体] 当全世界都在喊&quot;AI改变世界&quot;的时候，伯克希尔用3655亿美元说了一句话：我信。但我还没看到值得把最后一颗子弹打出去的价格。</description>
+      <pubDate>Sun, 09 Aug 2026 09:16:42 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>做底座还是做入口？国产AI 到下决心的时候了！</title>
+      <link>https://www.tmtpost.com/8096705.html</link>
+      <description>[钛媒体] 多数没有自有入口的底座，只能服务于掌握入口的一方，其实就是在给入口打工。</description>
+      <pubDate>Sun, 09 Aug 2026 09:16:40 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI存储股暴跌，高盛为何敢押注HBM翻倍？</title>
+      <link>https://www.tmtpost.com/8096591.html</link>
+      <description>[钛媒体] 高盛八大判断背后——比预测更重要的，是验证与修正预测的速度。</description>
+      <pubDate>Sun, 09 Aug 2026 09:12:17 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>人类最恐惧的事情还是发生了：AI们拉了个群密谋大事</title>
+      <link>https://www.tmtpost.com/8096616.html</link>
+      <description>[钛媒体] 为了作弊自建“聊天群”，还怀疑有“内鬼”</description>
+      <pubDate>Sun, 09 Aug 2026 09:12:14 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>DBS, OCBC shares climb to fresh highs on strong Q2 earnings; yen rally stalls: Markets this week</title>
+      <link>https://www.straitstimes.com/business/dbs-ocbc-shares-climb-to-fresh-highs-on-strong-q2-earnings-yen-rally-stalls-markets-this-week</link>
+      <description>[Straits Times] DBS and OCBC raised their 2026 financial targets, while UOB kept its guidance largely unchanged.</description>
+      <pubDate>Sun, 09 Aug 2026 08:56:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>935亿之后，具身智能的账该怎么算？</title>
+      <link>https://www.tmtpost.com/8096557.html</link>
+      <description>[钛媒体] 头部企业在用产能数字互相较劲，而腰部以下的公司，很多已经三个月没听到过投资机构的电话了。这种分化不是坏事，反而是产业成熟的标志。只是对创业者来说，这个过程有点残酷。</description>
+      <pubDate>Sun, 09 Aug 2026 08:32:55 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Wheeled Robots Gain Ground as Embodied AI Moves from Labs to Work Floors</title>
+      <link>https://www.tmtpost.com/8096593.html</link>
+      <description>[钛媒体] At recent industry shows, the machines actually moving boxes, sorting items and tending production lines are more often wheeled platforms with human-like upper bodies than bipedal humanoids. The shift reflects engineering priorities: stability, cost and measurable task performance now outweigh the p</description>
+      <pubDate>Sun, 09 Aug 2026 05:43:03 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
       <title>Commentary: Who needs consultants in the age of AI?</title>
       <link>https://www.channelnewsasia.com/commentary/consultants-ai-transform-consultancy-job-disrupt-6305821</link>
       <description>[CNA Tech] Getting a company to implement recommended changes is a contact sport that only humans can play, says Robert Armstrong for the Financial Times.</description>
@@ -82,16 +205,16 @@
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>How 60-cent cups of kopi inspired a luxury watch shop owner’s approach to money</title>
-      <link>https://www.straitstimes.com/business/invest/how-60-cent-cups-of-kopi-inspired-a-luxury-watch-shop-owners-approach-to-money</link>
-      <description>[Straits Times] Desmond Pang has grown his business’ inventory value from about $400,000 to around $2.5 million.</description>
+      <title>A $400k lesson on why you should not lend money to others</title>
+      <link>https://www.straitstimes.com/business/invest/a-400k-lesson-on-why-you-should-not-lend-money-to-others</link>
+      <description>[Straits Times] A woman had to go to court twice to reclaim her loan of over $400,000 to a business associate.</description>
       <pubDate>Sat, 08 Aug 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>A $400K lesson on why you should not lend money to others</title>
-      <link>https://www.straitstimes.com/business/invest/a-400k-lesson-on-why-you-should-not-lend-money-to-others</link>
-      <description>[Straits Times] A woman had to go to court twice to reclaim her loan of over $400,000 to a business associate.</description>
+      <title>How 60-cent cups of kopi inspired a luxury watch shop owner’s approach to money</title>
+      <link>https://www.straitstimes.com/business/invest/how-60-cent-cups-of-kopi-inspired-a-luxury-watch-shop-owners-approach-to-money</link>
+      <description>[Straits Times] Desmond Pang has grown his business’ inventory value from about $400,000 to around $2.5 million.</description>
       <pubDate>Sat, 08 Aug 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
@@ -110,13 +233,6 @@
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入</title>
-      <link>https://www.tmtpost.com/8096463.html</link>
-      <description>[钛媒体] 8月8日，“Link-X Demo Day 2026（创新项目展示日）——Spark Moment·灵光一闪”活动在北京中关村国际技术交易中心举行。</description>
-      <pubDate>Sat, 08 Aug 2026 14:24:52 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Is football AI-proof? Why tech investors wanted a slice of the World Cup</title>
       <link>https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?</description>
@@ -124,46 +240,11 @@
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购</title>
-      <link>https://www.tmtpost.com/8096279.html</link>
-      <description>[钛媒体] （8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...</description>
-      <pubDate>Sat, 08 Aug 2026 10:17:45 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI低俗广告，闪了300亿“中国锅王”的腰</title>
-      <link>https://www.tmtpost.com/8095881.html</link>
-      <description>[钛媒体] 苏泊尔卷入低俗营销风波。</description>
-      <pubDate>Sat, 08 Aug 2026 10:06:42 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI没被电饿死，先被电“气”死了</title>
-      <link>https://www.tmtpost.com/8096048.html</link>
-      <description>[钛媒体] 毫秒级断电杀训练、万卡集群一小时烧掉一辆车——比“电荒”更先到来的，是“电脏”。</description>
-      <pubDate>Sat, 08 Aug 2026 10:06:37 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>How to Disable Gemini in Gmail and Google Docs</title>
       <link>https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/</link>
       <description>[WIRED AI] New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.</description>
       <pubDate>Sat, 08 Aug 2026 10:00:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>苏泊尔“国民品牌”的信任，是如何被一步步透支的</title>
-      <link>https://www.tmtpost.com/8096242.html</link>
-      <description>[钛媒体] AI擦边广告翻车，营销投入已是研发4倍，净利五年来首降，却清仓式分红给法国大股东。</description>
-      <pubDate>Sat, 08 Aug 2026 08:32:30 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>离开美团的王慧文：一笔投资赚20倍，押中24家AI公司</title>
-      <link>https://www.tmtpost.com/8095579.html</link>
-      <description>[钛媒体] 商业大佬纷纷入局AI浪潮。</description>
-      <pubDate>Sat, 08 Aug 2026 08:18:54 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Nvidia to invest up to US$3 billion in Stargate data centre developer Lancium: The Information</title>
@@ -174,7 +255,7 @@
     </item>
     <item>
       <title>OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-controls</link>
+      <link>https://www.businesstimes.com.sg/international/global/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-controls</link>
       <description>[Business Times] This prompts the startup to pause some internal development and trigger safety protocols</description>
       <pubDate>Sat, 08 Aug 2026 02:15:00 +0000</pubDate>
       <source>Business Times</source>
@@ -194,13 +275,6 @@
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>OpenAI says it slowed Astra model development over security concerns</title>
-      <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
-      <description>[TechCrunch AI] OpenAI said this model, which is still in development, reached its &quot;critical cybersecurity threshold,&quot; meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.</description>
-      <pubDate>Fri, 07 Aug 2026 22:48:24 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>US regulator rejects Dutch fintech Bunq's application for national bank charter</title>
       <link>https://www.channelnewsasia.com/business/us-regulator-rejects-dutch-fintech-bunqs-application-national-bank-charter-6307101</link>
       <description>[CNA Tech] </description>
@@ -208,39 +282,11 @@
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>Data center firm Switch confidentially files for US IPO, Bloomberg News reports</title>
-      <link>https://www.channelnewsasia.com/business/data-center-firm-switch-confidentially-files-us-ipo-bloomberg-news-reports-6307066</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 07 Aug 2026 22:11:51 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>After Rippling blew millions on AI in months, it built an employee ROI tool</title>
-      <link>https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/</link>
-      <description>[TechCrunch AI] After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.</description>
-      <pubDate>Fri, 07 Aug 2026 21:30:11 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Staff at Singapore banks reap big windfall as company stocks shoot up</title>
-      <link>https://www.straitstimes.com/business/invest/spore-bank-employees-reap-big-windfall-when-their-employers-stocks-shoot-up</link>
-      <description>[Straits Times] Employee share plans can be one of the best wealth-building tools – but understanding the details matters.</description>
-      <pubDate>Fri, 07 Aug 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo</link>
       <description>[The Verge AI] It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song &quot;Rubberz.&quot; His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI de</description>
       <pubDate>Fri, 07 Aug 2026 20:01:51 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Explainer-How could New Mexico's $567 million ruling change Meta?</title>
-      <link>https://www.channelnewsasia.com/business/explainer-how-could-new-mexicos-567-million-ruling-change-meta-6306901</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 07 Aug 2026 19:38:25 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Watching Roku’s AI channel is like eating from a trough</title>
@@ -264,18 +310,12 @@
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Cloudflare launches Kitesurf, a browser built for AI agents</title>
-      <link>https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/</link>
-      <description>[TechCrunch AI] Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.</description>
-      <pubDate>Fri, 07 Aug 2026 16:16:09 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Airbnb says AI is helping it ship features faster as it tests a new search function</title>
-      <link>https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/</link>
-      <description>[TechCrunch AI] Airbnb will debut a new AI-powered search experience with a toggle.</description>
-      <pubDate>Fri, 07 Aug 2026 14:22:49 +0000</pubDate>
-      <source>TechCrunch AI</source>
+      <title>Here are the marketing skills AI is making more valuable</title>
+      <link>https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/</link>
+      <description>[MarTech] As AI takes on more execution, there is more need for marketers who bring judgment, strategy and the skills to direct the technology.
+The post Here are the marketing skills AI is making more valuable appeared first on MarTech.</description>
+      <pubDate>Fri, 07 Aug 2026 14:45:51 +0000</pubDate>
+      <source>MarTech</source>
     </item>
     <item>
       <title>Scientists Used AI to Create 16 New Viruses</title>
@@ -285,11 +325,12 @@
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Allianz eyes Singapore wealth, retirement market with HSBC Life, UOB Asset Management deals</title>
-      <link>https://www.straitstimes.com/business/allianz-eyes-singapore-wealth-retirement-market-with-hsbc-life-uob-asset-management-deals</link>
-      <description>[Straits Times] CEO Oliver Bate said the acquisitions are part of a “grand design” to position itself for future growth in the region.</description>
-      <pubDate>Fri, 07 Aug 2026 11:50:00 +0000</pubDate>
-      <source>Straits Times</source>
+      <title>6 steps to protect your data from being stolen by vendors</title>
+      <link>https://martech.org/6-steps-to-protect-your-data-from-being-stolen-by-vendors/</link>
+      <description>[MarTech] Learn how to audit martech vendors, limit their access to sensitive data and make security part of every software purchase.
+The post 6 steps to protect your data from being stolen by vendors appeared first on MarTech.</description>
+      <pubDate>Fri, 07 Aug 2026 13:17:14 +0000</pubDate>
+      <source>MarTech</source>
     </item>
     <item>
       <title>The Hottest New AI Chatbot Is Just a Guy Answering Your Questions</title>
@@ -306,25 +347,11 @@
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>Copper heads for record high close on tighter global market</title>
-      <link>https://www.straitstimes.com/business/copper-heads-for-record-high-close-on-tighter-global-market</link>
-      <description>[Straits Times] Copper has rallied around 14 per cent so far in 2026, building on a run of three annual gains.</description>
-      <pubDate>Fri, 07 Aug 2026 07:20:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
       <title>Chinese AI chipmakers poised to gain from Beijing’s tech push</title>
       <link>https://www.businesstimes.com.sg/companies-markets/chinese-ai-chipmakers-poised-gain-beijings-tech-push</link>
       <description>[Business Times] The country’s firms raise orders after Beijing mandates local tech firms find alternatives to Nvidia products</description>
       <pubDate>Fri, 07 Aug 2026 05:10:17 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>China exports in July beat forecasts on robust high-tech demand</title>
-      <link>https://www.straitstimes.com/business/economy/china-exports-in-july-beat-expectations-on-robust-high-tech-demand</link>
-      <description>[Straits Times] China’s exports expanded 23.9 per cent year on year in July, with chip shipments almost doubling.</description>
-      <pubDate>Fri, 07 Aug 2026 04:05:37 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>OpenAI’s new device will be hockey puck-sized and cost over US$300</title>
