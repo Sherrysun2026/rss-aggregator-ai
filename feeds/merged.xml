@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 14 Aug 2026 22:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:25:55 +0000</lastBuildDate>
     <item>
       <title>Why Japanese firms are being so slow to use AI</title>
       <link>https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -19,25 +19,11 @@
       <source>Business Times</source>
     </item>
     <item>
-      <title>Discord ordered to suspend livestreams in Brazil</title>
-      <link>https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Discord told the BBC it was &quot;thoughtfully reviewing&quot; the order by Brazil's data protection agency and it was &quot;committed to user safety&quot;</description>
-      <pubDate>Wed, 12 Aug 2026 17:10:31 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
       <title>Super Micro forecasts sales of up to US$15.5 billion, topping rosiest projection</title>
       <link>https://www.businesstimes.com.sg/companies-markets/super-micro-forecasts-sales-us15-5-billion-topping-rosiest-projection</link>
       <description>[Business Times] The California-based firm benefits from surging demand for gear to train and run AI tasks</description>
       <pubDate>Wed, 12 Aug 2026 04:49:32 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>Tokenomics: Why making AI pay is tricky</title>
-      <link>https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.</description>
-      <pubDate>Tue, 11 Aug 2026 23:03:52 +0000</pubDate>
-      <source>BBC Technology</source>
     </item>
     <item>
       <title>Singapore-based biotech K2 Therapeutics secures US$50 million seed round; appoints Huang Ying as CEO</title>
@@ -68,31 +54,10 @@
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything</title>
-      <link>https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/</link>
-      <description>[WIRED AI] AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.</description>
-      <pubDate>Thu, 13 Aug 2026 21:14:43 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Writer introduces new AI model and upgraded harness to contain token costs</title>
-      <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
-      <description>[TechCrunch AI] Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.</description>
-      <pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>OpenAI is losing its second executive this week</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure</link>
       <description>[The Verge AI] Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the &quot;coming weeks&quot; to &quot;pursue other opportunities,&quot; she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, wi</description>
       <pubDate>Thu, 13 Aug 2026 19:28:39 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Suno is trying to look more like a real music production tool</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects</link>
-      <description>[The Verge AI] Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's b</description>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 +0000</pubDate>
       <source>The Verge AI</source>
     </item>
     <item>
@@ -129,6 +94,139 @@
       <description>[Business Times] It is recruiting for a new team that helps build AI agents that take on services like Claude code</description>
       <pubDate>Thu, 13 Aug 2026 00:03:16 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</title>
+      <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</link>
+      <description>[TechCrunch AI] The woman claimed that AI tools are &quot;taking everyday life and turning it into child sexual abuse.&quot;</description>
+      <pubDate>Sat, 15 Aug 2026 21:29:19 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>He saved $8k as a teen, but lost it in bad investments. Now he champions Islamic finance</title>
+      <link>https://www.straitstimes.com/business/he-saved-8k-as-a-teen-but-lost-it-in-bad-investments-now-he-champions-islamic-finance</link>
+      <description>[Straits Times] Muhammad Ridhwaan Radzi hopes his Muslim investing platform can help dispel the notion that halal investing is limiting.</description>
+      <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Have a laugh at AI’s expense by roleplaying as a chatbot</title>
+      <link>https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot</link>
+      <description>[The Verge AI] Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&amp;#8230;]</description>
+      <pubDate>Sat, 15 Aug 2026 20:45:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says</title>
+      <link>https://www.channelnewsasia.com/business/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-center-deal-information-says-6321736</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 15 Aug 2026 19:38:26 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
+      <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
+      <description>[TechCrunch AI] How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?</description>
+      <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>SpaceX officially closes its Cursor acquisition</title>
+      <link>https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/</link>
+      <description>[TechCrunch AI] AI coding startup Cursor is now officially a part of SpaceX.</description>
+      <pubDate>Sat, 15 Aug 2026 16:30:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>字节AI，先慢后快？</title>
+      <link>https://www.tmtpost.com/8104642.html</link>
+      <description>[钛媒体] 接受短期的落后。</description>
+      <pubDate>Sat, 15 Aug 2026 12:31:27 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI正在批量制造“幽灵”</title>
+      <link>https://www.tmtpost.com/8104535.html</link>
+      <description>[钛媒体] “你是gg还是mm？”“我是AI。”</description>
+      <pubDate>Sat, 15 Aug 2026 12:28:16 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>兴锋作浪，大模型和机器人抢着“联姻”</title>
+      <link>https://www.tmtpost.com/8104508.html</link>
+      <description>[钛媒体] DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。</description>
+      <pubDate>Sat, 15 Aug 2026 12:04:24 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现</title>
+      <link>https://www.tmtpost.com/8104597.html</link>
+      <description>[钛媒体] 第二季度营收突破110亿美元、首现调整后营业利润，Claude母公司有望改写史上最大IPO纪录——但2万亿估值仍缺利润背书</description>
+      <pubDate>Sat, 15 Aug 2026 12:04:21 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Secondhand book sales are booming. Is it because of AI?</title>
+      <link>https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.</description>
+      <pubDate>Sat, 15 Aug 2026 11:25:32 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out</title>
+      <link>https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/</link>
+      <description>[WIRED AI] When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.</description>
+      <pubDate>Sat, 15 Aug 2026 09:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>DeepSeek故意做了一个难用的Agent？</title>
+      <link>https://www.tmtpost.com/8104384.html</link>
+      <description>[钛媒体] DeepSeek Harness可能压根没把普通用户当第一批用户。</description>
+      <pubDate>Sat, 15 Aug 2026 07:24:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>双面腾讯：视频号前台收钱，AI后台烧钱</title>
+      <link>https://www.tmtpost.com/8104190.html</link>
+      <description>[钛媒体] 广告暴涨22%，毛利率为何反降。</description>
+      <pubDate>Sat, 15 Aug 2026 06:49:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Oil prices rally, US data dents chances of Fed rate hike</title>
+      <link>https://www.straitstimes.com/business/companies-markets/oil-prices-rally-us-data-dents-chances-of-fed-rate-hike</link>
+      <description>[Straits Times] </description>
+      <pubDate>Sat, 15 Aug 2026 01:10:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Graphics card shortage set to drive PC prices higher as AI demand strains supplies, manufacturer warns</title>
+      <link>https://www.straitstimes.com/business/graphic-card-shortage-set-to-drive-pc-prices-higher-as-ai-demand-strains-supplies-manufacturer-warns</link>
+      <description>[Straits Times] PC Partner said its revenue rose in the first half of 2026 due to more orders for graphics cards.</description>
+      <pubDate>Sat, 15 Aug 2026 01:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say</title>
+      <link>https://www.channelnewsasia.com/business/exclusive-anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-6320831</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 15 Aug 2026 00:11:58 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports</title>
+      <link>https://www.channelnewsasia.com/business/nvidia-scales-back-funding-guarantee-ohio-openai-data-center-wsj-reports-6320821</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 14 Aug 2026 23:43:56 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Why tech bosses keep sharing their manifestos about AI</title>
+      <link>https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.</description>
+      <pubDate>Fri, 14 Aug 2026 23:06:27 +0000</pubDate>
+      <source>BBC Technology</source>
     </item>
     <item>
       <title>S&amp;P 500 ends lower as investors weigh data, Middle East tensions</title>
@@ -201,32 +299,11 @@
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>Hyperscalers might regret embracing natural gas if new forecast proves correct</title>
-      <link>https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/</link>
-      <description>[TechCrunch AI] Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.</description>
-      <pubDate>Fri, 14 Aug 2026 14:05:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Meta’s ‘open’ AI, and a $250M deal gone very wrong</title>
-      <link>https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/</link>
-      <description>[TechCrunch AI] Meta released Glimmer this week, an open-weight AI&amp;#160;model&amp;#160;anyone can download and run on their own hardware&amp;#160;— a contrast to&amp;#160;Muse&amp;#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&amp;#160;a letter from Mark Zuckerberg&amp;#16</description>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Dollar falls on surprise drop in US retail sales</title>
       <link>https://www.channelnewsasia.com/business/dollar-falls-surprise-drop-in-us-retail-sales-6319256</link>
       <description>[CNA Tech] </description>
       <pubDate>Fri, 14 Aug 2026 13:58:31 +0000</pubDate>
       <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>创·问｜Aibee爱笔智能林元庆：“结硬寨，打呆战”，通向物理世界AGI</title>
-      <link>https://www.tmtpost.com/8104183.html</link>
-      <description>[钛媒体] 本期主角是Aibee爱笔智能创始人兼CEO 林元庆博士。爱笔智能专注于线下空间数字化与智能化，融合计算机视觉、自然语言理解、大数据分析、机器人学等多模态 AI 技术，帮助线下空间实现全面的数字化，走向智能化的运营、管理和触达。</description>
-      <pubDate>Fri, 14 Aug 2026 13:29:43 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>US retail sales unexpectedly fall in July</title>
@@ -243,53 +320,11 @@
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Robotruck重新升温，无人货运开始算经济账</title>
-      <link>https://www.tmtpost.com/8100924.html</link>
-      <description>[钛媒体] 小马智行重新押注Robotruck，无人货运正走向规模化落地，一场围绕效率、成本与商业模式的重算开始了。</description>
-      <pubDate>Fri, 14 Aug 2026 10:55:10 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI</title>
       <link>https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/</link>
       <description>[WIRED AI] Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”</description>
       <pubDate>Fri, 14 Aug 2026 10:45:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests</title>
-      <link>https://www.channelnewsasia.com/business/china-ai-new-model-glm-anthropic-mythos-5-6319716</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 14 Aug 2026 10:45:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>重启人生的Manus，能重启AI出海的游戏规则吗？</title>
-      <link>https://www.tmtpost.com/8102509.html</link>
-      <description>[钛媒体] AI出海再不能事后“换马甲”。</description>
-      <pubDate>Fri, 14 Aug 2026 10:41:02 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Reddit surges on S&amp;P 500 inclusion, set to replace AvalonBay</title>
-      <link>https://www.straitstimes.com/business/reddit-surges-on-sp-500-inclusion</link>
-      <description>[Straits Times] The social media platform will replace AvalonBay Communities.</description>
-      <pubDate>Fri, 14 Aug 2026 10:40:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>OpenAI关掉Atlas，AI浏览器输给了谁？</title>
-      <link>https://www.tmtpost.com/8103854.html</link>
-      <description>[钛媒体] 一场被高估的“入口革命”。</description>
-      <pubDate>Fri, 14 Aug 2026 10:31:46 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>国产Wi-Fi芯片，迎来最好时代</title>
-      <link>https://www.tmtpost.com/8102413.html</link>
-      <description>[钛媒体] 一季扭亏、半年大涨，国产Wi-Fi芯片兑现红利。</description>
-      <pubDate>Fri, 14 Aug 2026 10:31:37 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them</title>
@@ -299,46 +334,11 @@
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>AI做空老铺黄金</title>
-      <link>https://www.tmtpost.com/8103852.html</link>
-      <description>[钛媒体] AI交易未来，老铺交易稀缺。</description>
-      <pubDate>Fri, 14 Aug 2026 09:33:43 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Apple trained its own AI model for China with help from Alibaba</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba</link>
       <description>[The Verge AI] Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained wi</description>
       <pubDate>Fri, 14 Aug 2026 09:21:17 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Applied Materials slips as investors seek faster growth after stellar run</title>
-      <link>https://www.channelnewsasia.com/business/applied-materials-slips-investors-seek-faster-growth-after-stellar-run-6319506</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 14 Aug 2026 08:58:40 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>French taxpayers' data stolen in cyber attack, French Finance Ministry says</title>
-      <link>https://www.channelnewsasia.com/business/french-taxpayers-data-stolen-in-cyber-attack-french-finance-ministry-says-6319366</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 14 Aug 2026 07:33:40 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Macquarie seeks KPMG guarantee data was not misused to win bank audit work</title>
-      <link>https://www.straitstimes.com/business/companies-markets/macquarie-seeks-kpmg-guarantee-data-was-not-misused-to-win-bank-audit-work</link>
-      <description>[Straits Times] Scandal has triggered resignations of KPMG Australia’s CEO, audit boss and chairman.</description>
-      <pubDate>Fri, 14 Aug 2026 01:48:28 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Chipmaker CXMT overtakes Tencent as most valuable Chinese firm amid AI frenzy</title>
-      <link>https://www.straitstimes.com/business/companies-markets/chipmaker-cxmt-overtakes-tencent-as-most-valuable-chinese-firm-amid-ai-frenzy</link>
-      <description>[Straits Times] CXMT has become a proxy trade for China's AI ambitions and semiconductor self-sufficiency push.</description>
-      <pubDate>Fri, 14 Aug 2026 01:09:33 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
   </channel>
 </rss>
