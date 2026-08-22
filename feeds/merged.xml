@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 21 Aug 2026 22:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 22:25:39 +0000</lastBuildDate>
     <item>
       <title>I Saw the Future of AI in a Robot That Can Learn on the Spot</title>
       <link>https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/</link>
@@ -63,40 +63,12 @@ The post Turn scattered AI wins into an organizational advantage appeared first 
       <source>Business Times</source>
     </item>
     <item>
-      <title>The critical tech staying safe by going underground</title>
-      <link>https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The war in Ukraine has spurred people to consider putting vital infrastructure underground.</description>
-      <pubDate>Tue, 18 Aug 2026 23:25:21 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue</title>
-      <link>https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/</link>
-      <description>[WIRED AI] The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.</description>
-      <pubDate>Tue, 18 Aug 2026 18:33:11 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>AI visibility index shows which brands are disappearing</title>
       <link>https://martech.org/ai-visibility-index-shows-which-brands-are-disappearing/</link>
       <description>[MarTech] Some brands dominate Google yet barely surface in AI answers. Here’s where traditional authority and AI recall diverge.
 The post AI visibility index shows which brands are disappearing appeared first on MarTech.</description>
       <pubDate>Tue, 18 Aug 2026 13:48:51 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>OpenAI is gaining on Anthropic with business users, new data indicates</title>
-      <link>https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/</link>
-      <description>[TechCrunch AI] Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how &quot;sticky&quot; enterprise AI spending really is.</description>
-      <pubDate>Thu, 20 Aug 2026 22:36:37 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>ChatGPT can now send texts for you with new Apple Messages plug-in</title>
-      <link>https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/</link>
-      <description>[TechCrunch AI] Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.</description>
-      <pubDate>Thu, 20 Aug 2026 22:09:51 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Google Discover is getting an AI chatbot-tuned feed</title>
@@ -171,10 +143,122 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>Business Times</source>
     </item>
     <item>
+      <title>Harvard’s $699 startup bootcamp offers AI avatars of its instructors</title>
+      <link>https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/</link>
+      <description>[TechCrunch AI] In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.</description>
+      <pubDate>Sat, 22 Aug 2026 21:46:56 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Boss of ornamental fish e-marketplace making waves in a traditional sector</title>
+      <link>https://www.straitstimes.com/business/invest/he-chose-to-postpone-university-so-he-could-focus-on-scaling-his-ornamental-fish-business</link>
+      <description>[Straits Times] After running the company he started at 20, Desmond Lim went on to create e-commerce marketplace Fishlist in 2019.</description>
+      <pubDate>Sat, 22 Aug 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Elderly woman couldn’t take over late son’s HDB flat due to his sham marriage</title>
+      <link>https://www.straitstimes.com/business/invest/elderly-woman-couldnt-take-over-late-sons-hdb-flat-due-to-his-sham-marriage</link>
+      <description>[Straits Times] Sham marriages can land you in jail, and also create problems for your asset distribution.</description>
+      <pubDate>Sat, 22 Aug 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports</title>
+      <link>https://www.channelnewsasia.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-reports-6335256</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 22 Aug 2026 19:20:53 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research</title>
+      <link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
+      <description>[TechCrunch AI] Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.</description>
+      <pubDate>Sat, 22 Aug 2026 19:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI says California should strengthen its AI safety bill</title>
+      <link>https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/</link>
+      <description>[TechCrunch AI] OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.</description>
+      <pubDate>Sat, 22 Aug 2026 16:30:34 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Frontier AI labs still won’t say how they’d contain a rogue model</title>
+      <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
+      <description>[TechCrunch AI] A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Robot horse and rider steal the spotlight at Chinese conference</title>
+      <link>https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.</description>
+      <pubDate>Sat, 22 Aug 2026 12:47:28 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>王坚的“遗产”，为阿里留出后路</title>
+      <link>https://www.tmtpost.com/8112848.html</link>
+      <description>[钛媒体] 阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。</description>
+      <pubDate>Sat, 22 Aug 2026 10:27:40 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>订单跑在收入前，透过万国数据看数据中心的真相</title>
+      <link>https://www.tmtpost.com/8112373.html</link>
+      <description>[钛媒体] AI订单涨疯了，利润还在路上。</description>
+      <pubDate>Sat, 22 Aug 2026 10:26:20 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>3万亿美元隐形债务浮出水面：“AI基建潮”会引发下一场次贷危机吗？</title>
+      <link>https://www.tmtpost.com/8112363.html</link>
+      <description>[钛媒体] 真实需求不能阻止泡沫，现金流才能偿还债务。</description>
+      <pubDate>Sat, 22 Aug 2026 10:26:13 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>【数智周报】阿里再调业务架构：电商合并、云芯片整合、千问分拆为独立子公司；宇树科技登陆科创板；传Anthropic年化营收突破650亿美元……</title>
+      <link>https://www.tmtpost.com/8112858.html</link>
+      <description>[钛媒体] （8月17日~8月22日）王兴兴称机器人工厂工作暂时不能大规模推广；阿里二季度财报：AI投入继续影响利润和现金流；美商务部长：不希望苹果从中国采购存储芯片</description>
+      <pubDate>Sat, 22 Aug 2026 08:22:33 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Tesla and others begin record vehicle recall in China</title>
+      <link>https://www.channelnewsasia.com/east-asia/china-evs-tesla-vehicle-recall-6334381</link>
+      <description>[CNA Tech] China has said it will ban concealed door handles from 2027, making it the first country to phase out a design popularised by Tesla and widely adopted by domestic Chinese EV makers.</description>
+      <pubDate>Fri, 21 Aug 2026 23:43:05 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>The Unlikely Place at the Center of China’s AI Boom</title>
+      <link>https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/</link>
+      <description>[WIRED AI] Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.</description>
+      <pubDate>Fri, 21 Aug 2026 23:25:32 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Anthropic’s Opus 4.6 is a smut-machine</title>
+      <link>https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/</link>
+      <description>[TechCrunch AI] Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.</description>
+      <pubDate>Fri, 21 Aug 2026 23:07:25 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Nvidia partners with data center developer Cloverleaf</title>
+      <link>https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/</link>
+      <description>[TechCrunch AI] Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.</description>
+      <pubDate>Fri, 21 Aug 2026 22:37:38 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
       <title>TikTok to pay $400m to US in one of largest child privacy settlements</title>
       <link>https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected &quot;vast amounts of data&quot; on millions of users under the age of 13.</description>
-      <pubDate>Fri, 21 Aug 2026 22:00:23 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 22:36:12 +0000</pubDate>
       <source>BBC Technology</source>
     </item>
     <item>
@@ -192,9 +276,9 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>When couples ‘break up’ to hide money from creditors</title>
-      <link>https://www.straitstimes.com/business/invest/when-couples-break-up-to-hide-money-from-creditors</link>
-      <description>[Straits Times] These debtors claimed to be broke after giving away everything to their spouses.</description>
+      <title>Learning about your peers’ salaries can be stressful, but not knowing may cost you</title>
+      <link>https://www.straitstimes.com/business/invest/learning-about-your-peers-salaries-can-be-stressful-but-not-knowing-may-cost-you</link>
+      <description>[Straits Times] In Singapore, workers are asking for more salary information, but disclosure remains largely up to employers.</description>
       <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
@@ -206,18 +290,18 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Learning about your peers’ salaries can be stressful, but not knowing may cost you</title>
-      <link>https://www.straitstimes.com/business/invest/learning-about-your-peers-salaries-can-be-stressful-but-not-knowing-may-cost-you</link>
-      <description>[Straits Times] In Singapore, workers are asking for more salary information, but disclosure remains largely up to employers.</description>
+      <title>When couples ‘break up’ to hide money from creditors</title>
+      <link>https://www.straitstimes.com/business/invest/when-couples-break-up-to-hide-money-from-creditors</link>
+      <description>[Straits Times] These debtors claimed to be broke after giving away everything to their spouses.</description>
       <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Nvidia just showed that the harness, not the AI model, is now the real hero</title>
-      <link>https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</link>
-      <description>[TechCrunch AI] Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.</description>
-      <pubDate>Fri, 21 Aug 2026 19:43:39 +0000</pubDate>
-      <source>TechCrunch AI</source>
+      <title>TikTok to pay US$400 million settlement in US children's privacy case</title>
+      <link>https://www.channelnewsasia.com/world/tiktok-400-million-settlement-children-privacy-6334166</link>
+      <description>[CNA Tech] ByteDance and TikTok were sued in 2024 for allegedly violating a law requiring online services aimed at children to obtain parental consent before collecting personal information from users under 13.</description>
+      <pubDate>Fri, 21 Aug 2026 19:43:00 +0000</pubDate>
+      <source>CNA Tech</source>
     </item>
     <item>
       <title>Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say</title>
@@ -232,41 +316,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <description>[CNA Tech] </description>
       <pubDate>Fri, 21 Aug 2026 15:33:47 +0000</pubDate>
       <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Artificial intelligence could push up inflation - SNB's Tschudin says</title>
-      <link>https://www.channelnewsasia.com/business/artificial-intelligence-could-push-up-inflation-snbs-tschudin-says-6333881</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 21 Aug 2026 15:24:13 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Apple paid 40% of its global taxes to Ireland in last fiscal year</title>
-      <link>https://www.channelnewsasia.com/business/apple-paid-40-its-global-taxes-ireland-in-last-fiscal-year-6333766</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 21 Aug 2026 14:51:15 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Nvidia invests in data center developer Cloverleaf Infrastructure</title>
-      <link>https://www.channelnewsasia.com/business/nvidia-invests-in-data-center-developer-cloverleaf-infrastructure-6333706</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 21 Aug 2026 14:34:51 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Starcloud raises $250 million for orbital data centers as launch options dry up</title>
-      <link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
-      <description>[TechCrunch AI] There's about to be a big fight to secure access to space.</description>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>The DOJ is investigating a16z. What does this mean for venture capital?</title>
-      <link>https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/</link>
-      <description>[TechCrunch AI] Andreessen Horowitz has two partners sitting on the boards of companies that now&amp;#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&amp;#160;Fivetran. Nothing too scandalous on the surface, except&amp;#160;the Department of&amp;#160;Justice&amp;#160;has&amp;#160;reportedly&amp;#160;been investiga</description>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
     <item>
       <title>Major YouTube creators are facing backlash for accepting AI money</title>
@@ -288,34 +337,6 @@ The post What the teams getting the most from AI do differently appeared first o
       <link>https://www.straitstimes.com/business/chagee-opens-three-stores-in-a-day-including-family-friendly-outlet-in-pasir-ris-mall</link>
       <description>[Straits Times] The chain differentiates itself from other tea brands through its focus on healthy beverages.</description>
       <pubDate>Fri, 21 Aug 2026 12:45:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Japan’s core inflation accelerates in July, bolsters case for rate hike</title>
-      <link>https://www.straitstimes.com/business/japans-core-inflation-accelerates-in-july-bolsters-case-for-rate-hike</link>
-      <description>[Straits Times] The data will be among the factors the Bank of Japan will scrutinise at its next policy meeting on Sept 17 and Sept 18.</description>
-      <pubDate>Fri, 21 Aug 2026 10:49:49 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>用AI治疗癌症！背后巨头Moderna，股价暴涨177%</title>
-      <link>https://www.tmtpost.com/8112046.html</link>
-      <description>[钛媒体] Moderna癌症疫苗III期临床成功。</description>
-      <pubDate>Fri, 21 Aug 2026 10:49:12 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>一线调研：谁在为农夫山泉的“印钞机”负重前行？</title>
-      <link>https://www.tmtpost.com/8111937.html</link>
-      <description>[钛媒体] 钟睒睒真的是中小经营户、农民兄弟、传统产业的利益代言人吗？他为什么炮轰电商？</description>
-      <pubDate>Fri, 21 Aug 2026 10:28:25 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Asian markets extend rally as traders assess US Treasuries pledge</title>
-      <link>https://www.straitstimes.com/business/asian-markets-extend-rally-as-traders-assess-us-treasuries-pledge</link>
-      <description>[Straits Times] Tech stocks in Seoul surged, driven by big buyback plans from Samsung and SK Hynix.</description>
-      <pubDate>Fri, 21 Aug 2026 10:16:08 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
@@ -352,13 +373,6 @@ The post What the teams getting the most from AI do differently appeared first o
       <description>[Business Times] It calls for co-development of space transportation infrastructure with private sector partners</description>
       <pubDate>Fri, 21 Aug 2026 00:28:51 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>AI data startup Micro1 reaches $500M gross run rate amid AI training boom</title>
-      <link>https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</link>
-      <description>[TechCrunch AI] Surging demand for AI training data is driving rapid growth for the startup and its rivals.</description>
-      <pubDate>Fri, 21 Aug 2026 00:13:44 +0000</pubDate>
-      <source>TechCrunch AI</source>
     </item>
   </channel>
 </rss>
