@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 22 Aug 2026 22:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:26:04 +0000</lastBuildDate>
     <item>
       <title>I Saw the Future of AI in a Robot That Can Learn on the Spot</title>
       <link>https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/</link>
@@ -54,13 +54,6 @@ The post Turn scattered AI wins into an organizational advantage appeared first 
       <description>[WIRED AI] Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.</description>
       <pubDate>Wed, 19 Aug 2026 09:00:00 +0000</pubDate>
       <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Unitree surges in Shanghai debut, a milestone for China’s humanoid robotics sector</title>
-      <link>https://www.businesstimes.com.sg/companies-markets/unitree-surges-shanghai-debut-milestone-chinas-humanoid-robotics-sector</link>
-      <description>[Business Times] The company is profitable even if few of its robots are used in commercial applications</description>
-      <pubDate>Wed, 19 Aug 2026 00:18:29 +0000</pubDate>
-      <source>Business Times</source>
     </item>
     <item>
       <title>AI visibility index shows which brands are disappearing</title>
@@ -143,6 +136,125 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>Business Times</source>
     </item>
     <item>
+      <title>SGX seeks to shake off ‘boring’ image, draw more young investors as trading hits 12-year high</title>
+      <link>https://www.straitstimes.com/business/companies-markets/sgx-seeks-to-shake-off-boring-image-and-draw-more-young-investors-as-trading-hits-12-year-high</link>
+      <description>[Straits Times] Efforts to attract younger retail investors include reducing board lot sizes to make shares more affordable.</description>
+      <pubDate>Sun, 23 Aug 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Who’s behind the new ‘stealth model’ Ox Alpha?</title>
+      <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
+      <description>[TechCrunch AI] A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.</description>
+      <pubDate>Sun, 23 Aug 2026 20:01:36 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
+      <link>https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
+      <description>[TechCrunch AI] Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.</description>
+      <pubDate>Sun, 23 Aug 2026 19:14:08 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>NDR 2026: Businesses welcome government move to cover childcare leave costs, but manpower concerns remain</title>
+      <link>https://www.channelnewsasia.com/singapore/national-day-rally-2026-businesses-childcare-leave-6336011</link>
+      <description>[CNA Tech] Some employers warn that replacing absent staff members remains difficult, especially for small firms.</description>
+      <pubDate>Sun, 23 Aug 2026 16:46:05 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash</title>
+      <link>https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/</link>
+      <description>[TechCrunch AI] Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.</description>
+      <pubDate>Sun, 23 Aug 2026 15:30:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Is it legal to train AI models on copyrighted books? It’s complicated</title>
+      <link>https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/</link>
+      <description>[TechCrunch AI] Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?</description>
+      <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Chinese oil refiner Sinopec’s half-year profit grows 19.3% despite Iran war, falling demand</title>
+      <link>https://www.straitstimes.com/business/chinese-oil-refiner-sinopecs-half-year-profit-grows-19-3-despite-iran-war-falling-demand</link>
+      <description>[Straits Times] Result surprising, given how exposed it was to Strait of Hormuz and how Beijing has it absorb price shock.</description>
+      <pubDate>Sun, 23 Aug 2026 10:53:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察</title>
+      <link>https://www.tmtpost.com/8113330.html</link>
+      <description>[钛媒体] 盘面上贵金属板块全线领涨，湖南白银、白银有色、盛达资源涨停，现货黄金站上4500美元；算力硬件、光通信、锂矿局部活跃，瑞斯康达、星网锐捷、通鼎互联、融捷股份涨停。昨日爆发的医药板块今日大幅退潮，仅汉森制药3板及键凯科技、中关村、近岸蛋白、康希诺等2板晋级，创新药、CRO重挫；农业板块集体调整。市场连板高度由4板降至3板，资金由医药切向贵金属与科技硬件，缩量格局下板块&quot;一日游&quot;特征凸显，追涨容错率急剧下降。</description>
+      <pubDate>Sun, 23 Aug 2026 08:14:18 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>伯南克加盟Anthropic：一个救火队长，守得住AI的门吗？</title>
+      <link>https://www.tmtpost.com/8113322.html</link>
+      <description>[钛媒体] 伯南克的加盟，象征价值远大于实质价值。 他的能力边界、制度定位、身份绑定，三重局限决定了——他既堵不住AI核心风险的源头，也真正独立不起来，说到底更像IPO周期和合规叙事里的一件&quot;信用道具&quot;。</description>
+      <pubDate>Sun, 23 Aug 2026 08:13:46 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>阿里七年来最大的资本运作</title>
+      <link>https://www.tmtpost.com/8113306.html</link>
+      <description>[钛媒体] 极度烧钱、重资产的AI军备竞赛，已经不能纯靠自由现金流来支撑了。阿里的自由现金流已经连续两个季度转负。  财报会上阿里CFO徐宏说，必须capex先行，800亿配股，就是给这句话一个及时的注脚。而吴泳铭的三年回本&quot;狂言&quot;，也有了资本的重量。</description>
+      <pubDate>Sun, 23 Aug 2026 08:03:42 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>‘We wanted to assure investors of our trajectory’: AEM offers rare EPS guidance amid growing AI demand</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/we-wanted-assure-investors-our-trajectory-aem-offers-rare-eps-guidance-amid-growing-ai-demand</link>
+      <description>[Business Times] It is particularly bullish on the outsourced semiconductor assembly and test segment</description>
+      <pubDate>Sun, 23 Aug 2026 07:37:52 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>Alibaba launches $13 billion Hong Kong share placement to fund AI spending</title>
+      <link>https://www.straitstimes.com/business/alibaba-proposes-hong-kong-share-placement-worth-13-billion</link>
+      <description>[Straits Times] The deal would mark the largest-ever primary follow-on offering by a Hong Kong-listed company.</description>
+      <pubDate>Sun, 23 Aug 2026 06:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>享界G9的野心：把硬派SUV卖给更多豪华车用户</title>
+      <link>https://www.tmtpost.com/8112877.html</link>
+      <description>[钛媒体] 当豪华SUV开始走向户外，享界G9希望用科技、舒适与探索能力，打开旗舰SUV新的生活方式。</description>
+      <pubDate>Sun, 23 Aug 2026 04:39:30 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话</title>
+      <link>https://www.tmtpost.com/8111128.html</link>
+      <description>[钛媒体] 一个人就是一支AI 交易团队。</description>
+      <pubDate>Sun, 23 Aug 2026 02:42:45 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Tesla teases imminent launch of Cybercab ‘robotaxi’</title>
+      <link>https://www.straitstimes.com/business/tesla-teases-imminent-launch-of-cybercab-robotaxi</link>
+      <description>[Straits Times] The gold-coloured vehicle can carry two passengers and marks the first Tesla car with no steering wheel or pedals.</description>
+      <pubDate>Sun, 23 Aug 2026 01:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Edge AI Daily 早报（8月23日）</title>
+      <link>https://www.tmtpost.com/8113186.html</link>
+      <description>[钛媒体] 特斯拉宣布9月3日Cybercab发布会，无方向盘自动驾驶出租车，制造效率与数据护城河之争；英伟达逆向工程揭示255纳秒指令延迟，护城河源于15年每纳秒优化；牛津大学MWM框架揭示世界模型忽略心智状态，物理与心智耦合为瓶颈；Meta发布Muse Glimmer 30B开源Agent模型，配合本地推理实现AI编程平权，推动云端与本地双世界分化。</description>
+      <pubDate>Sun, 23 Aug 2026 00:42:03 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Nvidia customers notified of AI-related price hikes of above 15%: Sources</title>
+      <link>https://www.straitstimes.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg</link>
+      <description>[Straits Times] The price hikes will go into effect on systems shipped early 2027.</description>
+      <pubDate>Sat, 22 Aug 2026 23:55:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
       <title>Harvard’s $699 startup bootcamp offers AI avatars of its instructors</title>
       <link>https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/</link>
       <description>[TechCrunch AI] In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.</description>
@@ -157,17 +269,10 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Elderly woman couldn’t take over late son’s HDB flat due to his sham marriage</title>
-      <link>https://www.straitstimes.com/business/invest/elderly-woman-couldnt-take-over-late-sons-hdb-flat-due-to-his-sham-marriage</link>
-      <description>[Straits Times] Sham marriages can land you in jail, and also create problems for your asset distribution.</description>
-      <pubDate>Sat, 22 Aug 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports</title>
-      <link>https://www.channelnewsasia.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-reports-6335256</link>
+      <title>Nvidia customers notified about AI-related price hikes above 15%: Report</title>
+      <link>https://www.channelnewsasia.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-report-6335256</link>
       <description>[CNA Tech] </description>
-      <pubDate>Sat, 22 Aug 2026 19:20:53 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 19:20:00 +0000</pubDate>
       <source>CNA Tech</source>
     </item>
     <item>
@@ -178,53 +283,11 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>OpenAI says California should strengthen its AI safety bill</title>
-      <link>https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/</link>
-      <description>[TechCrunch AI] OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.</description>
-      <pubDate>Sat, 22 Aug 2026 16:30:34 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Frontier AI labs still won’t say how they’d contain a rogue model</title>
-      <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
-      <description>[TechCrunch AI] A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.</description>
-      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Robot horse and rider steal the spotlight at Chinese conference</title>
       <link>https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.</description>
       <pubDate>Sat, 22 Aug 2026 12:47:28 +0000</pubDate>
       <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>王坚的“遗产”，为阿里留出后路</title>
-      <link>https://www.tmtpost.com/8112848.html</link>
-      <description>[钛媒体] 阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。</description>
-      <pubDate>Sat, 22 Aug 2026 10:27:40 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>订单跑在收入前，透过万国数据看数据中心的真相</title>
-      <link>https://www.tmtpost.com/8112373.html</link>
-      <description>[钛媒体] AI订单涨疯了，利润还在路上。</description>
-      <pubDate>Sat, 22 Aug 2026 10:26:20 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>3万亿美元隐形债务浮出水面：“AI基建潮”会引发下一场次贷危机吗？</title>
-      <link>https://www.tmtpost.com/8112363.html</link>
-      <description>[钛媒体] 真实需求不能阻止泡沫，现金流才能偿还债务。</description>
-      <pubDate>Sat, 22 Aug 2026 10:26:13 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>【数智周报】阿里再调业务架构：电商合并、云芯片整合、千问分拆为独立子公司；宇树科技登陆科创板；传Anthropic年化营收突破650亿美元……</title>
-      <link>https://www.tmtpost.com/8112858.html</link>
-      <description>[钛媒体] （8月17日~8月22日）王兴兴称机器人工厂工作暂时不能大规模推广；阿里二季度财报：AI投入继续影响利润和现金流；美商务部长：不希望苹果从中国采购存储芯片</description>
-      <pubDate>Sat, 22 Aug 2026 08:22:33 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Tesla and others begin record vehicle recall in China</title>
@@ -241,20 +304,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Anthropic’s Opus 4.6 is a smut-machine</title>
-      <link>https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/</link>
-      <description>[TechCrunch AI] Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.</description>
-      <pubDate>Fri, 21 Aug 2026 23:07:25 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Nvidia partners with data center developer Cloverleaf</title>
-      <link>https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/</link>
-      <description>[TechCrunch AI] Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.</description>
-      <pubDate>Fri, 21 Aug 2026 22:37:38 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>TikTok to pay $400m to US in one of largest child privacy settlements</title>
       <link>https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected &quot;vast amounts of data&quot; on millions of users under the age of 13.</description>
@@ -262,60 +311,11 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%</title>
-      <link>https://www.channelnewsasia.com/business/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-more-20-6334271</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 21 Aug 2026 21:29:39 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Over 1 million people have clicked LinkedIn’s AI slop button</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message</link>
       <description>[The Verge AI] LinkedIn actually announced a &quot;Seems like AI slop&quot; button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, &quot;over a million people&quot; have clicked on the button, which is accessible from the three dots</description>
       <pubDate>Fri, 21 Aug 2026 21:25:50 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Learning about your peers’ salaries can be stressful, but not knowing may cost you</title>
-      <link>https://www.straitstimes.com/business/invest/learning-about-your-peers-salaries-can-be-stressful-but-not-knowing-may-cost-you</link>
-      <description>[Straits Times] In Singapore, workers are asking for more salary information, but disclosure remains largely up to employers.</description>
-      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Want to know if you are paid enough? Start with these salary guides</title>
-      <link>https://www.straitstimes.com/business/invest/want-to-know-if-you-are-paid-enough-start-with-these-salary-guides</link>
-      <description>[Straits Times] ST’s salary guide draws on official data, while recruitment firms offer their own benchmarks based on proprietary data.</description>
-      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>When couples ‘break up’ to hide money from creditors</title>
-      <link>https://www.straitstimes.com/business/invest/when-couples-break-up-to-hide-money-from-creditors</link>
-      <description>[Straits Times] These debtors claimed to be broke after giving away everything to their spouses.</description>
-      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>TikTok to pay US$400 million settlement in US children's privacy case</title>
-      <link>https://www.channelnewsasia.com/world/tiktok-400-million-settlement-children-privacy-6334166</link>
-      <description>[CNA Tech] ByteDance and TikTok were sued in 2024 for allegedly violating a law requiring online services aimed at children to obtain parental consent before collecting personal information from users under 13.</description>
-      <pubDate>Fri, 21 Aug 2026 19:43:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say</title>
-      <link>https://www.channelnewsasia.com/business/buyout-firm-vista-explores-3-billion-sale-private-markets-data-provider-allvue-sources-say-6333916</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 21 Aug 2026 15:47:14 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Orbital data center startup Starcloud valued at $2.3 billion in latest funding</title>
-      <link>https://www.channelnewsasia.com/business/orbital-data-center-startup-starcloud-valued-23-billion-in-latest-funding-6333911</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 21 Aug 2026 15:33:47 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Major YouTube creators are facing backlash for accepting AI money</title>
@@ -331,13 +331,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
 The post What the teams getting the most from AI do differently appeared first on MarTech.</description>
       <pubDate>Fri, 21 Aug 2026 12:46:00 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>Chagee opens three stores in a day, including family-friendly outlet in Pasir Ris Mall</title>
-      <link>https://www.straitstimes.com/business/chagee-opens-three-stores-in-a-day-including-family-friendly-outlet-in-pasir-ris-mall</link>
-      <description>[Straits Times] The chain differentiates itself from other tea brands through its focus on healthy beverages.</description>
-      <pubDate>Fri, 21 Aug 2026 12:45:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>DayOne seeks loan to fund Hong Kong data centre ahead of US IPO</title>
