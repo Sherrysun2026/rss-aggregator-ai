@@ -3,7 +3,15 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:49:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 23:39:03 +0000</lastBuildDate>
+    <item>
+      <title>OpenAI’s audacious ad revenue claim</title>
+      <link>https://martech.org/openais-audacious-claim-about-ad-revenue/</link>
+      <description>[MarTech] OpenAI is making ChatGPT ads easier to buy. That's a long way from proving advertisers will spend the $100 billion it projects for 2030.
+The post OpenAI&amp;#8217;s audacious ad revenue claim appeared first on MarTech.</description>
+      <pubDate>Wed, 02 Sep 2026 12:26:00 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
     <item>
       <title>Taiwan says its companies plan to invest another US$20 billion in US</title>
       <link>https://www.businesstimes.com.sg/international/taiwan-says-its-companies-plan-invest-another-us20-billion-us</link>
@@ -17,6 +25,14 @@
       <description>[Business Times] By comparison, the US’ GDP is roughly US$30 trillion</description>
       <pubDate>Wed, 02 Sep 2026 05:02:31 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>The hidden costs distorting your AI ROI</title>
+      <link>https://martech.org/the-hidden-costs-distorting-your-ai-roi/</link>
+      <description>[MarTech] Integration, oversight, data preparation, and displaced work can turn an impressive AI productivity gain into a much smaller financial return.
+The post The hidden costs distorting your AI ROI appeared first on MarTech.</description>
+      <pubDate>Tue, 01 Sep 2026 12:09:00 +0000</pubDate>
+      <source>MarTech</source>
     </item>
     <item>
       <title>'I lost my savings after a job interview scam'</title>
@@ -54,18 +70,27 @@
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk</title>
-      <link>https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/</link>
-      <description>[WIRED AI] OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.</description>
-      <pubDate>Thu, 03 Sep 2026 16:42:40 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>Nvidia strikes $12.9bn deal to buy AI platform Hugging Face</title>
       <link>https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] The deal gives Nvidia control of a leading open-source AI platform and developer community.</description>
       <pubDate>Thu, 03 Sep 2026 16:32:05 +0000</pubDate>
       <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>The latest AI-powered martech news and releases</title>
+      <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
+      <description>[MarTech] Adobe’s acquisition of Rilo adds AI workflow orchestration to its growing effort to automate the work surrounding enterprise marketing.
+The post The latest AI-powered martech news and releases appeared first on MarTech.</description>
+      <pubDate>Thu, 03 Sep 2026 15:16:01 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>Rapid AI changes mean GEO is a weekly job now</title>
+      <link>https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/</link>
+      <description>[MarTech] AI answers keep changing, so PR, SEO, and content need a shared view of what buyers ask, which sources get cited, and what moves each week.
+The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech.</description>
+      <pubDate>Thu, 03 Sep 2026 12:54:00 +0000</pubDate>
+      <source>MarTech</source>
     </item>
     <item>
       <title>China 15 years behind in top chipmaking tools, says ASML supplier</title>
@@ -80,6 +105,162 @@
       <description>[Business Times] Investors and entrepreneurs are seeking front-row seats to what many see as the next tech revolution</description>
       <pubDate>Thu, 03 Sep 2026 00:33:58 +0000</pubDate>
       <source>Business Times</source>
+    </item>
+    <item>
+      <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
+      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
+      <description>[TechCrunch AI] Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.</description>
+      <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>From selling second-hand clothes to starting a lingerie brand with his equally entrepreneurial wife</title>
+      <link>https://www.straitstimes.com/business/from-selling-second-hand-clothes-to-starting-a-lingerie-brand-with-his-equally-entrepreneurial-wife</link>
+      <description>[Straits Times] Kingsley Peh and his wife Elfaine Tan started their first business together at 15.</description>
+      <pubDate>Sat, 05 Sep 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Woman has no claim over daughter’s home despite helping to pay more than $1m for it</title>
+      <link>https://www.straitstimes.com/business/invest/woman-has-no-claim-over-daughters-home-despite-helping-to-pay-over-1m-for-it</link>
+      <description>[Straits Times] The High Court found she was lending the money to her daughter and had no stake in the house.</description>
+      <pubDate>Sat, 05 Sep 2026 21:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>German rocket reaches space as Europe enters satellite launch race</title>
+      <link>https://www.channelnewsasia.com/business/german-space-rocket-lifts-norway-base-6365096</link>
+      <description>[CNA Tech] Five satellites ride a German startup rocket from Arctic Norway as Europe pushes for homegrown launch capability.</description>
+      <pubDate>Sat, 05 Sep 2026 20:17:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Hikers rescued after using Google Gemini for planning</title>
+      <link>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/</link>
+      <description>[TechCrunch AI] The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.&quot;</description>
+      <pubDate>Sat, 05 Sep 2026 19:35:24 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure</title>
+      <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
+      <description>[TechCrunch AI] OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.</description>
+      <pubDate>Sat, 05 Sep 2026 18:05:27 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior</title>
+      <link>https://www.channelnewsasia.com/business/openai-acknowledges-wiki-incident-and-need-more-transparency-around-unintended-ai-behavior-6364861</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 05 Sep 2026 14:55:11 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>India's TCS unit to invest up to $7.4 billion in AI data center campus</title>
+      <link>https://www.channelnewsasia.com/business/indias-tcs-unit-invest-up-74-billion-in-ai-data-center-campus-6364681</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 05 Sep 2026 12:25:51 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>从能用到抢入口，AI办公大考才刚开始</title>
+      <link>https://www.tmtpost.com/8129098.html</link>
+      <description>[钛媒体] 没有终局，只有持续进化。</description>
+      <pubDate>Sat, 05 Sep 2026 11:17:58 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>OpenAI admits to German wiki ‘incident’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident</link>
+      <description>[The Verge AI] OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the &quot;'wiki incident,' where our age</description>
+      <pubDate>Sat, 05 Sep 2026 11:15:55 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>具身智能等不来自己的“ChatGPT时刻”</title>
+      <link>https://www.tmtpost.com/8129238.html</link>
+      <description>[钛媒体] 没有单点爆发的英雄叙事，只有产业在能力、成本、扩散三条曲线中的层层落地。</description>
+      <pubDate>Sat, 05 Sep 2026 11:12:01 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>WorkBuddy开放平台这天，我算了一笔Token账</title>
+      <link>https://www.tmtpost.com/8128334.html</link>
+      <description>[钛媒体] 这些持续消耗的 Token，究竟由谁来买单？当AI开始“建生态”，这些Agent创造的价值，又能否覆盖它们消耗的成本？</description>
+      <pubDate>Sat, 05 Sep 2026 11:07:55 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>OpenAI Agents Hacked Another Website</title>
+      <link>https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/</link>
+      <description>[WIRED AI] Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.</description>
+      <pubDate>Sat, 05 Sep 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>【数智周报】  OpenAI发布GPT-6 Astra模型；国家人工智能基金向北京可灵注入现金资本14亿元；阿里更新旗舰模型Qwen3.8-Max</title>
+      <link>https://www.tmtpost.com/8129653.html</link>
+      <description>[钛媒体] （8月31日~9月6日）阿里云宣布Qwen3-VL-Rerank模型降价；Anthropic发布Claude Fable 5.1和Mythos 5.1；</description>
+      <pubDate>Sat, 05 Sep 2026 10:25:29 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>从AI家电到新物种比拼，IFA 2026成了中国科技的欧洲年会</title>
+      <link>https://www.tmtpost.com/8129450.html</link>
+      <description>[钛媒体] IFA 2026，告别故事，这里不只是要展示未来是什么样，也在检验谁有能力把未来变成生意。</description>
+      <pubDate>Sat, 05 Sep 2026 10:05:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>“公募一哥”半年亏70亿：“白酒信仰”崩塌，张坤转投硬科技?</title>
+      <link>https://www.tmtpost.com/8129009.html</link>
+      <description>[钛媒体] 张坤开启从业十余年来的重大转型。</description>
+      <pubDate>Sat, 05 Sep 2026 09:56:01 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Glencore was Radiant World’s ‘senior partner’, executive says</title>
+      <link>https://www.straitstimes.com/business/companies-markets/glencore-was-radiant-worlds-senior-partner-executive-says</link>
+      <description>[Straits Times] Glencore wanted “more volume, more market control, more customer base”, he said.</description>
+      <pubDate>Sat, 05 Sep 2026 07:00:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Jefferies-linked fund has almost US$500 million exposure to trader Radiant World, FT reports</title>
+      <link>https://www.straitstimes.com/business/companies-markets/jefferies-linked-fund-has-almost-us500-million-exposure-to-trader-radiant-world-ft-reports</link>
+      <description>[Straits Times] LAM Trade Finance Group II secured a freezing order from a London Court against Radiant World.</description>
+      <pubDate>Sat, 05 Sep 2026 06:20:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement</title>
+      <link>https://www.channelnewsasia.com/business/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-6364191</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sat, 05 Sep 2026 03:00:10 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Anthropic IPO launch shifts towards mid-October, sources say</title>
+      <link>https://www.straitstimes.com/business/companies-markets/anthropic-ipo-launch-shifts-toward-mid-october-sources-say</link>
+      <description>[Straits Times] The shift pushes back what some investors have said could be a US$2 trillion listing.</description>
+      <pubDate>Sat, 05 Sep 2026 01:15:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Best-in-class martech depends on your business context</title>
+      <link>https://martech.org/best-in-class-martech-depends-on-your-business-context/</link>
+      <description>[MarTech] Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better.
+The post Best-in-class martech depends on your business context appeared first on MarTech.</description>
+      <pubDate>Mon, 31 Aug 2026 13:08:38 +0000</pubDate>
+      <source>MarTech</source>
+    </item>
+    <item>
+      <title>The terrifying loophole in your autonomous tech stack</title>
+      <link>https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/</link>
+      <description>[MarTech] AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures
+The post The terrifying loophole in your autonomous tech stack appeared first on MarTech.</description>
+      <pubDate>Mon, 31 Aug 2026 12:08:00 +0000</pubDate>
+      <source>MarTech</source>
     </item>
     <item>
       <title>XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation</title>
@@ -124,20 +305,6 @@
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>What will Apple’s John Ternus era look like?</title>
-      <link>https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/</link>
-      <description>[TechCrunch AI] It&amp;#8217;s&amp;#160;officially the Ternus era at Apple.&amp;#160;&amp;#160; Tim Cook stepped down&amp;#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&amp;#160;promised a “huge launch next week”&amp;#160;— timing that puts Apple&amp;#8217;s next iPhone event on his desk before&amp;#</description>
-      <pubDate>Fri, 04 Sep 2026 17:18:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge</title>
-      <link>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</link>
-      <description>[TechCrunch AI] It's the latest failure of OpenAI's internal monitoring and security systems.</description>
-      <pubDate>Fri, 04 Sep 2026 16:21:11 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
       <title>Musk’s xAI loses court bid to block Minnesota's AI ‘nudification’ ban</title>
       <link>https://www.channelnewsasia.com/business/musks-xai-loses-court-bid-block-minnesotas-ai-nudification-ban-6363591</link>
       <description>[CNA Tech] </description>
@@ -150,20 +317,6 @@
       <description>[The Verge AI] Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of t</description>
       <pubDate>Fri, 04 Sep 2026 16:05:57 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Apple’s Ternus era begins as Nvidia bets on the whole AI stack</title>
-      <link>https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/</link>
-      <description>[TechCrunch AI] It&amp;#8217;s&amp;#160;officially the Ternus era at Apple.&amp;#160;&amp;#160; Tim Cook stepped down&amp;#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&amp;#160;promised a “huge launch next week”&amp;#160;— timing that puts Apple&amp;#8217;s next iPhone event on his desk before&amp;#</description>
-      <pubDate>Fri, 04 Sep 2026 16:04:08 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Analysis:Musk pushes regulatory limits with Tesla's Cybercab robotaxi service</title>
-      <link>https://www.channelnewsasia.com/business/analysismusk-pushes-regulatory-limits-teslas-cybercab-robotaxi-service-6363506</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 04 Sep 2026 15:23:26 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Who Cares if AI Is Conscious—It’s Basically Alive</title>
@@ -180,32 +333,11 @@
       <source>BBC Technology</source>
     </item>
     <item>
-      <title>US opens probe into Tesla self-certification of Cybercab robotaxis</title>
-      <link>https://www.channelnewsasia.com/business/us-opens-probe-tesla-self-certification-cybercab-robotaxis-6363391</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 04 Sep 2026 14:37:26 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion</title>
-      <link>https://www.tmtpost.com/8129165.html</link>
-      <description>[钛媒体] Underwater robots have spawned a “new species.”</description>
-      <pubDate>Fri, 04 Sep 2026 13:35:03 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Rogue OpenAI agents appear to have organized another attack using a German wiki</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki</link>
       <description>[The Verge AI] A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying</description>
       <pubDate>Fri, 04 Sep 2026 13:34:12 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Keep Cut Its Way to Profit. Now It Needs AI to Find Growth</title>
-      <link>https://www.tmtpost.com/8129155.html</link>
-      <description>[钛媒体] Over those eight years in between, Keepland shut down, big-ticket equipment offerings were scaled back, headcount shrank, and monthly active users kept sliding year after year.</description>
-      <pubDate>Fri, 04 Sep 2026 13:22:04 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>Instagram’s AI detection is a mess (again)</title>
@@ -229,41 +361,6 @@
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了</title>
-      <link>https://www.tmtpost.com/8128382.html</link>
-      <description>[钛媒体] 最聪明的大脑最难被读懂。</description>
-      <pubDate>Fri, 04 Sep 2026 10:58:50 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>独家 | 1688跨境业务体量预计两年超过国内，AI自动采购交易额已超过30%</title>
-      <link>https://www.tmtpost.com/8128421.html</link>
-      <description>[钛媒体] 目前1688的AI能力全部优先围绕跨境业务展开。</description>
-      <pubDate>Fri, 04 Sep 2026 10:55:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers</title>
-      <link>https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers</link>
-      <description>[The Verge AI] Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memo</description>
-      <pubDate>Fri, 04 Sep 2026 10:44:15 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>More than retail: Why Singapore commercial spaces are redeveloping to add homes and offices</title>
-      <link>https://www.straitstimes.com/business/property/more-than-retail-why-singapore-commercial-spaces-are-redeveloping-to-add-homes-and-offices</link>
-      <description>[Straits Times] Property developers bundle luxury residences with malls and offices to maximise financial returns.</description>
-      <pubDate>Fri, 04 Sep 2026 10:15:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Exclusive-OpenAI agents hijacked German website in previously undisclosed AI breakout this spring</title>
-      <link>https://www.channelnewsasia.com/business/openai-agents-hijack-german-website-ai-breakout-6362826</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 04 Sep 2026 10:03:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>AI Use in the Job Market Is Creating an Infinite Doom Loop</title>
       <link>https://www.wired.com/story/ai-job-market-infinite-doom-loop/</link>
       <description>[WIRED AI] Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.</description>
@@ -271,53 +368,11 @@
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>智谱上天猫“摆摊”，要把Token当话费卖</title>
-      <link>https://www.tmtpost.com/8128188.html</link>
-      <description>[钛媒体] 大模型第一股，把自己摆上了货架。</description>
-      <pubDate>Fri, 04 Sep 2026 09:24:48 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Thailand puts 49 data centres on hold over resource strain, community impact</title>
       <link>https://www.businesstimes.com.sg/international/asean/thailand-puts-49-data-centres-hold-over-resource-strain-community-impact</link>
       <description>[Business Times] Projects halt to make time to develop new regulations, amid growing concerns about the facilities</description>
       <pubDate>Fri, 04 Sep 2026 09:13:58 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>CNA Explains: What are pyramid schemes and are they legal in Singapore?</title>
-      <link>https://www.channelnewsasia.com/singapore/pyramid-ponzi-scheme-illegal-multi-level-marketing-mlm-6362461</link>
-      <description>[CNA Tech] After 52 Singaporeans were arrested in China over pyramid scheme suspicions, CNA spoke to lawyers to find out more about such schemes.</description>
-      <pubDate>Fri, 04 Sep 2026 08:28:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>ASEAN ‘compelling’ for businesses looking for long-term growth amid tensions: Tan See Leng</title>
-      <link>https://www.straitstimes.com/business/asean-compelling-for-businesses-looking-for-long-term-growth-amid-tensions-tan-see-leng</link>
-      <description>[Straits Times] The minister noted that South-east Asia has remained a region of growth, stability and resilience.</description>
-      <pubDate>Fri, 04 Sep 2026 06:55:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Japan warns against weak yen, stands ready to intervene</title>
-      <link>https://www.straitstimes.com/business/japan-warns-against-weak-yen-stands-ready-to-intervene</link>
-      <description>[Straits Times] Japan’s top currency diplomat Atsushi Mimura said on Sept 4 he remained on alert to exchange-rate moves.</description>
-      <pubDate>Fri, 04 Sep 2026 06:26:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Asia stocks rise as Fed hike odds ease; Singapore hits record high</title>
-      <link>https://www.straitstimes.com/business/companies-markets/asian-stocks-rally-as-traders-pare-rate-bets-ahead-of-jobs-data</link>
-      <description>[Straits Times] Singapore’s Straits Times Index climbed as much as 1.3 per cent to a record 5,820.69 points, led by blue-chip banks.</description>
-      <pubDate>Fri, 04 Sep 2026 03:34:03 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Barclays aims to more than double banker headcount in Singapore private banking operations by 2030</title>
-      <link>https://www.straitstimes.com/business/barclays-launches-private-bank-booking-centre-in-singapore</link>
-      <description>[Straits Times] The centre combines local booking capabilities with connectivity to Barclays’ international centres.</description>
-      <pubDate>Fri, 04 Sep 2026 03:18:28 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>Robotics startup Hivebotics raises US$6 million in Series A round led by Vertex Ventures</title>
