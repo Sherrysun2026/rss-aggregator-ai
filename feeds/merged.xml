@@ -3,7 +3,7 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sun, 06 Sep 2026 23:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:04:30 +0000</lastBuildDate>
     <item>
       <title>OpenAI’s audacious ad revenue claim</title>
       <link>https://martech.org/openais-audacious-claim-about-ad-revenue/</link>
@@ -33,34 +33,6 @@ The post OpenAI&amp;#8217;s audacious ad revenue claim appeared first on MarTech
 The post The hidden costs distorting your AI ROI appeared first on MarTech.</description>
       <pubDate>Tue, 01 Sep 2026 12:09:00 +0000</pubDate>
       <source>MarTech</source>
-    </item>
-    <item>
-      <title>'I lost my savings after a job interview scam'</title>
-      <link>https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.</description>
-      <pubDate>Thu, 03 Sep 2026 23:41:49 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Nobody Is Saying Why OpenAI and Anthropic Had Outages Today</title>
-      <link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
-      <description>[WIRED AI] ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.</description>
-      <pubDate>Thu, 03 Sep 2026 21:56:21 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>AI data centres are booming in Australia - but at what cost?</title>
-      <link>https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.</description>
-      <pubDate>Thu, 03 Sep 2026 18:32:03 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Nvidia strikes $12.9bn deal to buy AI platform Hugging Face</title>
-      <link>https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The deal gives Nvidia control of a leading open-source AI platform and developer community.</description>
-      <pubDate>Thu, 03 Sep 2026 16:32:05 +0000</pubDate>
-      <source>BBC Technology</source>
     </item>
     <item>
       <title>The latest AI-powered martech news and releases</title>
@@ -100,13 +72,6 @@ The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>【钛晨报】共增资3600亿元！8家中央金融企业拟补充资本，财政部将发行特别国债支持；紫金矿业就财报出错致歉；耐克首次遭标普100“开除”</title>
-      <link>https://www.tmtpost.com/8130184.html</link>
-      <description>[钛媒体] 央行今日将开展5000亿元买断式逆回购操作；问界辟谣“预制车”传闻；2连板爱仕达：具身智能机器人的合作项目尚处于起步阶段，已形成的销售收入仅13.72万元；特斯拉Robotaxi下月或实现全天运营；消息人士称Anthropic IPO启动时间推迟至十月中旬左右；广电总局：对用户上传微短剧，平台凡播必审。</description>
-      <pubDate>Sun, 06 Sep 2026 23:20:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Commentary: Altman's Opaque AI Is creating a new security dilemma</title>
       <link>https://www.channelnewsasia.com/commentary/openai-astra-model-danger-safety-6365581</link>
       <description>[CNA Tech] Despite loud pledges to prioritise safety, the OpenAI CEO has fired the starting gun on a dangerous AI arms race, says Parmy Olson Bloomberg Opinion.</description>
@@ -142,74 +107,11 @@ The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>China to pump $68b into state banks, insurers in capital-boosting push</title>
-      <link>https://www.straitstimes.com/business/china-to-pump-billions-into-state-banks-insurers-in-capital-boosting-push</link>
-      <description>[Straits Times] The insurance sector has been grappling with eroding profitability because of persistently low interest rates.</description>
-      <pubDate>Sun, 06 Sep 2026 09:39:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI</title>
-      <link>https://www.tmtpost.com/8129811.html</link>
-      <description>[钛媒体] 一个维持18年运行的自主决策系统——物理AI的打造过程和公理体系提炼</description>
-      <pubDate>Sun, 06 Sep 2026 08:35:28 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标</title>
-      <link>https://www.tmtpost.com/8129971.html</link>
-      <description>[钛媒体] 钠电入局，锂电打开多元增长空间。</description>
-      <pubDate>Sun, 06 Sep 2026 04:40:33 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争</title>
-      <link>https://www.tmtpost.com/8129268.html</link>
-      <description>[钛媒体] OpenAI 高管称已完成通用人工智能（AGI）80% 的进程，预计 2026 年底前推出内部 AGI 系统。</description>
-      <pubDate>Sun, 06 Sep 2026 03:57:09 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI时代，年轻人正在“忘记”打字</title>
-      <link>https://www.tmtpost.com/8129736.html</link>
-      <description>[钛媒体] 输入法都在AI化</description>
-      <pubDate>Sun, 06 Sep 2026 03:22:32 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>银行“抢着借钱”，字节贷款近2000亿搞AI？</title>
-      <link>https://www.tmtpost.com/8129806.html</link>
-      <description>[钛媒体] 随着全球AI竞争日益加剧，字节跳动当前正在加速提升自身的AI能力。</description>
-      <pubDate>Sun, 06 Sep 2026 03:22:29 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
       <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
       <description>[TechCrunch AI] Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.</description>
       <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
       <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Woman has no claim over daughter’s home despite helping to pay more than $1m for it</title>
-      <link>https://www.straitstimes.com/business/invest/woman-has-no-claim-over-daughters-home-despite-helping-to-pay-over-1m-for-it</link>
-      <description>[Straits Times] The High Court found she was lending the money to her daughter and had no stake in the house.</description>
-      <pubDate>Sat, 05 Sep 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>From selling second-hand clothes to starting a lingerie brand with his equally entrepreneurial wife</title>
-      <link>https://www.straitstimes.com/business/from-selling-second-hand-clothes-to-starting-a-lingerie-brand-with-his-equally-entrepreneurial-wife</link>
-      <description>[Straits Times] Kingsley Peh and his wife Elfaine Tan started their first business together at 15.</description>
-      <pubDate>Sat, 05 Sep 2026 21:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>German space rocket reaches orbit in Europe's first commercial launch</title>
-      <link>https://www.channelnewsasia.com/business/german-space-rocket-lifts-norway-base-6365096</link>
-      <description>[CNA Tech] Five satellites ride a German startup rocket from Arctic Norway as Europe pushes for homegrown launch capability.</description>
-      <pubDate>Sat, 05 Sep 2026 20:17:00 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Hikers rescued after using Google Gemini for planning</title>
@@ -226,20 +128,6 @@ The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior</title>
-      <link>https://www.channelnewsasia.com/business/openai-acknowledges-wiki-incident-and-need-more-transparency-around-unintended-ai-behavior-6364861</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Sat, 05 Sep 2026 14:55:11 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>India's TCS unit to invest up to $7.4 billion in AI data center campus</title>
-      <link>https://www.channelnewsasia.com/business/indias-tcs-unit-invest-up-74-billion-in-ai-data-center-campus-6364681</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Sat, 05 Sep 2026 12:25:51 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>OpenAI admits to German wiki ‘incident’</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident</link>
       <description>[The Verge AI] OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the &quot;'wiki incident,' where our age</description>
@@ -254,55 +142,165 @@ The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Glencore was Radiant World’s ‘senior partner’, executive says</title>
-      <link>https://www.straitstimes.com/business/companies-markets/glencore-was-radiant-worlds-senior-partner-executive-says</link>
-      <description>[Straits Times] Glencore wanted “more volume, more market control, more customer base”, he said.</description>
-      <pubDate>Sat, 05 Sep 2026 07:00:00 +0000</pubDate>
+      <title>【钛晨报】信息通信行业发展“十五五”规划发布，部署26项重点任务；微信内测“小微AI社交”：AI先聊再带回结果；央行：8月末黄金储备升至7673万盎司，连续22个月增持</title>
+      <link>https://www.tmtpost.com/8131620.html</link>
+      <description>[钛媒体] 宇树科技：首次实现人形机器人全自主搏击；理想汽车：自研电池将全面搭载到所有车型；华为时隔六年再次发布高性能芯片；千问办公推出业内首个多人工作台；捷豹路虎计划两年裁减4000个岗位；消息称1c nm有望2027年初成为SK海力士主流工艺；两部门：进一步规范汽车企业供应商账期管理；《版权工作“十五五”规划》印发；交通运输部就公路法修正草案征求意见稿向社会公开征求意见；六部门印发《关于推动历史经典产业高质量发展的意见》；港交所：8月底证券市场市价总值为47.2万亿港元，同比上升1%；澳大利亚或将允许用户关闭社交媒体算法选项；欧佩克主要产油国维持10月产量不变，七国暂停原油增产节奏</description>
+      <pubDate>Mon, 07 Sep 2026 23:20:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI cancer cures slowed by chip shortage, says UK's biggest tech boss</title>
+      <link>https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are &quot;going to solve it&quot;.</description>
+      <pubDate>Mon, 07 Sep 2026 23:05:12 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Opaque recurrence, and other AI terms that you should probably know</title>
+      <link>https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <description>[TechCrunch AI] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</description>
+      <pubDate>Mon, 07 Sep 2026 19:24:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Airbus aircraft deliveries to end-August rose 9%</title>
+      <link>https://www.straitstimes.com/business/airbus-aircraft-deliveries-to-end-august-rose-9</link>
+      <description>[Straits Times] Airbus said in a monthly bulletin that it had delivered 475 jets in the first eight months of the year.</description>
+      <pubDate>Mon, 07 Sep 2026 18:50:35 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Jefferies-linked fund has almost US$500 million exposure to trader Radiant World, FT reports</title>
-      <link>https://www.straitstimes.com/business/companies-markets/jefferies-linked-fund-has-almost-us500-million-exposure-to-trader-radiant-world-ft-reports</link>
-      <description>[Straits Times] LAM Trade Finance Group II secured a freezing order from a London court against Radiant World, its founder and another entity.</description>
-      <pubDate>Sat, 05 Sep 2026 06:20:00 +0000</pubDate>
+      <title>Grindr to pay £26m to settle claims it allegedly shared users' HIV status</title>
+      <link>https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.</description>
+      <pubDate>Mon, 07 Sep 2026 15:27:50 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Jefferies-linked fund seeks Singapore injunction against Radiant World</title>
+      <link>https://www.straitstimes.com/business/jefferies-linked-fund-seeks-singapore-injunction-against-radiant-world</link>
+      <description>[Straits Times] The filing adds to mounting challenges facing the iron ore trader.</description>
+      <pubDate>Mon, 07 Sep 2026 13:30:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement</title>
-      <link>https://www.channelnewsasia.com/business/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-6364191</link>
+      <title>OpenAI chief scientist warns no-one is prepared for consequences of AI</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.</description>
+      <pubDate>Mon, 07 Sep 2026 12:22:07 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death</title>
+      <link>https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.</description>
+      <pubDate>Mon, 07 Sep 2026 11:30:27 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>OpenAI has sent EU incident report on hijacked German website, Commission says</title>
+      <link>https://www.channelnewsasia.com/business/openai-has-sent-eu-incident-report-hijacked-german-website-commission-says-6367346</link>
       <description>[CNA Tech] </description>
-      <pubDate>Sat, 05 Sep 2026 03:00:10 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 10:56:24 +0000</pubDate>
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>Anthropic IPO launch shifts towards mid-October, sources say</title>
-      <link>https://www.straitstimes.com/business/companies-markets/anthropic-ipo-launch-shifts-toward-mid-october-sources-say</link>
-      <description>[Straits Times] The shift pushes back what some investors have said could be a US$2 trillion listing.</description>
-      <pubDate>Sat, 05 Sep 2026 01:15:00 +0000</pubDate>
+      <title>Britain’s Jaguar Land Rover to cut 4,000 jobs over next two years</title>
+      <link>https://www.straitstimes.com/business/britains-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years</link>
+      <description>[Straits Times] The manufacturer said it was targeting $2.9 billion of savings.</description>
+      <pubDate>Mon, 07 Sep 2026 10:46:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Best-in-class martech depends on your business context</title>
-      <link>https://martech.org/best-in-class-martech-depends-on-your-business-context/</link>
-      <description>[MarTech] Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better.
-The post Best-in-class martech depends on your business context appeared first on MarTech.</description>
-      <pubDate>Mon, 31 Aug 2026 13:08:38 +0000</pubDate>
-      <source>MarTech</source>
+      <title>AI Video Generation Crosses Real-Time Threshold, Enabling Continuous Streams and Interactive Stories</title>
+      <link>https://www.tmtpost.com/8131491.html</link>
+      <description>[钛媒体] Faster-than-playback generation from models such as MiniMax H3 Max is shifting AI video from batch production to continuous, interactive media. Early experiments show chat-driven infinite livestreams and near-zero-latency narrative games, though consistency, cost and safety remain open constraints.</description>
+      <pubDate>Mon, 07 Sep 2026 10:44:03 +0000</pubDate>
+      <source>钛媒体</source>
     </item>
     <item>
-      <title>The terrifying loophole in your autonomous tech stack</title>
-      <link>https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/</link>
-      <description>[MarTech] AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures
-The post The terrifying loophole in your autonomous tech stack appeared first on MarTech.</description>
-      <pubDate>Mon, 31 Aug 2026 12:08:00 +0000</pubDate>
-      <source>MarTech</source>
+      <title>AI and the Evolution of Value Investing: A Conversation with Zhong Zhaomin</title>
+      <link>https://www.tmtpost.com/8131485.html</link>
+      <description>[钛媒体] The breakout of generative artificial intelligence is reshaping corporate models and global markets. As information becomes ubiquitous and technological iterations accelerate, established competitive moats face constant redefinition. Yet for Zhong Zhaomin, founder of Oriental Marathon Investment Man</description>
+      <pubDate>Mon, 07 Sep 2026 10:40:04 +0000</pubDate>
+      <source>钛媒体</source>
     </item>
     <item>
-      <title>XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation</title>
-      <link>https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/</link>
-      <description>[TechCrunch AI] The round is being raised just months after the robot data startup exited from stealth.</description>
-      <pubDate>Fri, 04 Sep 2026 23:36:14 +0000</pubDate>
-      <source>TechCrunch AI</source>
+      <title>Whispering Complaints Into Your Phone May Be the Future of Customer Feedback</title>
+      <link>https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/</link>
+      <description>[WIRED AI] Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.</description>
+      <pubDate>Mon, 07 Sep 2026 10:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>新Qoder“不止于编程”，阿里AI办公赛马又起</title>
+      <link>https://www.tmtpost.com/8130900.html</link>
+      <description>[钛媒体] 吴泳铭的AI大局，陈宇森接的住吗？</description>
+      <pubDate>Mon, 07 Sep 2026 10:13:16 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上</title>
+      <link>https://www.tmtpost.com/8130806.html</link>
+      <description>[钛媒体] 市场把AIGC标识一周年读成合规成本账，误读了制度底色。当Atlas把生成精度推到肉眼难辨，惩罚治理已触顶。本文以历史同构与信号理论证明：标识不是惩罚烙印，而是信用存单——C2PA溯源市场正从20.6亿向51.2亿美元扩容，信用分层才是下一阶红利。</description>
+      <pubDate>Mon, 07 Sep 2026 09:57:56 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>模型负责上天，三个“野心家”负责把AI落地</title>
+      <link>https://www.tmtpost.com/8130980.html</link>
+      <description>[钛媒体] 黄仁勋、马斯克、孙正义，抢着做AI的“脏活”。</description>
+      <pubDate>Mon, 07 Sep 2026 09:36:20 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Novartis stock falls nearly 4% as heart-drug failure deepens setbacks</title>
+      <link>https://www.straitstimes.com/business/novartis-stock-falls-nearly-4-as-heart-drug-failure-deepens-setbacks</link>
+      <description>[Straits Times] It had earlier halted trials of an experimental cell therapy; rival Amgen's share price also hit.</description>
+      <pubDate>Mon, 07 Sep 2026 09:30:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Japanese sushi chain ends Chiikawa rollout after staff caught selling freebies online</title>
+      <link>https://www.channelnewsasia.com/business/japanese-sushi-chain-ends-chiikawa-rollout-after-staff-caught-selling-freebies-online-6366991</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 07 Sep 2026 08:17:21 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Cathay Pacific, Google expand AI trials to cut climate-warming aircraft contrails</title>
+      <link>https://www.channelnewsasia.com/business/cathay-pacific-google-expand-ai-trials-cut-climate-warming-aircraft-contrails-6366981</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 07 Sep 2026 08:10:19 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Huawei launches new foldable smartphone; Xiaomi and Apple set to follow</title>
+      <link>https://www.channelnewsasia.com/business/huawei-launches-new-foldable-smartphone-xiaomi-and-apple-set-follow-6366886</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 07 Sep 2026 07:19:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>UK's IQE swings to first-half profit and sees more AI data centre upside</title>
+      <link>https://www.channelnewsasia.com/business/uks-iqe-swings-first-half-profit-and-sees-more-ai-data-centre-upside-6366826</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Mon, 07 Sep 2026 06:48:10 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up</title>
+      <link>https://www.straitstimes.com/business/huawei-xiaomi-to-debut-new-foldables-ahead-of-foldable-iphone</link>
+      <description>[Straits Times] The launch ahead of Apple's new debut gives brands the chance to own the spotlight momentarily.</description>
+      <pubDate>Mon, 07 Sep 2026 05:27:01 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Singapore retail sales growth slows to 1.5% in July as food, department store takings fall</title>
+      <link>https://www.straitstimes.com/business/singapore-retail-sales-growth-slows-to-1-5-in-july-as-food-department-store-sales-fall</link>
+      <description>[Straits Times] Recreational goods recorded the strongest year-on-year growth, with sales rising 13.9 per cent.</description>
+      <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
+      <source>Straits Times</source>
     </item>
     <item>
       <title>Roland is getting into generative AI music with Melody Flip</title>
@@ -373,13 +371,6 @@ The post The terrifying loophole in your autonomous tech stack appeared first on
       <description>[Business Times] Its robot has an articulated arm and can clean a restroom</description>
       <pubDate>Fri, 04 Sep 2026 03:15:21 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>Could robots be the future of theme parks?</title>
-      <link>https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.</description>
-      <pubDate>Fri, 04 Sep 2026 02:02:02 +0000</pubDate>
-      <source>BBC Technology</source>
     </item>
   </channel>
 </rss>
