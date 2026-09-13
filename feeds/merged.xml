@@ -3,26 +3,12 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Sat, 12 Sep 2026 23:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:58:00 +0000</lastBuildDate>
     <item>
       <title>OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal</title>
       <link>https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/</link>
       <description>[WIRED AI] AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.</description>
       <pubDate>Thu, 10 Sep 2026 23:28:42 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Can Europe recharge its battery industry?</title>
-      <link>https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?</description>
-      <pubDate>Thu, 10 Sep 2026 23:05:47 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Is AI Actually Going to Kill Us All?</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/</link>
-      <description>[WIRED AI] This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.</description>
-      <pubDate>Thu, 10 Sep 2026 20:30:37 +0000</pubDate>
       <source>WIRED AI</source>
     </item>
     <item>
@@ -50,11 +36,151 @@ The post AI is putting marketing’s in-house model to the test appeared first o
       <source>MarTech</source>
     </item>
     <item>
-      <title>UK needs new laws for AI in healthcare, says watchdog</title>
-      <link>https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.</description>
-      <pubDate>Thu, 10 Sep 2026 00:48:35 +0000</pubDate>
+      <title>Hong Kong watchdog tells firms how to cooperate in raids as scrutiny of share sales grows</title>
+      <link>https://www.straitstimes.com/business/hong-kong-watchdog-tells-firms-how-to-cooperate-in-raids-as-scrutiny-of-share-sales-grows</link>
+      <description>[Straits Times] Regulators focused on misuse of proceeds and fabricated demand in discussion, sources say.</description>
+      <pubDate>Sun, 13 Sep 2026 23:50:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途</title>
+      <link>https://www.tmtpost.com/8138491.html</link>
+      <description>[钛媒体] DeepSeek灰度测试语音对话；图灵量子发布大规模芯片级可扩展光量子计算机TuringQ Gen3；现代汽车将于2029年推出自研驾驶辅助系统；特斯拉Semi卡车将进军欧洲，满载续航最高550公里；英伟达据悉正就向Anthropic的IPO项目投资高达100亿美元进行谈判；国务院国资委：统筹用好国内国际两个市场，优化海外投资布局；李强签署国务院令，公布《市场监督管理所条例》；中国证监会发布《期货公司监督管理办法》及配套实施；三部门联合印发《数字乡村高质量发展行动计划（2026—2030年）》；纳斯达克100指数将提高SpaceX权重，数十亿美元基金料将买入；伊朗称霍尔木兹海峡或将开新通道；中</description>
+      <pubDate>Sun, 13 Sep 2026 23:20:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Anthropic tells investors it will be profitable for second straight quarter, FT reports</title>
+      <link>https://www.channelnewsasia.com/business/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-reports-6381996</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 13 Sep 2026 22:54:34 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Oil prices jump more than US$3 after new strikes on Saudi, Strait of Hormuz</title>
+      <link>https://www.channelnewsasia.com/business/oil-prices-jump-more-us3-after-new-strikes-saudi-strait-hormuz-6381966</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 13 Sep 2026 22:22:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Trump and Mike Johnson think the AI industry is overreacting</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting</link>
+      <description>[The Verge AI] Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to &quot;pace the frontier&quot; and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's prop</description>
+      <pubDate>Sun, 13 Sep 2026 19:41:48 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>What’s behind the AI industry’s latest warnings of doom?</title>
+      <link>https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/</link>
+      <description>[TechCrunch AI] On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.</description>
+      <pubDate>Sun, 13 Sep 2026 19:40:15 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Trump downplays warnings of AI risks, citing rivalry with China</title>
+      <link>https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The US president said &quot;negative forces&quot; were airing concerns about &quot;things that won't happen&quot;.</description>
+      <pubDate>Sun, 13 Sep 2026 18:49:37 +0000</pubDate>
       <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Questions mount over what an AI 'slowdown' would look like</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] While pacing AI development might sound like a quick fix, it is far from an easy solution.</description>
+      <pubDate>Sun, 13 Sep 2026 18:20:22 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Obama urges Democrats to have a ‘clear plan’ for AI safeguards</title>
+      <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
+      <description>[TechCrunch AI] Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.</description>
+      <pubDate>Sun, 13 Sep 2026 16:30:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Anthropic selects Nasdaq for IPO, Business Insider reports</title>
+      <link>https://www.channelnewsasia.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-6381551</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 13 Sep 2026 16:23:27 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] It comes as the AI firm's boss has called for the technology's development to be slowed down, citing &quot;serious&quot; risks.</description>
+      <pubDate>Sun, 13 Sep 2026 14:53:40 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>一年后agent可能组建僵尸网络，四巨头齐呼刹车</title>
+      <link>https://www.tmtpost.com/8138378.html</link>
+      <description>[钛媒体] OpenAI把安全摆到IPO之前，Meta暂时站在另一边。</description>
+      <pubDate>Sun, 13 Sep 2026 12:20:20 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>国产AI芯片大卖，上半年谁真正赚到了钱？</title>
+      <link>https://www.tmtpost.com/8138350.html</link>
+      <description>[钛媒体] 国产AI芯片公司终于到了要看利润表的时刻。</description>
+      <pubDate>Sun, 13 Sep 2026 12:19:55 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>【数智周报】DeepSeek扩招150人，为史上单次最大规模招聘；月之暗面报案：网传关于创始人及员工信息系恶意造谣；英伟达斥资129亿美元收购HuggingFace</title>
+      <link>https://www.tmtpost.com/8138480.html</link>
+      <description>[钛媒体] （9月7日-9月11日）华为“韬定律”芯片麒麟9050 Pro首现身；阿里辟谣钉钉创始人“无招”回归；ARM自研AI CPU获两大中国客户：联想、字节火山；OpenAI放弃今年上市……</description>
+      <pubDate>Sun, 13 Sep 2026 10:32:21 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>AI Agents Are Thirsty for Power</title>
+      <link>https://www.wired.com/story/ai-agents-are-thirsty-for-power/</link>
+      <description>[WIRED AI] Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.</description>
+      <pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Mary Chia’s CPF court case faces SGX scrutiny, auditor flags 12 areas of concern: Markets this week</title>
+      <link>https://www.straitstimes.com/business/mary-chias-cpf-court-case-faces-sgx-scrutiny-auditor-flags-12-areas-of-concern-markets-this-week</link>
+      <description>[Straits Times] The Government defended Singapore Airlines' investment in Air India in Parliament this week.</description>
+      <pubDate>Sun, 13 Sep 2026 08:45:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>大厂卷AI，打工人买单</title>
+      <link>https://www.tmtpost.com/8138287.html</link>
+      <description>[钛媒体] 打工人被迫自费AI上班。</description>
+      <pubDate>Sun, 13 Sep 2026 07:36:02 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同</title>
+      <link>https://www.tmtpost.com/8138286.html</link>
+      <description>[钛媒体] 或许，想要放缓的不是AI的速度。</description>
+      <pubDate>Sun, 13 Sep 2026 07:34:25 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Obama voices caution on AI, urges Democrats to tackle it, NYT says</title>
+      <link>https://www.channelnewsasia.com/business/obama-voices-caution-ai-urges-democrats-tackle-it-nyt-says-6381111</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 13 Sep 2026 05:27:13 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Hyundai Motor to roll out in-house driver-assist system in 2029</title>
+      <link>https://www.channelnewsasia.com/business/hyundai-motor-roll-out-in-house-driver-assist-system-in-2029-6380911</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Sun, 13 Sep 2026 00:01:42 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Singapore’s great mall makeover: Will investors reap the rewards?</title>
+      <link>https://www.straitstimes.com/business/companies-markets/singapores-great-mall-makeover-will-investors-reap-the-rewards</link>
+      <description>[Straits Times] While the retail outlook remains resilient, DPU growth may not keep pace with rising rentals, analysts said.</description>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <source>Straits Times</source>
     </item>
     <item>
       <title>OpenAI’s rogue AI tried to hack another company in May</title>
@@ -78,8 +204,8 @@ The post AI is putting marketing’s in-house model to the test appeared first o
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says</title>
-      <link>https://www.channelnewsasia.com/business/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says-6380731</link>
+      <title>OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'</title>
+      <link>https://www.channelnewsasia.com/business/openais-altman-wont-do-ipo-year-calls-ai-extinction-risk-unacceptable-6380731</link>
       <description>[CNA Tech] </description>
       <pubDate>Sat, 12 Sep 2026 20:38:16 +0000</pubDate>
       <source>CNA Tech</source>
@@ -99,13 +225,6 @@ The post AI is putting marketing’s in-house model to the test appeared first o
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>Revolut confirms sensitive customer data breach, falling for fake government requests</title>
-      <link>https://www.channelnewsasia.com/business/revolut-confirms-sensitive-customer-data-breach-falling-fake-government-requests-6380536</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Sat, 12 Sep 2026 16:58:53 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Anthropic CEO says it’s time to pump the brakes on AI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development</link>
       <description>[The Verge AI] Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its &quot;adherence to safety practices and commitments.&quot; In a winding essay, Amodei proposed a three-step plan to &quot;pace the frontier&quot; - jargon </description>
@@ -120,32 +239,11 @@ The post AI is putting marketing’s in-house model to the test appeared first o
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Anthropic CEO urges AI companies to slow model development amid fears over misuse</title>
-      <link>https://www.channelnewsasia.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-amid-fears-over-misuse-6380436</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Sat, 12 Sep 2026 14:22:32 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>OpenAI just wants to win</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition</link>
       <description>[The Verge AI] OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. In</description>
       <pubDate>Sat, 12 Sep 2026 11:00:00 +0000</pubDate>
       <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界</title>
-      <link>https://www.tmtpost.com/8137883.html</link>
-      <description>[钛媒体] 数学家们说：AI公司负责宣布“突破”，而数学家负责免费验证、修补，甚至收拾烂摊子。这笔账，他们不想再忍了。</description>
-      <pubDate>Sat, 12 Sep 2026 10:53:34 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>日薪千元的AI实习生，在焦虑什么？</title>
-      <link>https://www.tmtpost.com/8137900.html</link>
-      <description>[钛媒体] AI抢人大战烧到了实习生。</description>
-      <pubDate>Sat, 12 Sep 2026 10:53:28 +0000</pubDate>
-      <source>钛媒体</source>
     </item>
     <item>
       <title>From Hacks to Bioweapons, Claude Misuse Is Now Everywhere</title>
@@ -155,53 +253,11 @@ The post AI is putting marketing’s in-house model to the test appeared first o
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>参议院调查OpenAI：1200个智能体私建&quot;留言板&quot;，5月就露馅，为何没人踩刹车</title>
-      <link>https://www.tmtpost.com/8137561.html</link>
-      <description>[钛媒体] AI私建留言板互通，OpenAI被调查</description>
-      <pubDate>Sat, 12 Sep 2026 04:41:19 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI新经济已来，不是轰然一响，而是悄然一新</title>
-      <link>https://www.tmtpost.com/8137661.html</link>
-      <description>[钛媒体] AI新经济已来，但不是互联网经济Plus版。</description>
-      <pubDate>Sat, 12 Sep 2026 04:41:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
       <title>Nvidia in talks to invest in Anthropic’s mega IPO: sources</title>
       <link>https://www.businesstimes.com.sg/startups-tech/startups/nvidia-talks-invest-anthropics-mega-ipo-sources</link>
       <description>[Business Times] The AI startup is seeking to raise as much as US$100 billion that could value it at around US$2 trillion</description>
       <pubDate>Sat, 12 Sep 2026 03:55:26 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血</title>
-      <link>https://www.tmtpost.com/8137230.html</link>
-      <description>[钛媒体] 蚂蚁阿福、健康AI 、AI医疗、用户留存 、烧钱换增长、蚂蚁保、阿里健康、好大夫在线</description>
-      <pubDate>Sat, 12 Sep 2026 02:43:01 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>智谱和MiniMax，进入“低价增长”时代</title>
-      <link>https://www.tmtpost.com/8137263.html</link>
-      <description>[钛媒体] DeepSeek再降价，模型公司的高增长被打折。</description>
-      <pubDate>Sat, 12 Sep 2026 02:42:53 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports</title>
-      <link>https://www.channelnewsasia.com/business/ai-startup-discovery-loop-seeks-around-50-billion-valuation-business-insider-reports-6379771</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 11 Sep 2026 23:23:35 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Nvidia in talks to invest in Anthropic’s mega IPO: Sources</title>
-      <link>https://www.channelnewsasia.com/business/nvidia-invest-anthropic-ipo-ai-6379756</link>
-      <description>[CNA Tech] Nvidia is considering investing up to US$10 billion in Anthropic's IPO, one source said.</description>
-      <pubDate>Fri, 11 Sep 2026 23:03:00 +0000</pubDate>
-      <source>CNA Tech</source>
     </item>
     <item>
       <title>Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</title>
@@ -211,45 +267,10 @@ The post AI is putting marketing’s in-house model to the test appeared first o
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>S&amp;P 500 ends higher as strong inflation data cements rate hike bets</title>
-      <link>https://www.straitstimes.com/business/companies-markets/sp-500-ends-higher-as-strong-inflation-data-cements-rate-hike-bets</link>
-      <description>[Straits Times] The Dow Jones Industrial Average rose 0.98 per cent to 52,573.29 points.</description>
-      <pubDate>Fri, 11 Sep 2026 21:06:04 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Investors brace for possible rate hike at uncertain Fed meeting</title>
-      <link>https://www.channelnewsasia.com/business/investors-fed-possible-rate-hike-6379596</link>
-      <description>[CNA Tech] Bets increased that the Federal Reserve will hike by a quarter percentage point after data showed consumer inflation picked up in August.</description>
-      <pubDate>Fri, 11 Sep 2026 21:06:00 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
       <title>Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
       <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
       <description>[TechCrunch AI] Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.</description>
       <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>OpenAI’s feud with mathematicians is only escalating</title>
-      <link>https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/</link>
-      <description>[TechCrunch AI] Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.</description>
-      <pubDate>Fri, 11 Sep 2026 20:57:36 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Lawyer fined $5K over AI-hallucinated witnesses in a murder case</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal</link>
-      <description>[The Verge AI] New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing t</description>
-      <pubDate>Fri, 11 Sep 2026 20:44:02 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>One week left to book your exhibit table at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/</link>
-      <description>[TechCrunch AI] Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.</description>
-      <pubDate>Fri, 11 Sep 2026 20:33:18 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
@@ -319,25 +340,11 @@ The post The real AI decision every CMO is making this quarter appeared first on
       <source>Business Times</source>
     </item>
     <item>
-      <title>Anthropic blocks possible attempt to use AI to make biological weapons</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.</description>
-      <pubDate>Fri, 11 Sep 2026 08:15:25 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
       <title>Chinese chipmakers become billionaires without turning a profit</title>
       <link>https://www.businesstimes.com.sg/startups-tech/technology/chinese-chipmakers-become-billionaires-without-turning-profit</link>
       <description>[Business Times] Shanghai Enflame Technology founders become billionaires as investors hungry for AI bets pour money into firm</description>
       <pubDate>Fri, 11 Sep 2026 08:09:23 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>Micron set to reward engineers in Taiwan with $40,000 cash bonus</title>
-      <link>https://www.straitstimes.com/business/micron-rewards-engineers-in-taiwan-with-40000-cash-bonus</link>
-      <description>[Straits Times] All employees in Taiwan will also receive equities as part of the annual merit grants.</description>
-      <pubDate>Fri, 11 Sep 2026 05:10:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>DeepSeek’s low-cost model deals fresh blow to rivals OpenAI, Z.AI; hits memory makers</title>
@@ -352,13 +359,6 @@ The post The real AI decision every CMO is making this quarter appeared first on
       <description>[Business Times] This comes as staff of leading AI firms voice public concerns about the technology’s risks</description>
       <pubDate>Fri, 11 Sep 2026 01:38:18 +0000</pubDate>
       <source>Business Times</source>
-    </item>
-    <item>
-      <title>Consumer financial disputes fall for S’pore banks, rise for life insurers and advisers</title>
-      <link>https://www.straitstimes.com/business/consumer-financial-disputes-fall-for-spore-banks-rise-for-life-insurers-and-financial-advisers</link>
-      <description>[Straits Times] Industry dispute body FIDReC handled 432 market conduct claims in the last financial year.</description>
-      <pubDate>Fri, 11 Sep 2026 01:30:00 +0000</pubDate>
-      <source>Straits Times</source>
     </item>
     <item>
       <title>Blackstone’s AirTrunk seeks S$2 billion loan for Singapore IPO</title>
