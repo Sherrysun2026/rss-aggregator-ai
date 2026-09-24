@@ -3,202 +3,307 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 11 sources</description>
-    <lastBuildDate>Wed, 23 Sep 2026 00:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:18:41 +0000</lastBuildDate>
     <item>
-      <title>US warns Australia's social media algorithm reforms risk 'facilitating censorship'</title>
-      <link>https://www.channelnewsasia.com/business/us-warns-australias-social-media-algorithm-reforms-risk-facilitating-censorship-6403646</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 22 Sep 2026 23:50:53 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4</title>
-      <link>https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/</link>
-      <description>[TechCrunch AI] Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.</description>
-      <pubDate>Tue, 22 Sep 2026 23:21:49 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>【钛晨报】事关轻工纺织产业发展，三部门最新部署；阿里试水千问平板，与字节押注不同的AI终端；“2026中国民营企业500强”发布</title>
-      <link>https://www.tmtpost.com/8149326.html</link>
-      <description>[钛媒体] 速卖通上线潜力市场智能经营Agent，AI托管200多个国家地区；腾讯混元图像3.5预览版发布，腾讯云API定价0.15元/张；特斯拉宣布部分Model 3/Y车型将搭载其自研音响算法；英伟达支持的AI制药公司Iambic提交美国IPO申请；苹果新款Mac mini和Mac Studio今日上市；国家发改委：将加快推动《中华人民共和国卫星导航条例》出台实施；国家发改委发布36个项目，拟引入民间投资超150亿元；中国首部耕地保护专门立法明年施行，将在三方面下功夫；国家卫生健康委发布50项新食品安全国家标准和修改单；中金公司：A股股票将于9月23日复牌；粤芯半导体：IPO发行价格为12.01元/股</description>
-      <pubDate>Tue, 22 Sep 2026 23:20:00 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>WPP opens London hub in bid to produce faster, AI-assisted ads</title>
-      <link>https://www.channelnewsasia.com/business/wpp-opens-london-hub-in-bid-produce-faster-ai-assisted-ads-6403616</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 22 Sep 2026 23:08:13 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Will a switch to light speed cut power use at data centres?</title>
-      <link>https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] To save power and add capacity,  data centres are switching from copper wires to tech using light.</description>
-      <pubDate>Tue, 22 Sep 2026 23:03:48 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>A new skyline of data centres is rising from the rolling plains of rural China</title>
-      <link>https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.</description>
-      <pubDate>Tue, 22 Sep 2026 22:04:31 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Rare look at the remote engine rooms powering China's AI ambitions</title>
-      <link>https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.</description>
-      <pubDate>Tue, 22 Sep 2026 22:03:48 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Snorkel AI triples valuation to $3.5B as demand for AI training data booms</title>
-      <link>https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/</link>
-      <description>[TechCrunch AI] The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.</description>
-      <pubDate>Tue, 22 Sep 2026 21:56:43 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide</title>
-      <link>https://www.channelnewsasia.com/business/exclusive-anthropic-openevidence-partner-bring-medical-ai-worldwide-6403491</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 22 Sep 2026 21:31:29 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Rabbit’s new AI agent doesn’t need an R1 to run</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3</link>
-      <description>[The Verge AI] Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 &quot;agentic operating system&quot; runs in the cloud but operates locally across Windows, Mac, and Linux devices. A</description>
-      <pubDate>Tue, 22 Sep 2026 20:52:40 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Financial stocks fall with AI and flattening yield curve in focus</title>
-      <link>https://www.channelnewsasia.com/business/financial-stocks-fall-ai-and-flattening-yield-curve-in-focus-6403396</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 22 Sep 2026 20:51:29 +0000</pubDate>
-      <source>CNA Tech</source>
-    </item>
-    <item>
-      <title>Nasdaq reaches record high close, AI stocks rally</title>
-      <link>https://www.straitstimes.com/business/companies-markets/nasdaq-reaches-record-high-close-ai-stocks-rally</link>
-      <description>[Straits Times] The Dow Jones Industrial Average fell 184.94 points, or 0.36 per cent, to 51,863.89.</description>
-      <pubDate>Tue, 22 Sep 2026 20:38:46 +0000</pubDate>
+      <title>SoftBank-backed Carro said to mull first dual Nasdaq-SGX IPO</title>
+      <link>https://www.straitstimes.com/business/softbank-backed-carro-said-to-mull-first-dual-nasdaq-sgx-ipo</link>
+      <description>[Straits Times] Deliberations are ongoing and details of the potential offering could change, adds source.</description>
+      <pubDate>Wed, 23 Sep 2026 23:50:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Qualcomm launches two new smartphone chips with emphasis on AI</title>
-      <link>https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/</link>
-      <description>[TechCrunch AI] Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.</description>
-      <pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
-      <source>TechCrunch AI</source>
+      <title>OpenAI agent 'infiltrated' Australian government website, PM says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Albanese said he expressed &quot;concern&quot; to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.</description>
+      <pubDate>Wed, 23 Sep 2026 23:44:58 +0000</pubDate>
+      <source>BBC Technology</source>
     </item>
     <item>
-      <title>Trailer chassis stacked vertically, 5-min EV battery swaps, smarter inventory forecasting: What modern logistics looks like in S’pore</title>
-      <link>https://www.straitstimes.com/business/singapore-logistics-sector-improving-efficiency-enterprise-singapore</link>
-      <description>[Straits Times] Enabled by innovation and with EnterpriseSG's support, home-grown firms build new capabilities to stay competitive.</description>
-      <pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>Meta admits Muse’s likeness to OpenClaw isn’t a coincidence</title>
-      <link>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</link>
-      <description>[TechCrunch AI] Meta says Muse was built from scratch, but acknowledges the AI assistant was &quot;heavily inspired&quot; by OpenClaw — down to some of its workspace filenames and content.</description>
-      <pubDate>Tue, 22 Sep 2026 19:09:11 +0000</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-    <item>
-      <title>How to Claim Your Cut of Apple’s $250 Million Siri Settlement</title>
-      <link>https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/</link>
-      <description>[WIRED AI] Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.</description>
-      <pubDate>Tue, 22 Sep 2026 18:19:13 +0000</pubDate>
+      <title>Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices</title>
+      <link>https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/</link>
+      <description>[WIRED AI] At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.</description>
+      <pubDate>Wed, 23 Sep 2026 23:42:44 +0000</pubDate>
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>OpenAI expands GPT-6 lineup with cheaper Sol and Luna models</title>
-      <link>https://www.channelnewsasia.com/business/openai-expands-gpt-6-lineup-cheaper-sol-and-luna-models-6403136</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Tue, 22 Sep 2026 18:01:58 +0000</pubDate>
-      <source>CNA Tech</source>
+      <title>Muse is coming to Meta smart glasses</title>
+      <link>https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features</link>
+      <description>[The Verge AI] Just a couple of weeks after launching Muse, Meta announced that it's &quot;working on&quot; bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a worko</description>
+      <pubDate>Wed, 23 Sep 2026 23:40:56 +0000</pubDate>
+      <source>The Verge AI</source>
     </item>
     <item>
-      <title>OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes</title>
-      <link>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/</link>
-      <description>[TechCrunch AI] OpenAI is launching two new models, which it says are cut from the same cloth as Astra.</description>
-      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+      <title>Meta introduces camera-free AI glasses</title>
+      <link>https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/</link>
+      <description>[TechCrunch AI] Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.</description>
+      <pubDate>Wed, 23 Sep 2026 23:39:44 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>ShinyHunters hackers say they breached FBI, stole data on bureau employees</title>
-      <link>https://www.channelnewsasia.com/business/shinyhunters-hackers-say-they-breached-fbi-stole-data-bureau-employees-6403081</link>
+      <title>Meta ditches the camera on its newest smart glasses</title>
+      <link>https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026</link>
+      <description>[The Verge AI] Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where &quot;pervert glasses&quot; are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encomp</description>
+      <pubDate>Wed, 23 Sep 2026 23:37:17 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek</title>
+      <link>https://www.tmtpost.com/8151174.html</link>
+      <description>[钛媒体] 经合组织上调2026年全球经济增速预期至2.9%；恒生指数公司推出恒生半导体产业指数等八条新指数；中国将适度超前、系统推进新一代通信网建设，推动算力设施扩容提质；央行：9月24日将开展8000亿元MLF操作，期限为1年期；苹果出手限制“摇一摇”广告；SpaceX据悉停止猎鹰9号2028年以后预订，业内正掀起运力抢购热潮</description>
+      <pubDate>Wed, 23 Sep 2026 23:20:00 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Meta is making Muse more powerful and will let you video chat with it, too</title>
+      <link>https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026</link>
+      <description>[The Verge AI] Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Mus</description>
+      <pubDate>Wed, 23 Sep 2026 23:19:42 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Indians are discovering the thrill of shopping without paying</title>
+      <link>https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.</description>
+      <pubDate>Wed, 23 Sep 2026 23:14:10 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Modal Labs in talks to raise funds at $15 billion valuation, Bloomberg News reports</title>
+      <link>https://www.channelnewsasia.com/business/modal-labs-in-talks-raise-funds-15-billion-valuation-bloomberg-news-reports-6406601</link>
       <description>[CNA Tech] </description>
-      <pubDate>Tue, 22 Sep 2026 17:38:14 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 22:49:33 +0000</pubDate>
       <source>CNA Tech</source>
     </item>
     <item>
-      <title>Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy</link>
-      <description>[The Verge AI] Venture capital firm Andreessen Horowitz (a16z) is creating an &quot;academy&quot; positioned as a pipeline for young people to build or join a Silicon Valley startup. The &quot;Horowitz Andreessen Academy&quot; will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir</description>
-      <pubDate>Tue, 22 Sep 2026 16:34:08 +0000</pubDate>
+      <title>Meta Connect 2026: The biggest news and announcements</title>
+      <link>https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements</link>
+      <description>[The Verge AI] It&amp;#8217;s about time for Meta Connect, the company&amp;#8217;s annual product launch event. This year, given the company&amp;#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&amp;#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has be</description>
+      <pubDate>Wed, 23 Sep 2026 22:45:00 +0000</pubDate>
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Anthropic releases Opus 5.5 with lower prices and Fable-level performance</title>
-      <link>https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/</link>
-      <description>[TechCrunch AI] Anthropic called it &quot;the strongest-performing model we've tested to date.&quot;</description>
-      <pubDate>Tue, 22 Sep 2026 16:30:07 +0000</pubDate>
+      <title>OpenAI and Anthropic bosses push UN for global terms on AI</title>
+      <link>https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.</description>
+      <pubDate>Wed, 23 Sep 2026 22:35:14 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch</title>
+      <link>https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote</link>
+      <description>[The Verge AI] It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how &quot;Meta is building a future for everyone&quot; - something he wrote at length about in a recent [&amp;</description>
+      <pubDate>Wed, 23 Sep 2026 22:30:00 +0000</pubDate>
+      <source>The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic says its biology lab has already found something big</title>
+      <link>https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/</link>
+      <description>[TechCrunch AI] But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.</description>
+      <pubDate>Wed, 23 Sep 2026 22:17:39 +0000</pubDate>
       <source>TechCrunch AI</source>
     </item>
     <item>
-      <title>Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity</link>
-      <description>[The Verge AI] Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's th</description>
-      <pubDate>Tue, 22 Sep 2026 16:30:00 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Trump says the US is officially renaming AI to ‘super intelligence’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence</link>
-      <description>[The Verge AI] In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, &quot;globalists,&quot; climate change, and transgender people while also claiming that the US is now &quot;officially&quot; renaming artificial intelligence to &quot;super intelligence.&quot; Oddly, this wasn't one of the entries in the po</description>
-      <pubDate>Tue, 22 Sep 2026 16:01:10 +0000</pubDate>
-      <source>The Verge AI</source>
-    </item>
-    <item>
-      <title>Rabbit Is Back, This Time With an AI Agent App</title>
-      <link>https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/</link>
-      <description>[WIRED AI] Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.</description>
-      <pubDate>Tue, 22 Sep 2026 16:00:00 +0000</pubDate>
+      <title>A US-China AI Hotline Won't Be Ready For a While</title>
+      <link>https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/</link>
+      <description>[WIRED AI] As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.</description>
+      <pubDate>Wed, 23 Sep 2026 21:00:00 +0000</pubDate>
       <source>WIRED AI</source>
     </item>
     <item>
-      <title>Radiant World sent Mizuho Bank fake Glencore e-mail, says court filing in Singapore</title>
-      <link>https://www.straitstimes.com/business/radiant-world-sent-mizuho-fake-glencore-e-mail-court-filing-in-singapore-says</link>
-      <description>[Straits Times] The bank is one of several lenders to have launched legal proceedings against the commodities trader.</description>
-      <pubDate>Tue, 22 Sep 2026 15:25:00 +0000</pubDate>
+      <title>AI firms should not get regulatory waivers, Nvidia CEO says on podcast</title>
+      <link>https://www.channelnewsasia.com/business/ai-firms-should-not-get-regulatory-waivers-nvidia-ceo-says-podcast-6406376</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 23 Sep 2026 20:27:06 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Anthropic says Claude AI helped discover novel enzyme system</title>
+      <link>https://www.channelnewsasia.com/business/anthropic-says-claude-ai-helped-discover-novel-enzyme-system-6406316</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 23 Sep 2026 20:12:00 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Exclusive-Hellman &amp; Friedman explores sale of Applied Systems at up to $10 billion, sources say</title>
+      <link>https://www.channelnewsasia.com/business/exclusive-hellman-friedman-explores-sale-applied-systems-up-10-billion-sources-say-6406321</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 23 Sep 2026 20:08:52 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>Enveda secures $311M to bring more nature-derived AI drugs into clinical trials</title>
+      <link>https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/</link>
+      <description>[TechCrunch AI] The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.</description>
+      <pubDate>Wed, 23 Sep 2026 19:31:28 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot</title>
+      <link>https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/</link>
+      <description>[WIRED AI] A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.</description>
+      <pubDate>Wed, 23 Sep 2026 18:30:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>Exclusive-Hacked FBI data has sensitive information about employees’ intelligence roles</title>
+      <link>https://www.channelnewsasia.com/business/exclusive-hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-6406141</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Wed, 23 Sep 2026 18:05:13 +0000</pubDate>
+      <source>CNA Tech</source>
+    </item>
+    <item>
+      <title>The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs</title>
+      <link>https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/</link>
+      <description>[WIRED AI] Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.</description>
+      <pubDate>Wed, 23 Sep 2026 18:03:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>ChatGPT mobile app gets voice-based agentic features</title>
+      <link>https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/</link>
+      <description>[TechCrunch AI] Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.</description>
+      <pubDate>Wed, 23 Sep 2026 17:00:00 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Even Americans who use AI every day are worried about it</title>
+      <link>https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/</link>
+      <description>[TechCrunch AI] The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.</description>
+      <pubDate>Wed, 23 Sep 2026 16:49:58 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Pornhub investigated over its age checks</title>
+      <link>https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.</description>
+      <pubDate>Wed, 23 Sep 2026 15:56:44 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>YouTube Music gets more conversational with new AI features</title>
+      <link>https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/</link>
+      <description>[TechCrunch AI] Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.</description>
+      <pubDate>Wed, 23 Sep 2026 15:19:30 +0000</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+    <item>
+      <title>StarHub, Keppel confirm talks over potential M1 deal</title>
+      <link>https://www.straitstimes.com/business/companies-markets/starhub-keppel-confirm-talks-over-potential-m1-deal</link>
+      <description>[Straits Times] Both companies said there is no certainty a transaction would materialise.</description>
+      <pubDate>Wed, 23 Sep 2026 14:05:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>mm2 Asia’s rescue investor gets waiver to take control without making general offer</title>
-      <link>https://www.straitstimes.com/business/mm2-asias-rescue-investor-gets-waiver-to-take-control-without-making-general-offer</link>
-      <description>[Straits Times] Should the placement go through, MMRA could emerge with more than 49 per cent of mm2 Asia’s voting rights.</description>
-      <pubDate>Tue, 22 Sep 2026 14:55:00 +0000</pubDate>
+      <title>McDonald’s commits $10.9b to fend off fierce competition</title>
+      <link>https://www.straitstimes.com/business/mcdonalds-commits-10-8b-to-fend-off-fierce-competition</link>
+      <description>[Straits Times] McDonald’s said its initiative aims to turn the chain into more than a stop for a quick, cheap meal.</description>
+      <pubDate>Wed, 23 Sep 2026 12:55:00 +0000</pubDate>
       <source>Straits Times</source>
     </item>
     <item>
-      <title>Wall Street expects Meta’s AI agent Muse to shape into a new revenue engine</title>
-      <link>https://www.straitstimes.com/business/wall-street-expects-metas-ai-agent-to-shape-into-a-new-revenue-engine</link>
-      <description>[Straits Times] Muse can send e-mails, book travel and complete transactions on behalf of a user.</description>
-      <pubDate>Tue, 22 Sep 2026 14:45:00 +0000</pubDate>
-      <source>Straits Times</source>
+      <title>Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw</title>
+      <link>https://www.wired.com/story/metas-muse-ai-agent-zero-day/</link>
+      <description>[WIRED AI] Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.</description>
+      <pubDate>Wed, 23 Sep 2026 12:54:58 +0000</pubDate>
+      <source>WIRED AI</source>
     </item>
     <item>
-      <title>从卖芯片到做平台，地平线押注“Arm+Android”模式</title>
-      <link>https://www.tmtpost.com/8148860.html</link>
-      <description>[钛媒体] 地平线征程芯片突破1500万颗，Arm+Android模式正成为其进入车企自研体系的新支点。</description>
-      <pubDate>Tue, 22 Sep 2026 14:13:31 +0000</pubDate>
+      <title>联发科“串场”，OPPO、vivo旗舰机换芯</title>
+      <link>https://www.tmtpost.com/8151065.html</link>
+      <description>[钛媒体] 不到24小时，芯片厂商高管连飞两地，连续为两家顶级安卓手机厂商的年度旗舰重磅站台。在注重首发排他性与品牌独占权的智能手机行业，这一幕不常见。</description>
+      <pubDate>Wed, 23 Sep 2026 12:04:10 +0000</pubDate>
       <source>钛媒体</source>
+    </item>
+    <item>
+      <title>OpenAI gives cyber defence tools to Ukraine</title>
+      <link>https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable</description>
+      <pubDate>Wed, 23 Sep 2026 12:01:37 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>杀猪盘最贵的一道工序，AI 接手了</title>
+      <link>https://www.tmtpost.com/8151037.html</link>
+      <description>[钛媒体] 让人心甘情愿地把钱交出去。</description>
+      <pubDate>Wed, 23 Sep 2026 11:45:59 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>企业数据太多，AI知道得太少：千问办公的上下文生意</title>
+      <link>https://www.tmtpost.com/8151019.html</link>
+      <description>[钛媒体] 一家中大型企业内部的数据规模平均约为150PB，而目前最强模型的上下文窗口多为 100 万token左右。</description>
+      <pubDate>Wed, 23 Sep 2026 11:34:32 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>Singapore joins over 50 US trade partners for webinar on forced labour prohibitions</title>
+      <link>https://www.straitstimes.com/business/singapore-joins-over-50-us-trade-partners-for-webinar-on-forced-labour-prohibitions</link>
+      <description>[Straits Times] MTI said the US shared its perspective on the design and enforcement of such import prohibitions.</description>
+      <pubDate>Wed, 23 Sep 2026 11:05:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Asian and European stocks gain as oil slides, AI buzz lifts tech</title>
+      <link>https://www.straitstimes.com/business/asian-and-european-stocks-gain-as-oil-slides-ai-buzz-lifts-tech</link>
+      <description>[Straits Times] A sustained resumption of oil flows through Hormuz would impact the global interest rate outlook.</description>
+      <pubDate>Wed, 23 Sep 2026 10:49:56 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Grab executives buy back shares after stock hits 3-year low on Atome deal</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/grab-executives-buy-back-shares-after-stock-hits-3-year-low-atome-deal</link>
+      <description>[Business Times] ‘I have put my money where my mouth is... I believe in our strategy and our direction,’ says CEO Anthony Tan</description>
+      <pubDate>Wed, 23 Sep 2026 10:20:01 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>AT&amp;T Is Automating Away Jobs—and Its Old Telecom Empire</title>
+      <link>https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/</link>
+      <description>[WIRED AI] The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.</description>
+      <pubDate>Wed, 23 Sep 2026 10:15:00 +0000</pubDate>
+      <source>WIRED AI</source>
+    </item>
+    <item>
+      <title>AI制药的火，烧到了“产业中游”</title>
+      <link>https://www.tmtpost.com/8150777.html</link>
+      <description>[钛媒体] AI制药的火，已然从“设计端”烧到了“验证端”，产业中游的蛋白试剂与验证服务商正是当下最热的风口。</description>
+      <pubDate>Wed, 23 Sep 2026 09:45:09 +0000</pubDate>
+      <source>钛媒体</source>
+    </item>
+    <item>
+      <title>SGX raises the bar on shareholder engagement and transparency, including what goes into CEO pay</title>
+      <link>https://www.straitstimes.com/business/companies-markets/sgx-raises-the-bar-on-shareholder-engagement-and-transparency-including-what-goes-into-ceo-pay</link>
+      <description>[Straits Times] The new rules kick in on Jan 1, 2027.</description>
+      <pubDate>Wed, 23 Sep 2026 09:30:00 +0000</pubDate>
+      <source>Straits Times</source>
+    </item>
+    <item>
+      <title>Chinese AI firms fall on report of DeepSeek, Moonshot probe</title>
+      <link>https://www.businesstimes.com.sg/startups-tech/technology/chinese-ai-firms-fall-report-deepseek-moonshot-probe</link>
+      <description>[Business Times] Shares of Z.AI and MiniMax decline as much as 7.4% and 6.3% in Hong Kong, respectively</description>
+      <pubDate>Wed, 23 Sep 2026 06:21:26 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>Alibaba to add data centres in Europe, Middle East amid AI push, US-China tech race</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/alibaba-add-data-centres-europe-middle-east-amid-ai-push-us-china-tech-race</link>
+      <description>[Business Times] It is increasingly going head-to-head with Western rivals Amazon and Alphabet in regions beyond Asia</description>
+      <pubDate>Wed, 23 Sep 2026 04:04:02 +0000</pubDate>
+      <source>Business Times</source>
+    </item>
+    <item>
+      <title>US criticises Australia's proposed algorithm opt-out laws as 'censorship'</title>
+      <link>https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.</description>
+      <pubDate>Wed, 23 Sep 2026 01:35:56 +0000</pubDate>
+      <source>BBC Technology</source>
+    </item>
+    <item>
+      <title>China’s AI trade favours global winners over local champions</title>
+      <link>https://www.businesstimes.com.sg/international/chinas-ai-trade-favours-global-winners-over-local-champions</link>
+      <description>[Business Times] Export-oriented firms are outperforming more domestically-focused peers</description>
+      <pubDate>Wed, 23 Sep 2026 01:13:40 +0000</pubDate>
+      <source>Business Times</source>
     </item>
     <item>
       <title>Apple, armed with new Macs, is taking on Microsoft and Nvidia in a rush to lower AI costs</title>
@@ -208,20 +313,6 @@
       <source>Business Times</source>
     </item>
     <item>
-      <title>Viture’s Vonder Glasses Are Meant to Map Your Mind</title>
-      <link>https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/</link>
-      <description>[WIRED AI] No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.</description>
-      <pubDate>Tue, 22 Sep 2026 13:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>AI Models Built From Rat Brains Just Got Closer to Reality</title>
-      <link>https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/</link>
-      <description>[WIRED AI] The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.</description>
-      <pubDate>Tue, 22 Sep 2026 13:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
       <title>Wall Street expects Meta’s new AI agent to become a new revenue engine</title>
       <link>https://www.businesstimes.com.sg/startups-tech/technology/wall-street-expects-metas-ai-agent-shape-new-revenue-engine</link>
       <description>[Business Times] The agent’s app has clocked 2.8 million downloads in its first 12 days since launch</description>
@@ -229,116 +320,25 @@
       <source>Business Times</source>
     </item>
     <item>
-      <title>Meta patches Muse exploit that let attackers control the AI agent</title>
-      <link>https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</link>
-      <description>[The Verge AI] Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code t</description>
-      <pubDate>Tue, 22 Sep 2026 11:53:58 +0000</pubDate>
+      <title>Meta is making a standalone Muse AI gadget</title>
+      <link>https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware</link>
+      <description>[The Verge AI] Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of his Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little lanyar</description>
+      <pubDate>Thu, 24 Sep 2026 00:15:20 +0000</pubDate>
       <source>The Verge AI</source>
     </item>
     <item>
-      <title>Forget one major – graduates may need 10 minors in the AI age: Piyush Gupta</title>
-      <link>https://www.straitstimes.com/business/forget-one-major-graduates-may-need-10-minors-in-the-ai-age-piyush-gupta</link>
-      <description>[Straits Times] With AI providing instant knowledge, universities must now teach students how to think, the SMU chairman said.</description>
-      <pubDate>Tue, 22 Sep 2026 11:45:00 +0000</pubDate>
-      <source>Straits Times</source>
-    </item>
-    <item>
-      <title>From smart glasses to AI pins, privacy fears challenge tech's next big bet</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/technology/smart-glasses-ai-pins-privacy-fears-challenge-techs-next-big-bet</link>
-      <description>[Business Times] Companies vying for a share of the market face a tough balancing act</description>
-      <pubDate>Tue, 22 Sep 2026 10:51:51 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>I Built AI Clones of My Coworkers. Things Got Weird</title>
-      <link>https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/</link>
-      <description>[WIRED AI] Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.</description>
-      <pubDate>Tue, 22 Sep 2026 10:30:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them</title>
-      <link>https://www.wired.com/story/big-interview-patti-harrison/</link>
-      <description>[WIRED AI] The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.</description>
-      <pubDate>Tue, 22 Sep 2026 10:00:00 +0000</pubDate>
-      <source>WIRED AI</source>
-    </item>
-    <item>
-      <title>AI概念越来越宽，行业分类为什么反而需要更细？</title>
-      <link>https://www.tmtpost.com/8148965.html</link>
-      <description>[钛媒体] 行业分类本身不产生收益，却决定一家公司和谁比较、被放进哪个估值中枢，也决定投资者看到的&quot;行业平均值&quot;究竟意味着什么。</description>
-      <pubDate>Tue, 22 Sep 2026 09:22:55 +0000</pubDate>
+      <title>未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点</title>
+      <link>https://www.tmtpost.com/8149015.html</link>
+      <description>[钛媒体] 从此次SAB讨论中，一个更加完整的医学框架逐渐浮现：基因组→深度表型→连续数据→AI整合→风险预测→个体化干预→临床结果→持续学习。如果进一步概括，这意味着我们正在进入一个以生命信息网络为核心的“InformNet”时代。</description>
+      <pubDate>Thu, 24 Sep 2026 00:14:33 +0000</pubDate>
       <source>钛媒体</source>
     </item>
     <item>
-      <title>价值判断：跌停板的投资机会和风险提示（9月21日）｜上市公司观察</title>
-      <link>https://www.tmtpost.com/8148962.html</link>
-      <description>[钛媒体] 盘面上，医药（化学制药、CRO、医疗服务）与房地产（房地产服务、房地产开发）双线爆发领涨，零售、旅游酒店等消费方向表现活跃；白色家电、贵金属、电池等方向领跌，半导体等前期科技硬件高位退潮。指数温和上行、板块高低切换，跌停个股多源于前期涨幅透支后的估值回归，或因重大事项引发预期分歧，跌停家数有限、市场无需系统性避险。</description>
-      <pubDate>Tue, 22 Sep 2026 09:22:41 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>价值判断：涨停板的投资机会和风险提示（9月21日）｜上市公司观察</title>
-      <link>https://www.tmtpost.com/8148959.html</link>
-      <description>[钛媒体] 盘面上，医药（化学制药、CRO、医疗服务）与房地产（房地产服务、房地产开发）双线爆发领涨，零售、旅游酒店等消费方向表现活跃；白色家电、贵金属、电池等方向领跌，半导体等前期科技硬件高位退潮。指数温和上行、板块高低切换，首次涨停的深度低估标的多集中于电梯产业链、居住服务等顺周期方向，而连续涨停的显著溢价标的则集中于地产链与区域零售。</description>
-      <pubDate>Tue, 22 Sep 2026 09:22:31 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>AI导购“百团大战”开打：电商十年逻辑正在被改写</title>
-      <link>https://www.tmtpost.com/8143622.html</link>
-      <description>[钛媒体] AI导购这门生意的终极KPI，从来不是GMV。</description>
-      <pubDate>Tue, 22 Sep 2026 09:04:33 +0000</pubDate>
-      <source>钛媒体</source>
-    </item>
-    <item>
-      <title>Amazon blocks Meta’s Muse AI agent from its retail site</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/technology/amazon-blocks-metas-muse-ai-agent-its-retail-site</link>
-      <description>[Business Times] The e-commerce giant builds its own automated shopping tools and seeks to stop rivals’ bots from using its platform</description>
-      <pubDate>Tue, 22 Sep 2026 08:34:56 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>Meta’s new Muse AI app tops charts, draws strong reviews</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/technology/metas-new-muse-ai-app-tops-charts-draws-strong-reviews</link>
-      <description>[Business Times] Its early popularity may show that AI bets could eventually pay off</description>
-      <pubDate>Tue, 22 Sep 2026 00:36:57 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>Syfe crosses S$20 billion AUM mark, tracks growth from investment and trading segments</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/startups/syfe-crosses-s20-billion-aum-mark-tracks-growth-investment-and-trading-segments</link>
-      <description>[Business Times] Its focus now is on curating the funds that are right for the platform’s users</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <source>Business Times</source>
-    </item>
-    <item>
-      <title>The virtual worlds where robots are trained</title>
-      <link>https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Training systems that allow robots to negotiate the real world are getting more sophisticated.</description>
-      <pubDate>Thu, 17 Sep 2026 23:00:47 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Not all AI workers think the tech could kill everyone</title>
-      <link>https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.</description>
-      <pubDate>Sat, 19 Sep 2026 23:01:57 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>Google's Gemini AI hacked three companies in security test</title>
-      <link>https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.</description>
-      <pubDate>Sat, 19 Sep 2026 13:39:32 +0000</pubDate>
-      <source>BBC Technology</source>
-    </item>
-    <item>
-      <title>California tightens rules on AI data center energy and water use</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</link>
-      <description>[The Verge AI] California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen</description>
-      <pubDate>Mon, 21 Sep 2026 20:29:45 +0000</pubDate>
-      <source>The Verge AI</source>
+      <title>SoftBank issues $11.1 billion in bonds in OpenAI financing push</title>
+      <link>https://www.channelnewsasia.com/business/softbank-issues-111-billion-in-bonds-in-openai-financing-push-6406761</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Thu, 24 Sep 2026 00:13:20 +0000</pubDate>
+      <source>CNA Tech</source>
     </item>
   </channel>
 </rss>
