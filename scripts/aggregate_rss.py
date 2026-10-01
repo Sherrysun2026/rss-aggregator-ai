@@ -74,7 +74,7 @@ def fetch_feed(source):
             if count >= PER_SOURCE_LIMIT:
                 break
 
-            title   = entry.get("title", "").strip()
+            title   = html.unescape(entry.get("title", "")).strip()
             url     = entry.get("link", "").strip()
             summary = clean_html(entry.get("summary", entry.get("description", "")))
 
