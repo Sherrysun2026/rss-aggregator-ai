@@ -3,6 +3,7 @@ import requests
 from datetime import datetime, timezone, timedelta
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
+import html
 import os
 import re
 
@@ -37,12 +38,18 @@ AI_KEYWORDS = [
     "人工智能", "科技", "大模型", "算法", "数字化", "电商", "创业", "芯片"
 ]
 
+# 英文关键词按整词匹配（避免 "ai" 命中 "said"），中文没有词边界，按子串匹配
+LATIN_KEYWORD_RE = re.compile(
+    r"(?<![a-z0-9])(?:" + "|".join(re.escape(k) for k in AI_KEYWORDS if k.isascii()) + r")(?![a-z0-9])"
+)
+CJK_KEYWORDS = [k for k in AI_KEYWORDS if not k.isascii()]
+
 def is_ai_or_tech(title, summary):
     text = (title + " " + summary).lower()
-    return any(keyword in text for keyword in AI_KEYWORDS)
+    return bool(LATIN_KEYWORD_RE.search(text)) or any(keyword in text for keyword in CJK_KEYWORDS)
 
 def clean_html(text):
-    return re.sub(r'<[^>]+>', '', text).strip()[:300]
+    return html.unescape(re.sub(r'<[^>]+>', '', text)).strip()[:300]
 
 def fetch_feed(source):
     articles = []
@@ -84,7 +91,8 @@ def fetch_feed(source):
                     except Exception:
                         continue
 
-            if pub_date and pub_date < cutoff:
+            # 没有日期的条目无法判断是否在时间窗口内，且 RSS 2.0 的 pubDate 不能为空，直接跳过
+            if pub_date is None or pub_date < cutoff:
                 continue
 
             if source["name"] in FILTER_REQUIRED:
@@ -92,11 +100,12 @@ def fetch_feed(source):
                     continue
 
             articles.append({
-                "source":   source["name"],
-                "title":    title,
-                "url":      url,
-                "summary":  summary,
-                "pub_date": pub_date.strftime("%a, %d %b %Y %H:%M:%S +0000") if pub_date else "",
+                "source":     source["name"],
+                "source_url": source["url"],
+                "title":      title,
+                "url":        url,
+                "summary":    summary,
+                "pub_date":   pub_date,
             })
             count += 1
 
@@ -121,8 +130,8 @@ def generate_rss_xml(all_articles):
         SubElement(item, "title").text       = article["title"]
         SubElement(item, "link").text        = article["url"]
         SubElement(item, "description").text = f"[{article['source']}] {article['summary']}"
-        SubElement(item, "pubDate").text     = article["pub_date"]
-        SubElement(item, "source").text      = article["source"]
+        SubElement(item, "pubDate").text     = article["pub_date"].strftime("%a, %d %b %Y %H:%M:%S +0000")
+        SubElement(item, "source", url=article["source_url"]).text = article["source"]
 
     xml_str = minidom.parseString(tostring(rss, encoding="unicode")).toprettyxml(indent="  ")
     return "\n".join(xml_str.split("\n")[1:])
