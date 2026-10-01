@@ -8,29 +8,36 @@ import os
 import re
 
 # ============================================
-# 11个新闻源配置
+# 新闻源配置
 # ============================================
 RSS_FEEDS = [
-    {"name": "TechCrunch AI",  "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
-    {"name": "The Verge AI",   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
-    {"name": "WIRED AI",       "url": "https://www.wired.com/feed/tag/ai/latest/rss"},
-    {"name": "36氪",           "url": "https://36kr.com/feed"},
-    {"name": "钛媒体",         "url": "https://www.tmtpost.com/rss.xml"},
-    {"name": "Business Times", "url": "https://www.businesstimes.com.sg/rss/startups-tech"},
-    {"name": "Tech in Asia",   "url": "https://www.techinasia.com/feed"},
-    {"name": "MarTech",        "url": "https://martech.org/topic/marketing-artificial-intelligence-ai/feed/"},
-    {"name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
-    {"name": "CNA Tech",       "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936"},
-    {"name": "Straits Times",  "url": "https://www.straitstimes.com/news/business/rss.xml"},
+    # 国际 AI 媒体
+    {"name": "TechCrunch AI",       "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
+    {"name": "The Verge AI",        "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    {"name": "WIRED AI",            "url": "https://www.wired.com/feed/tag/ai/latest/rss"},
+    {"name": "MIT Tech Review AI",  "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"},
+    {"name": "Hugging Face Blog",   "url": "https://huggingface.co/blog/feed.xml"},
+    {"name": "MarTech",             "url": "https://martech.org/topic/marketing-artificial-intelligence-ai/feed/"},
+    {"name": "BBC Technology",      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
+    # 聚合器：全网热度最高的科技新闻，新公司/新产品会自动浮现
+    {"name": "Techmeme",            "url": "https://www.techmeme.com/feed.xml"},
+    {"name": "Hacker News",         "url": "https://hnrss.org/frontpage"},
+    # 中国
+    {"name": "36氪",                "url": "https://www.36kr.com/feed"},
+    {"name": "钛媒体",              "url": "https://www.tmtpost.com/rss.xml"},
+    # 新加坡 / 东南亚
+    {"name": "Business Times",      "url": "https://www.businesstimes.com.sg/rss/startups-tech"},
+    {"name": "CNA Tech",            "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936"},
+    {"name": "Straits Times",       "url": "https://www.straitstimes.com/news/business/rss.xml"},
 ]
 
-PER_SOURCE_LIMIT = 6
+PER_SOURCE_LIMIT = 10
 DAYS_BACK = 7
 
-FILTER_REQUIRED = ["BBC Technology", "CNA Tech", "Straits Times", "36氪", "钛媒体"]
+FILTER_REQUIRED = ["BBC Technology", "CNA Tech", "Straits Times", "36氪", "钛媒体", "Techmeme", "Hacker News"]
 
 AI_KEYWORDS = [
-    "ai", "artificial intelligence", "machine learning", "llm", "chatgpt",
+    "ai", "a.i.", "artificial intelligence", "machine learning", "llm", "chatgpt",
     "openai", "anthropic", "gemini", "deepseek", "nvidia", "tech", "technology",
     "martech", "ecommerce", "e-commerce", "digital", "robot", "automation",
     "startup", "software", "app", "platform", "data", "cloud", "chip",
@@ -122,7 +129,7 @@ def generate_rss_xml(all_articles):
 
     SubElement(channel, "title").text = "AI & Tech News Aggregator"
     SubElement(channel, "link").text = "https://github.com/Sherrysun2026/rss-aggregator-ai"
-    SubElement(channel, "description").text = "Aggregated AI and Tech news from 11 sources"
+    SubElement(channel, "description").text = f"Aggregated AI and Tech news from {len(RSS_FEEDS)} sources"
     SubElement(channel, "lastBuildDate").text = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
     for article in all_articles:

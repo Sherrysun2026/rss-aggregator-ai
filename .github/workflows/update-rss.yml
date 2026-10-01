@@ -26,6 +26,8 @@ jobs:
         run: python scripts/aggregate_rss.py
 
       - name: Commit and push
+        # 只在 main 上发布 feed；在其他分支手动运行时只做测试，不提交
+        if: github.ref == 'refs/heads/main'
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
