@@ -4,33 +4,17 @@
 
 /**
  * 调用 Gemini，返回文本；失败返回 null。
- * 遇到 429（限流）或 5xx（模型繁忙）会等待重试；主模型一直繁忙时，换备用模型再试。
+ * - 5xx（模型繁忙）：等几秒重试
+ * - 429（额度用完）：不重试（重试也不会恢复），直接换备用模型（备用模型有自己独立的额度）
+ * - 主模型失败过一次后，本次运行剩下的调用直接用备用模型，"看视频"也自动停用
  * options: temperature, maxTokens, json, mediaResolution,
  *          retries（每个模型最多试几次，默认 2）, fallback（是否允许换备用模型，默认 true）
  */
-// 主模型本次运行中已经连续繁忙过一次，就不再先试它，直接用备用模型（省下每次十几秒的重试等待）
+
 let geminiPrimaryBusy = false;
 
 function callGemini(parts, options) {
   options = options || {};
-  const generationConfig = {
-    temperature: options.temperature != null ? options.temperature : 0.4,
-    maxOutputTokens: options.maxTokens || 2048
-  };
-  if (CONFIG.GEMINI_THINKING_BUDGET != null) {
-    generationConfig.thinkingConfig = { thinkingBudget: CONFIG.GEMINI_THINKING_BUDGET };
-  }
-  if (options.json) generationConfig.responseMimeType = 'application/json';
-  if (options.mediaResolution) generationConfig.mediaResolution = options.mediaResolution;
-
-  const request = {
-    method: 'post',
-    contentType: 'application/json',
-    headers: { 'x-goog-api-key': getSecret('GEMINI_API_KEY') }, // key 放 header，不出现在 URL 里
-    payload: JSON.stringify({ contents: [{ role: 'user', parts: parts }], generationConfig: generationConfig }),
-    muteHttpExceptions: true
-  };
-
   const canFallback = options.fallback !== false && !!CONFIG.GEMINI_FALLBACK_MODEL;
   const models = canFallback && geminiPrimaryBusy ? [CONFIG.GEMINI_FALLBACK_MODEL]
     : canFallback ? [CONFIG.GEMINI_MODEL, CONFIG.GEMINI_FALLBACK_MODEL]
@@ -38,20 +22,30 @@ function callGemini(parts, options) {
   const retries = options.retries || 2;
 
   for (let m = 0; m < models.length; m++) {
-    const url = 'https://generativelanguage.googleapis.com/v1beta/models/' + models[m] + ':generateContent';
+    const model = models[m];
+    const url = 'https://generativelanguage.googleapis.com/v1beta/models/' + model + ':generateContent';
+    const request = {
+      method: 'post',
+      contentType: 'application/json',
+      headers: { 'x-goog-api-key': getSecret('GEMINI_API_KEY') }, // key 放 header，不出现在 URL 里
+      payload: JSON.stringify({ contents: [{ role: 'user', parts: parts }], generationConfig: buildGenerationConfig(model, options) }),
+      muteHttpExceptions: true
+    };
+    let lastCode = 0;
 
     for (let attempt = 1; attempt <= retries; attempt++) {
       let res;
       try {
         res = UrlFetchApp.fetch(url, request);
       } catch (e) {
-        log('Gemini ' + models[m] + ' 请求异常（第 ' + attempt + ' 次）：' + e.message);
+        log('Gemini ' + model + ' 请求异常（第 ' + attempt + ' 次）：' + e.message);
+        lastCode = -1;
         if (attempt < retries) Utilities.sleep(3000);
         continue;
       }
 
-      const code = res.getResponseCode();
-      if (code === 200) {
+      lastCode = res.getResponseCode();
+      if (lastCode === 200) {
         const body = JSON.parse(res.getContentText());
         const candidate = body.candidates && body.candidates[0];
         const resultParts = candidate && candidate.content && candidate.content.parts;
@@ -64,21 +58,49 @@ function callGemini(parts, options) {
           .map(function (p) { return p.text || ''; })
           .join('')
           .trim();
-        if (text && m > 0) log('（已改用备用模型 ' + models[m] + '）');
+        if (text && model !== CONFIG.GEMINI_MODEL) log('（已改用备用模型 ' + model + '）');
         return text || null;
       }
 
-      let message = res.getContentText();
-      try { message = JSON.parse(message).error.message; } catch (e) { /* 保留原文 */ }
-      log('Gemini ' + models[m] + ' HTTP ' + code + '（第 ' + attempt + ' 次）：' + String(message).slice(0, 200));
-
-      const retryable = code === 429 || code >= 500;
-      if (!retryable) return null;                                         // 400 之类的错误重试也没用
-      if (attempt < retries) Utilities.sleep(5000 * attempt); // 5s, 10s
+      log('Gemini ' + model + ' HTTP ' + lastCode + '（第 ' + attempt + ' 次）：' + describeGeminiError(res.getContentText()));
+      if (lastCode < 500) break;                               // 429 / 400 / 404：重试没用
+      if (attempt < retries) Utilities.sleep(5000 * attempt);  // 5s, 10s
     }
-    if (models[m] === CONFIG.GEMINI_MODEL && canFallback) geminiPrimaryBusy = true;
+
+    if (model === CONFIG.GEMINI_MODEL && (lastCode === 429 || lastCode >= 500 || lastCode === -1)) {
+      geminiPrimaryBusy = true;
+    } else if (lastCode !== 429 && lastCode < 500) {
+      return null; // 400 / 404 之类：请求本身有问题，换模型也没用
+    }
   }
   return null;
+}
+
+/** 2.5 系列可以用 thinkingBudget: 0 关掉思考；其他（3.x 等）不传这个参数，并给足输出 token，避免思考吃掉输出 */
+function buildGenerationConfig(model, options) {
+  const is25 = /^gemini-2\.5-flash/.test(model);
+  const config = {
+    temperature: options.temperature != null ? options.temperature : 0.4,
+    maxOutputTokens: is25 ? (options.maxTokens || 2048) : Math.max(options.maxTokens || 0, 4096)
+  };
+  if (is25 && CONFIG.GEMINI_THINKING_BUDGET != null) config.thinkingConfig = { thinkingBudget: CONFIG.GEMINI_THINKING_BUDGET };
+  if (options.json) config.responseMimeType = 'application/json';
+  if (options.mediaResolution) config.mediaResolution = options.mediaResolution;
+  return config;
+}
+
+/** 把 Gemini 的错误整理成一行；额度错误会附上具体是哪个额度（每分钟 / 每天 / token） */
+function describeGeminiError(raw) {
+  try {
+    const err = JSON.parse(raw).error;
+    const quotaIds = [];
+    (err.details || []).forEach(function (d) {
+      (d.violations || []).forEach(function (v) { if (v.quotaId) quotaIds.push(v.quotaId); });
+    });
+    return String(err.message || '').split('. ')[0].slice(0, 160) + (quotaIds.length ? ' [额度: ' + unique(quotaIds).join(', ') + ']' : '');
+  } catch (e) {
+    return String(raw).slice(0, 200);
+  }
 }
 
 function callGeminiText(prompt, options) {
@@ -151,8 +173,8 @@ function pickBestWithGemini(candidates, slotDescription, ctx) {
       + 'and anything that is mainly selling a product or course.',
     'If every candidate is weak, still pick the least bad one.',
     '',
-    'Return JSON only: {"index": <number>, "why": "<one sentence, max 25 words, written to me as \'you\', in '
-      + CONFIG.OUTPUT_LANGUAGE + ', on why this is worth my time>"}'
+    'Return JSON only: {"index": <number>, "why": "<one English sentence, max 25 words, written to me as \'you\', on why this is worth my time>"'
+      + (CONFIG.BILINGUAL ? ', "why_zh": "<the same reason as one natural Simplified Chinese sentence, max 50 characters>"' : '') + '}'
   ].join('\n');
 
   const result = callGeminiJson(prompt, { temperature: 0.3, maxTokens: 512 });
@@ -161,6 +183,7 @@ function pickBestWithGemini(candidates, slotDescription, ctx) {
   if (result && Number.isInteger(index) && pool[index]) {
     const picked = pool[index];
     picked.why = oneLine(result.why || '', 220);
+    picked.whyZh = oneLine(result.why_zh || '', 120);
     log('Gemini 选中 #' + index + '：' + picked.title);
     return picked;
   }
@@ -204,6 +227,7 @@ function planDiscovery(ctx) {
     '',
     'Return JSON only:',
     '{"theme": "a specific 3-6 word label", "hook": "the curious question this explores, max 20 words", '
+      + (CONFIG.BILINGUAL ? '"theme_zh": "theme in natural Simplified Chinese", "hook_zh": "hook in natural Simplified Chinese", ' : '')
       + '"queries": ["three YouTube search queries, 2-6 words each, ordered from specific to slightly broader, '
       + 'phrased the way a real person would type them"]}'
   ].join('\n');
@@ -216,6 +240,8 @@ function planDiscovery(ctx) {
         return {
           theme: oneLine(plan.theme, 80),
           hook: oneLine(plan.hook || '', 160),
+          themeZh: oneLine(plan.theme_zh || '', 40),
+          hookZh: oneLine(plan.hook_zh || '', 80),
           queries: plan.queries.slice(0, 3).map(function (q) { return oneLine(q, 80); })
         };
       }
@@ -233,12 +259,15 @@ function planDiscovery(ctx) {
 // Highlights
 // ============================================
 
+/** 返回 { highlights, highlightsZh, titleZh }；双语模式下中文部分由同一次调用生成，不额外花额度 */
 function writeHighlights(item, ctx) {
   const vu = CONFIG.VIDEO_UNDERSTANDING;
   const canWatch = item.type === 'youtube'
     && vu.enabled
     && item.minutes > 0
+    && !geminiPrimaryBusy            // 主模型已经繁忙/没额度，就别再花额度看视频
     && Date.now() - ctx.startedAt < vu.skipAfterMs;
+  const json = CONFIG.BILINGUAL;
 
   if (canWatch) {
     const watchedMinutes = Math.min(item.minutes, vu.maxMinutes);
@@ -250,17 +279,34 @@ function writeHighlights(item, ctx) {
       { text: buildHighlightsPrompt(item, watchedMinutes) }
     ];
     // 看视频很慢，失败就直接改用文字，不重试
-    const text = callGemini(parts, { temperature: 0.3, mediaResolution: 'MEDIA_RESOLUTION_LOW', retries: 1, fallback: false });
+    const text = callGemini(parts, { temperature: 0.3, mediaResolution: 'MEDIA_RESOLUTION_LOW', retries: 1, fallback: false, json: json, maxTokens: 3072 });
     if (text) {
       log('Highlights（看视频）：' + item.title.slice(0, 50));
-      return cleanModelText(text);
+      return parseHighlights(text);
     }
     log('视频理解失败，改用文字资料：' + item.title.slice(0, 50));
   }
 
-  const text = callGeminiText(buildHighlightsPrompt(item, 0), { temperature: 0.3 });
+  const text = callGeminiText(buildHighlightsPrompt(item, 0), { temperature: 0.3, json: json, maxTokens: 3072 });
   if (text) log('Highlights（文字）：' + item.title.slice(0, 50));
-  return text ? cleanModelText(text) : '';
+  return text ? parseHighlights(text) : null;
+}
+
+function parseHighlights(text) {
+  if (!CONFIG.BILINGUAL) return { highlights: cleanModelText(text) };
+  let data = null;
+  try {
+    data = JSON.parse(text);
+  } catch (e) {
+    const match = text.match(/\{[\s\S]*\}/);
+    try { data = match ? JSON.parse(match[0]) : null; } catch (err) { data = null; }
+  }
+  if (!data || !data.en) return { highlights: cleanModelText(text) }; // 没按 JSON 返回，就当作纯英文摘要
+  return {
+    highlights: cleanModelText(data.en),
+    highlightsZh: cleanModelText(data.zh || ''),
+    titleZh: oneLine(data.title_zh || '', 120)
+  };
 }
 
 function buildHighlightsPrompt(item, watchedMinutes) {
@@ -289,14 +335,24 @@ function buildHighlightsPrompt(item, watchedMinutes) {
     materialLabel + ':',
     item.description || '(none)',
     '',
-    'Instructions:',
-    '- Write in ' + CONFIG.OUTPUT_LANGUAGE + ', 130-180 words of flowing prose. Open with the single most interesting idea, no preamble.',
+    'Instructions for the English briefing:',
+    '- 130-180 words of flowing prose. Open with the single most interesting idea, no preamble.',
     '- Be concrete: name the specific arguments, frameworks, studies, numbers, people or examples that actually appear.',
     '- Never invent details. If the source is thin (e.g. a description that is mostly links and sponsors), '
       + 'write only 50-90 words describing what it is about, without guessing specifics.',
     '- Ignore sponsor reads, ads, discount codes and social links.',
     '- End with one sentence on who will get the most out of it, or what to pay attention to.',
     '- Third person. No bullet points, no markdown, no emoji, no headings.',
-    'Return only the briefing text.'
+    CONFIG.BILINGUAL ? [
+      '',
+      'Also write a Simplified Chinese version for a reader whose English is limited:',
+      '- Rewrite the same content in natural, fluent Chinese (not a word-for-word translation), about 200-300 characters.',
+      '- The first time a specialized term, acronym, drug, scientific concept, or lesser-known person appears, '
+        + 'keep the original term and add a short plain-language explanation in Chinese parentheses, '
+        + 'e.g. "DMT（二甲基色胺，一种强效致幻物质）", "entoptic phenomena（内视现象：眼睛自身结构产生、看到的光点或图案）".',
+      '- Also translate the title into natural Chinese.',
+      '',
+      'Return JSON only: {"en": "<English briefing>", "zh": "<中文摘要>", "title_zh": "<中文标题>"}'
+    ].join('\n') : 'Return only the briefing text.'
   ].join('\n');
 }

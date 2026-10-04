@@ -12,11 +12,11 @@ const CONFIG = {
   SEND_HOUR: 8,                       // installDailyTrigger() 用的发送时间（新加坡时间）
 
   GEMINI_MODEL: 'gemini-2.5-flash',
-  GEMINI_FALLBACK_MODEL: 'gemini-2.5-flash-lite', // 主模型繁忙（503）时自动改用；不想用就改成 null
+  GEMINI_FALLBACK_MODEL: 'gemini-3.5-flash-lite', // 主模型繁忙或额度用完时自动改用（独立额度）；不想用就改成 null
   // 2.5 Flash 可以把 thinking 关掉（0），省 token 也避免输出被吃掉。
   // 如果换成 gemini-2.5-pro，改成 null（Pro 不允许关闭 thinking）。
   GEMINI_THINKING_BUDGET: 0,
-  OUTPUT_LANGUAGE: 'English',         // highlights 的语言，想看中文就改成 'Simplified Chinese'
+  BILINGUAL: true,                    // true = 摘要/推荐理由/标题都给中英双语；false = 只有英文
 
   // 让 Gemini 直接"看" YouTube 视频来写 highlights（比只读简介准确得多）
   // 如果日志里经常出现 429 / quota 错误，把 enabled 改成 false。

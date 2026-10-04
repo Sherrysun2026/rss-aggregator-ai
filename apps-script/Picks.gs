@@ -110,7 +110,8 @@ function pickDiscovery(ctx) {
   candidates.sort(byLikeRateDesc);
   const picked = choose(candidates,
     'Discovery rabbit hole "' + plan.theme + '"' + (plan.hook ? ': ' + plan.hook : '')
-      + '. Pick the video that opens this topic up best for a curious newcomer who wants depth, not a shallow overview.', ctx);
+      + '. The pick must be directly about this theme (not a loosely related or sensational tangent). '
+      + 'Pick the video that opens it up best for a curious newcomer who wants depth, not a shallow overview.', ctx);
 
   if (picked) picked.discovery = plan;
   return picked;

@@ -40,7 +40,7 @@ function runDailyPicks(options) {
 
     // 2. 写 highlights
     items.forEach(function (item) {
-      item.highlights = safely('Highlights', function () { return writeHighlights(item, ctx); }) || '';
+      Object.assign(item, safely('Highlights', function () { return writeHighlights(item, ctx); }) || {});
     });
 
     // 3. 发邮件

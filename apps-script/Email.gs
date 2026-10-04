@@ -28,7 +28,9 @@ function buildEmailHtml(picks, dateLabel) {
       renderItem(picks.trending, 'trending')
     ]),
     sectionHtml('Part 03 — Discovery',
-      discoveryPlan ? discoveryPlan.theme + (discoveryPlan.hook ? ' — ' + discoveryPlan.hook : '') : 'A rabbit hole just outside your usual interests',
+      discoveryPlan ? discoveryPlan.theme + (discoveryPlan.hook ? ' — ' + discoveryPlan.hook : '')
+        + (discoveryPlan.themeZh ? '\n' + discoveryPlan.themeZh + (discoveryPlan.hookZh ? '：' + discoveryPlan.hookZh : '') : '')
+        : 'A rabbit hole just outside your usual interests',
       '#059669', [renderItem(picks.discovery, 'discovery')]),
     footerHtml()
   ].join('');
@@ -59,7 +61,7 @@ function sectionHtml(label, subtitle, color, itemsHtml) {
   return '<tr><td style="padding:0 4px 10px;">'
     + '<p style="margin:0;font-size:12px;font-weight:800;color:' + color + ';letter-spacing:2px;text-transform:uppercase;'
     + 'border-left:4px solid ' + color + ';padding-left:10px;">' + escapeHtml(label) + '</p>'
-    + '<p style="margin:4px 0 0;padding-left:14px;font-size:13px;color:#6b7280;">' + escapeHtml(subtitle) + '</p>'
+    + '<p style="margin:4px 0 0;padding-left:14px;font-size:13px;line-height:1.6;color:#6b7280;">' + escapeHtml(subtitle).replace(/\n/g, '<br>') + '</p>'
     + '</td></tr>'
     + '<tr><td style="background:#ffffff;border-radius:16px;border-top:4px solid ' + color + ';">'
     + '<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">'
@@ -90,12 +92,24 @@ function renderItem(item, themeKey) {
 
   const why = item.why
     ? '<p style="margin:0 0 12px;font-size:13px;line-height:1.6;color:' + t.accent + ';">'
-      + '<strong>Why this pick:</strong> ' + escapeHtml(item.why) + '</p>'
+      + '<strong>Why this pick:</strong> ' + escapeHtml(item.why)
+      + (item.whyZh ? '<br><strong>推荐理由：</strong>' + escapeHtml(item.whyZh) : '') + '</p>'
     : '';
 
-  const highlights = String(item.highlights || '').split(/\n\s*\n/).filter(Boolean).map(function (p) {
+  let highlights = String(item.highlights || '').split(/\n\s*\n/).filter(Boolean).map(function (p) {
     return '<p style="margin:0 0 12px;font-size:14px;line-height:1.8;color:#374151;">' + escapeHtml(p.trim()) + '</p>';
   }).join('');
+  if (highlights && item.highlightsZh) {
+    highlights += '<p style="margin:16px 0 6px;font-size:11px;font-weight:700;letter-spacing:2px;color:' + t.accent + ';">中文摘要</p>'
+      + String(item.highlightsZh).split(/\n\s*\n/).filter(Boolean).map(function (p) {
+        return '<p style="margin:0 0 12px;font-size:14px;line-height:1.9;color:#374151;">' + escapeHtml(p.trim()) + '</p>';
+      }).join('');
+  }
+  if (!highlights && item.description) {
+    // Gemini 写不出 highlights（比如额度用完）时，退而显示原始简介的开头
+    highlights = '<p style="margin:0 0 12px;font-size:13px;line-height:1.7;color:#6b7280;">'
+      + escapeHtml(oneLine(item.description, 320)) + '</p>';
+  }
 
   const button = '<a href="' + escapeHtml(item.url) + '" style="display:inline-block;background:' + t.accent + ';'
     + 'color:#ffffff;font-size:14px;font-weight:700;padding:11px 26px;border-radius:10px;text-decoration:none;">'
@@ -106,6 +120,7 @@ function renderItem(item, themeKey) {
     + thumbnail
     + '<h3 style="margin:0 0 6px;font-size:18px;line-height:1.35;font-weight:800;">'
     + '<a href="' + escapeHtml(item.url) + '" style="color:#111827;text-decoration:none;">' + escapeHtml(item.title) + '</a></h3>'
+    + (item.titleZh ? '<p style="margin:0 0 6px;font-size:14px;color:#4b5563;">' + escapeHtml(item.titleZh) + '</p>' : '')
     + '<p style="margin:0 0 14px;font-size:12px;color:#9ca3af;">' + escapeHtml(metaLine(item)) + '</p>'
     + why
     + (highlights ? '<div style="border-left:3px solid ' + t.accent + ';padding-left:14px;margin:0 0 16px;">' + highlights + '</div>' : '')
@@ -148,7 +163,7 @@ function buildPlainText(picks, dateLabel) {
   [['YouTube', picks.favorite], ['Podcast', picks.podcast], ['Substack', picks.substack],
     ['Breakout', picks.trending], ['Discovery', picks.discovery]].forEach(function (pair) {
     if (!pair[1]) return;
-    lines.push('[' + pair[0] + '] ' + pair[1].title, pair[1].url, '');
+    lines.push('[' + pair[0] + '] ' + pair[1].title + (pair[1].titleZh ? '（' + pair[1].titleZh + '）' : ''), pair[1].url, '');
   });
   return lines.join('\n');
 }
