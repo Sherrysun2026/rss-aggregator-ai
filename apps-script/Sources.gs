@@ -4,7 +4,6 @@
 
 const NS = {
   atom: XmlService.getNamespace('http://www.w3.org/2005/Atom'),
-  yt: XmlService.getNamespace('http://www.youtube.com/xml/schemas/2015'),
   itunes: XmlService.getNamespace('http://www.itunes.com/dtds/podcast-1.0.dtd'),
   content: XmlService.getNamespace('http://purl.org/rss/1.0/modules/content/')
 };
@@ -36,13 +35,12 @@ function isActive(value) {
   return String(value).trim().toUpperCase() === 'YES';
 }
 
-/** Channels 表：A=Handle  B=Name  C=Channel ID  D=Active */
+/** Channels 表：A=Handle  B=Name  C=Channel ID  D=Active（Channel ID 和 Handle 至少填一个） */
 function getChannels() {
   return readSheetRows('Channels')
-    .filter(function (r) { return r[1] && r[2] && isActive(r[3]); })
+    .filter(function (r) { return r[1] && (r[0] || r[2]) && isActive(r[3]); })
     .map(function (r) {
-      const id = String(r[2]).trim();
-      return { name: String(r[1]).trim(), id: id, rssUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=' + id };
+      return { name: String(r[1]).trim(), handle: String(r[0] || '').trim(), id: String(r[2] || '').trim() };
     });
 }
 
@@ -127,27 +125,61 @@ function parseDate(text) {
   return isNaN(d.getTime()) ? null : d;
 }
 
-// ---------- YouTube 频道 RSS ----------
+// ---------- YouTube 频道（用 YouTube API，不用 RSS）----------
+// YouTube 的 RSS（feeds/videos.xml）从 Google 服务器访问经常返回 404，
+// 所以改用 Data API 读取每个频道的"上传"播放列表。配额：每个频道约 1–2 units。
 
-/** 每个频道取最近 perChannel 条没推荐过的视频 ID（旧版只截前 50 条，导致只有前几个频道有机会） */
+/** 每个频道取最近 perChannel 条没推荐过的视频 ID */
 function getFavoriteChannelVideoIds(ctx) {
   const rules = CONFIG.RULES.favoriteVideo;
   const cutoff = daysAgo(rules.maxAgeDays);
-  const channels = getChannels();
+  const channels = resolveUploadPlaylists(getChannels());
   const ids = [];
 
-  fetchFeeds(channels).forEach(function (feed) {
-    const fresh = feed.root.getChildren('entry', NS.atom)
-      .map(function (entry) {
-        return { id: childText(entry, 'videoId', NS.yt), published: parseDate(childText(entry, 'published', NS.atom)) };
+  channels.forEach(function (channel) {
+    const fresh = ytApi('playlistItems', { part: 'contentDetails', playlistId: channel.uploads, maxResults: 15 })
+      .map(function (it) {
+        const cd = it.contentDetails || {};
+        return { id: cd.videoId, published: parseDate(cd.videoPublishedAt) };
       })
       .filter(function (v) { return v.id && v.published && v.published >= cutoff && !ctx.seen.has(v.id); })
       .slice(0, rules.perChannel);
     fresh.forEach(function (v) { ids.push(v.id); });
   });
 
-  log('YouTube 频道：' + channels.length + ' 个，候选视频 ' + ids.length + ' 条');
+  log('YouTube 频道：' + channels.length + ' 个可用，候选视频 ' + ids.length + ' 条');
   return ids;
+}
+
+/**
+ * 给每个频道找到"上传"播放列表 ID。
+ * 先用 Sheet 里的 Channel ID 批量查；查不到的再用 Handle（@xxx）查，并在日志里提示正确的 ID。
+ */
+function resolveUploadPlaylists(channels) {
+  const uploadsById = {};
+  const validIds = channels.map(function (c) { return c.id; }).filter(function (id) { return /^UC[\w-]{22}$/.test(id); });
+
+  chunk(unique(validIds), 50).forEach(function (group) {
+    ytApi('channels', { part: 'contentDetails', id: group.join(','), maxResults: 50 }).forEach(function (c) {
+      uploadsById[c.id] = c.contentDetails.relatedPlaylists.uploads;
+    });
+  });
+
+  return channels.map(function (c) {
+    let uploads = uploadsById[c.id];
+    if (!uploads && c.handle) {
+      const found = ytApi('channels', { part: 'contentDetails', forHandle: c.handle.replace(/^@/, '') })[0];
+      if (found) {
+        uploads = found.contentDetails.relatedPlaylists.uploads;
+        log('  ℹ️ ' + c.name + '：Channel ID "' + c.id + '" 无效，已用 Handle 找到。正确的 ID 是 ' + found.id + '（建议更新到 Sheet 的 C 列）');
+      }
+    }
+    if (!uploads) {
+      log('  ✗ ' + c.name + '：找不到这个频道，请检查 Sheet 里的 Channel ID（UC 开头 24 位）或 Handle（@xxx）');
+      return null;
+    }
+    return Object.assign({}, c, { uploads: uploads });
+  }).filter(Boolean);
 }
 
 // ---------- Podcast ----------

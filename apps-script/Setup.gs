@@ -25,7 +25,7 @@ function listTriggers() {
   });
 }
 
-/** 检查配置、API Key、Sheet、各个 RSS 是否正常（只花约 2 个 YouTube 配额） */
+/** 检查配置、API Key、Sheet、各个 RSS 是否正常（约花 10–20 个 YouTube 配额） */
 function diagnose() {
   log('=== Diagnose ===');
 
@@ -41,10 +41,12 @@ function diagnose() {
     + ' | Blocked: ' + getBlockedTopics().length);
   log('已推荐记录: ' + loadSeen().size() + ' | 最近 Discovery 话题: ' + getRecentTopics().join('; '));
 
-  log('--- RSS 检查（失败的会列出来）---');
-  const all = channels.concat(podcasts, substacks);
-  const ok = fetchFeeds(all);
-  log('RSS 正常 ' + ok.length + ' / ' + all.length);
+  log('--- YouTube 频道检查（失败的会列出来）---');
+  log('YouTube 频道正常 ' + resolveUploadPlaylists(channels).length + ' / ' + channels.length);
+
+  log('--- Podcast / Substack RSS 检查（失败的会列出来）---');
+  const feeds = podcasts.concat(substacks);
+  log('RSS 正常 ' + fetchFeeds(feeds).length + ' / ' + feeds.length);
 
   log('--- YouTube API ---');
   log(ytVideoDetails(['dQw4w9WgXcQ']).length ? 'YouTube API OK' : '❌ YouTube API 失败（看上面的错误）');
