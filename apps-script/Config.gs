@@ -16,6 +16,8 @@ const CONFIG = {
   // 2.5 Flash 可以把 thinking 关掉（0），省 token 也避免输出被吃掉。
   // 如果换成 gemini-2.5-pro，改成 null（Pro 不允许关闭 thinking）。
   GEMINI_THINKING_BUDGET: 0,
+  // 免费版每分钟只允许几次请求，每次调用之间至少间隔这么久（毫秒）。付费后可以改成 0。
+  GEMINI_MIN_INTERVAL_MS: 12500,
   BILINGUAL: true,                    // true = 摘要/推荐理由/标题都给中英双语；false = 只有英文
 
   // 让 Gemini 直接"看" YouTube 视频来写 highlights（比只读简介准确得多）
@@ -35,7 +37,7 @@ const CONFIG = {
     favoriteVideo: { maxAgeDays: 365, perChannel: 3, minMinutes: 20, minLikeRate: 0.015 },
     podcast:       { maxAgeDays: 180, perShow: 3, minMinutes: 20 },
     substack:      { maxAgeDays: 30, perPublication: 3, minChars: 400 },
-    trending:      { maxAgeDays: 30, queries: 3, minMinutes: 20, minViews: 20000, minLikeRate: 0.015 },
+    trending:      { maxAgeDays: 30, queries: 3, rounds: 2, minMinutes: 20, minViews: 10000, minLikeRate: 0.015 },
     discovery:     { maxAgeYears: 5, minMinutes: 12, minViews: 5000, minLikeRate: 0.015, wantCandidates: 6 }
   }
 };

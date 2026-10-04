@@ -31,7 +31,7 @@ Google Apps Script（GAS）是 Google 提供的**云端 JavaScript 运行环境*
 - 单次运行最长 **6 分钟**。v4 用 `fetchAll` 并行抓播客和 Substack 的 RSS，运行超过 2.5 分钟就不再"看视频"，避免超时。
 - Gmail 发信每天有上限（个人账号约 100 封），这里每天只发 1 封。
 - `UrlFetchApp` 每天 20,000 次请求，这里每天约 30–60 次。
-- YouTube API 每天 10,000 配额。`search` 每次 100，其他每次 1，这里每天约 300–700。
+- YouTube API 每天 10,000 配额。`search` 每次 100，其他每次 1，这里每天约 300–1,000。
 
 ## 二、v4 的流程
 

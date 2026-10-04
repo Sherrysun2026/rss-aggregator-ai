@@ -12,6 +12,14 @@
  */
 
 let geminiPrimaryBusy = false;
+const geminiLastCallAt = {};
+
+/** 同一个模型两次调用之间至少间隔 GEMINI_MIN_INTERVAL_MS，避免撞到"每分钟次数"限制 */
+function waitForGeminiSlot(model) {
+  const wait = (geminiLastCallAt[model] || 0) + (CONFIG.GEMINI_MIN_INTERVAL_MS || 0) - Date.now();
+  if (wait > 0) Utilities.sleep(wait);
+  geminiLastCallAt[model] = Date.now();
+}
 
 function callGemini(parts, options) {
   options = options || {};
@@ -36,6 +44,7 @@ function callGemini(parts, options) {
     for (let attempt = 1; attempt <= retries; attempt++) {
       let res;
       try {
+        waitForGeminiSlot(model);
         res = UrlFetchApp.fetch(url, request);
       } catch (e) {
         log('Gemini ' + model + ' 请求异常（第 ' + attempt + ' 次）：' + e.message);
@@ -139,10 +148,11 @@ function cleanModelText(text) {
  * Gemini 失败时会退回到前 3 名里随机选一条。
  * 返回被选中的 item，并附上 item.why（推荐理由）。
  */
-function pickBestWithGemini(candidates, slotDescription, ctx) {
+function pickBestWithGemini(candidates, slotDescription, ctx, options) {
+  const allowSkip = !!(options && options.allowSkip); // true = 候选都不好时 Gemini 可以拒绝（返回 -1）
   if (!candidates.length) return null;
   const pool = candidates.slice(0, CONFIG.RERANK_POOL);
-  if (pool.length === 1) return pool[0];
+  if (pool.length === 1 && !allowSkip) return pool[0];
 
   const list = pool.map(function (c, i) {
     const meta = [
@@ -171,7 +181,10 @@ function pickBestWithGemini(candidates, slotDescription, ctx) {
       + 'specific ideas over generic advice, and novelty compared with mainstream content.',
     'Penalize: clickbait titles, listicles, motivational fluff, clips or compilations, reaction content, '
       + 'and anything that is mainly selling a product or course.',
-    'If every candidate is weak, still pick the least bad one.',
+    allowSkip
+      ? 'If none of them is genuinely worth my time (all clickbait, money-making hype, motivational fluff or shallow), '
+        + 'return {"index": -1} instead of settling for the least bad one.'
+      : 'If every candidate is weak, still pick the least bad one.',
     '',
     'Return JSON only: {"index": <number>, "why": "<one English sentence, max 25 words, written to me as \'you\', on why this is worth my time>"'
       + (CONFIG.BILINGUAL ? ', "why_zh": "<the same reason as one natural Simplified Chinese sentence, max 50 characters>"' : '') + '}'
@@ -179,6 +192,11 @@ function pickBestWithGemini(candidates, slotDescription, ctx) {
 
   const result = callGeminiJson(prompt, { temperature: 0.3, maxTokens: 512 });
   const index = result ? Number(result.index) : NaN;
+
+  if (allowSkip && index === -1) {
+    log('Gemini 认为这批候选都不值得推荐');
+    return null;
+  }
 
   if (result && Number.isInteger(index) && pool[index]) {
     const picked = pool[index];

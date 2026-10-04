@@ -4,8 +4,8 @@
 // ctx = { seen, blocked, startedAt }，选中的内容会立刻加入 ctx.seen，避免栏目之间重复
 // ============================================
 
-function choose(candidates, slotDescription, ctx) {
-  const picked = pickBestWithGemini(candidates, slotDescription, ctx);
+function choose(candidates, slotDescription, ctx, options) {
+  const picked = pickBestWithGemini(candidates, slotDescription, ctx, options);
   if (picked) ctx.seen.add(picked.id);
   return picked;
 }
@@ -49,10 +49,24 @@ function pickSubstack(ctx) {
 
 function pickTrending(ctx) {
   const rules = CONFIG.RULES.trending;
-  const queries = shuffle(INTERESTS).slice(0, rules.queries);
   const publishedAfter = daysAgo(rules.maxAgeDays).toISOString();
-  log('Breakout 搜索词：' + queries.join(' | '));
+  const queryPool = shuffle(INTERESTS);
 
+  // 一轮 3 个搜索词；Gemini 觉得这批都是标题党/鸡汤，就换一批搜索词再来一轮（每轮约 300 YouTube 配额）
+  for (let round = 0; round < rules.rounds; round++) {
+    const queries = queryPool.slice(round * rules.queries, (round + 1) * rules.queries);
+    if (!queries.length) break;
+    log('Breakout 第 ' + (round + 1) + ' 轮搜索词：' + queries.join(' | '));
+
+    const picked = choose(findBreakoutCandidates(queries, publishedAfter, rules, ctx),
+      'A breakout video from the last ' + rules.maxAgeDays + ' days: videos massively outperforming their channel size '
+        + '(views vs subscribers, shown first). Pick the one with real substance, not just hype.', ctx, { allowSkip: true });
+    if (picked) return picked;
+  }
+  return null;
+}
+
+function findBreakoutCandidates(queries, publishedAfter, rules, ctx) {
   let ids = [];
   queries.forEach(function (q) {
     ids = ids.concat(ytSearchIds(q, { order: 'relevance', publishedAfter: publishedAfter, videoDuration: 'long' }));
@@ -63,7 +77,7 @@ function pickTrending(ctx) {
     .map(toVideoItem)
     .filter(function (v) { return passesVideoRules(v, rules, ctx); });
   log('Breakout：通过筛选 ' + videos.length + ' 条');
-  if (!videos.length) return null;
+  if (!videos.length) return [];
 
   const subscribers = ytChannelSubscribers(videos.map(function (v) { return v.channelId; }));
   videos.forEach(function (v) {
@@ -73,15 +87,11 @@ function pickTrending(ctx) {
   });
 
   // 有订阅数的按爆款倍数排序，隐藏订阅数的排在后面
-  videos.sort(function (a, b) {
+  return videos.sort(function (a, b) {
     if (a.breakout == null) return 1;
     if (b.breakout == null) return -1;
     return b.breakout - a.breakout;
   });
-
-  return choose(videos,
-    'A breakout video from the last ' + rules.maxAgeDays + ' days: videos massively outperforming their channel size '
-      + '(views vs subscribers, shown first). Pick the one with real substance, not just hype.', ctx);
 }
 
 // ---------- Part 3：Discovery（兔子洞）----------
