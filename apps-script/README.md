@@ -13,7 +13,7 @@ Google Apps Script（GAS）是 Google 提供的**云端 JavaScript 运行环境*
                            ├─ SpreadsheetApp 读你的 Google Sheet（频道 / 播客 / Substack / 屏蔽词）
                            ├─ UrlFetchApp    抓 RSS、调用 YouTube API、调用 Gemini API
                            ├─ PropertiesService 读写"已推荐记录"、API Key
-                           └─ MailApp        把邮件发给你
+                           └─ GmailApp       把邮件发给你
 ```
 
 几个关键概念：
@@ -24,12 +24,12 @@ Google Apps Script（GAS）是 Google 提供的**云端 JavaScript 运行环境*
 | **触发器 (Triggers)** | 左侧栏 ⏰ 图标 | 决定"什么时候自动运行哪个函数"。时间触发器只能精确到小时段，例如 8:00–9:00 之间的某个时刻。**触发器绑定的是函数名**，改函数名会让触发器失效，所以 v4 保留了 `sendDailyYouTubePicks` 这个名字。 |
 | **脚本属性 (Script Properties)** | 左侧栏 ⚙️ 项目设置 → 脚本属性 | 一个小型键值存储。用来放 API Key（不写进代码），也存"已推荐 ID"和"最近 Discovery 话题"。单个值上限约 9KB。 |
 | **执行记录 (Executions)** | 左侧栏 ☰ 执行 | 每次运行的 `Logger.log` 日志都在这里。出问题先看这里。 |
-| **授权** | 第一次运行时弹窗 | 脚本要访问 Sheet、发邮件、访问外部网址，第一次运行需要你点"允许"。代码用到的服务变了（比如 v4 改用 MailApp），会再弹一次。 |
+| **授权** | 第一次运行时弹窗 | 脚本要访问 Sheet、发邮件、访问外部网址，第一次运行需要你点"允许"。代码用到的服务变了，会再弹一次。 |
 
 主要限制（个人 Gmail 账号）：
 
-- 单次运行最长 **6 分钟**。v4 用 `fetchAll` 并行抓播客和 Substack 的 RSS，运行超过 3.5 分钟就不再"看视频"，避免超时。
-- `MailApp` 每天最多发 100 封，这里每天只发 1 封。
+- 单次运行最长 **6 分钟**。v4 用 `fetchAll` 并行抓播客和 Substack 的 RSS，运行超过 2.5 分钟就不再"看视频"，避免超时。
+- Gmail 发信每天有上限（个人账号约 100 封），这里每天只发 1 封。
 - `UrlFetchApp` 每天 20,000 次请求，这里每天约 30–60 次。
 - YouTube API 每天 10,000 配额。`search` 每次 100，其他每次 1，这里每天约 300–700。
 

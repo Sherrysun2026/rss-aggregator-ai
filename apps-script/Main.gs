@@ -46,10 +46,8 @@ function runDailyPicks(options) {
     // 3. 发邮件
     const discoveryTheme = picks.discovery && picks.discovery.discovery ? picks.discovery.discovery.theme : '';
     const subject = (dryRun ? '[TEST] ' : '') + 'Daily Picks · ' + dateLabel + (discoveryTheme ? ' · ' + discoveryTheme : '');
-    MailApp.sendEmail({
-      to: CONFIG.EMAIL_TO,
-      subject: subject,
-      body: buildPlainText(picks, dateLabel),
+    // 用 GmailApp（和 v3 一样），不需要重新授权
+    GmailApp.sendEmail(CONFIG.EMAIL_TO, subject, buildPlainText(picks, dateLabel), {
       htmlBody: buildEmailHtml(picks, dateLabel),
       name: 'Daily Picks'
     });
@@ -78,5 +76,5 @@ function safely(label, fn) {
 }
 
 function sendErrorEmail(title, details) {
-  MailApp.sendEmail(CONFIG.EMAIL_TO, 'Daily Picks - ERROR: ' + title, details);
+  GmailApp.sendEmail(CONFIG.EMAIL_TO, 'Daily Picks - ERROR: ' + title, details);
 }

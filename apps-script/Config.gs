@@ -12,6 +12,7 @@ const CONFIG = {
   SEND_HOUR: 8,                       // installDailyTrigger() 用的发送时间（新加坡时间）
 
   GEMINI_MODEL: 'gemini-2.5-flash',
+  GEMINI_FALLBACK_MODEL: 'gemini-2.5-flash-lite', // 主模型繁忙（503）时自动改用；不想用就改成 null
   // 2.5 Flash 可以把 thinking 关掉（0），省 token 也避免输出被吃掉。
   // 如果换成 gemini-2.5-pro，改成 null（Pro 不允许关闭 thinking）。
   GEMINI_THINKING_BUDGET: 0,
@@ -23,7 +24,7 @@ const CONFIG = {
     enabled: true,
     maxMinutes: 45,                   // 只看前 45 分钟，控制 token
     fps: 0.1,                         // 每 10 秒取一帧画面（音频是完整的），大幅省 token
-    skipAfterMs: 3.5 * 60 * 1000      // 脚本已运行超过 3.5 分钟就改用文字模式，避免 GAS 6 分钟超时
+    skipAfterMs: 2.5 * 60 * 1000      // 脚本已运行超过 2.5 分钟就改用文字模式，避免 GAS 6 分钟超时
   },
 
   SEEN_LIMIT: 400,                    // 记住最近推荐过的 400 条，不重复推荐

@@ -4,9 +4,13 @@
 
 /**
  * 调用 Gemini，返回文本；失败返回 null。
- * 遇到 429（限流）或 5xx 会自动等待重试，最多 3 次。
- * options: temperature, maxTokens, json, mediaResolution
+ * 遇到 429（限流）或 5xx（模型繁忙）会等待重试；主模型一直繁忙时，换备用模型再试。
+ * options: temperature, maxTokens, json, mediaResolution,
+ *          retries（每个模型最多试几次，默认 2）, fallback（是否允许换备用模型，默认 true）
  */
+// 主模型本次运行中已经连续繁忙过一次，就不再先试它，直接用备用模型（省下每次十几秒的重试等待）
+let geminiPrimaryBusy = false;
+
 function callGemini(parts, options) {
   options = options || {};
   const generationConfig = {
@@ -19,7 +23,6 @@ function callGemini(parts, options) {
   if (options.json) generationConfig.responseMimeType = 'application/json';
   if (options.mediaResolution) generationConfig.mediaResolution = options.mediaResolution;
 
-  const url = 'https://generativelanguage.googleapis.com/v1beta/models/' + CONFIG.GEMINI_MODEL + ':generateContent';
   const request = {
     method: 'post',
     contentType: 'application/json',
@@ -28,38 +31,52 @@ function callGemini(parts, options) {
     muteHttpExceptions: true
   };
 
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    let res;
-    try {
-      res = UrlFetchApp.fetch(url, request);
-    } catch (e) {
-      log('Gemini 请求异常（第 ' + attempt + ' 次）：' + e.message);
-      if (attempt === 3) return null;
-      Utilities.sleep(3000);
-      continue;
-    }
+  const canFallback = options.fallback !== false && !!CONFIG.GEMINI_FALLBACK_MODEL;
+  const models = canFallback && geminiPrimaryBusy ? [CONFIG.GEMINI_FALLBACK_MODEL]
+    : canFallback ? [CONFIG.GEMINI_MODEL, CONFIG.GEMINI_FALLBACK_MODEL]
+    : [CONFIG.GEMINI_MODEL];
+  const retries = options.retries || 2;
 
-    const code = res.getResponseCode();
-    if (code === 200) {
-      const body = JSON.parse(res.getContentText());
-      const candidate = body.candidates && body.candidates[0];
-      const resultParts = candidate && candidate.content && candidate.content.parts;
-      if (!resultParts) {
-        log('Gemini 没有返回内容，finishReason=' + (candidate ? candidate.finishReason : 'n/a'));
-        return null;
+  for (let m = 0; m < models.length; m++) {
+    const url = 'https://generativelanguage.googleapis.com/v1beta/models/' + models[m] + ':generateContent';
+
+    for (let attempt = 1; attempt <= retries; attempt++) {
+      let res;
+      try {
+        res = UrlFetchApp.fetch(url, request);
+      } catch (e) {
+        log('Gemini ' + models[m] + ' 请求异常（第 ' + attempt + ' 次）：' + e.message);
+        if (attempt < retries) Utilities.sleep(3000);
+        continue;
       }
-      const text = resultParts
-        .filter(function (p) { return !p.thought; })
-        .map(function (p) { return p.text || ''; })
-        .join('')
-        .trim();
-      return text || null;
-    }
 
-    log('Gemini HTTP ' + code + '（第 ' + attempt + ' 次）：' + res.getContentText().slice(0, 300));
-    const retryable = code === 429 || code >= 500;
-    if (!retryable || attempt === 3) return null;
-    Utilities.sleep(5000 * Math.pow(2, attempt - 1)); // 5s, 10s
+      const code = res.getResponseCode();
+      if (code === 200) {
+        const body = JSON.parse(res.getContentText());
+        const candidate = body.candidates && body.candidates[0];
+        const resultParts = candidate && candidate.content && candidate.content.parts;
+        if (!resultParts) {
+          log('Gemini 没有返回内容，finishReason=' + (candidate ? candidate.finishReason : 'n/a'));
+          return null;
+        }
+        const text = resultParts
+          .filter(function (p) { return !p.thought; })
+          .map(function (p) { return p.text || ''; })
+          .join('')
+          .trim();
+        if (text && m > 0) log('（已改用备用模型 ' + models[m] + '）');
+        return text || null;
+      }
+
+      let message = res.getContentText();
+      try { message = JSON.parse(message).error.message; } catch (e) { /* 保留原文 */ }
+      log('Gemini ' + models[m] + ' HTTP ' + code + '（第 ' + attempt + ' 次）：' + String(message).slice(0, 200));
+
+      const retryable = code === 429 || code >= 500;
+      if (!retryable) return null;                                         // 400 之类的错误重试也没用
+      if (attempt < retries) Utilities.sleep(5000 * attempt); // 5s, 10s
+    }
+    if (models[m] === CONFIG.GEMINI_MODEL && canFallback) geminiPrimaryBusy = true;
   }
   return null;
 }
@@ -168,20 +185,26 @@ function planDiscovery(ctx) {
     'Topics I have already been shown recently (do NOT repeat or closely paraphrase): ' + (recent.join('; ') || 'none'),
     'Never suggest anything related to: ' + (ctx.blocked.join(', ') || 'n/a'),
     '',
-    'Propose ONE "rabbit hole" for today\'s Discovery pick. It should sit just outside my usual interests: '
-      + 'ideally an unexpected intersection of two of them, or a concrete, surprising question a curious person '
-      + 'would want to go deep on. Make it specific (a phenomenon, person, place, study, or question), never a broad category.',
+    'Task: pick ONE "rabbit hole" for today\'s Discovery video.',
+    'Step 1 (silently): brainstorm 8 candidates. Each must be a concrete phenomenon, person, place, study, invention, '
+      + 'historical episode, or surprising question, sitting just outside my usual interests '
+      + '(ideally an unexpected link between two of them, or a field next door I have never looked at).',
+    'Step 2: discard anything a typical self-improvement or pop-science YouTube viewer has already seen many times. '
+      + 'Overexposed (never pick): Stoicism, dopamine detox, atomic habits, flow state, Dunning-Kruger, Maslow, '
+      + 'the marshmallow test, 10,000-hour rule, cold plunges, intermittent fasting basics, "ancient wisdom meets neuroscience".',
+    'Step 3: return the most surprising remaining candidate that still has enough good long-form YouTube content.',
     '',
     'The level of specificity I want:',
     '- Why some Japanese companies have survived for 1,000 years',
-    '- What the Dunbar number means for how teams should be designed',
-    '- What brain scans of long-term meditators actually show',
-    '- How Renaissance painters suddenly mastered perspective',
-    'Too generic (never do this): personal growth, AI trends, healthy habits, mindfulness for beginners.',
+    '- How the Medici bank invented modern finance and then collapsed',
+    '- What octopus intelligence suggests about consciousness',
+    '- Why Tibetan sky burial exists',
+    '- How Victorian advertising invented the modern brand',
+    'Too generic (never do this): personal growth, AI trends, healthy habits, mindfulness for beginners, philosophy and psychology.',
     '',
     'Return JSON only:',
-    '{"theme": "3-6 word label", "hook": "one sentence: the curious question this explores", '
-      + '"queries": ["three YouTube search queries, 3-7 words each, ordered from most specific to slightly broader, '
+    '{"theme": "a specific 3-6 word label", "hook": "the curious question this explores, max 20 words", '
+      + '"queries": ["three YouTube search queries, 2-6 words each, ordered from specific to slightly broader, '
       + 'phrased the way a real person would type them"]}'
   ].join('\n');
 
@@ -192,7 +215,7 @@ function planDiscovery(ctx) {
       if (!matchesBlocked(allText, ctx.blocked)) {
         return {
           theme: oneLine(plan.theme, 80),
-          hook: oneLine(plan.hook || '', 200),
+          hook: oneLine(plan.hook || '', 160),
           queries: plan.queries.slice(0, 3).map(function (q) { return oneLine(q, 80); })
         };
       }
@@ -226,7 +249,8 @@ function writeHighlights(item, ctx) {
       },
       { text: buildHighlightsPrompt(item, watchedMinutes) }
     ];
-    const text = callGemini(parts, { temperature: 0.3, mediaResolution: 'MEDIA_RESOLUTION_LOW' });
+    // 看视频很慢，失败就直接改用文字，不重试
+    const text = callGemini(parts, { temperature: 0.3, mediaResolution: 'MEDIA_RESOLUTION_LOW', retries: 1, fallback: false });
     if (text) {
       log('Highlights（看视频）：' + item.title.slice(0, 50));
       return cleanModelText(text);
