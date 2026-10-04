@@ -11,13 +11,18 @@ const CONFIG = {
   TIMEZONE: 'Asia/Singapore',
   SEND_HOUR: 8,                       // installDailyTrigger() 用的发送时间（新加坡时间）
 
-  GEMINI_MODEL: 'gemini-2.5-flash',
-  GEMINI_FALLBACK_MODEL: 'gemini-3.5-flash-lite', // 主模型繁忙或额度用完时自动改用（独立额度）；不想用就改成 null
-  // 2.5 Flash 可以把 thinking 关掉（0），省 token 也避免输出被吃掉。
-  // 如果换成 gemini-2.5-pro，改成 null（Pro 不允许关闭 thinking）。
+  // 主模型：免费额度较宽、实测稳定。想知道你的 Key 还能用哪些模型，运行 listGeminiModels()。
+  GEMINI_MODEL: 'gemini-3.5-flash-lite',
+  // 备用模型：主模型繁忙或额度用完时自动改用（各自独立额度）；不想用就改成 null
+  GEMINI_FALLBACK_MODEL: 'gemini-2.5-flash',
+  // 只对 2.5 系列生效：0 = 关闭 thinking，省 token 也避免输出被吃掉
   GEMINI_THINKING_BUDGET: 0,
-  // 免费版每分钟只允许几次请求，每次调用之间至少间隔这么久（毫秒）。付费后可以改成 0。
-  GEMINI_MIN_INTERVAL_MS: 12500,
+  // 免费版每分钟只允许几次请求：同一模型两次调用之间至少间隔多久（毫秒）。付费后都可以改成 0。
+  GEMINI_MIN_INTERVAL_MS: {
+    'gemini-3.5-flash-lite': 5000,
+    'gemini-2.5-flash': 12500,        // 实测免费版约每分钟 5 次
+    default: 12500
+  },
   BILINGUAL: true,                    // true = 摘要/推荐理由/标题都给中英双语；false = 只有英文
 
   // 让 Gemini 直接"看" YouTube 视频来写 highlights（比只读简介准确得多）

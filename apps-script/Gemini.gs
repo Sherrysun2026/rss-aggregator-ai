@@ -14,9 +14,12 @@
 let geminiPrimaryBusy = false;
 const geminiLastCallAt = {};
 
-/** 同一个模型两次调用之间至少间隔 GEMINI_MIN_INTERVAL_MS，避免撞到"每分钟次数"限制 */
+/** 同一个模型两次调用之间至少间隔 GEMINI_MIN_INTERVAL_MS 里设定的时间，避免撞到"每分钟次数"限制 */
 function waitForGeminiSlot(model) {
-  const wait = (geminiLastCallAt[model] || 0) + (CONFIG.GEMINI_MIN_INTERVAL_MS || 0) - Date.now();
+  const intervals = CONFIG.GEMINI_MIN_INTERVAL_MS || {};
+  const interval = typeof intervals === 'number' ? intervals
+    : (intervals[model] != null ? intervals[model] : (intervals.default || 0));
+  const wait = (geminiLastCallAt[model] || 0) + interval - Date.now();
   if (wait > 0) Utilities.sleep(wait);
   geminiLastCallAt[model] = Date.now();
 }

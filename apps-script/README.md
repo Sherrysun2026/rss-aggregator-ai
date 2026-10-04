@@ -84,5 +84,6 @@ Google Sheet 的格式和 v3 完全一样，不需要改。Substack 那一列填
 - **推荐不合口味** → 改 `Config.gs` 里的 `USER_PROFILE`。这是最有效的调整。
 - **不想要中文摘要** → `BILINGUAL: false`。
 - **日志里经常出现 Gemini 429 / quota** → `VIDEO_UNDERSTANDING.enabled: false`，或者把 `maxMinutes` 调小。
+- **Google 换了模型名字 / 模型报 404** → 运行 `listGeminiModels` 查看可用模型，再改 `Config.gs` 里的 `GEMINI_MODEL` / `GEMINI_FALLBACK_MODEL`。
 - **某个栏目经常是空的** → 看执行日志里"通过筛选 N 条"，再放宽 `RULES` 里对应的阈值。
 - **想让旧内容重新被推荐** → 运行 `resetSeen`。

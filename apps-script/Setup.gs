@@ -59,6 +59,22 @@ function diagnose() {
   log('=== Diagnose 完成 ===');
 }
 
+/** 列出你的 Gemini API Key 目前能用的模型（Google 换型号时用来查新名字） */
+function listGeminiModels() {
+  const res = UrlFetchApp.fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200', {
+    headers: { 'x-goog-api-key': getSecret('GEMINI_API_KEY') },
+    muteHttpExceptions: true
+  });
+  if (res.getResponseCode() !== 200) {
+    log('查询失败 HTTP ' + res.getResponseCode() + '：' + describeGeminiError(res.getContentText()));
+    return;
+  }
+  (JSON.parse(res.getContentText()).models || [])
+    .filter(function (m) { return (m.supportedGenerationMethods || []).indexOf('generateContent') !== -1; })
+    .forEach(function (m) { log(m.name.replace('models/', '') + '  —  ' + (m.displayName || '')); });
+  log('当前设置：主模型 ' + CONFIG.GEMINI_MODEL + '，备用模型 ' + CONFIG.GEMINI_FALLBACK_MODEL);
+}
+
 /** 清空"已推荐"记录（想让旧内容重新有机会被推荐时用） */
 function resetSeen() {
   PropertiesService.getScriptProperties().deleteProperty(SEEN_PROPERTY);
