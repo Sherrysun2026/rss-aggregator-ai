@@ -51,6 +51,8 @@ Part 3   Discovery 搜索   ┘   （Gemini 先想一个具体的"兔子洞"话�
 
 ## 三、文件说明
 
+> **`Code.single-file.gs`** 是下面 9 个文件合并成的单文件版，也就是实际贴在 GAS `Code.gs` 里的代码。要恢复或重新部署时，直接整段复制这个文件即可。
+
 | 文件 | 内容 | 需要改吗 |
 |---|---|---|
 | `Config.gs` | 邮箱、Sheet ID、各种阈值、**你的口味描述 `USER_PROFILE`**、兴趣种子 `INTERESTS` | ✅ 主要改这里 |
