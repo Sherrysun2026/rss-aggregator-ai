@@ -98,10 +98,32 @@ function findBreakoutCandidates(queries, publishedAfter, rules, ctx) {
 
 function pickDiscovery(ctx) {
   const rules = CONFIG.RULES.discovery;
-  const plan = planDiscovery(ctx);
-  log('Discovery 话题：' + plan.theme + ' — ' + plan.hook);
-  log('Discovery 搜索词：' + plan.queries.join(' | '));
+  const rejected = [];
 
+  // 第一轮如果候选都不够好（比如搜到的只是旅游 vlog），换一个话题再来一轮；最后一轮一定选出一条
+  for (let round = 1; round <= rules.rounds; round++) {
+    const plan = planDiscovery(ctx, rejected);
+    log('Discovery 第 ' + round + ' 轮话题：' + plan.theme + ' — ' + plan.hook);
+    log('Discovery 搜索词：' + plan.queries.join(' | '));
+
+    const candidates = findDiscoveryCandidates(plan, rules, ctx);
+    const isLastRound = round === rules.rounds;
+    const picked = choose(candidates,
+      'Discovery rabbit hole "' + plan.theme + '"' + (plan.hook ? ': ' + plan.hook : '')
+        + '. The pick must be directly about this theme (not a loosely related tangent, travel vlog or sensational clip). '
+        + 'Pick the video that opens it up best for a curious newcomer who wants depth, not a shallow overview.',
+      ctx, { allowSkip: !isLastRound });
+
+    if (picked) {
+      picked.discovery = plan;
+      return picked;
+    }
+    rejected.push(plan.theme);
+  }
+  return null;
+}
+
+function findDiscoveryCandidates(plan, rules, ctx) {
   const publishedAfter = daysAgo(rules.maxAgeYears * 365).toISOString();
   let candidates = [];
 
@@ -116,13 +138,5 @@ function pickDiscovery(ctx) {
     log('  "' + plan.queries[i] + '" → ' + found.length + ' 条');
     candidates = candidates.concat(found);
   }
-
-  candidates.sort(byLikeRateDesc);
-  const picked = choose(candidates,
-    'Discovery rabbit hole "' + plan.theme + '"' + (plan.hook ? ': ' + plan.hook : '')
-      + '. The pick must be directly about this theme (not a loosely related or sensational tangent). '
-      + 'Pick the video that opens it up best for a curious newcomer who wants depth, not a shallow overview.', ctx);
-
-  if (picked) picked.discovery = plan;
-  return picked;
+  return candidates.sort(byLikeRateDesc);
 }

@@ -8,7 +8,8 @@
  * - 429（额度用完）：不重试（重试也不会恢复），直接换备用模型（备用模型有自己独立的额度）
  * - 主模型失败过一次后，本次运行剩下的调用直接用备用模型，"看视频"也自动停用
  * options: temperature, maxTokens, json, mediaResolution,
- *          retries（每个模型最多试几次，默认 2）, fallback（是否允许换备用模型，默认 true）
+ *          retries（每个模型最多试几次，默认 2）, fallback（是否允许换备用模型，默认 true）,
+ *          markBusy（主模型繁忙时是否让本次运行后续都改用备用模型，默认 true）
  */
 
 let geminiPrimaryBusy = false;
@@ -79,7 +80,10 @@ function callGemini(parts, options) {
       if (attempt < retries) Utilities.sleep(5000 * attempt);  // 5s, 10s
     }
 
-    if (model === CONFIG.GEMINI_MODEL && (lastCode === 429 || lastCode >= 500 || lastCode === -1)) {
+    // 额度用完（429）对所有请求都成立；繁忙（5xx）只在普通请求上才算数——
+    // 看视频是很重的请求，它超时不代表普通文字请求也会失败（markBusy: false）
+    const overloaded = lastCode >= 500 || lastCode === -1;
+    if (model === CONFIG.GEMINI_MODEL && (lastCode === 429 || (overloaded && options.markBusy !== false))) {
       geminiPrimaryBusy = true;
     } else if (lastCode !== 429 && lastCode < 500) {
       return null; // 400 / 404 之类：请求本身有问题，换模型也没用
@@ -217,8 +221,8 @@ function pickBestWithGemini(candidates, slotDescription, ctx, options) {
 // Discovery：每天生成一个"兔子洞"话题
 // ============================================
 
-function planDiscovery(ctx) {
-  const recent = getRecentTopics();
+function planDiscovery(ctx, rejectedThemes) {
+  const recent = getRecentTopics().concat(rejectedThemes || []);
 
   const prompt = [
     'About me:',
@@ -300,7 +304,7 @@ function writeHighlights(item, ctx) {
       { text: buildHighlightsPrompt(item, watchedMinutes) }
     ];
     // 看视频很慢，失败就直接改用文字，不重试
-    const text = callGemini(parts, { temperature: 0.3, mediaResolution: 'MEDIA_RESOLUTION_LOW', retries: 1, fallback: false, json: json, maxTokens: 3072 });
+    const text = callGemini(parts, { temperature: 0.3, mediaResolution: 'MEDIA_RESOLUTION_LOW', retries: 1, fallback: false, markBusy: false, json: json, maxTokens: 3072 });
     if (text) {
       log('Highlights（看视频）：' + item.title.slice(0, 50));
       return parseHighlights(text);

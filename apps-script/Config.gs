@@ -29,7 +29,7 @@ const CONFIG = {
   // 如果日志里经常出现 429 / quota 错误，把 enabled 改成 false。
   VIDEO_UNDERSTANDING: {
     enabled: true,
-    maxMinutes: 45,                   // 只看前 45 分钟，控制 token
+    maxMinutes: 30,                   // 只看前 30 分钟，控制 token 和等待时间
     fps: 0.1,                         // 每 10 秒取一帧画面（音频是完整的），大幅省 token
     skipAfterMs: 2.5 * 60 * 1000      // 脚本已运行超过 2.5 分钟就改用文字模式，避免 GAS 6 分钟超时
   },
@@ -43,7 +43,7 @@ const CONFIG = {
     podcast:       { maxAgeDays: 180, perShow: 3, minMinutes: 20 },
     substack:      { maxAgeDays: 30, perPublication: 3, minChars: 400 },
     trending:      { maxAgeDays: 30, queries: 3, rounds: 2, minMinutes: 20, minViews: 10000, minLikeRate: 0.015 },
-    discovery:     { maxAgeYears: 5, minMinutes: 12, minViews: 5000, minLikeRate: 0.015, wantCandidates: 6 }
+    discovery:     { maxAgeYears: 5, rounds: 2, minMinutes: 12, minViews: 5000, minLikeRate: 0.015, wantCandidates: 6 }
   }
 };
 
