@@ -3,68 +3,583 @@
     <title>AI &amp; Tech News Aggregator</title>
     <link>https://github.com/Sherrysun2026/rss-aggregator-ai</link>
     <description>Aggregated AI and Tech news from 14 sources</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:34:46 +0000</lastBuildDate>
     <item>
-      <title>恒生科技指数涨幅扩大至2%</title>
-      <link>https://36kr.com/newsflashes/4017988083585155?f=rss</link>
-      <description>[36氪] 36氪获悉，港股恒生科技指数涨幅扩大至2%，恒生指数现涨1.19%。</description>
-      <pubDate>Fri, 09 Oct 2026 01:48:50 +0000</pubDate>
+      <title>供需关系持续改善，有机硅行业景气修复</title>
+      <link>https://36kr.com/newsflashes/4019389393326216?f=rss</link>
+      <description>[36氪] 10月9日，A股有机硅概念板块继续走强，东岳硅材、晨光新材、新亚强涨停，硅宝科技、合盛硅业等多股跟涨。业内人士分析称，行业供需关系改善、产品价格回升及上市公司盈利修复预期，共同推动有机硅板块走高。除周期性供需改善外，新能源、电子电气及半导体等领域的应用拓展，也为有机硅产业链带来新的增长空间。（上证报）</description>
+      <pubDate>Sat, 10 Oct 2026 01:34:19 +0000</pubDate>
       <source url="https://www.36kr.com/feed">36氪</source>
     </item>
     <item>
-      <title>创业板指、深成指双双跌超1%</title>
-      <link>https://36kr.com/newsflashes/4017984753799048?f=rss</link>
-      <description>[36氪] 36氪获悉，深成指下挫跌逾1.03%，沪指跌0.42%，创业板指跌1.21%。算力硬件、半导体芯片、医药生物等方向跌幅居前，沪深京三市下跌个股近3700只。</description>
-      <pubDate>Fri, 09 Oct 2026 01:45:27 +0000</pubDate>
+      <title>A股市场下探回升，机构称市场具备修复性反弹基础</title>
+      <link>https://36kr.com/newsflashes/4019371281846404?f=rss</link>
+      <description>[36氪] 本周，上证指数、深证成指、创业板指、科创综指分别累计下跌0.74%、1.91%、2.93%、4.88%，煤炭、传媒、石油石化行业领涨。资金面上，Wind数据显示，本周2个交易日沪深两市主力资金均出现净流出，资金情绪谨慎。分析人士认为，短期市场具备修复性反弹基础，交投活跃度有望回升，但反弹力度或相对温和。10月底前上市公司三季报将陆续披露，具备盈利支撑的行业有望成为资金配置方向。（中证报）</description>
+      <pubDate>Sat, 10 Oct 2026 01:21:47 +0000</pubDate>
       <source url="https://www.36kr.com/feed">36氪</source>
     </item>
     <item>
-      <title>亚马逊一年裁掉3万人，省下的钱全砸进了AI</title>
-      <link>https://www.tmtpost.com/8161599.html</link>
-      <description>[钛媒体] 亚马逊的AI困局。</description>
-      <pubDate>Fri, 09 Oct 2026 01:39:00 +0000</pubDate>
+      <title>特朗普政府要求AI公司在发生安全事件后立即上报</title>
+      <link>https://36kr.com/newsflashes/4019374322044804?f=rss</link>
+      <description>[36氪] 当地时间10月9日，据了解，在人工智能公司Anthropic发生多起未经授权使用美国政府系统的安全事件后，特朗普政府宣布实施新的强制性AI安全事件报告要求。消息称，Anthropic公司已于9月底向美国政府披露相关事件，并表示未经授权的活动已经停止。根据新要求，AI公司今后发生安全事件后必须立即向政府报告，提高事件透明度，并对受到影响的机构采取补救和纠正措施。（央视新闻）</description>
+      <pubDate>Sat, 10 Oct 2026 01:19:14 +0000</pubDate>
+      <source url="https://www.36kr.com/feed">36氪</source>
+    </item>
+    <item>
+      <title>“双向奔赴”成亮眼风景线，A+H板块年内扩至209家</title>
+      <link>https://36kr.com/newsflashes/4019373286232199?f=rss</link>
+      <description>[36氪] 今年以来，A+H股板块扩容明显提速。Wind数据显示，2026年前三季度有38家A股公司实现H股上市，为2025年全年的两倍；与此同时，H股“回A”通道同步打开，力勤资源于9月30日率先“回A”，智谱、云英谷科技、精锋医疗、映恩生物、范式智能等也在推进中。截至2026年10月9日，年内A+H板块已扩容至‌209家‌。在“先A后H”与“先H后A”双向奔赴的格局下，两地资本市场互联互通持续深化，A股龙头出海与港股科创企业回归形成良性互动，成为今年中国资本市场最亮眼的风景线之一。（证券时报）</description>
+      <pubDate>Sat, 10 Oct 2026 01:17:56 +0000</pubDate>
+      <source url="https://www.36kr.com/feed">36氪</source>
+    </item>
+    <item>
+      <title>00后“戒断”AI短剧：一个月卸载了5次</title>
+      <link>https://www.tmtpost.com/8163363.html</link>
+      <description>[钛媒体] 一场“戒毒”拉锯战。</description>
+      <pubDate>Sat, 10 Oct 2026 01:13:39 +0000</pubDate>
       <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
     </item>
     <item>
-      <title>创业板指跌破3000点，70个交易日跌超31%</title>
-      <link>https://36kr.com/newsflashes/4017975001370755?f=rss</link>
-      <description>[36氪] 36氪获悉，创业板指跌破3000点，2026年6月25日至今的70个交易日跌超31%，为2025年11月27日以来新低。</description>
-      <pubDate>Fri, 09 Oct 2026 01:35:32 +0000</pubDate>
-      <source url="https://www.36kr.com/feed">36氪</source>
-    </item>
-    <item>
-      <title>OpenAI和Anthropic，开启“模型之战”</title>
-      <link>https://www.tmtpost.com/8161593.html</link>
-      <description>[钛媒体] 两家相似巨头，两条不同的路。</description>
-      <pubDate>Fri, 09 Oct 2026 01:34:00 +0000</pubDate>
+      <title>硅谷大模型不装了：Claude卷价格，GPT学豆包</title>
+      <link>https://www.tmtpost.com/8163462.html</link>
+      <description>[钛媒体] 10美分的Claude、0元的GPT，美国AI也搞起“百亿补贴”。</description>
+      <pubDate>Sat, 10 Oct 2026 01:10:22 +0000</pubDate>
       <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
     </item>
     <item>
-      <title>当 AI 扑进剪辑软件：视频创作的“专业权”正在被重新分配</title>
-      <link>https://www.tmtpost.com/8161544.html</link>
-      <description>[钛媒体] 创作者的独特价值，究竟该落在哪里？</description>
-      <pubDate>Fri, 09 Oct 2026 01:28:00 +0000</pubDate>
+      <title>获腾讯投资！AI存储商星辰天合的一体机毛利率连降，创始人面临对赌危机</title>
+      <link>https://www.tmtpost.com/8163422.html</link>
+      <description>[钛媒体] AI储存“含金量”待考。</description>
+      <pubDate>Sat, 10 Oct 2026 01:06:38 +0000</pubDate>
       <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
     </item>
     <item>
-      <title>A股三大指数集体低开，波长光电跌超5%</title>
-      <link>https://36kr.com/newsflashes/4017966713163905?f=rss</link>
-      <description>[36氪] 36氪获悉，A股三大指数集体低开，沪指跌0.21%，深成指跌0.51%，创业板指跌0.5%；海运、贵金属板块领涨，招商轮船涨2%，西部黄金涨超1%；通信设备、电子元器件板块跌幅居前，波长光电跌超5%，天孚通信跌超3%。</description>
-      <pubDate>Fri, 09 Oct 2026 01:27:06 +0000</pubDate>
+      <title>Edge AI Daily 早报（10月10日）</title>
+      <link>https://www.tmtpost.com/8163419.html</link>
+      <description>[钛媒体] 英伟达五年投10亿美元入美国“创世纪计划”、黄仁勋获国家科学奖章，算力巨头升级为国家科学基础设施共建者；谷歌云发布通用智能体Gemini Agent，AI转入“给目标”自主执行的范式跃迁；微软原生重构Xbox PC应用Garrison冲击Steam；亚马逊裁零售岗、2200亿美元资本开支转向AI；Oracle用卡车运天然气保AI数据中心工期，暴露扩张与物理基建错配。</description>
+      <pubDate>Sat, 10 Oct 2026 00:57:05 +0000</pubDate>
+      <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
+    </item>
+    <item>
+      <title>不聊天的AI，上线不到一个月，完成75亿美元估值融资</title>
+      <link>https://www.tmtpost.com/8163464.html</link>
+      <description>[钛媒体] 非文本模型Jev开发商TypeSafe AI完成8.7亿美元融资</description>
+      <pubDate>Sat, 10 Oct 2026 00:54:53 +0000</pubDate>
+      <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
+    </item>
+    <item>
+      <title>Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
+      <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
+      <description>[TechCrunch AI] Anthropic said it &quot;turned off live internet access&quot; for &quot;all our internal evaluations&quot; until further notice.</description>
+      <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>8点1氪丨特朗普买入Meta股票；山姆宣布拟限制亲友卡绑定；豆包开通水、电、燃气等生活缴费功能</title>
+      <link>https://36kr.com/p/4019297973735560?f=rss</link>
+      <description>[36氪] 今日热点导览
+  
+   Anthropic据悉组建专门团队对接2028年总统候选人
+   中国手机迎来新一轮涨价潮，部分机型涨幅达1000元
+   B站申请JILIJILI等商标
+   广东汕头在全国率先推出“词元出海贷”
+   英国大学生申领贷款将需达到最低标准
+  
+  TOP 3大新闻
+  特朗普买入Meta股票，最高达2500万美元
+  最新财务披露文件显示，特朗普8月21日买入最高达2500万美元Meta股票，此后Meta股价累计涨32%。据CNBC分析，特朗普8月共517笔证券交易，总额约7430万至2.733亿美元，买入至少4420万美元，卖出至少3010万美元。文件还显示，他</description>
+      <pubDate>Sat, 10 Oct 2026 00:04:26 +0000</pubDate>
       <source url="https://www.36kr.com/feed">36氪</source>
     </item>
     <item>
-      <title>WTO lifts global trade outlook as AI boom powers Asian growth</title>
-      <link>https://www.channelnewsasia.com/asia/world-trade-organization-wto-global-outlook-resilient-robert-staiger-interview-6444356</link>
-      <description>[CNA Tech] Global supply chains have proved more resilient than expected to disruptions from the Middle East conflict, the World Trade Organization’s chief economist Robert Staiger tells CNA’s Olivia Marzuki in an interview.</description>
-      <pubDate>Fri, 09 Oct 2026 01:26:18 +0000</pubDate>
+      <title>Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)</title>
+      <link>https://www.techmeme.com/261009/p31#a261009p31</link>
+      <description>[Techmeme] Katharine Schwab / Forbes:
+Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams  —  This voice experience is generated by AI.  Learn more.  —  Last year, TikTok's executives quietly defanged its </description>
+      <pubDate>Fri, 09 Oct 2026 23:35:01 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that's designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)</title>
+      <link>https://www.techmeme.com/261009/p30#a261009p30</link>
+      <description>[Techmeme] Reuters:
+Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that's designing a new central processor for data centers, is raising funds at a ~$2.5B valuation  —  Six-month-old microchip startup Nuvacore, which does not yet have a product, is raising hundreds of millions of dollars …</description>
+      <pubDate>Fri, 09 Oct 2026 23:30:04 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Rewriting Prime Agent in Rust</title>
+      <link>https://www.primeintellect.ai/blog/prime-agent-rust</link>
+      <description>[Hacker News] Article URL: https://www.primeintellect.ai/blog/prime-agent-rust
+Comments URL: https://news.ycombinator.com/item?id=50027694
+Points: 16
+# Comments: 3</description>
+      <pubDate>Fri, 09 Oct 2026 23:06:25 +0000</pubDate>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Trump admin says it's now mandating AI companies &quot;immediately disclose incidents involving their models&quot; and move swiftly to remedy harm from security incidents (Axios)</title>
+      <link>https://www.techmeme.com/261009/p29#a261009p29</link>
+      <description>[Techmeme] Axios:
+Trump admin says it's now mandating AI companies “immediately disclose incidents involving their models” and move swiftly to remedy harm from security incidents  —  Trump administration officials say they are now mandating that AI companies notify and correct security incidents …</description>
+      <pubDate>Fri, 09 Oct 2026 23:05:01 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Exclusive-Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say</title>
+      <link>https://www.channelnewsasia.com/business/exclusive-sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-sources-say-6448066</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 09 Oct 2026 22:37:56 +0000</pubDate>
       <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
     </item>
     <item>
-      <title>恒指开盘涨0.65%，恒生科技指数涨0.29%</title>
-      <link>https://36kr.com/newsflashes/4017964630970503?f=rss</link>
-      <description>[36氪] 36氪获悉，恒指开盘涨0.65%，恒生科技指数涨0.29%；工业贸易与综合、银行板块涨幅居前，农业银行涨超2%，中信股份涨超1%；半导体、硬件设备板块领跌，长飞光纤光缆跌超3%，兆易创新跌超2%。</description>
-      <pubDate>Fri, 09 Oct 2026 01:24:59 +0000</pubDate>
+      <title>Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)</title>
+      <link>https://www.techmeme.com/261009/p28#a261009p28</link>
+      <description>[Techmeme] Chris Metinko / Axios:
+Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M  —  Oxide Computer Company, which helps companies build their own on-premise integrated cloud computer systems, raised a </description>
+      <pubDate>Fri, 09 Oct 2026 22:30:00 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Can AI automate AI R&amp;D yet?</title>
+      <link>https://epoch.ai/publications/innovationeval</link>
+      <description>[Hacker News] Article URL: https://epoch.ai/publications/innovationeval
+Comments URL: https://news.ycombinator.com/item?id=50027257
+Points: 5
+# Comments: 2</description>
+      <pubDate>Fri, 09 Oct 2026 22:14:40 +0000</pubDate>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic AI model submits false tip on unsolved Philly murder</title>
+      <link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
+      <description>[Hacker News] Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/
+Comments URL: https://news.ycombinator.com/item?id=50027118
+Points: 28
+# Comments: 10</description>
+      <pubDate>Fri, 09 Oct 2026 22:00:35 +0000</pubDate>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
+      <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
+      <description>[TechCrunch AI] What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.</description>
+      <pubDate>Fri, 09 Oct 2026 21:41:29 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)</title>
+      <link>https://www.techmeme.com/261009/p26#a261009p26</link>
+      <description>[Techmeme] Maria Curi / Axios:
+Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event  —  - The first example of significant real-world harm caused by unsafe AI would turn an already wary public further against the techno</description>
+      <pubDate>Fri, 09 Oct 2026 21:25:01 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it &quot;feels like Opus 5.5&quot; (Hugh Langley/Business Insider)</title>
+      <link>https://www.techmeme.com/261009/p25#a261009p25</link>
+      <description>[Techmeme] Hugh Langley / Business Insider:
+Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it “feels like Opus 5.5”  —  As Google prepares to roll out its new Gemini 4 ‘Argon’ model to the public, staff inside the company ar</description>
+      <pubDate>Fri, 09 Oct 2026 21:16:18 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip</link>
+      <description>[The Verge AI] An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigat</description>
+      <pubDate>Fri, 09 Oct 2026 21:15:38 +0000</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
+    </item>
+    <item>
+      <title>Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)</title>
+      <link>https://www.techmeme.com/261009/p24#a261009p24</link>
+      <description>[Techmeme] Rebecca Torrence / Bloomberg:
+Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M  —  Fintech startup Ramp has reached a roughly $60 billion valuation with its latest fundraising effort, according to people f</description>
+      <pubDate>Fri, 09 Oct 2026 20:50:01 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Wall Street posts weekly gains with earnings, inflation data on tap</title>
+      <link>https://www.straitstimes.com/business/companies-markets/wall-street-posts-weekly-gains-with-earnings-inflation-data-on-tap</link>
+      <description>[Straits Times] The Dow Jones Industrial Average rose 423.31 points, or 0.83%, to 51,654.95.</description>
+      <pubDate>Fri, 09 Oct 2026 20:37:03 +0000</pubDate>
+      <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
+    </item>
+    <item>
+      <title>Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)</title>
+      <link>https://www.techmeme.com/261009/p22#a261009p22</link>
+      <description>[Techmeme] 6abc:
+Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18  —  Watch the 6abc Philadelphia 24/7 stream featuring Action News, AccuWeather and Entertainment  —  ShareFollow 6abc on Google</description>
+      <pubDate>Fri, 09 Oct 2026 20:00:49 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
+      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
+      <description>[TechCrunch AI] Anthropic did not discover this behavior until over two months after its AI submitted the false tip.</description>
+      <pubDate>Fri, 09 Oct 2026 19:36:56 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Book Publishers Are Quietly Using More AI. Staff Are Revolting</title>
+      <link>https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/</link>
+      <description>[WIRED AI] Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.</description>
+      <pubDate>Fri, 09 Oct 2026 19:28:49 +0000</pubDate>
+      <source url="https://www.wired.com/feed/tag/ai/latest/rss">WIRED AI</source>
+    </item>
+    <item>
+      <title>Anthropic discloses fake tip to police among new rogue AI incidents</title>
+      <link>https://www.channelnewsasia.com/business/anthropic-discloses-fake-tip-police-among-new-rogue-ai-incidents-6447846</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 09 Oct 2026 19:21:18 +0000</pubDate>
+      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
+    </item>
+    <item>
+      <title>‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</link>
+      <description>[The Verge AI] &quot;Staggering.&quot; &quot;Overwhelming.&quot; &quot;Unprecedented.&quot; &quot;Surreal.&quot; &quot;Pure insanity.&quot; Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this wee</description>
+      <pubDate>Fri, 09 Oct 2026 19:09:44 +0000</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
+    </item>
+    <item>
+      <title>Microsoft-Decision-1, our model for fast decision-making</title>
+      <link>https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</link>
+      <description>[Hacker News] Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
+Comments URL: https://news.ycombinator.com/item?id=50024913
+Points: 140
+# Comments: 53</description>
+      <pubDate>Fri, 09 Oct 2026 18:38:44 +0000</pubDate>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Nikon microscopic video competition winner disqualified for using generative AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai</link>
+      <description>[The Verge AI] Nikon says the video that originally won first place in its Small World in Motion contest &quot;did not comply with the competition rules regarding generative AI.&quot; BBC reports that the original first place video from Dr. Ning Xu claimed to show &quot;tiny, hair-like structures called cilia moving in the airwa</description>
+      <pubDate>Fri, 09 Oct 2026 18:06:57 +0000</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
+    </item>
+    <item>
+      <title>What mathematicians should know about the Lean Theorem Prover: reliability &amp; AI</title>
+      <link>https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/</link>
+      <description>[Hacker News] Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/
+Comments URL: https://news.ycombinator.com/item?id=50024090
+Points: 30
+# Comments: 2</description>
+      <pubDate>Fri, 09 Oct 2026 17:42:12 +0000</pubDate>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: The rarest tech books and docs you've probably never read</title>
+      <link>https://readrare.com/</link>
+      <description>[Hacker News] Article URL: https://readrare.com/
+Comments URL: https://news.ycombinator.com/item?id=50024055
+Points: 72
+# Comments: 11</description>
+      <pubDate>Fri, 09 Oct 2026 17:39:44 +0000</pubDate>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)</title>
+      <link>https://www.techmeme.com/261009/p20#a261009p20</link>
+      <description>[Techmeme] Dominic-Madori Davis / TechCrunch:
+Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M  —  Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday that it raised a $</description>
+      <pubDate>Fri, 09 Oct 2026 17:35:02 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Typesafe AI raises $870M at $7.5B</title>
+      <link>https://typesafe.ai/blog/series-ai</link>
+      <description>[Hacker News] Article URL: https://typesafe.ai/blog/series-ai
+Comments URL: https://news.ycombinator.com/item?id=50023450
+Points: 266
+# Comments: 206</description>
+      <pubDate>Fri, 09 Oct 2026 17:02:31 +0000</pubDate>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Amazon and others are done keeping data center deals secret. Is it enough to build trust?</title>
+      <link>https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/</link>
+      <description>[TechCrunch AI] Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New </description>
+      <pubDate>Fri, 09 Oct 2026 16:56:42 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)</title>
+      <link>https://www.techmeme.com/261009/p19#a261009p19</link>
+      <description>[Techmeme] Davis Giangiulio / CNBC:
+Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally  —  Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in the U.S.</description>
+      <pubDate>Fri, 09 Oct 2026 16:55:02 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>Amazon drops data center NDAs, and AI agents want your credit card</title>
+      <link>https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/</link>
+      <description>[TechCrunch AI] Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New </description>
+      <pubDate>Fri, 09 Oct 2026 16:53:02 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Danu Robotics’ fight to build a better recycling robot</title>
+      <link>https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/</link>
+      <description>[TechCrunch AI] For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.</description>
+      <pubDate>Fri, 09 Oct 2026 16:45:00 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>We can’t help treating AI like it’s human. But should we?</title>
+      <link>https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/</link>
+      <description>[TechCrunch AI] &quot;When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,&quot; Dr. Sherry Turkle writes. &quot;And we are wired to care for it in return.&quot;</description>
+      <pubDate>Fri, 09 Oct 2026 16:40:14 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>a16z’s Olivia Moore on the state of consumer AI</title>
+      <link>https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/</link>
+      <description>[TechCrunch AI] Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.</description>
+      <pubDate>Fri, 09 Oct 2026 15:43:33 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Prize-winning image which sparked backlash was AI-generated, Nikon rules</title>
+      <link>https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.</description>
+      <pubDate>Fri, 09 Oct 2026 15:32:30 +0000</pubDate>
+      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
+    </item>
+    <item>
+      <title>Impactful scheduling for GPU clusters</title>
+      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
+      <description>[Hugging Face Blog] </description>
+      <pubDate>Fri, 09 Oct 2026 15:20:29 +0000</pubDate>
+      <source url="https://huggingface.co/blog/feed.xml">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title>MAS flags risks of using AI agents in digital-asset trading</title>
+      <link>https://www.straitstimes.com/business/mas-flags-risks-of-using-ai-agents-in-digital-asset-trading</link>
+      <description>[Straits Times] AI agents may increasingly act on behalf of individuals and institutions.</description>
+      <pubDate>Fri, 09 Oct 2026 15:10:00 +0000</pubDate>
+      <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
+    </item>
+    <item>
+      <title>Explainer-The tech green-card program under attack from Trump</title>
+      <link>https://www.channelnewsasia.com/business/explainer-tech-green-card-program-under-attack-trump-6446846</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 09 Oct 2026 15:04:36 +0000</pubDate>
+      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
+    </item>
+    <item>
+      <title>Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software</title>
+      <link>https://www.channelnewsasia.com/business/tesla-renames-full-self-driving-assisted-driving-in-europe-it-chases-clearance-software-6446806</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 09 Oct 2026 14:57:25 +0000</pubDate>
+      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
+    </item>
+    <item>
+      <title>Can you use autoregressive diffusion to generate market data?</title>
+      <link>https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/</link>
+      <description>[Hacker News] Article URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/
+Comments URL: https://news.ycombinator.com/item?id=50021410
+Points: 3
+# Comments: 0</description>
+      <pubDate>Fri, 09 Oct 2026 14:56:13 +0000</pubDate>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI denies firing researchers over AI safety warnings</title>
+      <link>https://www.channelnewsasia.com/world/openai-denies-firing-researchers-over-ai-safety-warnings-6446751</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 09 Oct 2026 14:50:11 +0000</pubDate>
+      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
+    </item>
+    <item>
+      <title>Revolut aims to become global tech company beyond banking, CEO says</title>
+      <link>https://www.channelnewsasia.com/business/revolut-aims-become-global-tech-company-beyond-banking-ceo-says-6446771</link>
+      <description>[CNA Tech] </description>
+      <pubDate>Fri, 09 Oct 2026 14:47:28 +0000</pubDate>
+      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
+    </item>
+    <item>
+      <title>Trump’s attempt to rename AI is looking awfully artificial</title>
+      <link>https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding</link>
+      <description>[The Verge AI] President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like &quot;Little Marco&quot; and &quot;Crooked Hillary&quot;; he changed &quot;fake news&quot; from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the </description>
+      <pubDate>Fri, 09 Oct 2026 14:25:43 +0000</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
+    </item>
+    <item>
+      <title>TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise</title>
+      <link>https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/</link>
+      <description>[TechCrunch AI] Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.</description>
+      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Instinct was the buzziest AI agent around — can it survive Muse?</title>
+      <link>https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots</link>
+      <description>[The Verge AI] Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text me</description>
+      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
+    </item>
+    <item>
+      <title>SpaceX’s US$750 billion rally breaks stock out of post-IPO funk</title>
+      <link>https://www.businesstimes.com.sg/companies-markets/spacexs-us750-billion-rally-breaks-stock-out-post-ipo-funk</link>
+      <description>[Business Times] Steadiness in the share price of Elon Musk’s company indicates insiders are not unloading their stakes</description>
+      <pubDate>Fri, 09 Oct 2026 13:45:12 +0000</pubDate>
+      <source url="https://www.businesstimes.com.sg/rss/startups-tech">Business Times</source>
+    </item>
+    <item>
+      <title>Anthropic bans users from being 'cruel' to its AI systems</title>
+      <link>https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The firm said users can no longer engage in &quot;sustained and needless&quot; abusive behaviour towards the tech.</description>
+      <pubDate>Fri, 09 Oct 2026 12:34:27 +0000</pubDate>
+      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
+    </item>
+    <item>
+      <title>AI budgets are growing faster than proof of ROI</title>
+      <link>https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/</link>
+      <description>[MarTech] Companies are spending heavily on AI, but most agent projects are still short of full scale and many marketing teams can’t show clear financial value.
+The post AI budgets are growing faster than proof of ROI appeared first on MarTech.</description>
+      <pubDate>Fri, 09 Oct 2026 12:24:00 +0000</pubDate>
+      <source url="https://martech.org/topic/marketing-artificial-intelligence-ai/feed/">MarTech</source>
+    </item>
+    <item>
+      <title>Not everyone in marketing should be an AI builder</title>
+      <link>https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/</link>
+      <description>[MarTech] Marketing teams are rewarding AI builders, but they also need maintainers, monitors, and users. Here's why those roles matter.
+The post Not everyone in marketing should be an AI builder appeared first on MarTech.</description>
+      <pubDate>Fri, 09 Oct 2026 12:07:00 +0000</pubDate>
+      <source url="https://martech.org/topic/marketing-artificial-intelligence-ai/feed/">MarTech</source>
+    </item>
+    <item>
+      <title>Robotaxi Races Shift From Tech Specs to Partnerships</title>
+      <link>https://www.tmtpost.com/8163126.html</link>
+      <description>[钛媒体] In 2026 the leading Robotaxi operators are no longer competing mainly on test miles or demonstration flash. Policy openings, cheaper sensors and stronger models have turned pure technical lead into an entry ticket. The new contest is over who can assemble manufacturing, operations and demand into a </description>
+      <pubDate>Fri, 09 Oct 2026 10:28:03 +0000</pubDate>
+      <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
+    </item>
+    <item>
+      <title>AI家电，攻占黄金周</title>
+      <link>https://www.tmtpost.com/8162948.html</link>
+      <description>[钛媒体] AI能让用户多掏钱吗？</description>
+      <pubDate>Fri, 09 Oct 2026 10:18:49 +0000</pubDate>
+      <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
+    </item>
+    <item>
+      <title>AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧</title>
+      <link>https://www.tmtpost.com/8162833.html</link>
+      <description>[钛媒体] 回望手机行业五十年，每一代霸主都曾以为自己握住了终点。</description>
+      <pubDate>Fri, 09 Oct 2026 10:18:43 +0000</pubDate>
+      <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
+    </item>
+    <item>
+      <title>China’s Xpeng targets overseas robotaxi trials next year, wider rollout in 2 to 3 years</title>
+      <link>https://www.channelnewsasia.com/business/xpeng-robotaxis-yoyo-humanoid-robots-iron-brian-gu-interview-6445751</link>
+      <description>[CNA Tech] Xpeng is also ramping up production of its humanoid robot, Iron, with plans to put it to work in stores before offering it to external customers, vice-chairman and president Brian Gu tells CNA’s Julie Yoo in an interview.</description>
+      <pubDate>Fri, 09 Oct 2026 10:17:51 +0000</pubDate>
+      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
+    </item>
+    <item>
+      <title>Even ‘Law &amp; Order’ Is Terrified of AI</title>
+      <link>https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/</link>
+      <description>[WIRED AI] In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.</description>
+      <pubDate>Fri, 09 Oct 2026 10:00:00 +0000</pubDate>
+      <source url="https://www.wired.com/feed/tag/ai/latest/rss">WIRED AI</source>
+    </item>
+    <item>
+      <title>OpenAI doubles down on decision to fire three AI safety researchers</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers</link>
+      <description>[The Verge AI] OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed &quot;a significant breach of trust.&quot; In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating &quot;clear policies on handling sen</description>
+      <pubDate>Fri, 09 Oct 2026 09:48:26 +0000</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
+    </item>
+    <item>
+      <title>Fired OpenAI researchers say they were let go for 'prioritising safety'</title>
+      <link>https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] The AI firm instead claims the researchers were fired for mishandling sensitive information.</description>
+      <pubDate>Fri, 09 Oct 2026 09:30:49 +0000</pubDate>
+      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
+    </item>
+    <item>
+      <title>We’re putting too much faith in AI’s ability to say no</title>
+      <link>https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/</link>
+      <description>[MIT Tech Review AI] Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recentl</description>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Tech Review AI</source>
+    </item>
+    <item>
+      <title>别等项目成功了，才开始讲它的故事！</title>
+      <link>https://36kr.com/p/4018406199021449?f=rss</link>
+      <description>[36氪] 36氪项目推荐
+  在创业圈，有很多这样的项目：一支团队花了几年时间打磨技术，终于让产品走进真实应用场景；一家初创公司深耕细分领域，解决了一个长期存在的行业问题；还有一些创业者，正在把一个新想法变成真正的产品。
+  它们可能还没有很高的知名度，也未必拿到了亮眼的融资成绩，但正在发生的变化，本身就值得被关注。
+  现实中，创业团队往往把大部分精力放在产品、客户和业务增长上，对外传播则被放在了后面。等到需要融资、拓展市场或寻找合作伙伴时，才开始整理项目资料，思考该如何向外界介绍自己。
+  但一个项目的价值，不只体现在融资、营收和规模上。
+  一次技术突破、一个新产品的落地、一家标杆客户的合作，都是</description>
+      <pubDate>Fri, 09 Oct 2026 08:55:54 +0000</pubDate>
+      <source url="https://www.36kr.com/feed">36氪</source>
+    </item>
+    <item>
+      <title>载人eVTOL获TC受理，「齐飞航空」完成近亿元战略轮融资｜36氪首发</title>
+      <link>https://36kr.com/p/4018318436110215?f=rss</link>
+      <description>[36氪] 文 | 阿至
+  封面来源 | 企业供图
+  低空经济的资本叙事正在走向分化。
+  2026上半年，领域内大额融资频发，资金高度向少数头部公司集中，eVTOL整机研发制造占据绝对主导地位。进入三季度，行业负面舆情伴随市场收紧，机构对低空赛道的态度普遍转向谨慎。
+  多位从业者表达过类似感受，市场并非变冷，但投向有所收窄，除了冲刺取证的第一梯队，钱只愿意流向“看得见的进展”。对于后进场的玩家来说，速度和效率是更关键的命题。
+  我们了解到，eVTOL主机厂齐飞航空科技（苏州）有限责任公司（以下简称“齐飞航空”）已完成近亿元人民币战略轮融资，由苏州创新投资集团领投，江苏省战新未来天使基金、相城投控</description>
+      <pubDate>Fri, 09 Oct 2026 07:35:58 +0000</pubDate>
+      <source url="https://www.36kr.com/feed">36氪</source>
+    </item>
+    <item>
+      <title>Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen</title>
+      <link>https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Firmus said it had made the decision due to &quot;recent market volatility and prevailing market conditions&quot;.</description>
+      <pubDate>Fri, 09 Oct 2026 07:14:30 +0000</pubDate>
+      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
+    </item>
+    <item>
+      <title>'Careless use of AI is the real threat - not the ghost stories'</title>
+      <link>https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>[BBC Technology] Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.</description>
+      <pubDate>Fri, 09 Oct 2026 07:05:01 +0000</pubDate>
+      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
+    </item>
+    <item>
+      <title>OpenAI’s Singapore-based APAC policy head leaving job after 6 months, source says</title>
+      <link>https://www.straitstimes.com/business/openais-singapore-based-apac-policy-head-leaving-job-after-6-months-source-says</link>
+      <description>[Straits Times] The reasons for his exit were not immediately clear.</description>
+      <pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+      <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
+    </item>
+    <item>
+      <title>Tech stocks struggle on AI spending worries, elevated yields</title>
+      <link>https://www.straitstimes.com/business/tech-stocks-struggle-on-ai-spending-worries-elevated-yields</link>
+      <description>[Straits Times] Investors are worried about high energy prices, bond market turmoil and huge AI spending costs.</description>
+      <pubDate>Fri, 09 Oct 2026 03:39:36 +0000</pubDate>
+      <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
+    </item>
+    <item>
+      <title>36氪首发丨航天老兵创业做高分辨率遥感相机，连续完成多轮次近亿元融资</title>
+      <link>https://36kr.com/p/4018036253626502?f=rss</link>
+      <description>[36氪] 作者 | 乔钰杰
+  编辑 | 袁斯来
+  
+   本文约2300字，建议阅读5分钟
+  
+  硬氪获悉，北京重眸科技有限公司（以下简称“重眸科技”）近日宣布完成多轮次近亿元融资，由民银国际、亦庄种子基金、远翼投资联合投资，资金将用于0.5米分辨率遥感相机批量投产、标准化产能建设以及更高分辨率遥感相机产品研发。
+  重眸科技成立于2024年，是国内商业航天领域首家专注0.5米及优于0.5米分辨率光学遥感相机的高新技术企业。公司能够提供星载一体化设计、高品质遥感相机研发和制造等一揽子解决方案。
+  
+  （图源/企业）
+  公司创始人马波曾任职于航天东方红、中国卫星，参与主持了多个国家级重点航天</description>
+      <pubDate>Fri, 09 Oct 2026 02:41:09 +0000</pubDate>
+      <source url="https://www.36kr.com/feed">36氪</source>
+    </item>
+    <item>
+      <title>美央构建物理AI路径闭环：把人体变成可计算的真实世界</title>
+      <link>https://36kr.com/p/4018021038657411?f=rss</link>
+      <description>[36氪] 万美京AIMIRA构建&quot;感知—理解—决策—执行—反馈&quot;产品闭环，回答物理AI核心命题
+  当AI走出屏幕，游戏规则彻底改变：真实的人体有空间结构、组织状态与一刻不停的时间变化；软件说错一句话可以重新生成，机器做错一个动作，结果可能无法撤回。物理AI难的从来不是更大的模型，而是&quot;感知—建模—决策—执行—验证—再学习&quot;这条长链路。广州美央创新科技（Calilia国际集团/万美京AIMIRA）已把这条链路落成产品体系：FAITH是感知入口，&quot;女娲&quot;人体真实世界模型负责建模与理解，医疗级智能硬件与具身设备执行，效果与长期变化再回流系统。
+  美央创始人蒋宇振博士表示：&quot;女娲不是一个什么都能答的'人体大</description>
+      <pubDate>Fri, 09 Oct 2026 02:22:54 +0000</pubDate>
       <source url="https://www.36kr.com/feed">36氪</source>
     </item>
     <item>
@@ -73,42 +588,6 @@
       <description>[Straits Times] Recent market volatility and prevailing market conditions cited as reasons.</description>
       <pubDate>Fri, 09 Oct 2026 01:09:00 +0000</pubDate>
       <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
-    </item>
-    <item>
-      <title>Anthropic据悉组建专门团队对接2028年总统候选人</title>
-      <link>https://36kr.com/newsflashes/4017925846814596?f=rss</link>
-      <description>[36氪] 据报道，美国人工智能初创公司Anthropic 正着手设立一个针对2028年大选的“总统级对接”计划，组建一支内部团队，直接就人工智能相关议题与美国两党总统候选人展开对接，协助公司高层制定政治策略，并负责运营公司的政治资助项目。（新浪财经）</description>
-      <pubDate>Fri, 09 Oct 2026 01:00:19 +0000</pubDate>
-      <source url="https://www.36kr.com/feed">36氪</source>
-    </item>
-    <item>
-      <title>苹果任命新任并购负责人</title>
-      <link>https://36kr.com/newsflashes/4017922823638921?f=rss</link>
-      <description>[36氪] 苹果新一任并购主管，由史蒂夫·史密斯接替阿德里安·佩里卡；佩里卡将继续负责iCloud、Fitness+以及新闻业务。史密斯将向首席财务官基万·帕雷克汇报，并购团队重回财务部门管理，这是2019年以来首次。同时，卡森·奥利弗晋升为App Store副总裁。本次人事变动是苹果服务部门一系列领导层调整的一部分。埃迪·库将接管App Store及其他团队；佩里卡与奥利弗·舒瑟被视作库的潜在继任人选。（新浪财经）</description>
-      <pubDate>Fri, 09 Oct 2026 00:53:17 +0000</pubDate>
-      <source url="https://www.36kr.com/feed">36氪</source>
-    </item>
-    <item>
-      <title>特朗普为什么非要给AI改名字</title>
-      <link>https://www.tmtpost.com/8161128.html</link>
-      <description>[钛媒体] 从AI到SI，AI巨头的反应并不整齐。</description>
-      <pubDate>Fri, 09 Oct 2026 00:41:29 +0000</pubDate>
-      <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
-    </item>
-    <item>
-      <title>Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)</title>
-      <link>https://www.techmeme.com/261008/p52#a261008p52</link>
-      <description>[Techmeme] Washington Post:
-Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders  —  President Donald Trump celebrated tech billionaires such as Microsoft CEO Satya Nadella at an event with arguably awkw</description>
-      <pubDate>Fri, 09 Oct 2026 00:40:03 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
-    </item>
-    <item>
-      <title>Exclusive-AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say</title>
-      <link>https://www.channelnewsasia.com/business/exclusive-ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-sources-say-6444791</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Fri, 09 Oct 2026 00:20:04 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
     </item>
     <item>
       <title>Nvidia-backed Firmus IPO being pulled sends AI funding warning</title>
@@ -125,53 +604,11 @@ Satya Nadella and Michael Dell were awarded the National Medal of Technology and
       <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Tech Review AI</source>
     </item>
     <item>
-      <title>Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI</title>
-      <link>https://github.com/edrisranjbar/lifeos</link>
-      <description>[Hacker News] Article URL: https://github.com/edrisranjbar/lifeos
-Comments URL: https://news.ycombinator.com/item?id=50014150
-Points: 15
-# Comments: 2</description>
-      <pubDate>Fri, 09 Oct 2026 00:02:19 +0000</pubDate>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>OpenAI’s annualised revenue US$20 billion less than previously signalled: Report</title>
       <link>https://www.straitstimes.com/business/openais-annualised-revenue-us20-billion-less-than-previously-signalled-report</link>
       <description>[Straits Times] It is far short of the US$70 billion reported by media outlets.</description>
       <pubDate>Thu, 08 Oct 2026 23:44:00 +0000</pubDate>
       <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
-    </item>
-    <item>
-      <title>Show HN: SVG Spark – 10 client-side SVG design and dev tools</title>
-      <link>https://svg-spark.vercel.app/</link>
-      <description>[Hacker News] Article URL: https://svg-spark.vercel.app/
-Comments URL: https://news.ycombinator.com/item?id=50013931
-Points: 25
-# Comments: 1</description>
-      <pubDate>Thu, 08 Oct 2026 23:32:49 +0000</pubDate>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>【钛晨报】中国人民银行发布人民币汇率的政策立场；尊界回应制动踏板支架底座断裂问题；苹果给开发者下硬规定：明年4月所有App必须适配折叠屏</title>
-      <link>https://www.tmtpost.com/8161611.html</link>
-      <description>[钛媒体] Manus完成超5亿美元新一轮融资；一汽、广汽声明：一汽丰田仍将作为独立运营主体存续；谷歌云推出Gemini智能代理，可自主执行企业多步骤任务；贝索斯首次明确表态：蓝色起源或将数年内IPO；新就业形态劳动者权益保障办法公开征求意见；特朗普据悉买入了最高2500万美元的Meta股票；世贸组织上调2026年全球货物贸易增长预期；安妮·卡森获得2026年诺贝尔文学奖</description>
-      <pubDate>Thu, 08 Oct 2026 23:20:00 +0000</pubDate>
-      <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
-    </item>
-    <item>
-      <title>Character.AI chatbots encouraged users to cut and starve themselves, Kentucky alleges</title>
-      <link>https://www.channelnewsasia.com/business/characterai-chatbots-encouraged-users-cut-and-starve-themselves-kentucky-alleges-6444701</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 08 Oct 2026 23:11:38 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
-    </item>
-    <item>
-      <title>AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for &quot;prioritizing safety over the near-term interests of OpenAI&quot; (Mikita Balesni/@balesni)</title>
-      <link>https://www.techmeme.com/261008/p49#a261008p49</link>
-      <description>[Techmeme] Mikita Balesni / @balesni:
-AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for “prioritizing safety over the near-term interests of OpenAI”  —  Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership. I be</description>
-      <pubDate>Thu, 08 Oct 2026 23:01:29 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
     </item>
     <item>
       <title>OpenAI annualised revenue closer to US$50 billion than reported US$70 billion: FT</title>
@@ -188,13 +625,6 @@ AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, an
       <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
     </item>
     <item>
-      <title>Australian NVIDIA-backed AI data centre operator Firmus shelves IPO</title>
-      <link>https://www.channelnewsasia.com/business/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-6444646</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 08 Oct 2026 22:12:23 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
-    </item>
-    <item>
       <title>Anthropic launches free AI security scans for open-source projects</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</link>
       <description>[The Verge AI] Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get &quot;thorough, periodic security scans by our strongest models at no cost.&quot; That could mean open-source projects get alerted abou</description>
@@ -202,9 +632,9 @@ AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, an
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
     </item>
     <item>
-      <title>White House blocks Microsoft from foreign worker hiring program</title>
+      <title>White House blocks Microsoft from foreign worker hiring programme</title>
       <link>https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.</description>
+      <description>[BBC Technology] An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.</description>
       <pubDate>Thu, 08 Oct 2026 21:37:35 +0000</pubDate>
       <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
     </item>
@@ -216,44 +646,11 @@ AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, an
       <source url="https://www.wired.com/feed/tag/ai/latest/rss">WIRED AI</source>
     </item>
     <item>
-      <title>OpenAI's annualized revenue $20 billion less than previously signaled, FT reports</title>
-      <link>https://www.channelnewsasia.com/business/openais-annualized-revenue-20-billion-less-previously-signaled-ft-reports-6444566</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 08 Oct 2026 21:12:29 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
-    </item>
-    <item>
       <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
       <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
       <description>[TechCrunch AI] With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.</description>
       <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>AI-ready biological data: $1.8B global commitment</title>
-      <link>https://biohub.org/news/virtual-biology-initiative-expansion/</link>
-      <description>[Hacker News] Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/
-Comments URL: https://news.ycombinator.com/item?id=50011999
-Points: 69
-# Comments: 7</description>
-      <pubDate>Thu, 08 Oct 2026 20:46:25 +0000</pubDate>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds (Bloomberg)</title>
-      <link>https://www.techmeme.com/261008/p47#a261008p47</link>
-      <description>[Techmeme] Bloomberg:
-USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds  —  New York City-based venture firm Union Square Ventures is reinventing itself to better compete in the artificial intelligence ra</description>
-      <pubDate>Thu, 08 Oct 2026 20:40:01 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
-    </item>
-    <item>
-      <title>Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review (Anthropic)</title>
-      <link>https://www.techmeme.com/261008/p45#a261008p45</link>
-      <description>[Techmeme] Anthropic:
-Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review  —  We're launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude </description>
-      <pubDate>Thu, 08 Oct 2026 20:23:09 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
     </item>
     <item>
       <title>California is trying to shut down robot vs. human cage matches</title>
@@ -263,20 +660,6 @@ Anthropic launches OSS Scanner, which provides free, opt-in security audits for 
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
     </item>
     <item>
-      <title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
-      <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
-      <description>[TechCrunch AI] Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.</description>
-      <pubDate>Thu, 08 Oct 2026 20:04:26 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Explainer-The skilled foreign tech workers' green card program under attack from Trump</title>
-      <link>https://www.channelnewsasia.com/business/explainer-skilled-foreign-tech-workers-green-card-program-under-attack-trump-6444461</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 08 Oct 2026 20:04:20 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
-    </item>
-    <item>
       <title>An air-con firm building AI, a hygiene business going regional: How home-grown SMEs are turning decades of expertise into new revenue</title>
       <link>https://www.straitstimes.com/business/home-grown-smes-turn-decades-expertise-into-new-revenue-streams-enterprise-singapore</link>
       <description>[Straits Times] With Enterprise Singapore and SME Centre support, firms are turning expertise into AI tools, services and new markets.</description>
@@ -284,114 +667,11 @@ Anthropic launches OSS Scanner, which provides free, opt-in security audits for 
       <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
     </item>
     <item>
-      <title>Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models</title>
-      <link>https://www.channelnewsasia.com/business/lawmakers-raise-alarm-google-plan-acquire-spirit-airlines-data-ai-models-6444451</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 08 Oct 2026 19:49:14 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
-    </item>
-    <item>
-      <title>Filing: the US FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints (Leah Nylen/Bloomberg)</title>
-      <link>https://www.techmeme.com/261008/p44#a261008p44</link>
-      <description>[Techmeme] Leah Nylen / Bloomberg:
-Filing: the US FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints  —  The Federal Trade Commission is investigating whether Block Inc., the parent of Square and Cash App, violated US </description>
-      <pubDate>Thu, 08 Oct 2026 19:45:43 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
-    </item>
-    <item>
-      <title>Anthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others (Sam Sabin/Axios)</title>
-      <link>https://www.techmeme.com/261008/p43#a261008p43</link>
-      <description>[Techmeme] Sam Sabin / Axios:
-Anthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others  —  Anthropic is launching a new cybersecurity initiative designed to bring its most powerful AI models and engineers …</description>
-      <pubDate>Thu, 08 Oct 2026 19:30:41 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
-    </item>
-    <item>
       <title>She Designed Meta’s New AI Logo. Then Came the Hate</title>
       <link>https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/</link>
       <description>[WIRED AI] Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.</description>
       <pubDate>Thu, 08 Oct 2026 19:30:00 +0000</pubDate>
       <source url="https://www.wired.com/feed/tag/ai/latest/rss">WIRED AI</source>
-    </item>
-    <item>
-      <title>Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported (CNBC)</title>
-      <link>https://www.techmeme.com/261008/p42#a261008p42</link>
-      <description>[Techmeme] CNBC:
-Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported  —  Shares of Nvidia, Oracle, CoreWeave and other artificial intelligence names sank lower on Thursday after the market learned more det</description>
-      <pubDate>Thu, 08 Oct 2026 19:20:01 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
-    </item>
-    <item>
-      <title>Anthropic launches dashboard, animation tools for Claude</title>
-      <link>https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 08 Oct 2026 19:01:12 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
-    </item>
-    <item>
-      <title>Ben Affleck is an AI nerd, and the internet is impressed</title>
-      <link>https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/</link>
-      <description>[TechCrunch AI] Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.</description>
-      <pubDate>Thu, 08 Oct 2026 18:20:32 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months</title>
-      <link>https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/</link>
-      <description>[TechCrunch AI] The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.</description>
-      <pubDate>Thu, 08 Oct 2026 18:19:45 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>OpenAI’s revenue is reportedly $20 billion less than previously projected</title>
-      <link>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</link>
-      <description>[TechCrunch AI] It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.</description>
-      <pubDate>Thu, 08 Oct 2026 18:19:42 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Google brings agentic AI to Gemini, starting with businesses</title>
-      <link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
-      <description>[TechCrunch AI] Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.</description>
-      <pubDate>Thu, 08 Oct 2026 18:18:00 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Anthropic changes usage policy to ban model abuse and election interference</title>
-      <link>https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/</link>
-      <description>[TechCrunch AI] Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.</description>
-      <pubDate>Thu, 08 Oct 2026 18:16:24 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Exclusive-Trump AI task force leaders to meet on Thursday, vice chair says</title>
-      <link>https://www.channelnewsasia.com/business/exclusive-trump-ai-task-force-leaders-meet-thursday-vice-chair-says-6444341</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 08 Oct 2026 18:14:57 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
-    </item>
-    <item>
-      <title>OpenAI’s math solutions aren’t meeting the field’s standards yet</title>
-      <link>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/</link>
-      <description>[TechCrunch AI] OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.</description>
-      <pubDate>Thu, 08 Oct 2026 18:10:55 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Sources: Apple promotes Carson Oliver to VP of the App Store and names Steve Smith as M&amp;A chief, replacing Adrian Perica, who keeps iCloud, Fitness+, and News (Mark Gurman/Bloomberg)</title>
-      <link>https://www.techmeme.com/261008/p41#a261008p41</link>
-      <description>[Techmeme] Mark Gurman / Bloomberg:
-Sources: Apple promotes Carson Oliver to VP of the App Store and names Steve Smith as M&amp;A chief, replacing Adrian Perica, who keeps iCloud, Fitness+, and News  —  Apple Inc. is naming a new mergers and acquisitions chief, according to people familiar with the matter …</description>
-      <pubDate>Thu, 08 Oct 2026 18:10:02 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
-    </item>
-    <item>
-      <title>Sources: Firmus is set to postpone its IPO and is weighing a private funding round instead, after some investors suggested its pricing strategy is aggressive (Bloomberg)</title>
-      <link>https://www.techmeme.com/261008/p40#a261008p40</link>
-      <description>[Techmeme] Bloomberg:
-Sources: Firmus is set to postpone its IPO and is weighing a private funding round instead, after some investors suggested its pricing strategy is aggressive  —  Firmus Grid Ltd. abandoned its attempt at one of Australia's biggest-ever initial public offerings, after the Nvidia Corp.-back</description>
-      <pubDate>Thu, 08 Oct 2026 18:01:12 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
     </item>
     <item>
       <title>USA Today becomes the latest publisher to sue OpenAI</title>
@@ -408,66 +688,6 @@ Sources: Firmus is set to postpone its IPO and is weighing a private funding rou
       <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
     </item>
     <item>
-      <title>Anthropic updates its usage policy to ban &quot;sustained and needless abusive or cruel behavior&quot; toward Claude; ending chats is &quot;the primary enforcement mechanism&quot; (Hayden Field/The Verge)</title>
-      <link>https://www.techmeme.com/261008/p39#a261008p39</link>
-      <description>[Techmeme] Hayden Field / The Verge:
-Anthropic updates its usage policy to ban “sustained and needless abusive or cruel behavior” toward Claude; ending chats is “the primary enforcement mechanism”  —  The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon developm</description>
-      <pubDate>Thu, 08 Oct 2026 17:20:01 +0000</pubDate>
-      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
-    </item>
-    <item>
-      <title>Anthropic bans ‘abusive or cruel behavior’ toward Claude</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
-      <description>[The Verge AI] Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits &quot;sustained and needles</description>
-      <pubDate>Thu, 08 Oct 2026 17:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
-    </item>
-    <item>
-      <title>Show HN: Jevman – AI decision models play Pac-Man</title>
-      <link>https://opper.ai/jevman-benchmark/</link>
-      <description>[Hacker News] Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.So we let jev 1.13, kev, clef, clef flash, GP</description>
-      <pubDate>Thu, 08 Oct 2026 16:34:13 +0000</pubDate>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Russia's Yandex says unclear whether data centre can be restored after drone strike</title>
-      <link>https://www.channelnewsasia.com/business/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike-6443541</link>
-      <description>[CNA Tech] </description>
-      <pubDate>Thu, 08 Oct 2026 16:22:19 +0000</pubDate>
-      <source url="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936">CNA Tech</source>
-    </item>
-    <item>
-      <title>Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter</title>
-      <link>https://openrouter.ai/stepfun/step-5-preview</link>
-      <description>[Hacker News] Article URL: https://openrouter.ai/stepfun/step-5-preview
-Comments URL: https://news.ycombinator.com/item?id=50007764
-Points: 95
-# Comments: 23</description>
-      <pubDate>Thu, 08 Oct 2026 16:20:20 +0000</pubDate>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Natura’s $99 smart ring puts AI agents on your finger</title>
-      <link>https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/</link>
-      <description>[TechCrunch AI] Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.</description>
-      <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost</title>
-      <link>https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/</link>
-      <description>[TechCrunch AI] Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.</description>
-      <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-    </item>
-    <item>
-      <title>Google’s AI note-taking app transcribes your meetings completely offline</title>
-      <link>https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline</link>
-      <description>[The Verge AI] Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. Similar to AI note-ta</description>
-      <pubDate>Thu, 08 Oct 2026 15:27:30 +0000</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
-    </item>
-    <item>
       <title>The latest AI-powered martech news and releases</title>
       <link>https://martech.org/the-latest-ai-powered-martech-news-and-releases/</link>
       <description>[MarTech] General AI is generally fine, but a new study shows that for SEO problems you should get a specialist.
@@ -476,45 +696,10 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
       <source url="https://martech.org/topic/marketing-artificial-intelligence-ai/feed/">MarTech</source>
     </item>
     <item>
-      <title>Google is launching a one-stop Gemini agent for your work tasks</title>
-      <link>https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise</link>
-      <description>[The Verge AI] Google is launching a &quot;universal&quot; Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a </description>
-      <pubDate>Thu, 08 Oct 2026 14:28:03 +0000</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
-    </item>
-    <item>
-      <title>Can you trust Meta’s Muse or OpenAI’s Dots to run your life?</title>
-      <link>https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</link>
-      <description>[The Verge AI] My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mi</description>
-      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
-    </item>
-    <item>
-      <title>Artificial is a wicked satire that also sticks to the facts</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts</link>
-      <description>[The Verge AI] At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that &quot;[when] someone wants to play God, that's very interesting to me.&quot; The idea of playing God, and power in general - who has it, who desperately wants it, and who will do</description>
-      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
-    </item>
-    <item>
       <title>WTO upgrades 2026 goods trade growth forecast to 3.9% as AI boom offsets Middle East disruption</title>
       <link>https://www.straitstimes.com/business/wto-upgrades-2026-goods-trade-growth-forecast-to-3-9-as-ai-boom-offsets-middle-east-disruption</link>
-      <description>[Straits Times] But it downgrades services growth outlook to 3.3% as Mid-East conflict hits transport and travel.</description>
+      <description>[Straits Times] But it downgrades services growth outlook to 3.3% as the Middle East conflict hits transport and travel.</description>
       <pubDate>Thu, 08 Oct 2026 13:57:00 +0000</pubDate>
-      <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
-    </item>
-    <item>
-      <title>自动驾驶货运的下一战：不在卡车里，在 500 英里以内</title>
-      <link>https://www.tmtpost.com/8161239.html</link>
-      <description>[钛媒体] 自动驾驶货运的竞争，正在从“卡车内部”（谁的 L4 更强）扩展到“公铁之争”（500 英里以内的短途货运到底谁来吃）；短途才是真正的主战场，而决定谁能活到规模化那天的，不只是算法，还有资本与监管这两道闸门。</description>
-      <pubDate>Thu, 08 Oct 2026 11:59:54 +0000</pubDate>
-      <source url="https://www.tmtpost.com/rss.xml">钛媒体</source>
-    </item>
-    <item>
-      <title>AI bubble risks worst S&amp;P 500 crash since 2008, strategist says</title>
-      <link>https://www.straitstimes.com/business/ai-bubble-risks-worst-sp-500-crash-since-2008-strategist-says</link>
-      <description>[Straits Times] Klement advises investors to develop contingency plans and timing tools that would help identify the start of a crash.</description>
-      <pubDate>Thu, 08 Oct 2026 11:05:00 +0000</pubDate>
       <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
     </item>
     <item>
@@ -524,20 +709,6 @@ The post The latest AI-powered martech news and releases appeared first on MarTe
 The post Agentic media buying needs malware guardrails: A PropellerAds view appeared first on MarTech.</description>
       <pubDate>Thu, 08 Oct 2026 11:00:00 +0000</pubDate>
       <source url="https://martech.org/topic/marketing-artificial-intelligence-ai/feed/">MarTech</source>
-    </item>
-    <item>
-      <title>UK’s ASOS says cyberhack accessed customers’ personal data</title>
-      <link>https://www.straitstimes.com/business/uks-asos-says-cyber-hack-accessed-customers-personal-data</link>
-      <description>[Straits Times] ASOS said the hacker did not gain access to payment card information or account passwords.</description>
-      <pubDate>Thu, 08 Oct 2026 11:00:00 +0000</pubDate>
-      <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
-    </item>
-    <item>
-      <title>Deeptech unicorn PhysicsX opens regional hub in S’pore to scale AI-powered industrial engineering</title>
-      <link>https://www.straitstimes.com/business/deeptech-unicorn-physicsx-opens-regional-hub-in-spore-to-scale-ai-powered-industrial-engineering</link>
-      <description>[Straits Times] It already has 20 employees in Singapore and aims to grow its local team to more than 100 over the next three years.</description>
-      <pubDate>Thu, 08 Oct 2026 11:00:00 +0000</pubDate>
-      <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
     </item>
     <item>
       <title>让AI走进真实产线，汇川技术2026工博会看点前瞻</title>
@@ -554,13 +725,6 @@ The post Agentic media buying needs malware guardrails: A PropellerAds view appe
       <description>[WIRED AI] The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.</description>
       <pubDate>Thu, 08 Oct 2026 09:30:00 +0000</pubDate>
       <source url="https://www.wired.com/feed/tag/ai/latest/rss">WIRED AI</source>
-    </item>
-    <item>
-      <title>UOB to create 1,000 roles even as concerns rise over AI’s impact on entry-level roles for fresh grads</title>
-      <link>https://www.straitstimes.com/business/uob-to-create-1000-jobs-for-fresh-graduates-as-concerns-rise-over-impact-of-ai-on-entry-level-roles</link>
-      <description>[Straits Times] The bank is also equipping 5,500 managers across the region with skills to become better leaders.</description>
-      <pubDate>Thu, 08 Oct 2026 09:25:00 +0000</pubDate>
-      <source url="https://www.straitstimes.com/news/business/rss.xml">Straits Times</source>
     </item>
     <item>
       <title>AI breakthroughs in robotics won’t change your life any time soon</title>
@@ -591,17 +755,6 @@ The post Agentic media buying needs malware guardrails: A PropellerAds view appe
       <source url="https://www.businesstimes.com.sg/rss/startups-tech">Business Times</source>
     </item>
     <item>
-      <title>硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台</title>
-      <link>https://36kr.com/p/4016645063217281?f=rss</link>
-      <description>[36氪] 硬氪获悉，智能眼镜品牌NIMO所属公司比特幻境近日完成数亿元人民币天使轮融资，最新估值达15亿元。本轮投资方包括博华资本、戈壁创投、元禾璞华，以及尚势资本等相关投资机构。融资资金将主要用于产品研发、渠道拓展及海外市场布局。
-  比特幻境成立于2025年7月，2026f年4月，NIMO将收首款产品推向市场。目前，NIMO月度销售规模已达数千台，正持续推进产品在LOHO线下门店的布局,并已与香港上市公司、拥有逾50年行业积累的国际眼镜制造商雅视光学(01120.HK)达成深度合作。
-  
-  NIMO首款产品
-  如果把过去几年的智能眼镜看作一场功能竞赛，NIMO试图走的是另一条路——先把智能眼镜</description>
-      <pubDate>Thu, 08 Oct 2026 03:03:19 +0000</pubDate>
-      <source url="https://www.36kr.com/feed">36氪</source>
-    </item>
-    <item>
       <title>Nvidia-backed Firmus said to close books as mega IPO struggles</title>
       <link>https://www.businesstimes.com.sg/international/nvidia-backed-firmus-said-close-books-mega-ipo-struggles</link>
       <description>[Business Times] Reports say it has not drawn enough support for the A$11 share price marketed to potential investors</description>
@@ -623,33 +776,6 @@ The post Agentic media buying needs malware guardrails: A PropellerAds view appe
       <source url="https://www.businesstimes.com.sg/rss/startups-tech">Business Times</source>
     </item>
     <item>
-      <title>Why isn't the industry freaking out about DeepSeek 4.1 Flash?</title>
-      <link>https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/</link>
-      <description>[Hacker News] Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/
-Comments URL: https://news.ycombinator.com/item?id=50000488
-Points: 424
-# Comments: 355</description>
-      <pubDate>Thu, 08 Oct 2026 00:14:48 +0000</pubDate>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>8点1氪丨中国航协回应东航空姐跪地道歉事件；DeepSeek新一轮融资逼近1000亿；安踏集团正式成为彪马最大股东</title>
-      <link>https://36kr.com/p/4016467711316101?f=rss</link>
-      <description>[36氪] 今日热点导览
-  
-   SpaceXAI官宣更名SpaceXSI
-   OpenAI将在欧盟为ChatGPT和Codex文本输出添加隐形水印
-   2026年诺贝尔化学奖、物理学奖揭晓
-   7-11便利店退出印度
-   苹果一号电脑或拍出80万美元
-  
-  TOP 3 大新闻
-  中国航协回应东航空姐跪地道歉事件
-  10月7日，中国航协发文回应“东航空姐跪地道歉”事件。中国航协称，东航航班客舱服务中，餐车偶发触碰旅客，当班乘务员、乘务长多次致歉并开展服务补救后，该旅客仍对乘务员进行言语攻击与威胁。目前，东航已完成证据固定并正式报案。中国航协表示，乘务员人格尊严和履职权益受法律保护，旅客</description>
-      <pubDate>Thu, 08 Oct 2026 00:04:11 +0000</pubDate>
-      <source url="https://www.36kr.com/feed">36氪</source>
-    </item>
-    <item>
       <title>The model that didn't exist, so you made it yourself</title>
       <link>https://huggingface.co/blog/building-with-ml-intern</link>
       <description>[Hugging Face Blog] </description>
@@ -669,13 +795,6 @@ Points: 424
       <description>[BBC Technology] The research found that important guardrails for teens using ChatGPT often failed.</description>
       <pubDate>Wed, 07 Oct 2026 20:34:17 +0000</pubDate>
       <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
-    </item>
-    <item>
-      <title>ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</link>
-      <description>[The Verge AI] OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, a</description>
-      <pubDate>Wed, 07 Oct 2026 19:10:42 +0000</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</source>
     </item>
     <item>
       <title>These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out</title>
@@ -770,45 +889,10 @@ The post Stop letting AI make your marketing decisions appeared first on MarTech
       <source url="https://www.businesstimes.com.sg/rss/startups-tech">Business Times</source>
     </item>
     <item>
-      <title>Apple’s smart home push includes doorbell, lock, thermostat co-developed with LG</title>
-      <link>https://www.businesstimes.com.sg/startups-tech/technology/apples-smart-home-push-includes-doorbell-lock-thermostat-co-developed-lg</link>
-      <description>[Business Times] The firm’s new devices are set to be introduced on Oct 13</description>
-      <pubDate>Tue, 06 Oct 2026 23:50:53 +0000</pubDate>
-      <source url="https://www.businesstimes.com.sg/rss/startups-tech">Business Times</source>
-    </item>
-    <item>
       <title>Tech Life</title>
-      <link>https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss</link>
+      <link>https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&amp;at_campaign=rss</link>
       <description>[BBC Technology] What is a supercomputer for? How does it work? And who gets to use it? We explain all</description>
       <pubDate>Tue, 06 Oct 2026 19:30:00 +0000</pubDate>
-      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
-    </item>
-    <item>
-      <title>‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers</title>
-      <link>https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/</link>
-      <description>[WIRED AI] From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.</description>
-      <pubDate>Tue, 06 Oct 2026 18:45:39 +0000</pubDate>
-      <source url="https://www.wired.com/feed/tag/ai/latest/rss">WIRED AI</source>
-    </item>
-    <item>
-      <title>Asos confirms hackers sent 'unauthorised' notification to app users</title>
-      <link>https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Asos confirmed an &quot;unauthorised customer notification&quot; was sent out via its app on Tuesday, after users raised alarm.</description>
-      <pubDate>Tue, 06 Oct 2026 17:50:19 +0000</pubDate>
-      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
-    </item>
-    <item>
-      <title>OpenAI Is Pissing Off a Bunch of Mathematicians—Again</title>
-      <link>https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/</link>
-      <description>[WIRED AI] “There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.</description>
-      <pubDate>Tue, 06 Oct 2026 17:28:33 +0000</pubDate>
-      <source url="https://www.wired.com/feed/tag/ai/latest/rss">WIRED AI</source>
-    </item>
-    <item>
-      <title>Finland orders halt to work on two Google data centres</title>
-      <link>https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] The order affecting two planned data centres follows concerns over forest clearance.</description>
-      <pubDate>Tue, 06 Oct 2026 17:15:46 +0000</pubDate>
       <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
     </item>
     <item>
@@ -826,13 +910,6 @@ The post Treasure AI takes on two martech headaches at once appeared first on Ma
 The post OpenAI adds visuals to ChatGPT ads appeared first on MarTech.</description>
       <pubDate>Tue, 06 Oct 2026 12:40:00 +0000</pubDate>
       <source url="https://martech.org/topic/marketing-artificial-intelligence-ai/feed/">MarTech</source>
-    </item>
-    <item>
-      <title>Italian PM files to trademark her voice against AI threats</title>
-      <link>https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.</description>
-      <pubDate>Tue, 06 Oct 2026 11:24:10 +0000</pubDate>
-      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
     </item>
     <item>
       <title>Connecting AI agents to enterprise knowledge</title>
@@ -875,41 +952,6 @@ The post How to maximize ROI with first-party data strategies appeared first on 
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
       <description>[Hugging Face Blog] </description>
       <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title>Tech Now</title>
-      <link>https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>[BBC Technology] Alasdair Keane heads to the Pokémon World Championships in San Francisco.</description>
-      <pubDate>Sat, 03 Oct 2026 01:00:00 +0000</pubDate>
-      <source url="https://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
-    </item>
-    <item>
-      <title>Redefining enterprise intelligence with autonomous AI</title>
-      <link>https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/</link>
-      <description>[MIT Tech Review AI] Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F</description>
-      <pubDate>Fri, 02 Oct 2026 15:49:04 +0000</pubDate>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Tech Review AI</source>
-    </item>
-    <item>
-      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-      <link>https://huggingface.co/blog/allenai/astabrief</link>
-      <description>[Hugging Face Blog] </description>
-      <pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
-      <source url="https://huggingface.co/blog/feed.xml">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title>Don’t be fooled—LLMs don’t reason</title>
-      <link>https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/</link>
-      <description>[MIT Tech Review AI] On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…</description>
-      <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-      <source url="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Tech Review AI</source>
-    </item>
-    <item>
-      <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
-      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-      <description>[Hugging Face Blog] </description>
-      <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
       <source url="https://huggingface.co/blog/feed.xml">Hugging Face Blog</source>
     </item>
   </channel>
